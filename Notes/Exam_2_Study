@@ -1,0 +1,58 @@
+#include <cstdlib>
+#include <iostream>
+using namespace std;
+
+class Account {
+protected:
+    double account_balance;
+    int account_number;
+public:
+    Account() {
+        account_balance = 0;
+        account_number = rand();
+    }
+};
+
+
+class Customer : public Account {
+    private:
+    protected:
+    public:
+        Customer() : Account() {}
+        Customer(double balance) {
+            account_balance = balance;
+            account_number = rand();
+        }
+        int getAccountBalance() const {
+            return account_balance;
+        }
+        int getAccountNumber() const {
+            return account_number;  
+        }
+        Customer operator+(const Customer& other) const {
+            return Customer(getAccountBalance() + other.getAccountBalance());
+        }
+};
+
+
+
+
+class Character {
+protected:
+    int name;
+public:
+    virtual void print() = 0;
+};
+class Wizard : public Character {
+public:
+    void print() override{
+        cout << name << " is a Wizard!" << endl;
+    }
+};
+class Warrior : public Character {
+public:
+    void print() override{
+        cout << name << " is a warrior!" << endl;
+    }
+};
+
