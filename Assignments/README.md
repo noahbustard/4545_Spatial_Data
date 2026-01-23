@@ -1,8 +1,6 @@
 ## Assignments
 
-|  #  | Folder Link | Assignment Description |
-| :-: | ----------- | ---------------------- |
-|  0  | [program00](program00) | Setup development environment and compile first SDL2 window program |
-| 1 | [program01](program01) | Load shapes from JSON file using SDL2 |
-| 2 | [program02](program02) | SDL2 Shape Renderer |
-
+| # | Folder | Assignment Description |
+|---|--------|------------------------|
+| 1 | `01-A01` | Create the course GitHub repository |
+| 2 | `02-A02` | Join the course Slack workspace |
