@@ -1,8 +1,16 @@
-# 2143-OOP Repository
+# 4545/5993 Spatial Data Repository  
+**Name:** Noah Bustard  
+**Email:** nbustard0129@my.msutexas.edu  
 
+This repository houses my work for the Spatial Data and Mapping course (CS 4545/5993) at Midwestern State University during Spring 2026. It contains assignments, notes, and other resources required for the course.  
 
-**Name:** Noah Bustard\
-**Email:** nbustard0129@my.msutexas.edu\
-<img width="133" height="200" alt="image" src="https://github.com/user-attachments/assets/ea09db65-1b34-4038-850f-dc12b3ec2822" />
+## Assignments  
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83219429-cfc5-4b18-a7d2-52e6103cccf0" />
+| Assignment | Description | Link |  
+|---|---|---|  
+| 01-A01 | Set up the course GitHub repository following the instructor's guidelines. | [01-A01](Assignments/01-A01/) |  
+| 02-A02 | Join the class Slack workspace and complete the initial roster. | [02-A02](Assignments/02-A02/) |  
+
+## Notes  
+
+Any additional notes or resources related to the course will be organized here as the semester progresses. 
