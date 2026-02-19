@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Project 01: Missile Geometry 101
+02-Missile_Geometry_101
 World Defense Organization (WDO) — Spatial Defense Analysis
 
 Analyst: Noah Bustard
