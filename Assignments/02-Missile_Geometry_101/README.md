@@ -1,4 +1,4 @@
-# Project 01: Missile Geometry 101
+# 02-Missile_Geometry_101
 
 **Course:** CS 4545/5993 — Spatial Data and Mapping  
 **Analyst:** Noah Bustard
