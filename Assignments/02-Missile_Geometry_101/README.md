@@ -17,7 +17,7 @@ The entire project is implemented within a single, comprehensive Jupyter Noteboo
 The submission is organized into the following directory structure:
 
 ```
-Project_01/
+02-Missile_Geometry_101/
 ├── data/
 │   ├── threats/threats.json
 │   ├── world_borders/world_borders.geojson
@@ -98,4 +98,321 @@ Alternatively, the entire analysis can be run from the command line using the `r
 
 ```bash
 python3 run_project.py
+```
+
+
+
+
+## Output
+```
+Earth radius used: 6371.0088 km
+All data paths verified.
+Base: WDO Command Center — Dallas, TX (32.7767, -96.797)
+Base proximity threshold: 500 km
+
+Loaded 10 threats
+  id     type  origin_lat  origin_lon  bearing_deg  speed_kmh  duration_min
+T001    alien   59.470694  -91.766281       181.67      978.6          74.2
+T002    alien   10.001950 -114.105017        18.50      875.0          44.0
+T003    alien    7.726207 -108.863780        34.36     1361.1          55.2
+T004    kaiju    9.890453 -113.895704        49.14       30.3         506.8
+T005    kaiju   18.258994  -69.683290       284.39       77.9         281.6
+T006    alien   13.083298  -74.781585       306.17     1075.2          45.9
+T007    alien   29.344132 -128.681615        85.30     1578.5          52.7
+T008 airborne   45.708386 -125.023540       119.36     1103.2          64.6
+T009    alien   58.691178  -87.669082       188.52     1031.5          34.8
+T010  orbital   50.838205 -120.710048       122.27     4720.5          35.0
+
+World GeoDataFrame: 251 countries
+CRS: EPSG:4326
+Columns: ['FID', 'COUNTRY', 'ISO', 'COUNTRYAFF', 'AFF_ISO', 'geometry']
+
+============================================================
+MILESTONE 1: Plot the World
+============================================================
+Milestone 1 map saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps/milestone_1_world_map.html
+
+============================================================
+MILESTONE 2: Distance & Bearing
+============================================================
+
+Sanity Check — Dallas to Houston:
+  Distance: 361.78 km (expected ~362)
+  Bearing:  157.61 deg
+  100 km south of Dallas: (31.8774, -96.7970)
+
+=== DISTANCE & BEARING ANALYSIS ===
+  T001 (alien   ):  2,991.5 km to base, bearing  189.4 deg
+  T002 (alien   ):  3,091.8 km to base, bearing   32.4 deg
+  T003 (alien   ):  3,050.8 km to base, bearing   22.4 deg
+  T004 (kaiju   ):  3,090.0 km to base, bearing   32.0 deg
+  T005 (kaiju   ):  3,148.9 km to base, bearing  306.1 deg
+  T006 (alien   ):  3,129.1 km to base, bearing  318.1 deg
+  T007 (alien   ):  3,049.4 km to base, bearing   74.6 deg
+  T008 (airborne):  2,802.2 km to base, bearing  111.0 deg
+  T009 (alien   ):  2,961.2 km to base, bearing  197.3 deg
+  T010 (orbital ):  2,797.3 km to base, bearing  126.7 deg
+
+Closest threat:  T010 (orbital) at 2,797.3 km
+Farthest threat: T005 (kaiju) at 3,148.9 km
+Milestone 2 map saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps/milestone_2_threats.html
+
+============================================================
+MILESTONE 3: Trajectories (Point -> Line)
+============================================================
+
+=== TRAJECTORY ANALYSIS ===
+  T001 (alien   ):  1,210.2 km, bearing  181.7 deg, dest (48.59, -92.24), 38 pts
+  T002 (alien   ):    641.7 km, bearing   18.5 deg, dest (15.47, -112.21), 23 pts
+  T003 (alien   ):  1,252.2 km, bearing   34.4 deg, dest (16.95, -102.25), 28 pts
+  T004 (kaiju   ):    255.9 km, bearing   49.1 deg, dest (11.39, -112.12), 254 pts
+  T005 (kaiju   ):    365.6 km, bearing  284.4 deg, dest (19.05, -73.05), 141 pts
+  T006 (alien   ):    822.5 km, bearing  306.2 deg, dest (17.37, -81.03), 23 pts
+  T007 (alien   ):  1,386.5 km, bearing   85.3 deg, dest (29.60, -114.35), 27 pts
+  T008 (airborne):  1,187.8 km, bearing  119.4 deg, dest (39.79, -112.89), 33 pts
+  T009 (alien   ):    598.3 km, bearing  188.5 deg, dest (53.36, -89.00), 18 pts
+  T010 (orbital ):  2,753.6 km, bearing  122.3 deg, dest (34.25, -95.34), 18 pts
+Milestone 3 map saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps/milestone_3_trajectories.html
+
+============================================================
+MILESTONE 4: Intersections & Borders
+============================================================
+
+=== COUNTRY INTERSECTION ANALYSIS ===
+  T001 (alien   ): Canada
+  T002 (alien   ): No land intersection
+  T003 (alien   ): No land intersection
+  T004 (kaiju   ): No land intersection
+  T005 (kaiju   ): Dominican Republic, Haiti
+  T006 (alien   ): No land intersection
+  T007 (alien   ): Mexico
+  T008 (airborne): United States
+  T009 (alien   ): Canada
+  T010 (orbital ): Canada, United States
+
+Total unique countries affected by trajectories: 5
+Countries: ['Canada', 'Dominican Republic', 'Haiti', 'Mexico', 'United States']
+
+=== BASE PROXIMITY ANALYSIS (threshold: 500 km) ===
+  T001 (alien   ): closest approach =  1,802.2 km — Outside threshold
+  T002 (alien   ): closest approach =  2,473.4 km — Outside threshold
+  T003 (alien   ): closest approach =  1,868.2 km — Outside threshold
+  T004 (kaiju   ): closest approach =  2,846.7 km — Outside threshold
+  T005 (kaiju   ): closest approach =  2,814.1 km — Outside threshold
+  T006 (alien   ): closest approach =  2,362.7 km — Outside threshold
+  T007 (alien   ): closest approach =  1,722.3 km — Outside threshold
+  T008 (airborne): closest approach =  1,646.6 km — Outside threshold
+  T009 (alien   ): closest approach =  2,385.1 km — Outside threshold
+  T010 (orbital ): closest approach =    239.0 km — ALERT — WITHIN RANGE
+
+Threats within 500 km of base: 1
+Milestone 4 map saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps/milestone_4_intersections.html
+
+============================================================
+MILESTONE 5: Damage Zones (The Bridge)
+============================================================
+Damage zone buffers created successfully.
+CRS verification: EPSG:4326
+  T001 (alien): 150 km buffer — High severity
+  T002 (alien): 150 km buffer — High severity
+  T003 (alien): 150 km buffer — High severity
+  T004 (kaiju): 200 km buffer — Severe severity
+  T005 (kaiju): 200 km buffer — Severe severity
+  T006 (alien): 150 km buffer — High severity
+  T007 (alien): 150 km buffer — High severity
+  T008 (airborne): 100 km buffer — Moderate severity
+  T009 (alien): 150 km buffer — High severity
+  T010 (orbital): 300 km buffer — Critical severity
+
+=== DAMAGE ZONE COUNTRY ANALYSIS ===
+  T001 (alien, High): Canada, United States
+  T002 (alien, High): No land in damage zone (ocean impact)
+  T003 (alien, High): Mexico
+  T004 (kaiju, Severe): No land in damage zone (ocean impact)
+  T005 (kaiju, Severe): Cuba, Dominican Republic, Haiti
+  T006 (alien, High): No land in damage zone (ocean impact)
+  T007 (alien, High): Mexico
+  T008 (airborne, Moderate): United States
+  T009 (alien, High): Canada
+  T010 (orbital, Critical): United States
+
+=== DAMAGE ZONE SUMMARY TABLE ===
+           country threat_id threat_type severity  buffer_km
+            Canada      T001       alien     High        150
+     United States      T001       alien     High        150
+   Ocean (no land)      T002       alien     High        150
+            Mexico      T003       alien     High        150
+   Ocean (no land)      T004       kaiju   Severe        200
+              Cuba      T005       kaiju   Severe        200
+Dominican Republic      T005       kaiju   Severe        200
+             Haiti      T005       kaiju   Severe        200
+   Ocean (no land)      T006       alien     High        150
+            Mexico      T007       alien     High        150
+     United States      T008    airborne Moderate        100
+            Canada      T009       alien     High        150
+     United States      T010     orbital Critical        300
+
+=== COUNTRY-LEVEL DAMAGE ASSESSMENT ===
+           Country       Threat IDs             Threat Types Worst Severity
+            Canada       T001, T009                    alien           High
+              Cuba             T005                    kaiju         Severe
+Dominican Republic             T005                    kaiju         Severe
+             Haiti             T005                    kaiju         Severe
+            Mexico       T003, T007                    alien           High
+   Ocean (no land) T002, T004, T006             alien, kaiju         Severe
+     United States T001, T008, T010 airborne, alien, orbital       Critical
+
+Total countries in damage zones: 7
+
+Milestone 5 map saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps/milestone_5_damage_zones.html
+
+======================================================================
+       WORLD DEFENSE ORGANIZATION — THREAT ASSESSMENT REPORT
+======================================================================
+Base: WDO Command Center — Dallas, TX
+Base Coordinates: (32.7767, -96.797)
+Defense Perimeter: 500 km
+Total Threats Analyzed: 10
+
+Threat Breakdown by Type:
+  Airborne  : 1
+  Alien     : 6
+  Kaiju     : 2
+  Orbital   : 1
+
+----------------------------------------------------------------------
+
+T001 — ALIEN
+  Origin:          (59.4707, -91.7663)
+  Destination:     (48.5906, -92.2429)
+  Bearing:         181.67 deg
+  Speed:           978.6 km/h
+  Duration:        74 min
+  Total Distance:  1,210.2 km
+  Dist to Base:    2,991.5 km
+  Closest to Base: 1,802.2 km
+  Countries Crossed: Canada
+  Damage Zone:     Canada, United States
+
+T002 — ALIEN
+  Origin:          (10.0020, -114.1050)
+  Destination:     (15.4682, -112.2080)
+  Bearing:         18.5 deg
+  Speed:           875.0 km/h
+  Duration:        44 min
+  Total Distance:  641.7 km
+  Dist to Base:    3,091.8 km
+  Closest to Base: 2,473.4 km
+  Countries Crossed: None
+  Damage Zone:     Ocean only
+
+T003 — ALIEN
+  Origin:          (7.7262, -108.8638)
+  Destination:     (16.9536, -102.2472)
+  Bearing:         34.36 deg
+  Speed:           1,361.1 km/h
+  Duration:        55 min
+  Total Distance:  1,252.2 km
+  Dist to Base:    3,050.8 km
+  Closest to Base: 1,868.2 km
+  Countries Crossed: None
+  Damage Zone:     Mexico
+
+T004 — KAIJU
+  Origin:          (9.8905, -113.8957)
+  Destination:     (11.3913, -112.1202)
+  Bearing:         49.14 deg
+  Speed:           30.3 km/h
+  Duration:        507 min
+  Total Distance:  255.9 km
+  Dist to Base:    3,090.0 km
+  Closest to Base: 2,846.7 km
+  Countries Crossed: None
+  Damage Zone:     Ocean only
+
+T005 — KAIJU
+  Origin:          (18.2590, -69.6833)
+  Destination:     (19.0464, -73.0527)
+  Bearing:         284.39 deg
+  Speed:           77.9 km/h
+  Duration:        282 min
+  Total Distance:  365.6 km
+  Dist to Base:    3,148.9 km
+  Closest to Base: 2,814.1 km
+  Countries Crossed: Dominican Republic, Haiti
+  Damage Zone:     Cuba, Dominican Republic, Haiti
+
+T006 — ALIEN
+  Origin:          (13.0833, -74.7816)
+  Destination:     (17.3672, -81.0334)
+  Bearing:         306.17 deg
+  Speed:           1,075.2 km/h
+  Duration:        46 min
+  Total Distance:  822.5 km
+  Dist to Base:    3,129.1 km
+  Closest to Base: 2,362.7 km
+  Countries Crossed: None
+  Damage Zone:     Ocean only
+
+T007 — ALIEN
+  Origin:          (29.3441, -128.6816)
+  Destination:     (29.5984, -114.3537)
+  Bearing:         85.3 deg
+  Speed:           1,578.5 km/h
+  Duration:        53 min
+  Total Distance:  1,386.5 km
+  Dist to Base:    3,049.4 km
+  Closest to Base: 1,722.3 km
+  Countries Crossed: Mexico
+  Damage Zone:     Mexico
+
+T008 — AIRBORNE
+  Origin:          (45.7084, -125.0235)
+  Destination:     (39.7865, -112.8876)
+  Bearing:         119.36 deg
+  Speed:           1,103.2 km/h
+  Duration:        65 min
+  Total Distance:  1,187.8 km
+  Dist to Base:    2,802.2 km
+  Closest to Base: 1,646.6 km
+  Countries Crossed: United States
+  Damage Zone:     United States
+
+T009 — ALIEN
+  Origin:          (58.6912, -87.6691)
+  Destination:     (53.3624, -89.0030)
+  Bearing:         188.52 deg
+  Speed:           1,031.5 km/h
+  Duration:        35 min
+  Total Distance:  598.3 km
+  Dist to Base:    2,961.2 km
+  Closest to Base: 2,385.1 km
+  Countries Crossed: Canada
+  Damage Zone:     Canada
+
+T010 — ORBITAL
+  Origin:          (50.8382, -120.7100)
+  Destination:     (34.2518, -95.3381)
+  Bearing:         122.27 deg
+  Speed:           4,720.5 km/h
+  Duration:        35 min
+  Total Distance:  2,753.6 km
+  Dist to Base:    2,797.3 km
+  Closest to Base: 238.9 km *** ALERT ***
+  Countries Crossed: Canada, United States
+  Damage Zone:     United States
+
+======================================================================
+                    END OF THREAT ASSESSMENT
+======================================================================
+
+Damage zone summary saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/data/damage_zone_summary.csv
+Country assessment saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/data/country_damage_assessment.csv
+
+All maps saved to: /Users/test/Desktop/4545_Spatial_Data/Assignments/02-Missile_Geometry_101/maps
+  - milestone_1_world_map.html
+  - milestone_2_threats.html
+  - milestone_3_trajectories.html
+  - milestone_4_intersections.html
+  - milestone_5_damage_zones.html
 ```
