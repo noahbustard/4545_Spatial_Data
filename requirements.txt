@@ -1,0 +1,16 @@
+# 4543 Spatial Data & Mapping
+# Missile Geometry 101
+# Python 3.12.x REQUIRED
+
+folium==0.20.0
+pyshp==3.0.3
+shapely==2.1.2
+geojson==3.1.0
+numpy==2.4.2
+rich==14.3.2
+
+# Notebook support
+ipykernel==7.2.0
+jupyterlab==4.3.5
+ipyleaflet
+

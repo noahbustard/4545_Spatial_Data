@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yacimiento Rio Turbio"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.3508,
+          -51.57321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "28 de Noviembre"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.21382,
+          -51.5839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Gallegos"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.21813,
+          -51.62261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Santa Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.52321,
+          -50.0191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Julian"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.72743,
+          -49.30554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Deseado"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.89382,
+          -47.75034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pico Truncado"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.95731,
+          -46.7949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perito Moreno"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.92975,
+          -46.58995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Antiguos"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.63086,
+          -46.54972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Heras"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.93593,
+          -46.54186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gobernador Gregores"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.24741,
+          -48.75057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Calafate"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.27682,
+          -50.34075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comandante Luis Piedra Buena"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.91467,
+          -49.98513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caleta Olivia"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.52814,
+          -46.43929
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Turbio"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.33673,
+          -51.53587
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

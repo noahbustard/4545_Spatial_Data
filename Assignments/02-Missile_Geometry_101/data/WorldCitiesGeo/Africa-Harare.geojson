@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zvishavane"
+      },
+      "geometry": {
+        "coordinates": [
+          30.06648,
+          -20.32674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          25.83066,
+          -17.93285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shurugwi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.00589,
+          -19.67016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shangani"
+      },
+      "geometry": {
+        "coordinates": [
+          29.36667,
+          -19.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shamva"
+      },
+      "geometry": {
+        "coordinates": [
+          31.57561,
+          -17.31159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rusape"
+      },
+      "geometry": {
+        "coordinates": [
+          32.12843,
+          -18.52785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redcliff"
+      },
+      "geometry": {
+        "coordinates": [
+          29.78333,
+          -19.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raffingora"
+      },
+      "geometry": {
+        "coordinates": [
+          30.43333,
+          -17.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plumtree"
+      },
+      "geometry": {
+        "coordinates": [
+          27.81667,
+          -20.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penhalonga"
+      },
+      "geometry": {
+        "coordinates": [
+          32.69781,
+          -18.89112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odzi"
+      },
+      "geometry": {
+        "coordinates": [
+          32.40557,
+          -18.96167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyazura"
+      },
+      "geometry": {
+        "coordinates": [
+          32.16796,
+          -18.70587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyanga"
+      },
+      "geometry": {
+        "coordinates": [
+          32.75,
+          -18.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norton"
+      },
+      "geometry": {
+        "coordinates": [
+          30.7,
+          -17.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mvurwi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.85,
+          -17.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mvuma"
+      },
+      "geometry": {
+        "coordinates": [
+          30.52828,
+          -19.27924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutoko"
+      },
+      "geometry": {
+        "coordinates": [
+          32.22677,
+          -17.39699
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutare"
+      },
+      "geometry": {
+        "coordinates": [
+          32.67086,
+          -18.9707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murehwa"
+      },
+      "geometry": {
+        "coordinates": [
+          31.784,
+          -17.64322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Darwin"
+      },
+      "geometry": {
+        "coordinates": [
+          31.58381,
+          -16.77251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mhangura"
+      },
+      "geometry": {
+        "coordinates": [
+          30.16828,
+          -16.89387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazowe"
+      },
+      "geometry": {
+        "coordinates": [
+          30.97388,
+          -17.50404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masvingo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.82766,
+          -20.06373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mashava"
+      },
+      "geometry": {
+        "coordinates": [
+          30.48225,
+          -20.03665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marondera"
+      },
+      "geometry": {
+        "coordinates": [
+          31.55193,
+          -18.18527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macheke"
+      },
+      "geometry": {
+        "coordinates": [
+          31.84933,
+          -18.13901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupane"
+      },
+      "geometry": {
+        "coordinates": [
+          27.80696,
+          -18.93149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalapanzi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.17768,
+          -19.33225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwekwe"
+      },
+      "geometry": {
+        "coordinates": [
+          29.81486,
+          -18.92809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karoi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.69247,
+          -16.80993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kariba"
+      },
+      "geometry": {
+        "coordinates": [
+          28.8,
+          -16.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamativi Mine"
+      },
+      "geometry": {
+        "coordinates": [
+          27.05729,
+          -18.31563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadoma"
+      },
+      "geometry": {
+        "coordinates": [
+          29.91534,
+          -18.33328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inyati"
+      },
+      "geometry": {
+        "coordinates": [
+          28.84687,
+          -19.67563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Insiza"
+      },
+      "geometry": {
+        "coordinates": [
+          29.2,
+          -19.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hwange"
+      },
+      "geometry": {
+        "coordinates": [
+          26.49877,
+          -18.36446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Headlands"
+      },
+      "geometry": {
+        "coordinates": [
+          32.0515,
+          -18.27733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harare"
+      },
+      "geometry": {
+        "coordinates": [
+          31.05337,
+          -17.82772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gweru"
+      },
+      "geometry": {
+        "coordinates": [
+          29.81667,
+          -19.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gwanda"
+      },
+      "geometry": {
+        "coordinates": [
+          29.0,
+          -20.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gokwe"
+      },
+      "geometry": {
+        "coordinates": [
+          28.9349,
+          -18.20476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glendale"
+      },
+      "geometry": {
+        "coordinates": [
+          31.06718,
+          -17.35514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Filabusi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.28502,
+          -20.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esigodini"
+      },
+      "geometry": {
+        "coordinates": [
+          28.92261,
+          -20.28979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorowa Mining Lease"
+      },
+      "geometry": {
+        "coordinates": [
+          31.75,
+          -19.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dete"
+      },
+      "geometry": {
+        "coordinates": [
+          26.86667,
+          -18.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Concession"
+      },
+      "geometry": {
+        "coordinates": [
+          30.95,
+          -17.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chivhu"
+      },
+      "geometry": {
+        "coordinates": [
+          30.89218,
+          -19.02112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chirundu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.85,
+          -16.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiredzi"
+      },
+      "geometry": {
+        "coordinates": [
+          31.66667,
+          -21.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chipinge"
+      },
+      "geometry": {
+        "coordinates": [
+          32.62365,
+          -20.18833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinhoyi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.2,
+          -17.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimanimani"
+      },
+      "geometry": {
+        "coordinates": [
+          32.86667,
+          -19.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chegutu"
+      },
+      "geometry": {
+        "coordinates": [
+          30.14074,
+          -18.13021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chakari"
+      },
+      "geometry": {
+        "coordinates": [
+          29.89246,
+          -18.06294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centenary"
+      },
+      "geometry": {
+        "coordinates": [
+          31.11462,
+          -16.72289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulawayo"
+      },
+      "geometry": {
+        "coordinates": [
+          28.58333,
+          -20.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binga"
+      },
+      "geometry": {
+        "coordinates": [
+          27.34139,
+          -17.62027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bindura"
+      },
+      "geometry": {
+        "coordinates": [
+          31.33056,
+          -17.30192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beitbridge"
+      },
+      "geometry": {
+        "coordinates": [
+          30.0,
+          -22.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beatrice"
+      },
+      "geometry": {
+        "coordinates": [
+          30.8473,
+          -18.25283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banket"
+      },
+      "geometry": {
+        "coordinates": [
+          30.4,
+          -17.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Epworth"
+      },
+      "geometry": {
+        "coordinates": [
+          31.1475,
+          -17.89
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitungwiza"
+      },
+      "geometry": {
+        "coordinates": [
+          31.07555,
+          -18.01274
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

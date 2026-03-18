@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte-Carlo"
+      },
+      "geometry": {
+        "coordinates": [
+          7.42732,
+          43.73976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monaco"
+      },
+      "geometry": {
+        "coordinates": [
+          7.41667,
+          43.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Condamine"
+      },
+      "geometry": {
+        "coordinates": [
+          7.42024,
+          43.73439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontvieille"
+      },
+      "geometry": {
+        "coordinates": [
+          7.41766,
+          43.72687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Roman"
+      },
+      "geometry": {
+        "coordinates": [
+          7.43423,
+          43.7489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moneghetti"
+      },
+      "geometry": {
+        "coordinates": [
+          7.41647,
+          43.73679
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

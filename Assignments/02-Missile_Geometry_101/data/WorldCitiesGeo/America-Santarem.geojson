@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terra Santa"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.48694,
+          -2.10417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santarem"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.70833,
+          -2.44306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prainha"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.48,
+          -1.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto de Moz"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.23833,
+          -1.74833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oriximina"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.86611,
+          -1.76556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abidos"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.51806,
+          -1.9175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhamunda"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.71306,
+          -2.18611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Alegre"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.08102,
+          -2.00082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juruti"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.09222,
+          -2.15222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacareacanga"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.75278,
+          -6.22222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaituba"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.98361,
+          -4.27611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altamira"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.20639,
+          -3.20333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almeirim"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.58167,
+          -1.52333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alenquer"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.73833,
+          -1.94167
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

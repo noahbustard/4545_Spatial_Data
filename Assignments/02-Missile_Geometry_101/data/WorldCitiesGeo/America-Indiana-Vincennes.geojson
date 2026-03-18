@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicknell"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.30779,
+          38.77421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferdinand"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.86222,
+          38.22394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huntingburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.955,
+          38.29894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.93111,
+          38.39144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loogootee"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.91417,
+          38.67699
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odon"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.9914,
+          38.84283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shoals"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.79111,
+          38.66644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vincennes"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.52863,
+          38.67727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.17279,
+          38.65922
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vientiane"
+      },
+      "geometry": {
+        "coordinates": [
+          102.6,
+          17.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xam Nua"
+      },
+      "geometry": {
+        "coordinates": [
+          104.04838,
+          20.41591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savannakhet"
+      },
+      "geometry": {
+        "coordinates": [
+          104.75273,
+          16.56505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salavan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.41744,
+          15.71652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phongsali"
+      },
+      "geometry": {
+        "coordinates": [
+          102.10536,
+          21.68372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakse"
+      },
+      "geometry": {
+        "coordinates": [
+          105.79898,
+          15.12022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakkading"
+      },
+      "geometry": {
+        "coordinates": [
+          103.99378,
+          18.32459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Xiang-Ngeun"
+      },
+      "geometry": {
+        "coordinates": [
+          102.18232,
+          19.75859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Xay"
+      },
+      "geometry": {
+        "coordinates": [
+          101.98368,
+          20.69229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainyabuli"
+      },
+      "geometry": {
+        "coordinates": [
+          101.71032,
+          19.25756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangviang"
+      },
+      "geometry": {
+        "coordinates": [
+          102.44784,
+          18.9235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Thateng"
+      },
+      "geometry": {
+        "coordinates": [
+          106.38272,
+          15.43317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Sing"
+      },
+      "geometry": {
+        "coordinates": [
+          101.14789,
+          21.19206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Sanakham"
+      },
+      "geometry": {
+        "coordinates": [
+          101.67348,
+          17.91006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phonthong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.65416,
+          15.10116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Phonsavan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.21667,
+          19.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Phon-Hong"
+      },
+      "geometry": {
+        "coordinates": [
+          102.41421,
+          18.49565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Phin"
+      },
+      "geometry": {
+        "coordinates": [
+          106.02401,
+          16.53399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakxong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.23038,
+          15.18154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Pakxan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.65857,
+          18.38261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Mok"
+      },
+      "geometry": {
+        "coordinates": [
+          104.00626,
+          18.90997
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Long"
+      },
+      "geometry": {
+        "coordinates": [
+          100.82074,
+          20.96504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Pakla"
+      },
+      "geometry": {
+        "coordinates": [
+          102.11153,
+          20.8694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khoa"
+      },
+      "geometry": {
+        "coordinates": [
+          102.50608,
+          21.07833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84869,
+          14.11792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thakhek"
+      },
+      "geometry": {
+        "coordinates": [
+          104.83068,
+          17.41027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Kenthao"
+      },
+      "geometry": {
+        "coordinates": [
+          101.39815,
+          17.73289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Kasi"
+      },
+      "geometry": {
+        "coordinates": [
+          102.25319,
+          19.22926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Hinboun"
+      },
+      "geometry": {
+        "coordinates": [
+          104.60388,
+          17.591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luang Prabang"
+      },
+      "geometry": {
+        "coordinates": [
+          102.13503,
+          19.88601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luang Namtha"
+      },
+      "geometry": {
+        "coordinates": [
+          101.40188,
+          20.9486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Khamkeut"
+      },
+      "geometry": {
+        "coordinates": [
+          104.73119,
+          18.22572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Donghen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.28211,
+          16.70297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champasak"
+      },
+      "geometry": {
+        "coordinates": [
+          105.87787,
+          14.89204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borikhan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.72671,
+          18.56286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamam"
+      },
+      "geometry": {
+        "coordinates": [
+          106.69461,
+          15.41705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Nahin"
+      },
+      "geometry": {
+        "coordinates": [
+          104.21281,
+          18.24253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Houayxay"
+      },
+      "geometry": {
+        "coordinates": [
+          100.41302,
+          20.27652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Hatgnao"
+      },
+      "geometry": {
+        "coordinates": [
+          106.58212,
+          14.6803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Fangdeng"
+      },
+      "geometry": {
+        "coordinates": [
+          106.93434,
+          14.8132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attapu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.83184,
+          14.81071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Houakhoua"
+      },
+      "geometry": {
+        "coordinates": [
+          100.45401,
+          20.2467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Namnga"
+      },
+      "geometry": {
+        "coordinates": [
+          102.72562,
+          21.17193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viangxai"
+      },
+      "geometry": {
+        "coordinates": [
+          104.22379,
+          20.40677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muang Nale"
+      },
+      "geometry": {
+        "coordinates": [
+          101.44678,
+          20.53212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Cheung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.26667,
+          15.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanaxy"
+      },
+      "geometry": {
+        "coordinates": [
+          107.26016,
+          15.02207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huameung"
+      },
+      "geometry": {
+        "coordinates": [
+          103.85895,
+          20.14895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viengxay"
+      },
+      "geometry": {
+        "coordinates": [
+          104.34464,
+          20.34222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xamtay"
+      },
+      "geometry": {
+        "coordinates": [
+          104.51722,
+          19.94515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viengthong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.40856,
+          20.32792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xaysetha"
+      },
+      "geometry": {
+        "coordinates": [
+          106.93444,
+          14.81444
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore"
+      },
+      "geometry": {
+        "coordinates": [
+          103.85007,
+          1.28967
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

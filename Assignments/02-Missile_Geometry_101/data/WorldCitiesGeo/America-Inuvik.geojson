@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inuvik"
+      },
+      "geometry": {
+        "coordinates": [
+          -133.72181,
+          68.34986
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

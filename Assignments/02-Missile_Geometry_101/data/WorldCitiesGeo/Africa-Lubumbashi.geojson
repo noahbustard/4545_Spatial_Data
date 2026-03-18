@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangambi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.43973,
+          0.76755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watsa"
+      },
+      "geometry": {
+        "coordinates": [
+          29.53551,
+          3.03716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wamba"
+      },
+      "geometry": {
+        "coordinates": [
+          27.99466,
+          2.14838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uvira"
+      },
+      "geometry": {
+        "coordinates": [
+          29.13779,
+          -3.39534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tshikapa"
+      },
+      "geometry": {
+        "coordinates": [
+          20.79995,
+          -6.41621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sake"
+      },
+      "geometry": {
+        "coordinates": [
+          29.04339,
+          -1.57386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mwene-Ditu"
+      },
+      "geometry": {
+        "coordinates": [
+          23.45278,
+          -7.00906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mweka"
+      },
+      "geometry": {
+        "coordinates": [
+          21.5595,
+          -4.85187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbuji-Mayi"
+      },
+      "geometry": {
+        "coordinates": [
+          23.58979,
+          -6.13603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lusambo"
+      },
+      "geometry": {
+        "coordinates": [
+          23.44391,
+          -4.97503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luebo"
+      },
+      "geometry": {
+        "coordinates": [
+          21.42192,
+          -5.35218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lubao"
+      },
+      "geometry": {
+        "coordinates": [
+          25.74885,
+          -5.38771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodja"
+      },
+      "geometry": {
+        "coordinates": [
+          23.6005,
+          -3.52105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongolo"
+      },
+      "geometry": {
+        "coordinates": [
+          27.00029,
+          -5.38532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisangani"
+      },
+      "geometry": {
+        "coordinates": [
+          25.19099,
+          0.51528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindu"
+      },
+      "geometry": {
+        "coordinates": [
+          25.92237,
+          -2.94373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasongo"
+      },
+      "geometry": {
+        "coordinates": [
+          26.66656,
+          -4.42741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kananga"
+      },
+      "geometry": {
+        "coordinates": [
+          22.41659,
+          -5.89624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampene"
+      },
+      "geometry": {
+        "coordinates": [
+          26.66715,
+          -3.59678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamina"
+      },
+      "geometry": {
+        "coordinates": [
+          24.99798,
+          -8.73508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalemie"
+      },
+      "geometry": {
+        "coordinates": [
+          29.19471,
+          -5.94749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabinda"
+      },
+      "geometry": {
+        "coordinates": [
+          24.48179,
+          -6.13791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabare"
+      },
+      "geometry": {
+        "coordinates": [
+          28.79081,
+          -2.49682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabalo"
+      },
+      "geometry": {
+        "coordinates": [
+          26.9143,
+          -6.05255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isiro"
+      },
+      "geometry": {
+        "coordinates": [
+          27.61603,
+          2.77391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilebo"
+      },
+      "geometry": {
+        "coordinates": [
+          20.58638,
+          -4.33111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goma"
+      },
+      "geometry": {
+        "coordinates": [
+          29.22845,
+          -1.67409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandajika"
+      },
+      "geometry": {
+        "coordinates": [
+          23.95328,
+          -6.74504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demba"
+      },
+      "geometry": {
+        "coordinates": [
+          22.26962,
+          -5.49573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butembo"
+      },
+      "geometry": {
+        "coordinates": [
+          29.29117,
+          0.14164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buta"
+      },
+      "geometry": {
+        "coordinates": [
+          24.72997,
+          2.78582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunia"
+      },
+      "geometry": {
+        "coordinates": [
+          30.25224,
+          1.55941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukavu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.84281,
+          -2.49077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukama"
+      },
+      "geometry": {
+        "coordinates": [
+          25.85475,
+          -9.20443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bondo"
+      },
+      "geometry": {
+        "coordinates": [
+          23.68665,
+          3.81461
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beni"
+      },
+      "geometry": {
+        "coordinates": [
+          29.47306,
+          0.49113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basoko"
+      },
+      "geometry": {
+        "coordinates": [
+          23.61598,
+          1.23909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aketi"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78326,
+          2.73877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lubumbashi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.47938,
+          -11.66089
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Likasi"
+      },
+      "geometry": {
+        "coordinates": [
+          26.7384,
+          -10.98303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolwezi"
+      },
+      "geometry": {
+        "coordinates": [
+          25.46674,
+          -10.71484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kipushi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.25135,
+          -11.76097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kambove"
+      },
+      "geometry": {
+        "coordinates": [
+          26.59746,
+          -10.87352
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

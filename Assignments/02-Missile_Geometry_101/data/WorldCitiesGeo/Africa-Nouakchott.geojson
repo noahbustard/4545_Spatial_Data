@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zouerate"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.47134,
+          22.73542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tekane"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.45972,
+          16.57806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tidjikja"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.42715,
+          18.55644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selibaby"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.1843,
+          15.15846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosso"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.80503,
+          16.51378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nouakchott"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.9785,
+          18.08581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nouadhibou"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.03842,
+          20.94188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nema"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.25649,
+          16.61702
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiffa"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.40208,
+          16.62073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaedi"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.5037,
+          16.15027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Elb el Jmel"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.97102,
+          17.0105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinguetti"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.2622,
+          20.44036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barkewol"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.49849,
+          16.64039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aioun"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.6149,
+          16.6614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atar"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.04857,
+          20.5177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleg"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.91312,
+          17.05314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akjoujt"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.38531,
+          19.74657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arafat"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.97194,
+          18.04639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tevragh Zeina"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.98848,
+          18.09894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dar Naim"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.92666,
+          18.10808
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

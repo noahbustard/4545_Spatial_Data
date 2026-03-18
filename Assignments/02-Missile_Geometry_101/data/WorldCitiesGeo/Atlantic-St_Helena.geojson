@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.41194,
+          -7.92861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh of the Seven Seas"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.31155,
+          -37.06757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamestown"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.71675,
+          -15.93872
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haines Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          -137.51082,
+          60.75216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitehorse"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.05375,
+          60.71611
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

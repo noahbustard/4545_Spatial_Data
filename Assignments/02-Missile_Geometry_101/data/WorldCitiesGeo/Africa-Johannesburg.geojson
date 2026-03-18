@@ -1,0 +1,4308 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roodepoort"
+      },
+      "geometry": {
+        "coordinates": [
+          27.8725,
+          -26.1625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoar"
+      },
+      "geometry": {
+        "coordinates": [
+          21.44373,
+          -33.4956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeerust"
+      },
+      "geometry": {
+        "coordinates": [
+          26.07512,
+          -25.53695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zastron"
+      },
+      "geometry": {
+        "coordinates": [
+          27.08395,
+          -30.30225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolmaransstad"
+      },
+      "geometry": {
+        "coordinates": [
+          25.98311,
+          -27.1974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White River"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01166,
+          -25.33177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Witbank"
+      },
+      "geometry": {
+        "coordinates": [
+          29.23323,
+          -25.87133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winburg"
+      },
+      "geometry": {
+        "coordinates": [
+          27.00933,
+          -28.51805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willowmore"
+      },
+      "geometry": {
+        "coordinates": [
+          23.48954,
+          -33.29265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williston"
+      },
+      "geometry": {
+        "coordinates": [
+          20.91544,
+          -31.34048
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whittlesea"
+      },
+      "geometry": {
+        "coordinates": [
+          26.82437,
+          -32.17588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westonaria"
+      },
+      "geometry": {
+        "coordinates": [
+          27.6486,
+          -26.31905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wesselsbron"
+      },
+      "geometry": {
+        "coordinates": [
+          26.36583,
+          -27.8549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Welkom"
+      },
+      "geometry": {
+        "coordinates": [
+          26.73506,
+          -27.97742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wartburg"
+      },
+      "geometry": {
+        "coordinates": [
+          30.57567,
+          -29.43184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warrenton"
+      },
+      "geometry": {
+        "coordinates": [
+          24.84753,
+          -28.11396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warmbaths"
+      },
+      "geometry": {
+        "coordinates": [
+          28.28333,
+          -24.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arniston"
+      },
+      "geometry": {
+        "coordinates": [
+          20.23086,
+          -34.66739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vryheid"
+      },
+      "geometry": {
+        "coordinates": [
+          30.79165,
+          -27.76952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vryburg"
+      },
+      "geometry": {
+        "coordinates": [
+          24.7284,
+          -26.95659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vredefort"
+      },
+      "geometry": {
+        "coordinates": [
+          27.3646,
+          -27.00805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vrede"
+      },
+      "geometry": {
+        "coordinates": [
+          29.16585,
+          -27.42573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volksrust"
+      },
+      "geometry": {
+        "coordinates": [
+          29.88175,
+          -27.36541
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia"
+      },
+      "geometry": {
+        "coordinates": [
+          26.86593,
+          -28.10391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villiers"
+      },
+      "geometry": {
+        "coordinates": [
+          28.60061,
+          -27.03026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viljoenskroon"
+      },
+      "geometry": {
+        "coordinates": [
+          26.94855,
+          -27.20841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria West"
+      },
+      "geometry": {
+        "coordinates": [
+          23.11461,
+          -31.40364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vereeniging"
+      },
+      "geometry": {
+        "coordinates": [
+          27.92615,
+          -26.67313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ventersdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          26.82223,
+          -26.31401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ventersburg"
+      },
+      "geometry": {
+        "coordinates": [
+          27.13814,
+          -28.08561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanderbijlpark"
+      },
+      "geometry": {
+        "coordinates": [
+          27.83795,
+          -26.71171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utrecht"
+      },
+      "geometry": {
+        "coordinates": [
+          30.32166,
+          -27.65862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upington"
+      },
+      "geometry": {
+        "coordinates": [
+          21.25612,
+          -28.44776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mthatha"
+      },
+      "geometry": {
+        "coordinates": [
+          28.78443,
+          -31.58893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umkomaas"
+      },
+      "geometry": {
+        "coordinates": [
+          30.79776,
+          -30.20674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulundi"
+      },
+      "geometry": {
+        "coordinates": [
+          31.41617,
+          -28.33523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uitenhage"
+      },
+      "geometry": {
+        "coordinates": [
+          25.3971,
+          -33.75757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tzaneen"
+      },
+      "geometry": {
+        "coordinates": [
+          30.16351,
+          -23.83322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tugela Ferry"
+      },
+      "geometry": {
+        "coordinates": [
+          30.45126,
+          -28.74649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trompsburg"
+      },
+      "geometry": {
+        "coordinates": [
+          25.78041,
+          -30.03363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thulamahashi"
+      },
+      "geometry": {
+        "coordinates": [
+          31.19939,
+          -24.72459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thohoyandou"
+      },
+      "geometry": {
+        "coordinates": [
+          30.48497,
+          -22.94564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theunissen"
+      },
+      "geometry": {
+        "coordinates": [
+          26.70107,
+          -28.41098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thabazimbi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.41155,
+          -24.59165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaba Nchu"
+      },
+      "geometry": {
+        "coordinates": [
+          26.83898,
+          -29.20932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tembisa"
+      },
+      "geometry": {
+        "coordinates": [
+          28.2268,
+          -25.99636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taung"
+      },
+      "geometry": {
+        "coordinates": [
+          24.78659,
+          -27.53113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarkastad"
+      },
+      "geometry": {
+        "coordinates": [
+          26.25935,
+          -32.00893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swellendam"
+      },
+      "geometry": {
+        "coordinates": [
+          20.44171,
+          -34.02262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundumbili"
+      },
+      "geometry": {
+        "coordinates": [
+          31.39752,
+          -29.13371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stutterheim"
+      },
+      "geometry": {
+        "coordinates": [
+          27.42396,
+          -32.57076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stilfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          26.76829,
+          -26.84493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanger"
+      },
+      "geometry": {
+        "coordinates": [
+          31.28954,
+          -29.32816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Standerton"
+      },
+      "geometry": {
+        "coordinates": [
+          29.24152,
+          -26.93366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          28.4,
+          -26.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soweto"
+      },
+      "geometry": {
+        "coordinates": [
+          27.85849,
+          -26.26781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somerset East"
+      },
+      "geometry": {
+        "coordinates": [
+          25.58804,
+          -32.72173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siyabuswa"
+      },
+      "geometry": {
+        "coordinates": [
+          29.04454,
+          -25.11319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senekal"
+      },
+      "geometry": {
+        "coordinates": [
+          27.62082,
+          -28.31971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Secunda"
+      },
+      "geometry": {
+        "coordinates": [
+          29.16667,
+          -26.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottburgh"
+      },
+      "geometry": {
+        "coordinates": [
+          30.75316,
+          -30.28666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schweizer-Reneke"
+      },
+      "geometry": {
+        "coordinates": [
+          25.32931,
+          -27.18871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sasolburg"
+      },
+      "geometry": {
+        "coordinates": [
+          27.81695,
+          -26.81358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rustenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          27.24208,
+          -25.66756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riversdale"
+      },
+      "geometry": {
+        "coordinates": [
+          21.25725,
+          -34.09345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ritchie"
+      },
+      "geometry": {
+        "coordinates": [
+          24.60278,
+          -29.03801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond"
+      },
+      "geometry": {
+        "coordinates": [
+          30.27235,
+          -29.87196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richards Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          32.03768,
+          -28.78301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reitz"
+      },
+      "geometry": {
+        "coordinates": [
+          28.42726,
+          -27.80138
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          27.70203,
+          -26.1844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qumbu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.87056,
+          -31.16304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown"
+      },
+      "geometry": {
+        "coordinates": [
+          26.87533,
+          -31.89756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queensdale"
+      },
+      "geometry": {
+        "coordinates": [
+          26.97862,
+          -31.87101
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Albert"
+      },
+      "geometry": {
+        "coordinates": [
+          22.02673,
+          -33.22476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prieska"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74251,
+          -29.66803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pretoria"
+      },
+      "geometry": {
+        "coordinates": [
+          28.18783,
+          -25.74486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokopane"
+      },
+      "geometry": {
+        "coordinates": [
+          29.00974,
+          -24.19436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potchefstroom"
+      },
+      "geometry": {
+        "coordinates": [
+          27.1,
+          -26.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postmasburg"
+      },
+      "geometry": {
+        "coordinates": [
+          23.06541,
+          -28.33392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Shepstone"
+      },
+      "geometry": {
+        "coordinates": [
+          30.45499,
+          -30.74137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Saint John's"
+      },
+      "geometry": {
+        "coordinates": [
+          29.54477,
+          -31.62291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Elizabeth"
+      },
+      "geometry": {
+        "coordinates": [
+          25.57007,
+          -33.91799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Alfred"
+      },
+      "geometry": {
+        "coordinates": [
+          26.88329,
+          -33.58601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pongola"
+      },
+      "geometry": {
+        "coordinates": [
+          31.61904,
+          -27.37808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plettenberg Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          23.3716,
+          -34.05274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piet Retief"
+      },
+      "geometry": {
+        "coordinates": [
+          30.81323,
+          -27.00706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polokwane"
+      },
+      "geometry": {
+        "coordinates": [
+          29.46885,
+          -23.90449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pietermaritzburg"
+      },
+      "geometry": {
+        "coordinates": [
+          30.39278,
+          -29.61679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuthaditjhaba"
+      },
+      "geometry": {
+        "coordinates": [
+          28.81582,
+          -28.52423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phalaborwa"
+      },
+      "geometry": {
+        "coordinates": [
+          31.14107,
+          -23.94299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrusville"
+      },
+      "geometry": {
+        "coordinates": [
+          24.6593,
+          -30.08113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peddie"
+      },
+      "geometry": {
+        "coordinates": [
+          27.11385,
+          -33.20059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paulpietersburg"
+      },
+      "geometry": {
+        "coordinates": [
+          30.81689,
+          -27.42426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parys"
+      },
+      "geometry": {
+        "coordinates": [
+          27.45727,
+          -26.9033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pampierstad"
+      },
+      "geometry": {
+        "coordinates": [
+          24.68768,
+          -27.78324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oudtshoorn"
+      },
+      "geometry": {
+        "coordinates": [
+          22.19955,
+          -33.60047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkney"
+      },
+      "geometry": {
+        "coordinates": [
+          26.67272,
+          -26.98023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orania"
+      },
+      "geometry": {
+        "coordinates": [
+          24.41205,
+          -29.81381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange Farm"
+      },
+      "geometry": {
+        "coordinates": [
+          27.86667,
+          -26.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modimolle"
+      },
+      "geometry": {
+        "coordinates": [
+          28.4,
+          -24.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noupoort"
+      },
+      "geometry": {
+        "coordinates": [
+          24.94991,
+          -31.18736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nongoma"
+      },
+      "geometry": {
+        "coordinates": [
+          31.64817,
+          -27.90968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nkowakowa"
+      },
+      "geometry": {
+        "coordinates": [
+          30.28708,
+          -23.88782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nkandla"
+      },
+      "geometry": {
+        "coordinates": [
+          31.09067,
+          -28.6207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nigel"
+      },
+      "geometry": {
+        "coordinates": [
+          28.47713,
+          -26.43138
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle"
+      },
+      "geometry": {
+        "coordinates": [
+          29.9318,
+          -27.75796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelspruit"
+      },
+      "geometry": {
+        "coordinates": [
+          30.97033,
+          -25.47448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndwedwe"
+      },
+      "geometry": {
+        "coordinates": [
+          30.92687,
+          -29.51686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutale"
+      },
+      "geometry": {
+        "coordinates": [
+          30.87533,
+          -22.46972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muldersdriseloop"
+      },
+      "geometry": {
+        "coordinates": [
+          27.83798,
+          -26.03673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mtubatuba"
+      },
+      "geometry": {
+        "coordinates": [
+          32.18483,
+          -28.41789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mpumalanga"
+      },
+      "geometry": {
+        "coordinates": [
+          30.63646,
+          -29.81292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mpophomeni"
+      },
+      "geometry": {
+        "coordinates": [
+          30.18618,
+          -29.56822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Frere"
+      },
+      "geometry": {
+        "coordinates": [
+          28.99238,
+          -30.90173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Ayliff"
+      },
+      "geometry": {
+        "coordinates": [
+          29.36644,
+          -30.80821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mossel Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          22.14605,
+          -34.18307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mooirivier"
+      },
+      "geometry": {
+        "coordinates": [
+          29.9946,
+          -29.20824
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mondlo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.71769,
+          -27.98299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molteno"
+      },
+      "geometry": {
+        "coordinates": [
+          26.36246,
+          -31.39675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogwase"
+      },
+      "geometry": {
+        "coordinates": [
+          27.21605,
+          -25.27748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modderfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          28.16534,
+          -26.08909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mmabatho"
+      },
+      "geometry": {
+        "coordinates": [
+          25.63333,
+          -25.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mkuze"
+      },
+      "geometry": {
+        "coordinates": [
+          32.03861,
+          -27.61641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middelburg"
+      },
+      "geometry": {
+        "coordinates": [
+          25.00633,
+          -31.49285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middelburg"
+      },
+      "geometry": {
+        "coordinates": [
+          29.46482,
+          -25.77507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meyerton"
+      },
+      "geometry": {
+        "coordinates": [
+          28.0195,
+          -26.55987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melmoth"
+      },
+      "geometry": {
+        "coordinates": [
+          31.39783,
+          -28.58664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matatiele"
+      },
+      "geometry": {
+        "coordinates": [
+          28.81161,
+          -30.34357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marquard"
+      },
+      "geometry": {
+        "coordinates": [
+          27.43048,
+          -28.66449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margate"
+      },
+      "geometry": {
+        "coordinates": [
+          30.37052,
+          -30.8636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marble Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          29.29068,
+          -24.96627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankoeng"
+      },
+      "geometry": {
+        "coordinates": [
+          29.81667,
+          -23.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makapanstad"
+      },
+      "geometry": {
+        "coordinates": [
+          28.1262,
+          -25.24373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahikeng"
+      },
+      "geometry": {
+        "coordinates": [
+          25.64421,
+          -25.86522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maclear"
+      },
+      "geometry": {
+        "coordinates": [
+          28.35183,
+          -31.07104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mabopane"
+      },
+      "geometry": {
+        "coordinates": [
+          28.10065,
+          -25.49768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lydenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          30.44393,
+          -25.09598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louis Trichardt"
+      },
+      "geometry": {
+        "coordinates": [
+          29.90319,
+          -23.04385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lichtenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          26.15968,
+          -26.152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libode"
+      },
+      "geometry": {
+        "coordinates": [
+          29.0164,
+          -31.54331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebowakgomo"
+      },
+      "geometry": {
+        "coordinates": [
+          29.5,
+          -24.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laingsburg"
+      },
+      "geometry": {
+        "coordinates": [
+          20.85872,
+          -33.19495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladysmith"
+      },
+      "geometry": {
+        "coordinates": [
+          29.77896,
+          -28.55874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lady Grey"
+      },
+      "geometry": {
+        "coordinates": [
+          27.21613,
+          -30.71084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lady Frere"
+      },
+      "geometry": {
+        "coordinates": [
+          27.2329,
+          -31.70312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladybrand"
+      },
+      "geometry": {
+        "coordinates": [
+          27.45739,
+          -29.19448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladismith"
+      },
+      "geometry": {
+        "coordinates": [
+          21.26755,
+          -33.49331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KwaMbonambi"
+      },
+      "geometry": {
+        "coordinates": [
+          32.0894,
+          -28.59827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kutloanong"
+      },
+      "geometry": {
+        "coordinates": [
+          26.75,
+          -27.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuruman"
+      },
+      "geometry": {
+        "coordinates": [
+          23.43246,
+          -27.4524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kruisfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          24.73142,
+          -34.00333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krugersdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          27.77515,
+          -26.08577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kroonstad"
+      },
+      "geometry": {
+        "coordinates": [
+          27.23488,
+          -27.65036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kriel"
+      },
+      "geometry": {
+        "coordinates": [
+          29.2253,
+          -26.27391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koster"
+      },
+      "geometry": {
+        "coordinates": [
+          26.89756,
+          -25.86301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koppies"
+      },
+      "geometry": {
+        "coordinates": [
+          27.57422,
+          -27.24179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komga"
+      },
+      "geometry": {
+        "coordinates": [
+          27.892,
+          -32.57704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komatipoort"
+      },
+      "geometry": {
+        "coordinates": [
+          31.95478,
+          -25.43321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokstad"
+      },
+      "geometry": {
+        "coordinates": [
+          29.42412,
+          -30.54723
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koffiefontein"
+      },
+      "geometry": {
+        "coordinates": [
+          25.00309,
+          -29.40661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knysna"
+      },
+      "geometry": {
+        "coordinates": [
+          23.04713,
+          -34.03627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klerksdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          26.66672,
+          -26.85213
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkwood"
+      },
+      "geometry": {
+        "coordinates": [
+          25.44279,
+          -33.39829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimberley"
+      },
+      "geometry": {
+        "coordinates": [
+          24.76232,
+          -28.73226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathu"
+      },
+      "geometry": {
+        "coordinates": [
+          23.04929,
+          -27.69569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kareedouw"
+      },
+      "geometry": {
+        "coordinates": [
+          24.29053,
+          -33.9528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakamas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.6147,
+          -28.77341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jozini"
+      },
+      "geometry": {
+        "coordinates": [
+          32.06658,
+          -27.4296
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannesburg"
+      },
+      "geometry": {
+        "coordinates": [
+          28.04363,
+          -26.20227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeffrey's Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          24.90768,
+          -34.05045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jansenville"
+      },
+      "geometry": {
+        "coordinates": [
+          24.67218,
+          -32.94306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jan Kempdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          24.83051,
+          -27.92246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jane Furse"
+      },
+      "geometry": {
+        "coordinates": [
+          29.86993,
+          -24.76021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Izingolweni"
+      },
+      "geometry": {
+        "coordinates": [
+          30.12294,
+          -30.78409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ixopo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.08333,
+          -30.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Impendle"
+      },
+      "geometry": {
+        "coordinates": [
+          29.86561,
+          -29.60049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilinge"
+      },
+      "geometry": {
+        "coordinates": [
+          27.04267,
+          -31.97676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howick"
+      },
+      "geometry": {
+        "coordinates": [
+          30.23057,
+          -29.47795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopetown"
+      },
+      "geometry": {
+        "coordinates": [
+          24.08518,
+          -29.62464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoopstad"
+      },
+      "geometry": {
+        "coordinates": [
+          25.90833,
+          -27.83273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoedspruit"
+      },
+      "geometry": {
+        "coordinates": [
+          30.95332,
+          -24.35122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hluhluwe"
+      },
+      "geometry": {
+        "coordinates": [
+          32.26762,
+          -28.01895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hlabisa"
+      },
+      "geometry": {
+        "coordinates": [
+          31.87719,
+          -28.14519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Himeville"
+      },
+      "geometry": {
+        "coordinates": [
+          29.51361,
+          -29.74675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hennenman"
+      },
+      "geometry": {
+        "coordinates": [
+          27.02423,
+          -27.97654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hendrina"
+      },
+      "geometry": {
+        "coordinates": [
+          29.71528,
+          -26.15881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heilbron"
+      },
+      "geometry": {
+        "coordinates": [
+          27.9709,
+          -27.28115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heidelberg"
+      },
+      "geometry": {
+        "coordinates": [
+          28.35921,
+          -26.50476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hartswater"
+      },
+      "geometry": {
+        "coordinates": [
+          24.79712,
+          -27.74964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrismith"
+      },
+      "geometry": {
+        "coordinates": [
+          29.12946,
+          -28.27276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harding"
+      },
+      "geometry": {
+        "coordinates": [
+          29.88401,
+          -30.57643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Groblershoop"
+      },
+      "geometry": {
+        "coordinates": [
+          21.98378,
+          -28.89531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Groblersdal"
+      },
+      "geometry": {
+        "coordinates": [
+          29.39412,
+          -25.16843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greytown"
+      },
+      "geometry": {
+        "coordinates": [
+          30.59279,
+          -29.06415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grahamstown"
+      },
+      "geometry": {
+        "coordinates": [
+          26.53276,
+          -33.30422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graaff-Reinet"
+      },
+      "geometry": {
+        "coordinates": [
+          24.53075,
+          -32.25215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glencoe"
+      },
+      "geometry": {
+        "coordinates": [
+          30.14702,
+          -28.17827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giyani"
+      },
+      "geometry": {
+        "coordinates": [
+          30.71868,
+          -23.30246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germiston"
+      },
+      "geometry": {
+        "coordinates": [
+          28.17665,
+          -26.23481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George"
+      },
+      "geometry": {
+        "coordinates": [
+          22.46173,
+          -33.963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ga-Rankuwa"
+      },
+      "geometry": {
+        "coordinates": [
+          27.99471,
+          -25.61692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganyesa"
+      },
+      "geometry": {
+        "coordinates": [
+          24.17612,
+          -26.59613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ga-Kgapane"
+      },
+      "geometry": {
+        "coordinates": [
+          30.22324,
+          -23.64378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfort"
+      },
+      "geometry": {
+        "coordinates": [
+          28.49696,
+          -27.27888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Beaufort"
+      },
+      "geometry": {
+        "coordinates": [
+          26.63376,
+          -32.77477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fochville"
+      },
+      "geometry": {
+        "coordinates": [
+          27.49387,
+          -26.48862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flagstaff"
+      },
+      "geometry": {
+        "coordinates": [
+          29.49522,
+          -31.08042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ficksburg"
+      },
+      "geometry": {
+        "coordinates": [
+          27.87506,
+          -28.872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estcourt"
+      },
+      "geometry": {
+        "coordinates": [
+          29.86619,
+          -29.01269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eSikhawini"
+      },
+      "geometry": {
+        "coordinates": [
+          31.89961,
+          -28.87097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eshowe"
+      },
+      "geometry": {
+        "coordinates": [
+          31.4699,
+          -28.88649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ermelo"
+      },
+      "geometry": {
+        "coordinates": [
+          29.98333,
+          -26.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empangeni"
+      },
+      "geometry": {
+        "coordinates": [
+          31.89329,
+          -28.76197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eMbalenhle"
+      },
+      "geometry": {
+        "coordinates": [
+          29.06667,
+          -26.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elliot"
+      },
+      "geometry": {
+        "coordinates": [
+          27.85,
+          -31.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ekuvukeni"
+      },
+      "geometry": {
+        "coordinates": [
+          30.15513,
+          -28.46752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edenvale"
+      },
+      "geometry": {
+        "coordinates": [
+          28.15247,
+          -26.14095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East London"
+      },
+      "geometry": {
+        "coordinates": [
+          27.91162,
+          -33.01529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durban"
+      },
+      "geometry": {
+        "coordinates": [
+          31.0292,
+          -29.8579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundee"
+      },
+      "geometry": {
+        "coordinates": [
+          30.23371,
+          -28.16678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duiwelskloof"
+      },
+      "geometry": {
+        "coordinates": [
+          30.14002,
+          -23.69339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Driefontein"
+      },
+      "geometry": {
+        "coordinates": [
+          30.44979,
+          -27.0177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douglas"
+      },
+      "geometry": {
+        "coordinates": [
+          23.7743,
+          -29.05531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dordrecht"
+      },
+      "geometry": {
+        "coordinates": [
+          27.04878,
+          -31.372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewetsdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          26.66511,
+          -29.58274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "De Rust"
+      },
+      "geometry": {
+        "coordinates": [
+          22.53523,
+          -33.49035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deneysville"
+      },
+      "geometry": {
+        "coordinates": [
+          28.09707,
+          -26.8908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dendron"
+      },
+      "geometry": {
+        "coordinates": [
+          29.32371,
+          -23.36669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delmas"
+      },
+      "geometry": {
+        "coordinates": [
+          28.68322,
+          -26.1466
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delareyville"
+      },
+      "geometry": {
+        "coordinates": [
+          25.45907,
+          -26.68638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "De Aar"
+      },
+      "geometry": {
+        "coordinates": [
+          24.0123,
+          -30.64966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dannhauser"
+      },
+      "geometry": {
+        "coordinates": [
+          30.05658,
+          -28.0151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danielskuil"
+      },
+      "geometry": {
+        "coordinates": [
+          23.53951,
+          -28.18873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cullinan"
+      },
+      "geometry": {
+        "coordinates": [
+          28.52364,
+          -25.67088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creighton"
+      },
+      "geometry": {
+        "coordinates": [
+          29.83955,
+          -30.0272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cradock"
+      },
+      "geometry": {
+        "coordinates": [
+          25.61918,
+          -32.16422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colesberg"
+      },
+      "geometry": {
+        "coordinates": [
+          25.09718,
+          -30.71999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cofimvaba"
+      },
+      "geometry": {
+        "coordinates": [
+          27.58045,
+          -32.00115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clocolan"
+      },
+      "geometry": {
+        "coordinates": [
+          27.56555,
+          -28.91367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christiana"
+      },
+      "geometry": {
+        "coordinates": [
+          25.16111,
+          -27.91402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carolina"
+      },
+      "geometry": {
+        "coordinates": [
+          30.11489,
+          -26.06927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnarvon"
+      },
+      "geometry": {
+        "coordinates": [
+          22.13303,
+          -30.96827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carletonville"
+      },
+      "geometry": {
+        "coordinates": [
+          27.39767,
+          -26.36094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camperdown"
+      },
+      "geometry": {
+        "coordinates": [
+          30.54256,
+          -29.72868
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calitzdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          21.6762,
+          -33.52755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cala"
+      },
+      "geometry": {
+        "coordinates": [
+          27.6952,
+          -31.52356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butterworth"
+      },
+      "geometry": {
+        "coordinates": [
+          28.14981,
+          -32.33083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burgersfort"
+      },
+      "geometry": {
+        "coordinates": [
+          30.32877,
+          -24.67554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burgersdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          26.32862,
+          -30.99766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bultfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          26.14996,
+          -28.28756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bronkhorstspruit"
+      },
+      "geometry": {
+        "coordinates": [
+          28.74248,
+          -25.81015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brits"
+      },
+      "geometry": {
+        "coordinates": [
+          27.78022,
+          -25.63473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breyten"
+      },
+      "geometry": {
+        "coordinates": [
+          29.98696,
+          -26.30176
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bredasdorp"
+      },
+      "geometry": {
+        "coordinates": [
+          20.04031,
+          -34.53215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandfort"
+      },
+      "geometry": {
+        "coordinates": [
+          26.45968,
+          -28.70008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brakpan"
+      },
+      "geometry": {
+        "coordinates": [
+          28.36938,
+          -26.23656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botshabelo"
+      },
+      "geometry": {
+        "coordinates": [
+          26.72595,
+          -29.26737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bothaville"
+      },
+      "geometry": {
+        "coordinates": [
+          26.61701,
+          -27.3887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boshof"
+      },
+      "geometry": {
+        "coordinates": [
+          25.23965,
+          -28.53914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boksburg"
+      },
+      "geometry": {
+        "coordinates": [
+          28.25958,
+          -26.21197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloemhof"
+      },
+      "geometry": {
+        "coordinates": [
+          25.60697,
+          -27.64685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloemfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          26.214,
+          -29.12107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bizana"
+      },
+      "geometry": {
+        "coordinates": [
+          29.85384,
+          -30.85907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhisho"
+      },
+      "geometry": {
+        "coordinates": [
+          27.44218,
+          -32.84721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethlehem"
+      },
+      "geometry": {
+        "coordinates": [
+          28.30707,
+          -28.23078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethal"
+      },
+      "geometry": {
+        "coordinates": [
+          29.46553,
+          -26.45794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergville"
+      },
+      "geometry": {
+        "coordinates": [
+          29.35187,
+          -28.73122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berea"
+      },
+      "geometry": {
+        "coordinates": [
+          30.99337,
+          -29.85185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benoni"
+      },
+      "geometry": {
+        "coordinates": [
+          28.32078,
+          -26.18848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast"
+      },
+      "geometry": {
+        "coordinates": [
+          30.03504,
+          -25.68991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaufort West"
+      },
+      "geometry": {
+        "coordinates": [
+          22.58295,
+          -32.35671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barkly West"
+      },
+      "geometry": {
+        "coordinates": [
+          24.52151,
+          -28.53537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barkly East"
+      },
+      "geometry": {
+        "coordinates": [
+          27.59567,
+          -30.9683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barberton"
+      },
+      "geometry": {
+        "coordinates": [
+          31.05319,
+          -25.78842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballito"
+      },
+      "geometry": {
+        "coordinates": [
+          31.21439,
+          -29.53897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balfour"
+      },
+      "geometry": {
+        "coordinates": [
+          28.59016,
+          -26.66331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashton"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05595,
+          -33.83136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apel"
+      },
+      "geometry": {
+        "coordinates": [
+          29.74991,
+          -24.41445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allanridge"
+      },
+      "geometry": {
+        "coordinates": [
+          26.64382,
+          -27.75431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliwal North"
+      },
+      "geometry": {
+        "coordinates": [
+          26.71141,
+          -30.69366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice"
+      },
+      "geometry": {
+        "coordinates": [
+          26.8344,
+          -32.78749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albertina"
+      },
+      "geometry": {
+        "coordinates": [
+          21.58001,
+          -34.20544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adelaide"
+      },
+      "geometry": {
+        "coordinates": [
+          26.29564,
+          -32.70747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ekangala"
+      },
+      "geometry": {
+        "coordinates": [
+          28.74918,
+          -25.69619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midrand"
+      },
+      "geometry": {
+        "coordinates": [
+          28.12843,
+          -25.98953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centurion"
+      },
+      "geometry": {
+        "coordinates": [
+          28.18577,
+          -25.85891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worcester"
+      },
+      "geometry": {
+        "coordinates": [
+          19.44852,
+          -33.64651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington"
+      },
+      "geometry": {
+        "coordinates": [
+          19.0112,
+          -33.63981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vredendal"
+      },
+      "geometry": {
+        "coordinates": [
+          18.50119,
+          -31.66833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vredenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          17.98997,
+          -32.90719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stellenbosch"
+      },
+      "geometry": {
+        "coordinates": [
+          18.86676,
+          -33.93462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbok"
+      },
+      "geometry": {
+        "coordinates": [
+          17.8865,
+          -29.66434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saldanha"
+      },
+      "geometry": {
+        "coordinates": [
+          17.9442,
+          -33.01167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosebank"
+      },
+      "geometry": {
+        "coordinates": [
+          18.47417,
+          -33.95556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robertson"
+      },
+      "geometry": {
+        "coordinates": [
+          19.88537,
+          -33.80342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Nolloth"
+      },
+      "geometry": {
+        "coordinates": [
+          16.8697,
+          -29.25188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pofadder"
+      },
+      "geometry": {
+        "coordinates": [
+          19.39492,
+          -29.1283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piketberg"
+      },
+      "geometry": {
+        "coordinates": [
+          18.75704,
+          -32.90323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paarl"
+      },
+      "geometry": {
+        "coordinates": [
+          18.97523,
+          -33.73378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moorreesburg"
+      },
+      "geometry": {
+        "coordinates": [
+          18.66031,
+          -33.15388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malmesbury"
+      },
+      "geometry": {
+        "coordinates": [
+          18.72714,
+          -33.4608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lansdowne"
+      },
+      "geometry": {
+        "coordinates": [
+          18.49746,
+          -33.98735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraaifontein"
+      },
+      "geometry": {
+        "coordinates": [
+          18.71723,
+          -33.84808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermanus"
+      },
+      "geometry": {
+        "coordinates": [
+          19.23446,
+          -34.4187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grabouw"
+      },
+      "geometry": {
+        "coordinates": [
+          19.01509,
+          -34.15152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garies"
+      },
+      "geometry": {
+        "coordinates": [
+          17.98905,
+          -30.56223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Constantia"
+      },
+      "geometry": {
+        "coordinates": [
+          18.41833,
+          -34.03139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claremont"
+      },
+      "geometry": {
+        "coordinates": [
+          18.46528,
+          -33.98056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clanwilliam"
+      },
+      "geometry": {
+        "coordinates": [
+          18.89217,
+          -32.18173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceres"
+      },
+      "geometry": {
+        "coordinates": [
+          19.31095,
+          -33.36889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Town"
+      },
+      "geometry": {
+        "coordinates": [
+          18.42322,
+          -33.92584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calvinia"
+      },
+      "geometry": {
+        "coordinates": [
+          19.77601,
+          -31.47069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caledon"
+      },
+      "geometry": {
+        "coordinates": [
+          19.4265,
+          -34.22997
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergvliet"
+      },
+      "geometry": {
+        "coordinates": [
+          18.4525,
+          -34.04746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantis"
+      },
+      "geometry": {
+        "coordinates": [
+          18.48335,
+          -33.56668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          18.49231,
+          -33.85395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eden Glen"
+      },
+      "geometry": {
+        "coordinates": [
+          28.16859,
+          -26.1323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rondebosch"
+      },
+      "geometry": {
+        "coordinates": [
+          18.47639,
+          -33.96333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newlands"
+      },
+      "geometry": {
+        "coordinates": [
+          18.4481,
+          -33.97846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bela-Bela"
+      },
+      "geometry": {
+        "coordinates": [
+          28.29417,
+          -24.885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lephalale"
+      },
+      "geometry": {
+        "coordinates": [
+          27.74477,
+          -23.66607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musina"
+      },
+      "geometry": {
+        "coordinates": [
+          30.04074,
+          -22.34881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midstream"
+      },
+      "geometry": {
+        "coordinates": [
+          28.19881,
+          -25.91849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandeni"
+      },
+      "geometry": {
+        "coordinates": [
+          31.41403,
+          -29.14691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Retreat"
+      },
+      "geometry": {
+        "coordinates": [
+          18.47617,
+          -34.05515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graskop"
+      },
+      "geometry": {
+        "coordinates": [
+          30.84008,
+          -24.93174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diepsloot"
+      },
+      "geometry": {
+        "coordinates": [
+          28.01213,
+          -25.93312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardys Memories of Africa"
+      },
+      "geometry": {
+        "coordinates": [
+          20.7169,
+          -33.90539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastleigh"
+      },
+      "geometry": {
+        "coordinates": [
+          28.15541,
+          -26.12965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverlea"
+      },
+      "geometry": {
+        "coordinates": [
+          27.97322,
+          -26.2119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eden Glen Ext 60"
+      },
+      "geometry": {
+        "coordinates": [
+          28.165,
+          -26.12593
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

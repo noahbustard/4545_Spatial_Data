@@ -1,0 +1,1617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kahalu'u"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.84431,
+          21.45759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kahuku"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.95237,
+          21.68048
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kahului"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.47432,
+          20.88953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kailua"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.74054,
+          21.40241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kailua-Kona"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.99912,
+          19.64016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalaheo"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.52686,
+          21.92416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalaoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.98167,
+          19.72861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaneohe"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.79895,
+          21.39994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapa'a"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.31895,
+          22.07521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapaau"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.80194,
+          20.23389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaunakakai"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.02613,
+          21.09363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kea'au"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.03744,
+          19.62265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kealakekua"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.9225,
+          19.52083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kekaha"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.71186,
+          21.96686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keokea"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.35446,
+          20.70711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kihei"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.44578,
+          20.76462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilauea"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.41342,
+          22.21208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koloa"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.46994,
+          21.9069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kualapu'u"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.03677,
+          21.15306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurtistown"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.05722,
+          19.60361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahaina"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.67663,
+          20.87429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La'ie"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.9225,
+          21.64547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanai City"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.92399,
+          20.82757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawai"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.50376,
+          21.92159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leilani Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.91778,
+          19.46972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leilani Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.91722,
+          19.4675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lihue"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.3721,
+          21.98121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma'ili"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.17531,
+          21.41629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makaha"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.21037,
+          21.46627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makaha Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.19918,
+          21.47583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makakilo City"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.08583,
+          21.34694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makawao"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.31306,
+          20.85694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maunawili"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.77056,
+          21.37278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mililani Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.00111,
+          21.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokuleia"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.15313,
+          21.57967
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountain View"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.10806,
+          19.55583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanakuli"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.15429,
+          21.39362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanawale Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.91194,
+          19.50611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanawale Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.91333,
+          19.50694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Oma'o"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.48818,
+          21.92581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orchidlands Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.01527,
+          19.56084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pahala"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.4786,
+          19.20297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paia"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.36944,
+          20.90333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papa'ikou"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.09326,
+          19.78718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl City"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.97516,
+          21.39734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pepeekeo"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.10722,
+          19.83361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princeville"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.47888,
+          22.21758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puhi"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.40012,
+          21.96888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pukalani"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.33667,
+          20.83667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punalu'u"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.87557,
+          21.57045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punaluu"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.87861,
+          21.57389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pupukea"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.06065,
+          21.65456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Village Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.03028,
+          21.39806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volcano"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.23398,
+          19.44276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahiawa"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.02464,
+          21.50279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waialua"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.13154,
+          21.57688
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waialua"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.76139,
+          21.10028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waianae"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.1863,
+          21.43621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikapu"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.50694,
+          20.85806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikoloa"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.78931,
+          19.93942
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikoloa Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.82778,
+          19.9325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailea"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.4419,
+          20.68973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailua"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.33781,
+          22.05271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailua"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.13639,
+          20.84861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailuku"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.50604,
+          20.89133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimalu"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.94333,
+          21.40472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimanalo"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.7238,
+          21.34614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimanalo Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.70003,
+          21.33407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimea"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.66893,
+          21.95707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimea"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.67288,
+          20.02323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wainaku"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.095,
+          19.74472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waipahu"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.00917,
+          21.38667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waipio"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.99906,
+          21.41823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waipi'o Acres"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.01331,
+          21.46485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitmore Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.02464,
+          21.51429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ele'ele"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.58322,
+          21.90738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ewa Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.00722,
+          21.31556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ewa Gentry"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.03039,
+          21.33999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ewa Villages"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.0397,
+          21.34127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fern Acres"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.08028,
+          19.51222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halawa"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.92167,
+          21.37944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halawa Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.91388,
+          21.37848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hale'iwa"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.10339,
+          21.59284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hana"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.99028,
+          20.75806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanama'ulu"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.35918,
+          21.99773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanapepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.5944,
+          21.90733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanapepe Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.58995,
+          21.91633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hau'ula"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.90868,
+          21.6076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaiian Beaches"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.91583,
+          19.54306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaiian Acres"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.05222,
+          19.53806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaiian Paradise Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.97306,
+          19.59333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaiian Ocean View"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.765,
+          19.06861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawi"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.83351,
+          20.24122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "He'eia"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.81611,
+          21.43054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilo"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.09073,
+          19.72991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holualoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.94831,
+          19.61979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honalo"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.93194,
+          19.54639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honoka'a"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.46691,
+          20.07931
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honolulu"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.85833,
+          21.30694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Aiea"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.93361,
+          21.38222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ahuimanu"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.83778,
+          21.44472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iroquois Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.98301,
+          21.32776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ka'a'awa"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.85103,
+          21.55445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ka'anapali"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.69422,
+          20.92881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaanapali Landing"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.68778,
+          20.9309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ainaloa"
+      },
+      "geometry": {
+        "coordinates": [
+          -154.99306,
+          19.52694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anahola"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.31388,
+          22.14226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain Cook"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.92167,
+          19.49694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapolei"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.0582,
+          21.33555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haiku-Pauwela"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.30508,
+          20.92187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hickam Field"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.96018,
+          21.33967
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honaunau-Napoopoo"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.86466,
+          19.45627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kahaluu-Keauhou"
+      },
+      "geometry": {
+        "coordinates": [
+          -155.96172,
+          19.57181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine Corps Base Hawaii - MCBH"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.74981,
+          21.44336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makakilo"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.08655,
+          21.35237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napili-Honokowai"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.67826,
+          20.97533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schofield Barracks"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.06515,
+          21.49837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Kunia"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.0267,
+          21.39392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waihee-Waiehu"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.50458,
+          20.93022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailua Homesteads"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.37677,
+          22.07244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Honolulu"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.71734,
+          21.28906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Pointe"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.03638,
+          21.31066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kula"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.32695,
+          20.79094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ko Olina"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.12562,
+          21.33993
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

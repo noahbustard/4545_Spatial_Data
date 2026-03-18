@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serravalle"
+      },
+      "geometry": {
+        "coordinates": [
+          12.48167,
+          43.96897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Marino"
+      },
+      "geometry": {
+        "coordinates": [
+          12.44639,
+          43.93667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poggio di Chiesanuova"
+      },
+      "geometry": {
+        "coordinates": [
+          12.42142,
+          43.90451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Giardino"
+      },
+      "geometry": {
+        "coordinates": [
+          12.48201,
+          43.90878
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiorentino"
+      },
+      "geometry": {
+        "coordinates": [
+          12.45738,
+          43.91001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faetano"
+      },
+      "geometry": {
+        "coordinates": [
+          12.49798,
+          43.92831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domagnano"
+      },
+      "geometry": {
+        "coordinates": [
+          12.46828,
+          43.94961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borgo Maggiore"
+      },
+      "geometry": {
+        "coordinates": [
+          12.44738,
+          43.94193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acquaviva"
+      },
+      "geometry": {
+        "coordinates": [
+          12.4185,
+          43.94593
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

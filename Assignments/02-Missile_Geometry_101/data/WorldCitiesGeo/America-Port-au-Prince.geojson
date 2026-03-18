@@ -1,0 +1,1331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verrettes"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.46585,
+          19.0505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trou du Nord"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.02442,
+          19.61668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torbeck"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.80949,
+          18.16338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiburon"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.39598,
+          18.32589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomonde"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.96235,
+          19.0173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomazeau"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.09391,
+          18.65297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomassique"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.83855,
+          19.08209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thiotte"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.84157,
+          18.24384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Raphael"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.1991,
+          19.43877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Marc"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.69379,
+          19.10819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Louis du Sud"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.54603,
+          18.26241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Louis du Nord"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.72138,
+          19.93397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roche-a-Bateau"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.00345,
+          18.18182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranquitte"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.08077,
+          19.41327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartier Morin"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.15712,
+          19.69696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Margot"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.43006,
+          19.7518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-de-Paix"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.83257,
+          19.9389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-au-Prince"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.335,
+          18.53917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-a-Piment"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0971,
+          18.24963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaisance"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.46994,
+          19.59795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaine du Nord"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.26969,
+          19.67707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilate"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.55229,
+          19.66745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pignon"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.11662,
+          19.33594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phaeton"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.89691,
+          19.67525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petit Trou de Nippes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.50815,
+          18.52535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigwav"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.86521,
+          18.43117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petite Riviere de Nippes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.23495,
+          18.47611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petite Anse"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.15499,
+          19.63011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petionville"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28528,
+          18.5125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perches"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.92323,
+          19.52201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouanaminthe"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.72475,
+          19.54934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moron"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.25777,
+          18.56039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montorganize"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.78132,
+          19.40815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mole Saint-Nicolas"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.37605,
+          19.807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirebalais"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.1048,
+          18.83455
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miragoane"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.08758,
+          18.44232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milot"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.21319,
+          19.60837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marmelade"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.36133,
+          19.51736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marigot"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.32289,
+          18.23167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayisad"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.13958,
+          19.17607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limonade"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.1243,
+          19.67014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenbe"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.40336,
+          19.70603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Irois"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.4528,
+          18.4049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Anglais"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.21968,
+          18.3054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leogane"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.63343,
+          18.5111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borgne"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.52349,
+          19.84507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lascahobas"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.93563,
+          18.83047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenscoff"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.28398,
+          18.44773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeremie"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.11667,
+          18.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean-Rabel"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.19131,
+          19.85379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacmel"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.53539,
+          18.23427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hinche"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.01667,
+          19.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Morne"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.67808,
+          19.6708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gressier"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.52679,
+          18.54091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grangwav"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.76995,
+          18.4259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Saline"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.76897,
+          19.26513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Riviere du Nord"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.16872,
+          19.57744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gonayiv"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.68903,
+          19.44749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Liberte"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.83798,
+          19.66273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fonds Verrettes"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.85634,
+          18.39566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fond Parisien"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.98122,
+          18.50547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fond des Blancs"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.12733,
+          18.27782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fond Bassin Bleu"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.79949,
+          19.79445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferrier"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.77792,
+          19.61549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ennery"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.48537,
+          19.48342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dondon"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.24337,
+          19.52734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dessalines"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.51611,
+          19.26177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desarmes"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.39058,
+          18.99345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.81451,
+          19.65476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delmas 73"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.30278,
+          18.54472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dame-Marie"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.42167,
+          18.56107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croix-des-Bouquets"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.22625,
+          18.57677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotdefe"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.00287,
+          18.18872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koto"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.04013,
+          18.20601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornillon"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.95271,
+          18.67546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corail"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.88942,
+          18.56766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chardonniere"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.16613,
+          18.27484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chantal"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.88957,
+          18.20169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chambellan"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.31317,
+          18.55037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerca la Source"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.79015,
+          19.16696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayes-Jacmel"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.39545,
+          18.2311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Cayes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.74601,
+          18.19331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cavaillon"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.65455,
+          18.29987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrefour"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.39922,
+          18.54114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carice"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.8303,
+          19.37795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caracol"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.01733,
+          19.69274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okap"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.19815,
+          19.75938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabaret"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.41929,
+          18.73582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bombardopolis"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.33769,
+          19.69142
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belle-Anse"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.06638,
+          18.23768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baraderes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.63884,
+          18.48255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baie de Henne"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.20943,
+          19.66307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahon"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.11466,
+          19.46959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcahaie"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.91667,
+          19.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquin"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.39433,
+          18.27974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse Rouge"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.0553,
+          19.63382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse-a-Veau"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.3449,
+          18.5011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse-a-Pitre"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.75,
+          18.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse a Galets"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.86644,
+          18.83449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acul du Nord"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.31978,
+          19.68075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Abricots"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.30786,
+          18.64901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ti Port-de-Paix"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.83333,
+          19.93333
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

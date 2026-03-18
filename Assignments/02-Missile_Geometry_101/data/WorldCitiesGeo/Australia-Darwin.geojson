@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tennant Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          134.19147,
+          -19.6497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parap"
+      },
+      "geometry": {
+        "coordinates": [
+          130.84142,
+          -12.43054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhulunbuy"
+      },
+      "geometry": {
+        "coordinates": [
+          136.77841,
+          -12.18165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McMinns Lagoon"
+      },
+      "geometry": {
+        "coordinates": [
+          131.11165,
+          -12.55397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katherine"
+      },
+      "geometry": {
+        "coordinates": [
+          132.26347,
+          -14.46517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darwin"
+      },
+      "geometry": {
+        "coordinates": [
+          130.84185,
+          -12.46113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          133.88362,
+          -23.69748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alyangula"
+      },
+      "geometry": {
+        "coordinates": [
+          136.42129,
+          -13.85413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stuart Park"
+      },
+      "geometry": {
+        "coordinates": [
+          130.84249,
+          -12.4486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larrakeyah"
+      },
+      "geometry": {
+        "coordinates": [
+          130.83172,
+          -12.45527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leanyer"
+      },
+      "geometry": {
+        "coordinates": [
+          130.9,
+          -12.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludmilla"
+      },
+      "geometry": {
+        "coordinates": [
+          130.85506,
+          -12.42032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fannie Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          130.83627,
+          -12.42275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nightcliff"
+      },
+      "geometry": {
+        "coordinates": [
+          130.8517,
+          -12.38299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmerston"
+      },
+      "geometry": {
+        "coordinates": [
+          130.9833,
+          -12.48602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia"
+      },
+      "geometry": {
+        "coordinates": [
+          131.02844,
+          -12.51895
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

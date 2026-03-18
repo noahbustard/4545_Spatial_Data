@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longyearbyen"
+      },
+      "geometry": {
+        "coordinates": [
+          15.64689,
+          78.22334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olonkinbyen"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.7187,
+          70.9221
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

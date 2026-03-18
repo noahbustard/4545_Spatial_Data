@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West End Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.14941,
+          18.17191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.05783,
+          18.21704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Quarter"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.04178,
+          18.20799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farrington"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.02238,
+          18.215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stoney Ground"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.04607,
+          18.22026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Hill Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.08779,
+          18.19201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Ground Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.08998,
+          18.20118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Side"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.04401,
+          18.22919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Hill Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.07847,
+          18.20542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.0102,
+          18.25601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.0665,
+          18.19939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East End Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.0,
+          18.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blowing Point Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.09375,
+          18.17648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.01329,
+          18.22104
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

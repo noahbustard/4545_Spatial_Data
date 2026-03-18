@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rankin Inlet"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.08534,
+          62.80906
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

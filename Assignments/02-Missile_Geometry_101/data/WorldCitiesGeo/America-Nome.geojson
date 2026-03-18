@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chevak"
+      },
+      "geometry": {
+        "coordinates": [
+          -165.58639,
+          61.52778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hooper Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -166.09667,
+          61.53111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Cove"
+      },
+      "geometry": {
+        "coordinates": [
+          -162.31853,
+          55.06087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotzebue"
+      },
+      "geometry": {
+        "coordinates": [
+          -162.59809,
+          66.89846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nome"
+      },
+      "geometry": {
+        "coordinates": [
+          -165.40639,
+          64.50111
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

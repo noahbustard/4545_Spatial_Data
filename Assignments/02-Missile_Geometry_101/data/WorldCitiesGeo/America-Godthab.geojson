@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upernavik"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.15485,
+          72.78684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sisimiut"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.6735,
+          66.93946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qasigiannguit"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.19221,
+          68.81926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaqortoq"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.03333,
+          60.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paamiut"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.66776,
+          61.99402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuuk"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.72157,
+          64.18347
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narsaq"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.05263,
+          60.91517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanortalik"
+      },
+      "geometry": {
+        "coordinates": [
+          -45.23715,
+          60.14317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maniitsoq"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.9,
+          65.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilulissat"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.1,
+          69.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasiilaq"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.63676,
+          65.61451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aasiaat"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.86988,
+          68.70981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uummannaq"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.12639,
+          70.67472
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

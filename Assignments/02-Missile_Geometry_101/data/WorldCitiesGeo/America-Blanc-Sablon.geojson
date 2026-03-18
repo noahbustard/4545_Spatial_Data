@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Augustin"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.65017,
+          51.22602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levis"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.17793,
+          46.80326
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

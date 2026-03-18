@@ -1,0 +1,1565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zudilovo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.8937,
+          53.4927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zonal'noye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.9331,
+          52.6665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zmeinogorsk"
+      },
+      "geometry": {
+        "coordinates": [
+          82.19534,
+          51.15776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zav'yalovo"
+      },
+      "geometry": {
+        "coordinates": [
+          80.9197,
+          52.83805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaton"
+      },
+      "geometry": {
+        "coordinates": [
+          83.80722,
+          53.29361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          84.9493,
+          53.7074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zalesovo"
+      },
+      "geometry": {
+        "coordinates": [
+          84.74306,
+          53.99389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhnyy"
+      },
+      "geometry": {
+        "coordinates": [
+          83.69361,
+          53.25417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarovoye"
+      },
+      "geometry": {
+        "coordinates": [
+          78.58,
+          52.9273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volchikha"
+      },
+      "geometry": {
+        "coordinates": [
+          80.35715,
+          52.01356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vlasikha"
+      },
+      "geometry": {
+        "coordinates": [
+          83.57417,
+          53.29722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veseloyarsk"
+      },
+      "geometry": {
+        "coordinates": [
+          81.10703,
+          51.28737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verkh-Suetka"
+      },
+      "geometry": {
+        "coordinates": [
+          80.04675,
+          53.30401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verkh-Bekhtemir"
+      },
+      "geometry": {
+        "coordinates": [
+          85.90508,
+          52.76596
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verkh-Katunskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.43162,
+          52.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usyatskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.76085,
+          52.56806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'yanka"
+      },
+      "geometry": {
+        "coordinates": [
+          78.7425,
+          53.4527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Kalmanka"
+      },
+      "geometry": {
+        "coordinates": [
+          83.305,
+          52.1207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Isha"
+      },
+      "geometry": {
+        "coordinates": [
+          85.96757,
+          52.18201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Charyshskaya Pristan'"
+      },
+      "geometry": {
+        "coordinates": [
+          83.6635,
+          52.3934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uglovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          80.1942,
+          51.3557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyumentsevo"
+      },
+      "geometry": {
+        "coordinates": [
+          81.498,
+          53.3224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tselinnoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.65363,
+          53.07822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troitskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.6757,
+          52.9821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topol'noye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.4813,
+          51.5105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topchikha"
+      },
+      "geometry": {
+        "coordinates": [
+          83.1185,
+          52.8192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Togul"
+      },
+      "geometry": {
+        "coordinates": [
+          85.9128,
+          53.467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tal'menka"
+      },
+      "geometry": {
+        "coordinates": [
+          83.5677,
+          53.8183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabuny"
+      },
+      "geometry": {
+        "coordinates": [
+          78.7896,
+          52.7773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sychevka"
+      },
+      "geometry": {
+        "coordinates": [
+          84.7788,
+          52.0512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stukovo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.33778,
+          53.21278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staryy Togul"
+      },
+      "geometry": {
+        "coordinates": [
+          85.9006,
+          53.4291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staroaleyskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          82.0,
+          51.00611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starobelokurikha"
+      },
+      "geometry": {
+        "coordinates": [
+          85.08765,
+          52.05206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srostki"
+      },
+      "geometry": {
+        "coordinates": [
+          85.69923,
+          52.4209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sovetskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.41424,
+          52.28556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorokino"
+      },
+      "geometry": {
+        "coordinates": [
+          84.91667,
+          53.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solton"
+      },
+      "geometry": {
+        "coordinates": [
+          86.4787,
+          52.8429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soloneshnoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.3197,
+          51.6544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sokolovo"
+      },
+      "geometry": {
+        "coordinates": [
+          84.7896,
+          52.5318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smolenskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.0785,
+          52.30447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slavgorodskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          78.6435,
+          53.0214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slavgorod"
+      },
+      "geometry": {
+        "coordinates": [
+          78.6449,
+          52.9978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shul'gin Log"
+      },
+      "geometry": {
+        "coordinates": [
+          85.85573,
+          52.16985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shubenka"
+      },
+      "geometry": {
+        "coordinates": [
+          85.09858,
+          52.6551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shipunovo"
+      },
+      "geometry": {
+        "coordinates": [
+          82.2173,
+          52.1582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelabolikha"
+      },
+      "geometry": {
+        "coordinates": [
+          82.6167,
+          53.4131
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shakhi"
+      },
+      "geometry": {
+        "coordinates": [
+          83.3624,
+          53.3361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severka"
+      },
+      "geometry": {
+        "coordinates": [
+          79.28333,
+          52.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sannikovo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.9749,
+          53.3448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubtsovsk"
+      },
+      "geometry": {
+        "coordinates": [
+          81.20613,
+          51.51473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romanovo"
+      },
+      "geometry": {
+        "coordinates": [
+          81.2271,
+          52.6182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodino"
+      },
+      "geometry": {
+        "coordinates": [
+          80.20294,
+          52.49783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebrikha"
+      },
+      "geometry": {
+        "coordinates": [
+          82.34083,
+          53.07333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pospelikha"
+      },
+      "geometry": {
+        "coordinates": [
+          81.76667,
+          51.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Podsosnovo"
+      },
+      "geometry": {
+        "coordinates": [
+          78.9184,
+          53.3721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petropavlovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.107,
+          52.0712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomayskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.01833,
+          53.72111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomayskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          81.6624,
+          52.9173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavlovsk"
+      },
+      "geometry": {
+        "coordinates": [
+          82.98222,
+          53.31861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pankrushikha"
+      },
+      "geometry": {
+        "coordinates": [
+          80.34056,
+          53.83194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novotyryshkino"
+      },
+      "geometry": {
+        "coordinates": [
+          84.9089,
+          52.0833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novosilikatnyy"
+      },
+      "geometry": {
+        "coordinates": [
+          83.62389,
+          53.30972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novoaltaysk"
+      },
+      "geometry": {
+        "coordinates": [
+          83.9363,
+          53.3917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novikovo"
+      },
+      "geometry": {
+        "coordinates": [
+          85.96392,
+          52.62231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novichikha"
+      },
+      "geometry": {
+        "coordinates": [
+          81.3877,
+          52.204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nikolayevka"
+      },
+      "geometry": {
+        "coordinates": [
+          79.41583,
+          51.92556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gal'bshtadt"
+      },
+      "geometry": {
+        "coordinates": [
+          78.9845,
+          53.2264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nauchnyy Gorodok"
+      },
+      "geometry": {
+        "coordinates": [
+          83.521,
+          53.4203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalobikha"
+      },
+      "geometry": {
+        "coordinates": [
+          84.60389,
+          53.20056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagornyy"
+      },
+      "geometry": {
+        "coordinates": [
+          83.5498,
+          52.7959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikhaylovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          79.71722,
+          51.82389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martynovo"
+      },
+      "geometry": {
+        "coordinates": [
+          85.88333,
+          53.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamontovo"
+      },
+      "geometry": {
+        "coordinates": [
+          81.6244,
+          52.7055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malougrenevo"
+      },
+      "geometry": {
+        "coordinates": [
+          85.33908,
+          52.5568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malinovoye Ozero"
+      },
+      "geometry": {
+        "coordinates": [
+          79.7825,
+          51.67528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lesnoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.25547,
+          52.46926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebyazh'ye"
+      },
+      "geometry": {
+        "coordinates": [
+          83.65333,
+          53.24361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kytmanovo"
+      },
+      "geometry": {
+        "coordinates": [
+          85.4479,
+          53.4593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulunda"
+      },
+      "geometry": {
+        "coordinates": [
+          78.9385,
+          52.566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krutikha"
+      },
+      "geometry": {
+        "coordinates": [
+          81.2093,
+          53.9599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnyy Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          85.33806,
+          52.3575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnoshchekovo"
+      },
+      "geometry": {
+        "coordinates": [
+          82.72889,
+          51.67083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnogorskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          86.1979,
+          52.2953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosikha"
+      },
+      "geometry": {
+        "coordinates": [
+          84.58222,
+          53.36167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klyuchi"
+      },
+      "geometry": {
+        "coordinates": [
+          79.16868,
+          52.25303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khabary"
+      },
+      "geometry": {
+        "coordinates": [
+          79.5345,
+          53.62588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamen'-na-Obi"
+      },
+      "geometry": {
+        "coordinates": [
+          81.3423,
+          53.7884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalmanka"
+      },
+      "geometry": {
+        "coordinates": [
+          83.54333,
+          52.89917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inya"
+      },
+      "geometry": {
+        "coordinates": [
+          82.6712,
+          53.5044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grishkovka"
+      },
+      "geometry": {
+        "coordinates": [
+          78.751,
+          53.1487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gornyak"
+      },
+      "geometry": {
+        "coordinates": [
+          81.46611,
+          50.99417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gon'ba"
+      },
+      "geometry": {
+        "coordinates": [
+          83.5747,
+          53.4172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheremnoye"
+      },
+      "geometry": {
+        "coordinates": [
+          83.21333,
+          53.16972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charyshskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          83.5598,
+          51.3978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bystryy Istok"
+      },
+      "geometry": {
+        "coordinates": [
+          84.3873,
+          52.371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bystryanka"
+      },
+      "geometry": {
+        "coordinates": [
+          85.82833,
+          52.28611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burla"
+      },
+      "geometry": {
+        "coordinates": [
+          78.3301,
+          53.3362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borovikha"
+      },
+      "geometry": {
+        "coordinates": [
+          83.8379,
+          53.5072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bobrovka"
+      },
+      "geometry": {
+        "coordinates": [
+          83.87639,
+          53.18361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blagoveshchenka"
+      },
+      "geometry": {
+        "coordinates": [
+          79.86667,
+          52.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biysk"
+      },
+      "geometry": {
+        "coordinates": [
+          85.20722,
+          52.53639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berezovka"
+      },
+      "geometry": {
+        "coordinates": [
+          85.82722,
+          52.35111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beloyarsk"
+      },
+      "geometry": {
+        "coordinates": [
+          83.9048,
+          53.4461
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belokurikha"
+      },
+      "geometry": {
+        "coordinates": [
+          84.9896,
+          51.9959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayunovskiye Klyuchi"
+      },
+      "geometry": {
+        "coordinates": [
+          84.18222,
+          53.32806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayevo"
+      },
+      "geometry": {
+        "coordinates": [
+          80.77921,
+          53.27065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bastan"
+      },
+      "geometry": {
+        "coordinates": [
+          79.47444,
+          51.85889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barnaul"
+      },
+      "geometry": {
+        "coordinates": [
+          83.76361,
+          53.36056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aya"
+      },
+      "geometry": {
+        "coordinates": [
+          85.80168,
+          51.94532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anton'yevka"
+      },
+      "geometry": {
+        "coordinates": [
+          83.974,
+          51.9961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altayskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.3325,
+          51.95333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleysk"
+      },
+      "geometry": {
+        "coordinates": [
+          82.7822,
+          52.4926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sibirskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          83.7577,
+          53.5777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novyye Zori"
+      },
+      "geometry": {
+        "coordinates": [
+          83.425,
+          53.24778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.2016,
+          53.4943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarya"
+      },
+      "geometry": {
+        "coordinates": [
+          85.1757,
+          52.59696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomayskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.25769,
+          52.59888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stan-Bekhtemir"
+      },
+      "geometry": {
+        "coordinates": [
+          85.62619,
+          52.60665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kusak"
+      },
+      "geometry": {
+        "coordinates": [
+          78.9337,
+          53.2238
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

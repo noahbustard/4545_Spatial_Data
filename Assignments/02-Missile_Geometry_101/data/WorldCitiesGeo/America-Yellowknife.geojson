@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort McPherson"
+      },
+      "geometry": {
+        "coordinates": [
+          -134.88543,
+          67.43863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Smith"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.88871,
+          60.00439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hay River"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.79993,
+          60.81555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norman Wells"
+      },
+      "geometry": {
+        "coordinates": [
+          -126.8329,
+          65.28201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowknife"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.37248,
+          62.45411
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

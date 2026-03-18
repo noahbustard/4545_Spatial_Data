@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flying Fish Cove"
+      },
+      "geometry": {
+        "coordinates": [
+          105.67912,
+          -10.42172
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

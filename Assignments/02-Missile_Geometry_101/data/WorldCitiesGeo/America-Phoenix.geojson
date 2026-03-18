@@ -1,0 +1,2566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holbrook"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.15818,
+          34.90225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bisbee"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.92841,
+          31.44815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Canyon City"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.15071,
+          34.07087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwater"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.58263,
+          33.03117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckeye"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.58378,
+          33.37032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bullhead City"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.5683,
+          35.14778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bylas"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.12004,
+          33.13428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cactus Flat"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.71619,
+          32.7584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Verde"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.85432,
+          34.56364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Day"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.02649,
+          33.78477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carefree"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.9182,
+          33.82226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Blanca"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.88819,
+          33.12033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.75735,
+          32.8795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casas Adobes"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.9951,
+          32.32341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalina"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.92111,
+          32.50556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalina Foothills"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.9187,
+          32.29785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.9507,
+          33.83337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.95083,
+          33.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandler"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.84125,
+          33.30616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chino Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.45378,
+          34.75752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cibecue"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.48539,
+          34.04477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cienega Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.22467,
+          34.18863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citrus Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.44433,
+          33.54865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarkdale"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.05794,
+          34.77113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claypool"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.84261,
+          33.41117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifton"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.29618,
+          33.0509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colorado City"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.97577,
+          36.99026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congress"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.85074,
+          34.16253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coolidge"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.51762,
+          32.97784
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cordes Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.10349,
+          34.30781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornville"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.92154,
+          34.7178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corona de Tucson"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.77564,
+          31.96536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottonwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.00988,
+          34.73919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desert Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.37246,
+          34.5539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolan Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.27329,
+          35.59194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douglas"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.54534,
+          31.34455
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drexel Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.02843,
+          32.14119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagar"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.29238,
+          34.11124
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Sahuarita"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.92842,
+          31.94286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ehrenberg"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.52523,
+          33.60419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Mirage"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.3246,
+          33.61309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eloy"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.55484,
+          32.7559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Mesa"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.38152,
+          35.83667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flagstaff"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.65127,
+          35.19807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florence"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.38734,
+          33.03145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flowing Wells"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.00982,
+          32.29396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortuna Foothills"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.41189,
+          32.65783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fountain Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.71736,
+          33.61171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredonia"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.52659,
+          36.94554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gila Bend"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.71683,
+          32.94782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilbert"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.78903,
+          33.35283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glendale"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.18599,
+          33.53865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Globe"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.7865,
+          33.39422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.30429,
+          33.29367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.22301,
+          35.22333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodyear"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.35821,
+          33.43532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Canyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.13934,
+          36.05443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Canyon Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.15406,
+          36.04637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.9937,
+          31.85425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.96292,
+          33.37088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huachuca City"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.33397,
+          31.62787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph City"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.33401,
+          34.95586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kachina Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.69266,
+          35.09696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kearny"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.91067,
+          33.05701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingman"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.05301,
+          35.18944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Havasu City"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.32245,
+          34.4839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Montezuma"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.77793,
+          34.63224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake of the Woods"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.98955,
+          34.16393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laveen"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.16932,
+          33.36282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LeChee"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.75291,
+          35.03224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linden"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.15706,
+          34.28504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Litchfield Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.35794,
+          33.49337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammoth"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.64065,
+          32.72257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marana"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.22538,
+          32.43674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maricopa"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.04764,
+          33.05811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayer"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.23627,
+          34.39781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadview"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.06829,
+          36.00221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesa"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.82264,
+          33.42227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mescal"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.43535,
+          31.99008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miami"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.86872,
+          33.39922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohave Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.58885,
+          34.93306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morenci"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.36535,
+          33.07867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountainaire"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.66599,
+          35.08529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naco"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.94813,
+          31.33538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New River"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.13599,
+          33.91587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nogales"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.93425,
+          31.34038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oracle"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.77093,
+          32.61091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oro Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.96649,
+          32.39091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Page"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.45583,
+          36.91472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.94265,
+          33.53115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parker"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.28912,
+          34.15002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parks"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.94877,
+          35.26057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paulden"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.46823,
+          34.88558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Payson"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.32514,
+          34.23087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peach Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.42549,
+          35.52916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peoria"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.23738,
+          33.5806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peridot"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.45538,
+          33.31034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picture Rocks"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.24621,
+          32.34591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pima"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.82835,
+          32.89656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pine"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.45514,
+          34.38447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinetop-Lakeside"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.96038,
+          34.14254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirtleville"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.56352,
+          31.35716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prescott"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.4685,
+          34.54002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prescott Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.31572,
+          34.61002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartzsite"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.22995,
+          33.66391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.6343,
+          33.24866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Verde"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.67569,
+          33.72254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Rico"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.97648,
+          31.47148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacaton"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.7393,
+          33.07672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safford"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.70758,
+          32.83395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahuarita"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.95565,
+          31.95758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint David"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.21424,
+          31.90425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Johns"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.36093,
+          34.50587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salome"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.61465,
+          33.78114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Carlos"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.45504,
+          33.34562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Carlos"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.8507,
+          33.34588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.78218,
+          32.487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Manuel"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.63093,
+          32.59979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.89903,
+          33.50921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sedona"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.76099,
+          34.86974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sells"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.88123,
+          31.91202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Show Low"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.02983,
+          34.25421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra Vista"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.30369,
+          31.55454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snowflake"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.07845,
+          34.51337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somerton"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.70968,
+          32.59644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Tucson"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.96842,
+          32.19952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.15905,
+          34.34503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springerville"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.28834,
+          34.13355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Star Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.25847,
+          34.25504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.95148,
+          32.06702
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun City"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.27182,
+          33.59754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun City West"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.34127,
+          33.66198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.87542,
+          33.21116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.26125,
+          34.2542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Superior"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.09623,
+          33.29395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surprise"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.33322,
+          33.63059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swift Trail Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.71397,
+          32.72979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanque Verde"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.73731,
+          32.25174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.09123,
+          34.46504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.90931,
+          33.41477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempe Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.94348,
+          33.41421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thatcher"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.75925,
+          32.84923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Points"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.31371,
+          32.07675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolleson"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.25932,
+          33.45004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tombstone"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.06758,
+          31.71287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonto Basin"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.29457,
+          33.83171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tortolita"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.01732,
+          32.41035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tubac"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.04592,
+          31.61259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucson"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.92648,
+          32.22174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucson Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.09093,
+          32.18758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vail"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.71203,
+          32.04786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellton"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.14688,
+          32.67283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whetstone"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.34202,
+          31.95731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Mountain Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.99789,
+          34.34865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whiteriver"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.96427,
+          33.83699
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wickenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.72962,
+          33.96864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willcox"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.83201,
+          32.25285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.191,
+          35.24946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williamson"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.54101,
+          34.69002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.60663,
+          34.91195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winslow"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.69736,
+          35.02419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youngtown"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.30294,
+          33.59393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuma"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.6244,
+          32.72532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Sedona"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.80543,
+          34.86724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ajo"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.86071,
+          32.37172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthem"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.14682,
+          33.86726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apache Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.54958,
+          33.41505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arivaca Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.0612,
+          31.72731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona City"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.67096,
+          32.75589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avondale"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.3496,
+          33.4356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avra Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.31539,
+          32.43785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagdad"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.20464,
+          34.58113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaver Dam"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.93274,
+          36.89942
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benson"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.29452,
+          31.96786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.76265,
+          34.7803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewey-Humboldt"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.24222,
+          34.53
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verde Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.01152,
+          34.7105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saddle Brooke"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.87361,
+          32.53472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Village of Oak Creek (Big Park)"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.76227,
+          34.7809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Heights-Midland City"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.81541,
+          33.40372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Canyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.43691,
+          33.37145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heber-Overgaard"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.56956,
+          34.41414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LeChee"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.44063,
+          36.86211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sierra Vista Southeast"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.21637,
+          31.45385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Kingman-Butler"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.03226,
+          35.26504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valencia West"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.11414,
+          32.13238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whetstone"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.33987,
+          31.70105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Tan Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.528,
+          33.1911
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avenue B and C"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.66005,
+          32.71904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centennial Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.98132,
+          36.95381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donovan Estates"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.67822,
+          32.70935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Shores"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.47775,
+          34.78188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Fork"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.96355,
+          34.00167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scenic"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.01275,
+          36.79359
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Six Shooter Canyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.7746,
+          33.36678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle Vista"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.86271,
+          35.41088
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

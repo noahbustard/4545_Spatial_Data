@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varzea Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.1325,
+          -15.64667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Antonio do Leverger"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.07667,
+          -15.86556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosario Oeste"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.4275,
+          -14.83611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rondonopolis"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.63556,
+          -16.47083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poxoreo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.38917,
+          -15.83722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontes e Lacerda"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.33528,
+          -15.22611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocone"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.62278,
+          -16.25667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Olimpia"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.28806,
+          -14.79722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nortelandia"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.80278,
+          -14.45472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nobres"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.3275,
+          -14.72028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucas"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.93333,
+          -16.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaciara"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.96833,
+          -15.96528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiratinga"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.76177,
+          -16.34534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamantino"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.44611,
+          -14.40861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuiaba"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.09667,
+          -15.59611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapada dos Guimaraes"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.74972,
+          -15.46056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barra do Garcas"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.25667,
+          -15.89
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barra do Bugres"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.18111,
+          -15.0725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barao de Melgaco"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.9675,
+          -16.19444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arenapolis"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.84611,
+          -14.45028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alto Araguaia"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.21528,
+          -17.31472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aripuana"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.63333,
+          -9.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alta Floresta"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.08611,
+          -9.87556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinop"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.5025,
+          -11.86417
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

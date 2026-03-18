@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Elizabeth"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.23548,
+          13.01102
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Layou"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.27014,
+          13.20175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.22742,
+          13.15527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.1185,
+          13.28054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chateaubelair"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.24043,
+          13.29069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byera Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.11954,
+          13.25636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biabou"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.13904,
+          13.1943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrouallie"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.27275,
+          13.23676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingstown Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.23161,
+          13.15924
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

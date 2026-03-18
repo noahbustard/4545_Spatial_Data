@@ -1,0 +1,1669 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yalaguina"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.49297,
+          13.48375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiwili"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.8254,
+          13.62679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waspam"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9717,
+          14.74189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waslala"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.38333,
+          13.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Sandino"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.99362,
+          12.0483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle San Francisco"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.28333,
+          12.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LLano de La Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.00833,
+          13.12449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Totogalpa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.49239,
+          13.56269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tola"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.93891,
+          11.43927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tisma"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.01739,
+          12.08194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tipitapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.09706,
+          12.19732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ticuantepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.20493,
+          12.02263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teustepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.79966,
+          12.42002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrabona"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.96474,
+          12.73028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telpaneca"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.2871,
+          13.53166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telica"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.85938,
+          12.522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somoto"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.58208,
+          13.48082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somotillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.90645,
+          13.04328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siuna"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.77725,
+          13.73321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Tomas"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.09059,
+          12.06938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Domingo"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.08078,
+          12.26356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Teresa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.21413,
+          11.74321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa del Penon"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.36994,
+          12.80116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Lucia"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.71099,
+          12.53267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Sebastian de Yali"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.18641,
+          13.3051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Ramon"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83898,
+          12.92344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Rafael del Sur"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.43839,
+          11.84854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Rafael del Norte"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.11059,
+          13.21248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguelito"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.89991,
+          11.40255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Marcos"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.20351,
+          11.90949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Lorenzo"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.66741,
+          12.37781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan de Rio Coco"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.16506,
+          13.54483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan de Oriente"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.07343,
+          11.90624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan del Sur"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.87049,
+          11.25292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan de Limay"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.61234,
+          13.17603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose de los Remates"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.7617,
+          12.59725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose de Cusmapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.65539,
+          13.28841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose de Bocay"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.53942,
+          13.54204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jorge"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.80308,
+          11.45584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Fernando"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.3153,
+          13.6772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Dionisio"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.85018,
+          12.76023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Carlos"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.77795,
+          11.1236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivas"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.82632,
+          11.43716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Blanco"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.22354,
+          12.93435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rama"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.21952,
+          12.15965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quilali"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.026,
+          13.56695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quezalguaque"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.90292,
+          12.50683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Morazan"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.17167,
+          12.85042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Cabezas"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.38882,
+          14.03507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pueblo Nuevo"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.48075,
+          13.37984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potosi"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.8568,
+          11.49416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Posoltega"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.97992,
+          12.54481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paso Real de Cua"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.67335,
+          13.36844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palacaguina"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.40622,
+          13.45566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocotal"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.47516,
+          13.63208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Amanecer"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.19629,
+          12.82247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nueva Guinea"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.45616,
+          11.68758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niquinohomo"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.09446,
+          11.90518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nindiri"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12128,
+          12.00386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nandasmo"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12072,
+          11.92411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nandaime"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.05286,
+          11.75696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagarote"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.56474,
+          12.26593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muy Muy"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.62915,
+          12.76224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murra"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.01843,
+          13.7585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muelle de los Bueyes"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.53503,
+          12.06999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mozonte"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.43841,
+          13.66034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moyogalpa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.69795,
+          11.54006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrito"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.08052,
+          11.62118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matiguas"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.46218,
+          12.83734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matagalpa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.91747,
+          12.92559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masaya"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.09417,
+          11.97444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masatepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.14467,
+          11.9184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masachapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.51416,
+          11.78687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Managua"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.2504,
+          12.13282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leon"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.87804,
+          12.43787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Sabanas"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.62184,
+          13.34302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larreynaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.57193,
+          12.67692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz de Oriente"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12756,
+          11.82331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz Centro"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.67528,
+          12.34
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Libertad"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.16595,
+          12.21635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laguna de Perlas"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.67123,
+          12.34294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Cruz de Rio Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.18588,
+          13.1129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Concordia"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.16674,
+          13.19528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Concepcion"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.18976,
+          11.93711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juigalpa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.36452,
+          12.10629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiquilillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.4516,
+          12.74593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jinotepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.19903,
+          11.84962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jinotega"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.9994,
+          13.08839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12346,
+          13.92221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granada"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.95602,
+          11.92988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esteli"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.35384,
+          13.09185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Viejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.16722,
+          12.6633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Sauce"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.53903,
+          12.88687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Rosario"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.37374,
+          11.77756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Realejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.16466,
+          12.54307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Jicaral"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.38057,
+          12.72676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Crucero"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.30954,
+          11.99008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Ayote"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.28737,
+          12.19046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Almendro"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.70269,
+          11.67859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolores"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.21575,
+          11.85621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diriomo"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.05184,
+          11.87612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diriamba"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.23878,
+          11.85842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diria"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.05508,
+          11.8842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.38196,
+          12.26756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corn Island"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.04175,
+          12.16943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corinto"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.17336,
+          12.48199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Condega"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.39846,
+          13.36502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comalapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.51081,
+          12.28345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Dario"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12402,
+          12.73143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Antigua"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.30815,
+          13.6406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinandega"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.13105,
+          12.62937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chichigalpa"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.02705,
+          12.57758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catarina"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.07383,
+          11.91197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlos Fonseca Amador"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.50571,
+          11.98009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardenas"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.5089,
+          11.19639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camoapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.51157,
+          12.38386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.81661,
+          11.46916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonanza"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.59103,
+          14.02885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocana de Paiwas"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.12269,
+          12.78571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boaco"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.6586,
+          12.47224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluefields"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.76353,
+          12.01366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belen"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.88935,
+          11.50299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altagracia"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.5784,
+          11.56615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acoyapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.17113,
+          11.97028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achuapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.59004,
+          13.0537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Sandino"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.34417,
+          12.15889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Maia de Pantasma"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.94451,
+          13.34809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiwili de Jinotega"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.81676,
+          13.61494
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

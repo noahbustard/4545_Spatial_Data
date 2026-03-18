@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macau"
+      },
+      "geometry": {
+        "coordinates": [
+          113.54611,
+          22.20056
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

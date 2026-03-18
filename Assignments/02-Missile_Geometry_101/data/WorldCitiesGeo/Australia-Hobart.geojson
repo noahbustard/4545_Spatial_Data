@@ -1,0 +1,876 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wynyard"
+      },
+      "geometry": {
+        "coordinates": [
+          145.72617,
+          -40.9897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbury"
+      },
+      "geometry": {
+        "coordinates": [
+          146.83914,
+          -41.52914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warrane"
+      },
+      "geometry": {
+        "coordinates": [
+          147.38297,
+          -42.85546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulverstone"
+      },
+      "geometry": {
+        "coordinates": [
+          146.18242,
+          -41.16026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taroona"
+      },
+      "geometry": {
+        "coordinates": [
+          147.3484,
+          -42.9452
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorell"
+      },
+      "geometry": {
+        "coordinates": [
+          147.56267,
+          -42.78161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithton"
+      },
+      "geometry": {
+        "coordinates": [
+          145.12498,
+          -40.84587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheffield"
+      },
+      "geometry": {
+        "coordinates": [
+          146.33897,
+          -41.39947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottsdale"
+      },
+      "geometry": {
+        "coordinates": [
+          147.51727,
+          -41.1578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandford"
+      },
+      "geometry": {
+        "coordinates": [
+          147.5,
+          -42.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Helens"
+      },
+      "geometry": {
+        "coordinates": [
+          148.23889,
+          -41.32028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosebery"
+      },
+      "geometry": {
+        "coordinates": [
+          145.53825,
+          -41.77941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rokeby"
+      },
+      "geometry": {
+        "coordinates": [
+          147.44917,
+          -42.89875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown"
+      },
+      "geometry": {
+        "coordinates": [
+          145.55646,
+          -42.0805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Sorell"
+      },
+      "geometry": {
+        "coordinates": [
+          146.55283,
+          -41.16652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perth"
+      },
+      "geometry": {
+        "coordinates": [
+          147.17096,
+          -41.57231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penguin"
+      },
+      "geometry": {
+        "coordinates": [
+          146.07318,
+          -41.12258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          147.26659,
+          -42.77758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newstead"
+      },
+      "geometry": {
+        "coordinates": [
+          147.16667,
+          -41.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Norfolk"
+      },
+      "geometry": {
+        "coordinates": [
+          147.0587,
+          -42.78261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newnham"
+      },
+      "geometry": {
+        "coordinates": [
+          147.13127,
+          -41.39714
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moonah"
+      },
+      "geometry": {
+        "coordinates": [
+          147.30228,
+          -42.84617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margate"
+      },
+      "geometry": {
+        "coordinates": [
+          147.26256,
+          -43.02814
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longford"
+      },
+      "geometry": {
+        "coordinates": [
+          147.11887,
+          -41.60512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindisfarne"
+      },
+      "geometry": {
+        "coordinates": [
+          147.36192,
+          -42.84837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Launceston"
+      },
+      "geometry": {
+        "coordinates": [
+          147.13467,
+          -41.43876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lauderdale"
+      },
+      "geometry": {
+        "coordinates": [
+          147.48747,
+          -42.91364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Latrobe"
+      },
+      "geometry": {
+        "coordinates": [
+          146.42458,
+          -41.24641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          147.31941,
+          -42.98021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston"
+      },
+      "geometry": {
+        "coordinates": [
+          147.30351,
+          -42.97638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kettering"
+      },
+      "geometry": {
+        "coordinates": [
+          147.24641,
+          -43.12623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huonville"
+      },
+      "geometry": {
+        "coordinates": [
+          147.04813,
+          -43.03124
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hobart"
+      },
+      "geometry": {
+        "coordinates": [
+          147.32941,
+          -42.87936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granton"
+      },
+      "geometry": {
+        "coordinates": [
+          147.22795,
+          -42.75149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenorchy"
+      },
+      "geometry": {
+        "coordinates": [
+          147.27593,
+          -42.83343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Town"
+      },
+      "geometry": {
+        "coordinates": [
+          146.82606,
+          -41.10559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geeveston"
+      },
+      "geometry": {
+        "coordinates": [
+          146.92549,
+          -43.16337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin"
+      },
+      "geometry": {
+        "coordinates": [
+          147.00906,
+          -43.08884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evandale"
+      },
+      "geometry": {
+        "coordinates": [
+          147.25271,
+          -41.56858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devonport"
+      },
+      "geometry": {
+        "coordinates": [
+          146.35152,
+          -41.17695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deloraine"
+      },
+      "geometry": {
+        "coordinates": [
+          146.65701,
+          -41.52477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cygnet"
+      },
+      "geometry": {
+        "coordinates": [
+          147.07253,
+          -43.15333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claremont"
+      },
+      "geometry": {
+        "coordinates": [
+          147.25,
+          -42.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge"
+      },
+      "geometry": {
+        "coordinates": [
+          147.45,
+          -42.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnie"
+      },
+      "geometry": {
+        "coordinates": [
+          145.90375,
+          -41.05584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridport"
+      },
+      "geometry": {
+        "coordinates": [
+          147.39175,
+          -41.00046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridgewater"
+      },
+      "geometry": {
+        "coordinates": [
+          147.22784,
+          -42.73719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackmans Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          147.31694,
+          -43.00311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berriedale"
+      },
+      "geometry": {
+        "coordinates": [
+          147.25,
+          -42.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellerive"
+      },
+      "geometry": {
+        "coordinates": [
+          147.3703,
+          -42.87551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beauty Point"
+      },
+      "geometry": {
+        "coordinates": [
+          146.82146,
+          -41.16216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaconsfield"
+      },
+      "geometry": {
+        "coordinates": [
+          146.81723,
+          -41.20227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austins Ferry"
+      },
+      "geometry": {
+        "coordinates": [
+          147.25,
+          -42.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayfield"
+      },
+      "geometry": {
+        "coordinates": [
+          147.13052,
+          -41.3876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invermay"
+      },
+      "geometry": {
+        "coordinates": [
+          147.13056,
+          -41.39167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodwood"
+      },
+      "geometry": {
+        "coordinates": [
+          147.29301,
+          -42.82822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lutana"
+      },
+      "geometry": {
+        "coordinates": [
+          147.31152,
+          -42.83475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Town"
+      },
+      "geometry": {
+        "coordinates": [
+          147.30869,
+          -42.85758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          147.32439,
+          -42.89449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Mile Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          147.50532,
+          -42.85863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howrah"
+      },
+      "geometry": {
+        "coordinates": [
+          147.40554,
+          -42.88728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acton Park"
+      },
+      "geometry": {
+        "coordinates": [
+          147.48459,
+          -42.87932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Moonah"
+      },
+      "geometry": {
+        "coordinates": [
+          147.28181,
+          -42.84996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dynnyrne"
+      },
+      "geometry": {
+        "coordinates": [
+          147.31576,
+          -42.90541
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Launceston"
+      },
+      "geometry": {
+        "coordinates": [
+          147.15101,
+          -41.43843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summerhill"
+      },
+      "geometry": {
+        "coordinates": [
+          147.12796,
+          -41.46747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Launceston"
+      },
+      "geometry": {
+        "coordinates": [
+          147.13114,
+          -41.45092
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

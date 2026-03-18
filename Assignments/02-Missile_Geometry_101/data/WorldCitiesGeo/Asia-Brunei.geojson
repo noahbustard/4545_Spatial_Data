@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tutong"
+      },
+      "geometry": {
+        "coordinates": [
+          114.65,
+          4.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seria"
+      },
+      "geometry": {
+        "coordinates": [
+          114.32476,
+          4.60637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuala Belait"
+      },
+      "geometry": {
+        "coordinates": [
+          114.2312,
+          4.58361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.06667,
+          4.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Seri Begawan"
+      },
+      "geometry": {
+        "coordinates": [
+          114.94806,
+          4.94029
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

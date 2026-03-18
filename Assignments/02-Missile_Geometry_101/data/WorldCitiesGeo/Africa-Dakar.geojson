@@ -1,0 +1,772 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ziguinchor"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.27326,
+          12.56801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velingara"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.11667,
+          13.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Touba"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.88333,
+          14.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tionk Essil"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.52167,
+          12.78556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiebo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.23333,
+          14.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiadiaye"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.7,
+          14.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thies Nones"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.96667,
+          14.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thies"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.92602,
+          14.78944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambacounda"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.66734,
+          13.77073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sokone"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.36667,
+          13.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seme"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.94482,
+          15.19422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sedhiou"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.55694,
+          12.70806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Louis"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.48962,
+          16.01793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosso"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.79834,
+          16.42028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard-Toll"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.70083,
+          16.4625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranerou"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.96667,
+          15.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pout"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.06107,
+          14.77099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pourham"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.41667,
+          14.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polel Diaoube"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.0,
+          15.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pikine"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.39071,
+          14.76457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Passi"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.26667,
+          13.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oussouye"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.54694,
+          12.485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouro Sogui"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.3223,
+          15.60588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waounde"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.86821,
+          15.26367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nioro du Rip"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.8,
+          13.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nguekhokh"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.00447,
+          14.51255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndofane"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.93333,
+          13.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndioum"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.64706,
+          16.51293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndibene Dahra"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.4766,
+          15.3338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mekhe"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.6218,
+          15.1097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbake"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.90803,
+          14.79032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matam"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.25544,
+          15.65587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsassoum"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.98056,
+          12.8275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louga"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.22436,
+          15.61867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koungheul"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.8,
+          13.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolda"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.94125,
+          12.8939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khombole"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.7,
+          14.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kedougou"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.18076,
+          12.55561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayar"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.11978,
+          14.91893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaolack"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.07259,
+          14.15197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanel"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.17627,
+          15.4916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaffrine"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.5508,
+          14.10594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joal-Fadiout"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.83333,
+          14.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guinguineo"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.95,
+          14.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gueoul"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.35,
+          15.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golere"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.10165,
+          16.25575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandiaye"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.26667,
+          14.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foundiougne"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.46667,
+          14.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatick"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.40513,
+          14.33236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diourbel"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.24363,
+          14.64792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diofior"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.66667,
+          14.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diawara"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.54374,
+          15.02196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dara"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.47993,
+          15.34844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakar"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.44406,
+          14.6937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bignona"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.22639,
+          12.81028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adeane"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.01694,
+          12.63
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warang"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.94366,
+          14.37349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mermoz Boabab"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.47581,
+          14.70649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N'diareme limamoulaye"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.3841,
+          14.78148
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

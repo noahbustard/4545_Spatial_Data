@@ -1,0 +1,4581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buncrana"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.45,
+          55.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youghal"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.85056,
+          51.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wicklow"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.04944,
+          52.975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitegate"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.22972,
+          51.83056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Garman"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.4575,
+          52.33417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westport"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.51667,
+          53.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watergrasshill"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.34417,
+          52.01139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterford"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.11194,
+          52.25833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.07556,
+          53.83389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tullyallen"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.42278,
+          53.73611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tullow"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.73694,
+          52.80028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tullamore"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.48889,
+          53.27389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuam"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.85,
+          53.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trim"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.79167,
+          53.555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra Mhor"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.15244,
+          52.16235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tralee"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.70264,
+          52.27042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.6,
+          51.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobercurry"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.73333,
+          54.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tipperary"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.15583,
+          52.47333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thurles"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.80222,
+          52.68194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomastown"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.13722,
+          52.52667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Termonfeckin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26778,
+          53.76333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terenure"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.28528,
+          53.30972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Templemore"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.83389,
+          52.79472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallaght"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.37344,
+          53.2859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swords"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.21806,
+          53.45972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swinford"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.95,
+          53.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutton"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.11059,
+          53.38947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stradbally"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.15278,
+          53.01556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stamullin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26833,
+          53.62889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sligo"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.46943,
+          54.26969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slane"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.54333,
+          53.71
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skibbereen"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.26667,
+          51.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skerries"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.10833,
+          53.58278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sixmilebridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.77417,
+          52.74139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shankill"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.12444,
+          53.22611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandymount"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.21139,
+          53.335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sallins"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.66611,
+          53.24889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saggart"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.44444,
+          53.28028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Ros"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.10497,
+          53.52424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosslare"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.38444,
+          52.27583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roscrea"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.80167,
+          52.95111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roscommon"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.18333,
+          53.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rochfortbridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.29611,
+          53.41417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringsend"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.22639,
+          53.34194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ratoath"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.4625,
+          53.50806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathwire"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.1351,
+          53.50767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathnew"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.08528,
+          52.99056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathmines"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26333,
+          53.32028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramelton"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.64923,
+          55.03673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathkeale"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.93806,
+          52.52444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathdrum"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23556,
+          52.92639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathdowney"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.58028,
+          52.85472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathcormac"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.28194,
+          52.07694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathcoole"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.47278,
+          53.28278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathangan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.995,
+          53.22139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raphoe"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.59833,
+          54.87472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raheny"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18067,
+          53.38681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prosperous"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.75389,
+          53.29028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portumna"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.21889,
+          53.08917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portmarnock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.1375,
+          53.42306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portlaw"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.32056,
+          52.28833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portlaoise"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.29979,
+          53.03441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portarlington"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.19111,
+          53.16222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piltown"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.34028,
+          52.35333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daingean"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.28944,
+          53.29611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Passage West"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.34444,
+          51.87389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oughterard"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.33333,
+          53.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranmore"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.92,
+          53.26833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Kilcullen"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.76528,
+          53.10639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oldcastle"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.16284,
+          53.76648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newtown Trim"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.77,
+          53.55611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newtown Cunningham"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.51917,
+          54.99639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Ross"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.93667,
+          52.39667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newport"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.40972,
+          52.71111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newmarket on Fergus"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.89556,
+          52.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.50222,
+          53.30111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle West"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.06111,
+          52.44917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Droichead Nua"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.79667,
+          53.18194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nenagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.19667,
+          52.86194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.68139,
+          53.65278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naas"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.66694,
+          53.21583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Muileann gCearr"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.35,
+          53.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mullagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.95139,
+          53.81306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muff"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.26667,
+          55.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moycullen"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.18002,
+          53.33783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moville"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.05,
+          55.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountrath"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.47278,
+          52.99889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountmellick"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.32,
+          53.11361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moroe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.39611,
+          52.65111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moone"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.815,
+          52.97556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mooncoin"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.24833,
+          52.28944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.15312,
+          53.29308
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monasterevin"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.06639,
+          53.14056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monaghan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.96667,
+          54.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moate"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.71667,
+          53.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitchelstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.26806,
+          52.26583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millstreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.06667,
+          52.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midleton"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.18052,
+          51.91526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Merrion"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.21504,
+          53.30008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maynooth"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.59361,
+          53.385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marino"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23646,
+          53.37022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manorhamilton"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.17611,
+          54.30639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mallow"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.63333,
+          52.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malahide"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.15444,
+          53.45083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macroom"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.95,
+          51.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lusk"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.16423,
+          53.52743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.44859,
+          53.35736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loughrea"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.56694,
+          53.19694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loughlinstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.13306,
+          53.24389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.92194,
+          53.45389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longford"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.79823,
+          53.72536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Listowel"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.485,
+          52.44639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luimneach"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.62306,
+          52.66472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leifear"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.48361,
+          54.83194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Letterkenny"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.73333,
+          54.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leixlip"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.49556,
+          53.36583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laytown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23917,
+          53.68194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandhill"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.59333,
+          54.27194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanesborough"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.98333,
+          53.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinsale"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.53056,
+          51.7075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinnegad"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.09972,
+          53.45222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinlough"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.28333,
+          54.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingscourt"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.80556,
+          53.90806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiltamagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.0,
+          53.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilrush"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.48333,
+          52.63972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilmallock"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.57722,
+          52.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killybegs"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.45,
+          54.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killumney"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.65,
+          51.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killorglin"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.78333,
+          52.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cill Airne"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.51667,
+          52.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killaloe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.44361,
+          52.80667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilkenny"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.25222,
+          52.65417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kildare"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.91444,
+          53.15611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilcullen"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.74444,
+          53.13028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilcoole"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.065,
+          53.10278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilcock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.67083,
+          53.40222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilbeggan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.50333,
+          53.36944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenmare"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.58333,
+          51.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kells"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.87917,
+          53.72639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanturk"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.9,
+          52.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.62222,
+          53.23833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inishcrone"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.1,
+          54.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howth"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.06528,
+          53.38778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gweedore"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.23194,
+          55.05028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greystones"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.06306,
+          53.14083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granard"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.5,
+          53.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graiguenamanagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.95472,
+          52.54028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gort"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.81667,
+          53.06639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorey"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2925,
+          52.67472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasnevin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26417,
+          53.38028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaillimh"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.04889,
+          53.27194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxford"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.11551,
+          53.9807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finglas"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.29694,
+          53.38917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fethard"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.69111,
+          52.46722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferns"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.49972,
+          52.58833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fermoy"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.27583,
+          52.13583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferbane"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.82694,
+          53.26944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enniskerry"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.16917,
+          53.1925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enniscorthy"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.55778,
+          52.50083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ennis"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.98639,
+          52.84361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.83229,
+          53.41419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edgeworthstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.61667,
+          53.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edenderry"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.04972,
+          53.34528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunshaughlin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.54,
+          53.5125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunmore East"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.98611,
+          52.15139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunmanway"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.11667,
+          51.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunlewy"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.1,
+          55.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunleer"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.39611,
+          53.835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dun Laoghaire"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.13586,
+          53.29395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dungloe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.35917,
+          54.95111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dungarvan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.62528,
+          52.08806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundrum"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.25714,
+          53.29067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundalk"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.41667,
+          54.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunboyne"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.46667,
+          53.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duleek"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.41917,
+          53.65667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.24889,
+          53.33306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dromiskin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.41139,
+          53.9275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drogheda"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.34778,
+          53.71889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donnybrook"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.22274,
+          53.31375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donegal"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.11134,
+          54.65378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donabate"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.15194,
+          53.48722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dollymount"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18032,
+          53.36489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dingle"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.26889,
+          52.14083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrybeg"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.28944,
+          55.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derry"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.05026,
+          51.58666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrinturn"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.94111,
+          53.34167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalkey"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.10028,
+          53.27833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crumlin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.32861,
+          53.32417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crossmolina"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.31667,
+          54.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosshaven"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.30083,
+          51.79833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croom"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.71778,
+          52.51944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courtown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.22899,
+          52.64424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cork"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.47061,
+          51.89797
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cootehill"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.08194,
+          54.0725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Convoy"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.66556,
+          54.86083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collooney"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.5,
+          54.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cobh"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.29917,
+          51.85722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cloyne"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.12444,
+          51.86278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cluain Meala"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.70389,
+          52.355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clones"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.23333,
+          54.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clondalkin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.39722,
+          53.32444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clonakilty"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.87056,
+          51.62306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clogherhead"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2375,
+          53.79361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifden"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.0191,
+          53.48907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claremorris"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.0,
+          53.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claregalway"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.945,
+          53.33861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clara"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.61389,
+          53.3425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clane"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.68917,
+          53.29139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherryville"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.96667,
+          53.15694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rath Luirc"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.68333,
+          52.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapelizod"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.34667,
+          53.34889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Celbridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.54361,
+          53.33861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cavan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.36056,
+          53.99083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlerea"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.5,
+          53.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlepollard"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.3,
+          53.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlemartyr"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.05389,
+          51.91028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castleknock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.36336,
+          53.37483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castleisland"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.46667,
+          52.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castledermot"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.84222,
+          52.90889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlecomer"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.21056,
+          52.80611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlebridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.44944,
+          52.38639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castleblayney"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.73333,
+          54.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlebellingham"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.39028,
+          53.90083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlebar"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.3,
+          53.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cashel"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.88556,
+          52.51583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrigtwohill"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.26333,
+          51.90833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrigaline"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.39861,
+          51.81167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrick-on-Suir"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.41306,
+          52.34917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrick-on-Shannon"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.09,
+          53.94694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrickmacross"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.71889,
+          53.97278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnew"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.49444,
+          52.70806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carndonagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.26667,
+          55.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlow"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.92611,
+          52.84083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlingford"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18833,
+          54.04
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Callan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.39111,
+          52.545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahersiveen"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.22222,
+          51.94861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caherconlish"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.47028,
+          52.59361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahir"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.92167,
+          52.37694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabinteely"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.16058,
+          53.26973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bundoran"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.28094,
+          54.47782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunclody"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.65359,
+          52.6553
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bray"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.09833,
+          53.20278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.3,
+          53.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessington"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.5325,
+          53.17
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blarney"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.56667,
+          51.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blanchardstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.37556,
+          53.38806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackrock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.36514,
+          53.96405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackrock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.1778,
+          53.3015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birr"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.91333,
+          53.09139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belturbet"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.45,
+          54.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmullet"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.99083,
+          54.225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bearna"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.14972,
+          53.25194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bantry"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.45,
+          51.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandon"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.7425,
+          51.74694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banagher"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.98667,
+          53.18861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltinglass"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.70917,
+          52.93722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balrothery"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18728,
+          53.58828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyshannon"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.18333,
+          54.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyragget"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.33028,
+          52.78889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballymote"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.51667,
+          54.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballymahon"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.76667,
+          53.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyjamesduff"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.20278,
+          53.86528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyhaunis"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.76667,
+          53.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyconnell"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.58333,
+          54.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballybunnion"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.67097,
+          52.51108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballybofey"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.78333,
+          54.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyboden"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.31639,
+          53.28056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballivor"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.96111,
+          53.53167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballinrobe"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.23333,
+          53.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballinasloe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.21944,
+          53.3275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballina"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.16667,
+          54.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballina"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.43556,
+          52.80778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballaghaderreen"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.58333,
+          53.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baldoyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.12583,
+          53.39972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balbriggan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18194,
+          53.61278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bailieborough"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.96667,
+          53.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagenalstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.96181,
+          52.70031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aughrim"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.3275,
+          52.85333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athy"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.98028,
+          52.99139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athlone"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.95,
+          53.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athgarvan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.805,
+          53.15389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athenry"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.74306,
+          53.29639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athboy"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.91434,
+          53.62327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askeaton"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.97556,
+          52.59972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashbourne"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.39821,
+          53.51163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arklow"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.14139,
+          52.79306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardnacrusha"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.61431,
+          52.70908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardee"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.54056,
+          53.85972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aghada"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.21222,
+          51.83917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adare"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.79556,
+          52.56194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbeyleix"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.3575,
+          52.89917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbeyfeale"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.3025,
+          52.38139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castletown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18944,
+          52.72306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portraine"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.11111,
+          53.49667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballygerry"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.35739,
+          52.24917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballinroad"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.40619,
+          52.51789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annacotty"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.54722,
+          52.66806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castleconnell"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.49944,
+          52.71389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nenagh Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.19583,
+          52.88167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shannon"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.86417,
+          52.70389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moate"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.71722,
+          53.39389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kill"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.59167,
+          53.25139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashford"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.11139,
+          53.00833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilpedder"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.10667,
+          53.10917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valleymount"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.55361,
+          53.10389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilmacanoge"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.13361,
+          53.16722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eadestown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.57806,
+          53.20278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Bray"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.12083,
+          53.20444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.33917,
+          53.28167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandyford"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2253,
+          53.2747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxrock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.17417,
+          53.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sallynoggin"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.14058,
+          53.27917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rathgar"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.275,
+          53.31457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artane"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2138,
+          53.38712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaumont"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.24056,
+          53.39139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumcondra"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.25298,
+          53.37058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballymun"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26693,
+          53.39807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabra"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.29444,
+          53.36694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hartstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.42694,
+          53.39306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballyfermot"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.35889,
+          53.34528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Templeogue"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.30889,
+          53.29528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oldbawn"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.3675,
+          53.27556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherry Orchard"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.37799,
+          53.33605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rialto"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.29718,
+          53.33625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milltown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2453,
+          53.31301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clonskeagh"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23148,
+          53.31467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Booterstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.19985,
+          53.30447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballinteer"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.25397,
+          53.27409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenhills"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.30302,
+          53.33467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coolock"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.19998,
+          53.3887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonnybrook"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.20749,
+          53.39835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donaghmede"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.16179,
+          53.39845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darndale"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18886,
+          53.39948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donnycarney"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.20976,
+          53.3735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayside"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.14041,
+          53.38895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlesland"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.06347,
+          53.12771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moyross"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.63955,
+          52.68198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballisodare"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.50865,
+          54.2111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballylinan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.04073,
+          52.94497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairview"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23985,
+          53.36597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knocklyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.3313,
+          53.2803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmerstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.37778,
+          53.35019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jobstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.40803,
+          53.27866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killester"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.20431,
+          53.37322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Confey"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.49052,
+          53.37923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kentstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.52674,
+          53.62754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilquade"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.08411,
+          53.09743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newtownmountkennedy"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.11149,
+          53.09052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balally"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.23594,
+          53.27504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinsealy-Drinan"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.20334,
+          53.44395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farranacoush"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.41228,
+          51.48304
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Currie"
+      },
+      "geometry": {
+        "coordinates": [
+          143.85385,
+          -39.92976
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

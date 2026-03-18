@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bessemer"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.05295,
+          46.48134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.33402,
+          46.09801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.06596,
+          45.82023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron River"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.64235,
+          46.09273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ironwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.17101,
+          46.45467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingsford"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.07207,
+          45.79496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menominee"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.61427,
+          45.10776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.90374,
+          45.7869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinnesec"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.98846,
+          45.80635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stambaugh, Iron River"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.62708,
+          46.08107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wakefield"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.93989,
+          46.47523
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

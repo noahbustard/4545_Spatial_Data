@@ -1,0 +1,1253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verdun"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55476,
+          -20.23417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vacoas"
+      },
+      "geometry": {
+        "coordinates": [
+          57.47833,
+          -20.29806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triolet"
+      },
+      "geometry": {
+        "coordinates": [
+          57.54528,
+          -20.05472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Vale"
+      },
+      "geometry": {
+        "coordinates": [
+          57.58778,
+          -20.02833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terre Rouge"
+      },
+      "geometry": {
+        "coordinates": [
+          57.52444,
+          -20.12611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamarin"
+      },
+      "geometry": {
+        "coordinates": [
+          57.37056,
+          -20.32556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surinam"
+      },
+      "geometry": {
+        "coordinates": [
+          57.50528,
+          -20.50972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Souillac"
+      },
+      "geometry": {
+        "coordinates": [
+          57.51667,
+          -20.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sebastopol"
+      },
+      "geometry": {
+        "coordinates": [
+          57.68779,
+          -20.2907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Pierre"
+      },
+      "geometry": {
+        "coordinates": [
+          57.52083,
+          -20.2175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Julien"
+      },
+      "geometry": {
+        "coordinates": [
+          57.63639,
+          -20.22639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Hubert"
+      },
+      "geometry": {
+        "coordinates": [
+          57.63833,
+          -20.36417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Aubin"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55,
+          -20.496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morcellemont Saint Andre"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55806,
+          -20.07306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Belle"
+      },
+      "geometry": {
+        "coordinates": [
+          57.59667,
+          -20.40028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roche Terre"
+      },
+      "geometry": {
+        "coordinates": [
+          57.64472,
+          -20.01861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roches Noire"
+      },
+      "geometry": {
+        "coordinates": [
+          57.71222,
+          -20.11111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Riviere Noire"
+      },
+      "geometry": {
+        "coordinates": [
+          57.36611,
+          -20.36028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riviere du Rempart"
+      },
+      "geometry": {
+        "coordinates": [
+          57.68472,
+          -20.10306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riviere des Anguilles"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55083,
+          -20.48528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          57.7075,
+          -20.22
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quatre Soeurs"
+      },
+      "geometry": {
+        "coordinates": [
+          57.77056,
+          -20.29917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quatre Bornes"
+      },
+      "geometry": {
+        "coordinates": [
+          57.4791,
+          -20.26381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartier Militaire"
+      },
+      "geometry": {
+        "coordinates": [
+          57.59737,
+          -20.2479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Providence"
+      },
+      "geometry": {
+        "coordinates": [
+          57.61222,
+          -20.24472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poste de Flacq"
+      },
+      "geometry": {
+        "coordinates": [
+          57.73056,
+          -20.16306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Louis"
+      },
+      "geometry": {
+        "coordinates": [
+          57.49889,
+          -20.16194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaine Magnien"
+      },
+      "geometry": {
+        "coordinates": [
+          57.66968,
+          -20.42967
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaine des Papayes"
+      },
+      "geometry": {
+        "coordinates": [
+          57.5725,
+          -20.065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petit Raffray"
+      },
+      "geometry": {
+        "coordinates": [
+          57.61194,
+          -20.01333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petite Riviere"
+      },
+      "geometry": {
+        "coordinates": [
+          57.44592,
+          -20.19551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petite Case Noyale"
+      },
+      "geometry": {
+        "coordinates": [
+          57.365,
+          -20.39306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pamplemousses"
+      },
+      "geometry": {
+        "coordinates": [
+          57.57028,
+          -20.10389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pailles"
+      },
+      "geometry": {
+        "coordinates": [
+          57.48826,
+          -20.19271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivia"
+      },
+      "geometry": {
+        "coordinates": [
+          57.73097,
+          -20.28778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nouvelle France"
+      },
+      "geometry": {
+        "coordinates": [
+          57.56111,
+          -20.37056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Notre Dame"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55306,
+          -20.14056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Grove"
+      },
+      "geometry": {
+        "coordinates": [
+          57.61361,
+          -20.40861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piton"
+      },
+      "geometry": {
+        "coordinates": [
+          57.63028,
+          -20.09028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montagne Blanche"
+      },
+      "geometry": {
+        "coordinates": [
+          57.65865,
+          -20.28538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moka"
+      },
+      "geometry": {
+        "coordinates": [
+          57.49583,
+          -20.21889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midlands"
+      },
+      "geometry": {
+        "coordinates": [
+          57.57016,
+          -20.31907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melrose"
+      },
+      "geometry": {
+        "coordinates": [
+          57.63194,
+          -20.26972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahebourg"
+      },
+      "geometry": {
+        "coordinates": [
+          57.7,
+          -20.40806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          57.56222,
+          -20.14306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalmatie"
+      },
+      "geometry": {
+        "coordinates": [
+          57.66111,
+          -20.18972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dagotiere"
+      },
+      "geometry": {
+        "coordinates": [
+          57.56188,
+          -20.24476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Sable"
+      },
+      "geometry": {
+        "coordinates": [
+          57.76444,
+          -20.31417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Riviere Sud Est"
+      },
+      "geometry": {
+        "coordinates": [
+          57.77583,
+          -20.28611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Gaube"
+      },
+      "geometry": {
+        "coordinates": [
+          57.66083,
+          -20.00639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Baie"
+      },
+      "geometry": {
+        "coordinates": [
+          57.58015,
+          -20.01816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Bois"
+      },
+      "geometry": {
+        "coordinates": [
+          57.54417,
+          -20.41889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodlands"
+      },
+      "geometry": {
+        "coordinates": [
+          57.64306,
+          -20.035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fond du Sac"
+      },
+      "geometry": {
+        "coordinates": [
+          57.57861,
+          -20.04306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flic en Flac"
+      },
+      "geometry": {
+        "coordinates": [
+          57.36306,
+          -20.27417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esperance Trebuchet"
+      },
+      "geometry": {
+        "coordinates": [
+          57.64194,
+          -20.06972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curepipe"
+      },
+      "geometry": {
+        "coordinates": [
+          57.52028,
+          -20.31472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creve Coeur"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55722,
+          -20.19111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clemencia"
+      },
+      "geometry": {
+        "coordinates": [
+          57.70611,
+          -20.26389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chemin Grenier"
+      },
+      "geometry": {
+        "coordinates": [
+          57.46556,
+          -20.48722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chamouny"
+      },
+      "geometry": {
+        "coordinates": [
+          57.46611,
+          -20.48222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre de Flacq"
+      },
+      "geometry": {
+        "coordinates": [
+          57.71444,
+          -20.18972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascavelle"
+      },
+      "geometry": {
+        "coordinates": [
+          57.40722,
+          -20.28694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cap Malheureux"
+      },
+      "geometry": {
+        "coordinates": [
+          57.61417,
+          -19.98417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Thorel"
+      },
+      "geometry": {
+        "coordinates": [
+          57.61611,
+          -20.21472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Diable"
+      },
+      "geometry": {
+        "coordinates": [
+          57.57889,
+          -20.46278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp de Masque"
+      },
+      "geometry": {
+        "coordinates": [
+          57.66333,
+          -20.23694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brisee Verdiere"
+      },
+      "geometry": {
+        "coordinates": [
+          57.64667,
+          -20.16389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bon Accueil"
+      },
+      "geometry": {
+        "coordinates": [
+          57.65639,
+          -20.17083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bois des Amourettes"
+      },
+      "geometry": {
+        "coordinates": [
+          57.73111,
+          -20.36306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bel Air Riviere Seche"
+      },
+      "geometry": {
+        "coordinates": [
+          57.74976,
+          -20.25777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beau Vallon"
+      },
+      "geometry": {
+        "coordinates": [
+          57.69528,
+          -20.41889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beau Bassin"
+      },
+      "geometry": {
+        "coordinates": [
+          57.45833,
+          -20.21944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albion"
+      },
+      "geometry": {
+        "coordinates": [
+          57.40083,
+          -20.21167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laventure"
+      },
+      "geometry": {
+        "coordinates": [
+          57.67667,
+          -20.14583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cluny"
+      },
+      "geometry": {
+        "coordinates": [
+          57.60389,
+          -20.36694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottage"
+      },
+      "geometry": {
+        "coordinates": [
+          57.62917,
+          -20.05972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Pointe aux Piments"
+      },
+      "geometry": {
+        "coordinates": [
+          57.51306,
+          -20.06278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congomah"
+      },
+      "geometry": {
+        "coordinates": [
+          57.59083,
+          -20.14889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaury"
+      },
+      "geometry": {
+        "coordinates": [
+          57.65917,
+          -20.13083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaines des Roches"
+      },
+      "geometry": {
+        "coordinates": [
+          57.69083,
+          -20.11167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mare La Chaux"
+      },
+      "geometry": {
+        "coordinates": [
+          57.74944,
+          -20.19806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quatre Cocos"
+      },
+      "geometry": {
+        "coordinates": [
+          57.7625,
+          -20.20778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Ithier"
+      },
+      "geometry": {
+        "coordinates": [
+          57.74556,
+          -20.21583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecroignard"
+      },
+      "geometry": {
+        "coordinates": [
+          57.73611,
+          -20.22611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bambous Virieux"
+      },
+      "geometry": {
+        "coordinates": [
+          57.7575,
+          -20.34278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebene"
+      },
+      "geometry": {
+        "coordinates": [
+          57.49163,
+          -20.24494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Cailloux"
+      },
+      "geometry": {
+        "coordinates": [
+          57.43,
+          -20.20722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapou"
+      },
+      "geometry": {
+        "coordinates": [
+          57.60139,
+          -20.07583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubreuil"
+      },
+      "geometry": {
+        "coordinates": [
+          57.59861,
+          -20.30132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Hochet"
+      },
+      "geometry": {
+        "coordinates": [
+          57.52111,
+          -20.135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calebasses"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55389,
+          -20.11167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arsenal"
+      },
+      "geometry": {
+        "coordinates": [
+          57.53528,
+          -20.10556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Mathurin"
+      },
+      "geometry": {
+        "coordinates": [
+          63.41667,
+          -19.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baie aux Huitres"
+      },
+      "geometry": {
+        "coordinates": [
+          63.40833,
+          -19.69444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cargados Carajos"
+      },
+      "geometry": {
+        "coordinates": [
+          59.65851,
+          -16.60329
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

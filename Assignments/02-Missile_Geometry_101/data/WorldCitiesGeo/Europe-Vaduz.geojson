@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaduz"
+      },
+      "geometry": {
+        "coordinates": [
+          9.52154,
+          47.14151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triesenberg"
+      },
+      "geometry": {
+        "coordinates": [
+          9.54197,
+          47.11815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triesen"
+      },
+      "geometry": {
+        "coordinates": [
+          9.52815,
+          47.10752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schellenberg"
+      },
+      "geometry": {
+        "coordinates": [
+          9.54678,
+          47.23123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schaan"
+      },
+      "geometry": {
+        "coordinates": [
+          9.50867,
+          47.16498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruggell"
+      },
+      "geometry": {
+        "coordinates": [
+          9.5254,
+          47.23799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planken"
+      },
+      "geometry": {
+        "coordinates": [
+          9.54437,
+          47.18516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauren"
+      },
+      "geometry": {
+        "coordinates": [
+          9.5442,
+          47.21805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamprin"
+      },
+      "geometry": {
+        "coordinates": [
+          9.50935,
+          47.22038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschen"
+      },
+      "geometry": {
+        "coordinates": [
+          9.52223,
+          47.21071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balzers"
+      },
+      "geometry": {
+        "coordinates": [
+          9.50251,
+          47.06665
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

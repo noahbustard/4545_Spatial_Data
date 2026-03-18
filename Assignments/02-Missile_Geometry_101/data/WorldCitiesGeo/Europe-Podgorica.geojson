@@ -1,0 +1,486 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rozaje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.16652,
+          42.83299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zabljak"
+      },
+      "geometry": {
+        "coordinates": [
+          19.12325,
+          43.15423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulcinj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.22436,
+          41.92936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuzi"
+      },
+      "geometry": {
+        "coordinates": [
+          19.33139,
+          42.36556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tivat"
+      },
+      "geometry": {
+        "coordinates": [
+          18.69611,
+          42.43639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutomore"
+      },
+      "geometry": {
+        "coordinates": [
+          19.04667,
+          42.14278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stari Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.136,
+          42.097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spuz"
+      },
+      "geometry": {
+        "coordinates": [
+          19.195,
+          42.515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savnik"
+      },
+      "geometry": {
+        "coordinates": [
+          19.09667,
+          42.95639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Risan"
+      },
+      "geometry": {
+        "coordinates": [
+          18.69556,
+          42.515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prcanj"
+      },
+      "geometry": {
+        "coordinates": [
+          18.74222,
+          42.4575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Podgorica"
+      },
+      "geometry": {
+        "coordinates": [
+          19.26361,
+          42.44111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pluzine"
+      },
+      "geometry": {
+        "coordinates": [
+          18.83944,
+          43.15278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pljevlja"
+      },
+      "geometry": {
+        "coordinates": [
+          19.35843,
+          43.3567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plav"
+      },
+      "geometry": {
+        "coordinates": [
+          19.94556,
+          42.59694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrovac na Moru"
+      },
+      "geometry": {
+        "coordinates": [
+          18.9425,
+          42.20556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niksic"
+      },
+      "geometry": {
+        "coordinates": [
+          18.94446,
+          42.7731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mojkovac"
+      },
+      "geometry": {
+        "coordinates": [
+          19.5833,
+          42.96044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mojanovici"
+      },
+      "geometry": {
+        "coordinates": [
+          19.22139,
+          42.34167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mataguzi"
+      },
+      "geometry": {
+        "coordinates": [
+          19.27278,
+          42.32361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lipci"
+      },
+      "geometry": {
+        "coordinates": [
+          18.65806,
+          42.49722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotor"
+      },
+      "geometry": {
+        "coordinates": [
+          18.76825,
+          42.42067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolasin"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51653,
+          42.82229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berane"
+      },
+      "geometry": {
+        "coordinates": [
+          19.87333,
+          42.8425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igalo"
+      },
+      "geometry": {
+        "coordinates": [
+          18.50647,
+          42.46007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herceg-Novi"
+      },
+      "geometry": {
+        "coordinates": [
+          18.5375,
+          42.45306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golubovci"
+      },
+      "geometry": {
+        "coordinates": [
+          19.23111,
+          42.335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dobrota"
+      },
+      "geometry": {
+        "coordinates": [
+          18.76833,
+          42.45417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danilovgrad"
+      },
+      "geometry": {
+        "coordinates": [
+          19.14608,
+          42.55384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cetinje"
+      },
+      "geometry": {
+        "coordinates": [
+          18.91417,
+          42.39063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budva"
+      },
+      "geometry": {
+        "coordinates": [
+          18.84,
+          42.28639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bijelo Polje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.74758,
+          43.03834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bijela"
+      },
+      "geometry": {
+        "coordinates": [
+          18.65556,
+          42.45333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.10028,
+          42.09306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrijevica"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79194,
+          42.73389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petnjica"
+      },
+      "geometry": {
+        "coordinates": [
+          19.96444,
+          42.90889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susanj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.08833,
+          42.11556
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

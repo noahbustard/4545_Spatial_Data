@@ -1,0 +1,1734 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valmiera"
+      },
+      "geometry": {
+        "coordinates": [
+          25.42751,
+          57.54108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zilupe"
+      },
+      "geometry": {
+        "coordinates": [
+          28.12165,
+          56.38616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zelmeni"
+      },
+      "geometry": {
+        "coordinates": [
+          23.35194,
+          56.45167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilaka"
+      },
+      "geometry": {
+        "coordinates": [
+          27.6722,
+          57.18458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilani"
+      },
+      "geometry": {
+        "coordinates": [
+          26.92449,
+          56.55253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viesite"
+      },
+      "geometry": {
+        "coordinates": [
+          25.55514,
+          56.34751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vecumnieki"
+      },
+      "geometry": {
+        "coordinates": [
+          24.52222,
+          56.60639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ventspils"
+      },
+      "geometry": {
+        "coordinates": [
+          21.57288,
+          57.38988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vecvarkava"
+      },
+      "geometry": {
+        "coordinates": [
+          26.50811,
+          56.19838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vecpiebalga"
+      },
+      "geometry": {
+        "coordinates": [
+          25.81624,
+          57.0609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varaklani"
+      },
+      "geometry": {
+        "coordinates": [
+          26.75377,
+          56.60826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangazi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.54861,
+          57.09361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valka"
+      },
+      "geometry": {
+        "coordinates": [
+          26.01013,
+          57.7752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valdemarpils"
+      },
+      "geometry": {
+        "coordinates": [
+          22.59188,
+          57.37068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vainode"
+      },
+      "geometry": {
+        "coordinates": [
+          21.86667,
+          56.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulbroka"
+      },
+      "geometry": {
+        "coordinates": [
+          24.30387,
+          56.9363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tukums"
+      },
+      "geometry": {
+        "coordinates": [
+          23.15528,
+          56.96694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tireli"
+      },
+      "geometry": {
+        "coordinates": [
+          23.58902,
+          56.83991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tervete"
+      },
+      "geometry": {
+        "coordinates": [
+          23.38895,
+          56.47989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talsi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.58137,
+          57.24562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strenci"
+      },
+      "geometry": {
+        "coordinates": [
+          25.68535,
+          57.62574
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stende"
+      },
+      "geometry": {
+        "coordinates": [
+          22.53482,
+          57.14497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stalbe"
+      },
+      "geometry": {
+        "coordinates": [
+          25.03106,
+          57.37065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staicele"
+      },
+      "geometry": {
+        "coordinates": [
+          24.75,
+          57.83639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smiltene"
+      },
+      "geometry": {
+        "coordinates": [
+          25.90164,
+          57.42444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smarde"
+      },
+      "geometry": {
+        "coordinates": [
+          23.33736,
+          56.9542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skrunda"
+      },
+      "geometry": {
+        "coordinates": [
+          22.01667,
+          56.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skriveri"
+      },
+      "geometry": {
+        "coordinates": [
+          25.12058,
+          56.645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigulda"
+      },
+      "geometry": {
+        "coordinates": [
+          24.86472,
+          57.15194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seda"
+      },
+      "geometry": {
+        "coordinates": [
+          25.75,
+          57.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saulkrasti"
+      },
+      "geometry": {
+        "coordinates": [
+          24.41471,
+          57.26224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saldus"
+      },
+      "geometry": {
+        "coordinates": [
+          22.48807,
+          56.66363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salaspils"
+      },
+      "geometry": {
+        "coordinates": [
+          24.36544,
+          56.86014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salacgriva"
+      },
+      "geometry": {
+        "coordinates": [
+          24.35806,
+          57.75361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sala"
+      },
+      "geometry": {
+        "coordinates": [
+          25.76423,
+          56.50675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabile"
+      },
+      "geometry": {
+        "coordinates": [
+          22.57261,
+          57.04577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rujiena"
+      },
+      "geometry": {
+        "coordinates": [
+          25.33155,
+          57.89752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rugaji"
+      },
+      "geometry": {
+        "coordinates": [
+          27.13333,
+          57.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rucava"
+      },
+      "geometry": {
+        "coordinates": [
+          21.16156,
+          56.16314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garkalne"
+      },
+      "geometry": {
+        "coordinates": [
+          24.41951,
+          57.04486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ropazi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.63361,
+          56.97389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roja"
+      },
+      "geometry": {
+        "coordinates": [
+          22.80881,
+          57.50146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riga"
+      },
+      "geometry": {
+        "coordinates": [
+          24.10589,
+          56.946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riebini"
+      },
+      "geometry": {
+        "coordinates": [
+          26.79995,
+          56.3428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rezekne"
+      },
+      "geometry": {
+        "coordinates": [
+          27.34,
+          56.51028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rauna"
+      },
+      "geometry": {
+        "coordinates": [
+          25.60947,
+          57.33173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ragana"
+      },
+      "geometry": {
+        "coordinates": [
+          24.70731,
+          57.18074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Priekuli"
+      },
+      "geometry": {
+        "coordinates": [
+          25.36147,
+          57.315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Priekule"
+      },
+      "geometry": {
+        "coordinates": [
+          21.58968,
+          56.44679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preili"
+      },
+      "geometry": {
+        "coordinates": [
+          26.72459,
+          56.29444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plavinas"
+      },
+      "geometry": {
+        "coordinates": [
+          25.72552,
+          56.6178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinki"
+      },
+      "geometry": {
+        "coordinates": [
+          23.91365,
+          56.94189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piltene"
+      },
+      "geometry": {
+        "coordinates": [
+          21.67439,
+          57.22426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilsrundale"
+      },
+      "geometry": {
+        "coordinates": [
+          24.0,
+          56.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavilosta"
+      },
+      "geometry": {
+        "coordinates": [
+          21.18593,
+          56.88791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ozolnieki"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78778,
+          56.68639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olaine"
+      },
+      "geometry": {
+        "coordinates": [
+          23.93806,
+          56.78528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogre"
+      },
+      "geometry": {
+        "coordinates": [
+          24.61401,
+          56.8162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nica"
+      },
+      "geometry": {
+        "coordinates": [
+          21.06401,
+          56.34601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nereta"
+      },
+      "geometry": {
+        "coordinates": [
+          25.30752,
+          56.20279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naukseni"
+      },
+      "geometry": {
+        "coordinates": [
+          25.45609,
+          57.88349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murmuiza"
+      },
+      "geometry": {
+        "coordinates": [
+          25.48333,
+          57.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mersrags"
+      },
+      "geometry": {
+        "coordinates": [
+          23.12455,
+          57.33535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazsalaca"
+      },
+      "geometry": {
+        "coordinates": [
+          25.05475,
+          57.86329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matisi"
+      },
+      "geometry": {
+        "coordinates": [
+          25.15886,
+          57.69892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpils"
+      },
+      "geometry": {
+        "coordinates": [
+          24.96306,
+          57.01111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madona"
+      },
+      "geometry": {
+        "coordinates": [
+          26.21698,
+          56.85329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludza"
+      },
+      "geometry": {
+        "coordinates": [
+          27.71891,
+          56.53958
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lubana"
+      },
+      "geometry": {
+        "coordinates": [
+          26.71667,
+          56.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loja"
+      },
+      "geometry": {
+        "coordinates": [
+          24.64444,
+          57.15444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Livani"
+      },
+      "geometry": {
+        "coordinates": [
+          26.17579,
+          56.35431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbazi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.71941,
+          57.51287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ligatne"
+      },
+      "geometry": {
+        "coordinates": [
+          25.04059,
+          57.23429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liepaja"
+      },
+      "geometry": {
+        "coordinates": [
+          21.01667,
+          56.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lielvarde"
+      },
+      "geometry": {
+        "coordinates": [
+          24.80743,
+          56.72066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liegi"
+      },
+      "geometry": {
+        "coordinates": [
+          21.33399,
+          56.58173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuldiga"
+      },
+      "geometry": {
+        "coordinates": [
+          21.95721,
+          56.97399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krustpils"
+      },
+      "geometry": {
+        "coordinates": [
+          25.86117,
+          56.51068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraslava"
+      },
+      "geometry": {
+        "coordinates": [
+          27.16799,
+          55.89514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koknese"
+      },
+      "geometry": {
+        "coordinates": [
+          25.43333,
+          56.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koceni"
+      },
+      "geometry": {
+        "coordinates": [
+          25.33821,
+          57.52057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kekava"
+      },
+      "geometry": {
+        "coordinates": [
+          24.23,
+          56.82662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kegums"
+      },
+      "geometry": {
+        "coordinates": [
+          24.72439,
+          56.7451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karsava"
+      },
+      "geometry": {
+        "coordinates": [
+          27.68829,
+          56.78405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karosta"
+      },
+      "geometry": {
+        "coordinates": [
+          21.01667,
+          56.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandava"
+      },
+      "geometry": {
+        "coordinates": [
+          22.77466,
+          57.04087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jurmala"
+      },
+      "geometry": {
+        "coordinates": [
+          23.77038,
+          56.968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumprava"
+      },
+      "geometry": {
+        "coordinates": [
+          24.9721,
+          56.67613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jelgava"
+      },
+      "geometry": {
+        "coordinates": [
+          23.71278,
+          56.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jekabpils"
+      },
+      "geometry": {
+        "coordinates": [
+          25.85735,
+          56.49903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaunpils"
+      },
+      "geometry": {
+        "coordinates": [
+          23.01361,
+          56.7325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaunpiebalga"
+      },
+      "geometry": {
+        "coordinates": [
+          26.05,
+          57.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaunjelgava"
+      },
+      "geometry": {
+        "coordinates": [
+          25.08316,
+          56.61319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaunciems"
+      },
+      "geometry": {
+        "coordinates": [
+          24.17413,
+          57.0391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaunaglona"
+      },
+      "geometry": {
+        "coordinates": [
+          27.00714,
+          56.16066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Incukalns"
+      },
+      "geometry": {
+        "coordinates": [
+          24.68639,
+          57.09806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilukste"
+      },
+      "geometry": {
+        "coordinates": [
+          26.29655,
+          55.97754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ikskile"
+      },
+      "geometry": {
+        "coordinates": [
+          24.5,
+          56.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iecava"
+      },
+      "geometry": {
+        "coordinates": [
+          24.20222,
+          56.59861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulbene"
+      },
+      "geometry": {
+        "coordinates": [
+          26.75291,
+          57.17767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grobina"
+      },
+      "geometry": {
+        "coordinates": [
+          21.16782,
+          56.53521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cibla"
+      },
+      "geometry": {
+        "coordinates": [
+          27.8837,
+          56.5498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ergli"
+      },
+      "geometry": {
+        "coordinates": [
+          25.63668,
+          56.89752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engure"
+      },
+      "geometry": {
+        "coordinates": [
+          23.22527,
+          57.16061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundaga"
+      },
+      "geometry": {
+        "coordinates": [
+          22.35041,
+          57.50498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drabesi"
+      },
+      "geometry": {
+        "coordinates": [
+          25.27748,
+          57.24316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dobele"
+      },
+      "geometry": {
+        "coordinates": [
+          23.27861,
+          56.625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daugavpils"
+      },
+      "geometry": {
+        "coordinates": [
+          26.53333,
+          55.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daugavgriva"
+      },
+      "geometry": {
+        "coordinates": [
+          24.03613,
+          57.04315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dagda"
+      },
+      "geometry": {
+        "coordinates": [
+          27.53723,
+          56.09512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesvaine"
+      },
+      "geometry": {
+        "coordinates": [
+          26.31667,
+          56.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesis"
+      },
+      "geometry": {
+        "coordinates": [
+          25.27456,
+          57.31188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnikava"
+      },
+      "geometry": {
+        "coordinates": [
+          24.28423,
+          57.12935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broceni"
+      },
+      "geometry": {
+        "coordinates": [
+          22.53333,
+          56.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolderaja"
+      },
+      "geometry": {
+        "coordinates": [
+          24.05571,
+          57.03132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.29917,
+          56.98639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bauska"
+      },
+      "geometry": {
+        "coordinates": [
+          24.19443,
+          56.40794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balvi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.26583,
+          57.1313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltinava"
+      },
+      "geometry": {
+        "coordinates": [
+          27.64401,
+          56.94394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baldone"
+      },
+      "geometry": {
+        "coordinates": [
+          24.39444,
+          56.74278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auce"
+      },
+      "geometry": {
+        "coordinates": [
+          22.90169,
+          56.45981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ape"
+      },
+      "geometry": {
+        "coordinates": [
+          26.69291,
+          57.53928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aluksne"
+      },
+      "geometry": {
+        "coordinates": [
+          27.04662,
+          57.42162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alsunga"
+      },
+      "geometry": {
+        "coordinates": [
+          21.55938,
+          56.98194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aloja"
+      },
+      "geometry": {
+        "coordinates": [
+          24.8825,
+          57.76694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akniste"
+      },
+      "geometry": {
+        "coordinates": [
+          25.74783,
+          56.16152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aizpute"
+      },
+      "geometry": {
+        "coordinates": [
+          21.6,
+          56.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aizkraukle"
+      },
+      "geometry": {
+        "coordinates": [
+          25.25534,
+          56.60477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ainazi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.35778,
+          57.86361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aglona"
+      },
+      "geometry": {
+        "coordinates": [
+          27.01667,
+          56.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adazi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.33713,
+          57.07045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balozi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.11861,
+          56.87611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marupe"
+      },
+      "geometry": {
+        "coordinates": [
+          24.05113,
+          56.90544
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

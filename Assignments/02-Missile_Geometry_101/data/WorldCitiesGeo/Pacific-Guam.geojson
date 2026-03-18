@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piti Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.69331,
+          13.46256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rita Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.67226,
+          13.38608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinajana Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.75406,
+          13.46334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talofofo Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.75835,
+          13.35513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamuning-Tumon-Harmon Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.78138,
+          13.48773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umatac Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.66314,
+          13.29843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yigo Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.88855,
+          13.53605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yona Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.77697,
+          13.40974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merizo Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.66908,
+          13.26584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inarajan Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.74845,
+          13.27363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agana Heights Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.74795,
+          13.46559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guam Government House"
+      },
+      "geometry": {
+        "coordinates": [
+          144.74978,
+          13.47191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalan Pago-Ordot Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.75902,
+          13.44741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrigada Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.79901,
+          13.46913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agat Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.65852,
+          13.38855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asan-Maina Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.71654,
+          13.47215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dededo Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.8391,
+          13.51777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagatna"
+      },
+      "geometry": {
+        "coordinates": [
+          144.74886,
+          13.47567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangilao Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.80109,
+          13.44761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongmong-Toto-Maite Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.78214,
+          13.46857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagatna Village"
+      },
+      "geometry": {
+        "coordinates": [
+          144.75802,
+          13.47279
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

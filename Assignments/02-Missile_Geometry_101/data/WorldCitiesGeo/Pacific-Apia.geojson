@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaiusu"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.79333,
+          -13.82678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vailima"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.76126,
+          -13.86417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vailoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.30698,
+          -13.75551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solosolo"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.64181,
+          -13.87504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siusega"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.81397,
+          -13.84432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satapuala"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.97963,
+          -13.83535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samamea"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.53122,
+          -13.93375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safotulafai"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.17768,
+          -13.67147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safotu"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.40177,
+          -13.45132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nofoali`i"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.95873,
+          -13.8217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulifanua"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.03602,
+          -13.83183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matavai"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.64768,
+          -14.03208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malie"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.8469,
+          -13.80044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lufilufi"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.59857,
+          -13.87449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotofaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.85781,
+          -13.97643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leulumoega"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.96127,
+          -13.82297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gataivai"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.38802,
+          -13.7736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fasito`outa"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.94063,
+          -13.81163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faleula"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.83126,
+          -13.79457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falefa"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.58805,
+          -13.88695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apia"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.76666,
+          -13.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A'opo"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.51931,
+          -13.53975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afenga"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.85308,
+          -13.79726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asau"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.63784,
+          -13.51963
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

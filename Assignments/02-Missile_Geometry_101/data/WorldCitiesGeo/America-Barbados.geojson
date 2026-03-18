@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Welchman Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57663,
+          13.18676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crane"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.44861,
+          13.10487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speightstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.64396,
+          13.25072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oistins"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.54637,
+          13.07067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.63808,
+          13.18672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenland"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.57763,
+          13.25808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Cross Roads"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.52186,
+          13.17018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Checker Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.64223,
+          13.28445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridgetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.62021,
+          13.10732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bathsheba"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.52596,
+          13.21133
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

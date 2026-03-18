@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gustavia"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.84978,
+          17.89618
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

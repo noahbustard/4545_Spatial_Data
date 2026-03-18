@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitrah"
+      },
+      "geometry": {
+        "coordinates": [
+          50.62056,
+          26.15472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madinat `Isa"
+      },
+      "geometry": {
+        "coordinates": [
+          50.54778,
+          26.17361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jidd Hafs"
+      },
+      "geometry": {
+        "coordinates": [
+          50.54778,
+          26.21861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madinat Hamad"
+      },
+      "geometry": {
+        "coordinates": [
+          50.50694,
+          26.11528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dar Kulayb"
+      },
+      "geometry": {
+        "coordinates": [
+          50.50389,
+          26.06861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Muharraq"
+      },
+      "geometry": {
+        "coordinates": [
+          50.61194,
+          26.25722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manama"
+      },
+      "geometry": {
+        "coordinates": [
+          50.58565,
+          26.22787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hadd"
+      },
+      "geometry": {
+        "coordinates": [
+          50.65417,
+          26.24556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rifa'"
+      },
+      "geometry": {
+        "coordinates": [
+          50.555,
+          26.13
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

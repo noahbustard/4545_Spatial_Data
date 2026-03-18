@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juneau"
+      },
+      "geometry": {
+        "coordinates": [
+          -134.41972,
+          58.30194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craig"
+      },
+      "geometry": {
+        "coordinates": [
+          -133.14833,
+          55.47639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haines"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.44533,
+          59.23595
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

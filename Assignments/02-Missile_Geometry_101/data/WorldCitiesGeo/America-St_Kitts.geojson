@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.76667,
+          17.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Point Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.84858,
+          17.35908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Paul's"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.81667,
+          17.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicola Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.75,
+          17.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.58333,
+          17.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkey Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.71667,
+          17.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Island"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.81055,
+          17.3259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market Shop"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.56667,
+          17.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fig Tree"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.6,
+          17.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dieppe Bay Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.8139,
+          17.41473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotton Ground"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.61667,
+          17.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlestown"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.61667,
+          17.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayon"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.73333,
+          17.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basseterre"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.7261,
+          17.29484
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.41667,
+          19.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Side"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.2,
+          19.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.37436,
+          19.2866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East End"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.11667,
+          19.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodden Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.2542,
+          19.27647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Cayman"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.10984,
+          19.66114
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

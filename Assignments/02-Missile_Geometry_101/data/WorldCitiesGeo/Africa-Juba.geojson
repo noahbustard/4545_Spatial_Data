@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yirol"
+      },
+      "geometry": {
+        "coordinates": [
+          30.49806,
+          6.5525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yei"
+      },
+      "geometry": {
+        "coordinates": [
+          30.67639,
+          4.09444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yambio"
+      },
+      "geometry": {
+        "coordinates": [
+          28.39417,
+          4.57083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winejok"
+      },
+      "geometry": {
+        "coordinates": [
+          27.57081,
+          9.01222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wau"
+      },
+      "geometry": {
+        "coordinates": [
+          27.98972,
+          7.70111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waat"
+      },
+      "geometry": {
+        "coordinates": [
+          32.15206,
+          8.17925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aweil"
+      },
+      "geometry": {
+        "coordinates": [
+          27.39194,
+          8.76194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torit"
+      },
+      "geometry": {
+        "coordinates": [
+          32.57046,
+          4.41177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonj"
+      },
+      "geometry": {
+        "coordinates": [
+          28.6775,
+          7.27389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terekeka"
+      },
+      "geometry": {
+        "coordinates": [
+          31.75083,
+          5.44389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambura"
+      },
+      "geometry": {
+        "coordinates": [
+          27.46667,
+          5.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumbek"
+      },
+      "geometry": {
+        "coordinates": [
+          29.67742,
+          6.80619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raja"
+      },
+      "geometry": {
+        "coordinates": [
+          25.67833,
+          8.4675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pibor"
+      },
+      "geometry": {
+        "coordinates": [
+          33.13045,
+          6.79853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nasir"
+      },
+      "geometry": {
+        "coordinates": [
+          33.06215,
+          8.61658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundri"
+      },
+      "geometry": {
+        "coordinates": [
+          30.32433,
+          5.3472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maridi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.46944,
+          4.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malakal"
+      },
+      "geometry": {
+        "coordinates": [
+          31.66049,
+          9.53342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maiwut"
+      },
+      "geometry": {
+        "coordinates": [
+          33.92621,
+          8.60975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leer"
+      },
+      "geometry": {
+        "coordinates": [
+          30.14056,
+          8.30306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuacjok"
+      },
+      "geometry": {
+        "coordinates": [
+          27.98,
+          8.30278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodok"
+      },
+      "geometry": {
+        "coordinates": [
+          32.10944,
+          9.88889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapoeta"
+      },
+      "geometry": {
+        "coordinates": [
+          33.59139,
+          4.77222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juba"
+      },
+      "geometry": {
+        "coordinates": [
+          31.58247,
+          4.85165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gogrial"
+      },
+      "geometry": {
+        "coordinates": [
+          28.10037,
+          8.53324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajok"
+      },
+      "geometry": {
+        "coordinates": [
+          32.48212,
+          3.86512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cueibet"
+      },
+      "geometry": {
+        "coordinates": [
+          29.24611,
+          7.02667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bor"
+      },
+      "geometry": {
+        "coordinates": [
+          31.55861,
+          6.20889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bentiu"
+      },
+      "geometry": {
+        "coordinates": [
+          29.79833,
+          9.25722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayod"
+      },
+      "geometry": {
+        "coordinates": [
+          31.40904,
+          8.12193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renk"
+      },
+      "geometry": {
+        "coordinates": [
+          32.8049,
+          11.7431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akobo"
+      },
+      "geometry": {
+        "coordinates": [
+          33.00444,
+          7.79111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pariang"
+      },
+      "geometry": {
+        "coordinates": [
+          29.98109,
+          9.91542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayen Abun"
+      },
+      "geometry": {
+        "coordinates": [
+          28.34583,
+          9.13639
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

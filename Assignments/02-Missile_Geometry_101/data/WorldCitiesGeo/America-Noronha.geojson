@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itamaraca"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.82556,
+          -7.74778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernando de Noronha (Distrito Estadual)"
+      },
+      "geometry": {
+        "coordinates": [
+          -32.41083,
+          -3.84028
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

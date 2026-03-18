@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atikokan"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.62409,
+          48.75667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atuona"
+      },
+      "geometry": {
+        "coordinates": [
+          -139.04202,
+          -9.80342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taiohae"
+      },
+      "geometry": {
+        "coordinates": [
+          -140.09972,
+          -8.91093
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

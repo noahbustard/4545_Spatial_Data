@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila Nova Sintra"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.71667,
+          14.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila do Maio"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.21158,
+          15.13823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila da Ribeira Brava"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.3,
+          16.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarrafal de Sao Nicolau"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.36667,
+          16.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarrafal"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.75192,
+          15.27881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Filipe"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.49556,
+          14.8961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Domingos"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.5625,
+          15.02438
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Maria"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.9,
+          16.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56667,
+          15.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila de Sal Rei"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.91667,
+          16.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribeira Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.07243,
+          17.18561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.51254,
+          14.93152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Novo"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.06471,
+          17.01969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto dos Mosteiros"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.33333,
+          15.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponta do Sol"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.09192,
+          17.19942
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pombas"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.02007,
+          17.15026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picos"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.63236,
+          15.0836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mindelo"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.98042,
+          16.89014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cova Figueira"
+      },
+      "geometry": {
+        "coordinates": [
+          -24.29343,
+          14.89054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cidade Velha"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.61667,
+          14.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calheta"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.59228,
+          15.18613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assomada"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.68333,
+          15.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joao Teves"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.58969,
+          15.06457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedra Badejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.53215,
+          15.13493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espargos"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.9446,
+          16.75524
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

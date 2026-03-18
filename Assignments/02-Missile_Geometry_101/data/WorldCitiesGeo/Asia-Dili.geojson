@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viqueque"
+      },
+      "geometry": {
+        "coordinates": [
+          126.36472,
+          -8.8575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suai"
+      },
+      "geometry": {
+        "coordinates": [
+          125.25648,
+          -9.31286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pante Makasar"
+      },
+      "geometry": {
+        "coordinates": [
+          124.38333,
+          -9.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metinaro"
+      },
+      "geometry": {
+        "coordinates": [
+          125.74472,
+          -8.53056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maubara"
+      },
+      "geometry": {
+        "coordinates": [
+          125.20611,
+          -8.61194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manatuto"
+      },
+      "geometry": {
+        "coordinates": [
+          126.01306,
+          -8.51139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maliana"
+      },
+      "geometry": {
+        "coordinates": [
+          125.21972,
+          -8.99167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liquica"
+      },
+      "geometry": {
+        "coordinates": [
+          125.34194,
+          -8.5875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dili"
+      },
+      "geometry": {
+        "coordinates": [
+          125.57361,
+          -8.55861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baucau"
+      },
+      "geometry": {
+        "coordinates": [
+          126.45833,
+          -8.47111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ainaro"
+      },
+      "geometry": {
+        "coordinates": [
+          125.50816,
+          -8.99241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aileu"
+      },
+      "geometry": {
+        "coordinates": [
+          125.56639,
+          -8.72806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Same"
+      },
+      "geometry": {
+        "coordinates": [
+          125.64617,
+          -9.00581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lospalos"
+      },
+      "geometry": {
+        "coordinates": [
+          127.0025,
+          -8.51861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gleno"
+      },
+      "geometry": {
+        "coordinates": [
+          125.43611,
+          -8.72389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venilale"
+      },
+      "geometry": {
+        "coordinates": [
+          126.37833,
+          -8.64306
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

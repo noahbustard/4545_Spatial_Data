@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wageningen"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.66523,
+          5.7601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Totness"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.32572,
+          5.87618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paramaribo"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.16682,
+          5.86638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onverwacht"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.19462,
+          5.58983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nieuw Nickerie"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.97297,
+          5.92606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nieuw Amsterdam"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.08871,
+          5.88573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moengo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.40121,
+          5.61411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marienburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.02159,
+          5.84691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lelydorp"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.23333,
+          5.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Groningen"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.46667,
+          5.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brownsweg"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.15333,
+          5.00435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brokopondo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.98043,
+          5.05594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albina"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.05522,
+          5.49788
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

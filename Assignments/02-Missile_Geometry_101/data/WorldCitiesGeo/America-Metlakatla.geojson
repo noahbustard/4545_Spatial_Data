@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metlakatla"
+      },
+      "geometry": {
+        "coordinates": [
+          -131.57519,
+          55.12848
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

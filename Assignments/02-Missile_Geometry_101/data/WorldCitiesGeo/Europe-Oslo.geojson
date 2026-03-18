@@ -1,0 +1,7025 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vardo"
+      },
+      "geometry": {
+        "coordinates": [
+          31.11066,
+          70.37048
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuonnabahta"
+      },
+      "geometry": {
+        "coordinates": [
+          28.55598,
+          70.17278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vadso"
+      },
+      "geometry": {
+        "coordinates": [
+          29.74943,
+          70.07348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storslett"
+      },
+      "geometry": {
+        "coordinates": [
+          21.02466,
+          69.76783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skjervoy"
+      },
+      "geometry": {
+        "coordinates": [
+          20.97141,
+          70.03114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olderdalen"
+      },
+      "geometry": {
+        "coordinates": [
+          20.53272,
+          69.60407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oksfjord"
+      },
+      "geometry": {
+        "coordinates": [
+          22.3507,
+          70.23936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mehamn"
+      },
+      "geometry": {
+        "coordinates": [
+          27.85133,
+          71.04137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyngseidet"
+      },
+      "geometry": {
+        "coordinates": [
+          20.21887,
+          69.57629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakselv"
+      },
+      "geometry": {
+        "coordinates": [
+          24.97182,
+          70.05133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kvalsund"
+      },
+      "geometry": {
+        "coordinates": [
+          23.97974,
+          70.50271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjollefjord"
+      },
+      "geometry": {
+        "coordinates": [
+          27.3465,
+          70.94574
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkenes"
+      },
+      "geometry": {
+        "coordinates": [
+          30.04578,
+          69.72706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kautokeino"
+      },
+      "geometry": {
+        "coordinates": [
+          23.04116,
+          69.01247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karasjohka"
+      },
+      "geometry": {
+        "coordinates": [
+          25.51122,
+          69.47187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honningsvag"
+      },
+      "geometry": {
+        "coordinates": [
+          25.97037,
+          70.98209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avanuorri"
+      },
+      "geometry": {
+        "coordinates": [
+          24.66217,
+          70.99634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hammerfest"
+      },
+      "geometry": {
+        "coordinates": [
+          23.68209,
+          70.66336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burfjord"
+      },
+      "geometry": {
+        "coordinates": [
+          22.05205,
+          69.93804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjornevatn"
+      },
+      "geometry": {
+        "coordinates": [
+          29.98722,
+          69.66745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlevag"
+      },
+      "geometry": {
+        "coordinates": [
+          29.08636,
+          70.85778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batsfjord"
+      },
+      "geometry": {
+        "coordinates": [
+          29.7175,
+          70.63428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alta"
+      },
+      "geometry": {
+        "coordinates": [
+          23.27165,
+          69.96887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rypefjord"
+      },
+      "geometry": {
+        "coordinates": [
+          23.67213,
+          70.64126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strai"
+      },
+      "geometry": {
+        "coordinates": [
+          7.92826,
+          58.1893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skalevik"
+      },
+      "geometry": {
+        "coordinates": [
+          8.01602,
+          58.07955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ytre Arna"
+      },
+      "geometry": {
+        "coordinates": [
+          5.43265,
+          60.46175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voss"
+      },
+      "geometry": {
+        "coordinates": [
+          6.41474,
+          60.62869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volda"
+      },
+      "geometry": {
+        "coordinates": [
+          6.07108,
+          62.146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinstra"
+      },
+      "geometry": {
+        "coordinates": [
+          9.75134,
+          61.59496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikoyri"
+      },
+      "geometry": {
+        "coordinates": [
+          6.57914,
+          61.08707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikesa"
+      },
+      "geometry": {
+        "coordinates": [
+          6.09133,
+          58.63759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikersund"
+      },
+      "geometry": {
+        "coordinates": [
+          9.99107,
+          59.96838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vik"
+      },
+      "geometry": {
+        "coordinates": [
+          12.16734,
+          65.31254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vigrestad"
+      },
+      "geometry": {
+        "coordinates": [
+          5.68182,
+          58.57103
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vigeland"
+      },
+      "geometry": {
+        "coordinates": [
+          7.30497,
+          58.08437
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vevelstad"
+      },
+      "geometry": {
+        "coordinates": [
+          12.43706,
+          65.6978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestbygd"
+      },
+      "geometry": {
+        "coordinates": [
+          6.58696,
+          58.09991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestby"
+      },
+      "geometry": {
+        "coordinates": [
+          10.75233,
+          59.60511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verdal"
+      },
+      "geometry": {
+        "coordinates": [
+          11.4817,
+          63.79332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vennesla"
+      },
+      "geometry": {
+        "coordinates": [
+          7.97314,
+          58.26856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vatne"
+      },
+      "geometry": {
+        "coordinates": [
+          6.61708,
+          62.55826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varhaug"
+      },
+      "geometry": {
+        "coordinates": [
+          5.65702,
+          58.6181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanse"
+      },
+      "geometry": {
+        "coordinates": [
+          6.69184,
+          58.09812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangsvika"
+      },
+      "geometry": {
+        "coordinates": [
+          17.73416,
+          69.17057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle"
+      },
+      "geometry": {
+        "coordinates": [
+          7.53559,
+          59.21259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valldal"
+      },
+      "geometry": {
+        "coordinates": [
+          7.26374,
+          62.29782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valer"
+      },
+      "geometry": {
+        "coordinates": [
+          11.83477,
+          60.67122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vagamo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.09671,
+          61.87505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utsira"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8862,
+          59.3057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulvik"
+      },
+      "geometry": {
+        "coordinates": [
+          6.91645,
+          60.56791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulsteinvik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.84869,
+          62.34317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulefoss"
+      },
+      "geometry": {
+        "coordinates": [
+          9.26548,
+          59.28245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uggdal"
+      },
+      "geometry": {
+        "coordinates": [
+          5.52876,
+          60.00402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tysvaer"
+      },
+      "geometry": {
+        "coordinates": [
+          5.48981,
+          59.33204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tysse"
+      },
+      "geometry": {
+        "coordinates": [
+          5.75952,
+          60.37404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tynset"
+      },
+      "geometry": {
+        "coordinates": [
+          10.78241,
+          62.27594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tveit"
+      },
+      "geometry": {
+        "coordinates": [
+          8.12199,
+          58.23366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tvedestrand"
+      },
+      "geometry": {
+        "coordinates": [
+          8.93147,
+          58.62203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innbygda"
+      },
+      "geometry": {
+        "coordinates": [
+          12.26374,
+          61.31484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trondheim"
+      },
+      "geometry": {
+        "coordinates": [
+          10.39506,
+          63.43049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tromso"
+      },
+      "geometry": {
+        "coordinates": [
+          18.95508,
+          69.6489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trofors"
+      },
+      "geometry": {
+        "coordinates": [
+          13.40631,
+          65.53335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treungen"
+      },
+      "geometry": {
+        "coordinates": [
+          8.5202,
+          59.02064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tretten"
+      },
+      "geometry": {
+        "coordinates": [
+          10.30066,
+          61.31423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranby"
+      },
+      "geometry": {
+        "coordinates": [
+          10.26114,
+          59.8085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonstad"
+      },
+      "geometry": {
+        "coordinates": [
+          6.71694,
+          58.66263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonsberg"
+      },
+      "geometry": {
+        "coordinates": [
+          10.40762,
+          59.26754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomter"
+      },
+      "geometry": {
+        "coordinates": [
+          10.99487,
+          59.6591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomra"
+      },
+      "geometry": {
+        "coordinates": [
+          6.93106,
+          62.58118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolga"
+      },
+      "geometry": {
+        "coordinates": [
+          10.99883,
+          62.40898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tofte"
+      },
+      "geometry": {
+        "coordinates": [
+          10.56138,
+          59.54275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tjome"
+      },
+      "geometry": {
+        "coordinates": [
+          10.3933,
+          59.1109
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tjeldsto"
+      },
+      "geometry": {
+        "coordinates": [
+          4.84449,
+          60.59623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tingvatn"
+      },
+      "geometry": {
+        "coordinates": [
+          7.2197,
+          58.3757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrak"
+      },
+      "geometry": {
+        "coordinates": [
+          12.37148,
+          65.087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tau"
+      },
+      "geometry": {
+        "coordinates": [
+          5.9225,
+          59.06481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tangvall"
+      },
+      "geometry": {
+        "coordinates": [
+          7.81529,
+          58.09781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tananger"
+      },
+      "geometry": {
+        "coordinates": [
+          5.5741,
+          58.93618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syfteland"
+      },
+      "geometry": {
+        "coordinates": [
+          5.45285,
+          60.23803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svolvaer"
+      },
+      "geometry": {
+        "coordinates": [
+          14.56834,
+          68.23417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svelvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.40872,
+          59.6137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svelgen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.29544,
+          61.76976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sveio"
+      },
+      "geometry": {
+        "coordinates": [
+          5.35178,
+          59.5419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunndalsora"
+      },
+      "geometry": {
+        "coordinates": [
+          8.56327,
+          62.67519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stryn"
+      },
+      "geometry": {
+        "coordinates": [
+          6.7179,
+          61.90259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straumen"
+      },
+      "geometry": {
+        "coordinates": [
+          15.60493,
+          67.34769
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straumen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.29617,
+          63.87163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straume"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47205,
+          68.6888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stranda"
+      },
+      "geometry": {
+        "coordinates": [
+          6.93717,
+          62.30864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storsteinnes"
+      },
+      "geometry": {
+        "coordinates": [
+          19.23437,
+          69.24081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storebo"
+      },
+      "geometry": {
+        "coordinates": [
+          5.22705,
+          60.09485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stokmarknes"
+      },
+      "geometry": {
+        "coordinates": [
+          14.91075,
+          68.56462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stokke"
+      },
+      "geometry": {
+        "coordinates": [
+          10.30055,
+          59.22255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stjordalshalsen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.92618,
+          63.4681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinshamn"
+      },
+      "geometry": {
+        "coordinates": [
+          6.47065,
+          62.78389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinkjer"
+      },
+      "geometry": {
+        "coordinates": [
+          11.49537,
+          64.01487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stavern"
+      },
+      "geometry": {
+        "coordinates": [
+          10.03333,
+          59.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stavanger"
+      },
+      "geometry": {
+        "coordinates": [
+          5.73332,
+          58.97005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stange"
+      },
+      "geometry": {
+        "coordinates": [
+          11.19417,
+          60.71803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spydeberg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.08559,
+          59.61709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spetalen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.9,
+          60.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorumsand"
+      },
+      "geometry": {
+        "coordinates": [
+          11.24154,
+          59.98621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sortland"
+      },
+      "geometry": {
+        "coordinates": [
+          15.40498,
+          68.69569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorland"
+      },
+      "geometry": {
+        "coordinates": [
+          12.69784,
+          67.66564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solfjellsjoen"
+      },
+      "geometry": {
+        "coordinates": [
+          12.48333,
+          66.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sola"
+      },
+      "geometry": {
+        "coordinates": [
+          5.65285,
+          58.88854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sogne"
+      },
+      "geometry": {
+        "coordinates": [
+          7.78294,
+          58.09328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sogndalsfjora"
+      },
+      "geometry": {
+        "coordinates": [
+          7.10178,
+          61.22575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snaase"
+      },
+      "geometry": {
+        "coordinates": [
+          12.37779,
+          64.2457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slemmestad"
+      },
+      "geometry": {
+        "coordinates": [
+          10.49701,
+          59.78074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skui"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4475,
+          59.92746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skudeneshavn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.25687,
+          59.14856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skreia"
+      },
+      "geometry": {
+        "coordinates": [
+          10.93564,
+          60.65257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skotterud"
+      },
+      "geometry": {
+        "coordinates": [
+          12.12825,
+          59.98281
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skoppum"
+      },
+      "geometry": {
+        "coordinates": [
+          10.41077,
+          59.38613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skogn"
+      },
+      "geometry": {
+        "coordinates": [
+          11.19262,
+          63.70374
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skoger"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25356,
+          59.71327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skodje"
+      },
+      "geometry": {
+        "coordinates": [
+          6.69322,
+          62.50468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skjeberg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.19025,
+          59.21148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skjaerhalden"
+      },
+      "geometry": {
+        "coordinates": [
+          11.03685,
+          59.02526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skien"
+      },
+      "geometry": {
+        "coordinates": [
+          9.60897,
+          59.20962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ski"
+      },
+      "geometry": {
+        "coordinates": [
+          10.83576,
+          59.71949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skaun"
+      },
+      "geometry": {
+        "coordinates": [
+          10.05236,
+          63.25149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skarnes"
+      },
+      "geometry": {
+        "coordinates": [
+          11.68485,
+          60.25391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skaland"
+      },
+      "geometry": {
+        "coordinates": [
+          17.29832,
+          69.44456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjovegan"
+      },
+      "geometry": {
+        "coordinates": [
+          17.84706,
+          68.87363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skjonhaug"
+      },
+      "geometry": {
+        "coordinates": [
+          11.31591,
+          59.64069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjoholt"
+      },
+      "geometry": {
+        "coordinates": [
+          6.81376,
+          62.48263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sistranda"
+      },
+      "geometry": {
+        "coordinates": [
+          8.83318,
+          63.72523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siljan"
+      },
+      "geometry": {
+        "coordinates": [
+          9.71,
+          59.28843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Setermoen"
+      },
+      "geometry": {
+        "coordinates": [
+          18.34857,
+          68.86099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sem"
+      },
+      "geometry": {
+        "coordinates": [
+          10.33004,
+          59.2823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.26004,
+          59.56645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seljord"
+      },
+      "geometry": {
+        "coordinates": [
+          8.63017,
+          59.48477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selje"
+      },
+      "geometry": {
+        "coordinates": [
+          5.34739,
+          62.0444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauda"
+      },
+      "geometry": {
+        "coordinates": [
+          6.35415,
+          59.65059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarpsborg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.10962,
+          59.28391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandvika"
+      },
+      "geometry": {
+        "coordinates": [
+          13.59125,
+          64.46377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandvika"
+      },
+      "geometry": {
+        "coordinates": [
+          10.52774,
+          59.89073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandnessjoen"
+      },
+      "geometry": {
+        "coordinates": [
+          12.63158,
+          66.02166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandnes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.73521,
+          58.85244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandefjord"
+      },
+      "geometry": {
+        "coordinates": [
+          10.21665,
+          59.13118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sande"
+      },
+      "geometry": {
+        "coordinates": [
+          5.79773,
+          61.32511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sande"
+      },
+      "geometry": {
+        "coordinates": [
+          10.20809,
+          59.58679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandane"
+      },
+      "geometry": {
+        "coordinates": [
+          6.21496,
+          61.77277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sand"
+      },
+      "geometry": {
+        "coordinates": [
+          11.5403,
+          60.3922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagvag"
+      },
+      "geometry": {
+        "coordinates": [
+          5.38996,
+          59.78139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saetre"
+      },
+      "geometry": {
+        "coordinates": [
+          10.52749,
+          59.68129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rygge"
+      },
+      "geometry": {
+        "coordinates": [
+          10.75034,
+          59.37762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubbestadneset"
+      },
+      "geometry": {
+        "coordinates": [
+          5.26822,
+          59.81559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royrvik"
+      },
+      "geometry": {
+        "coordinates": [
+          13.56256,
+          64.88394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royken"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38832,
+          59.74724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotnes"
+      },
+      "geometry": {
+        "coordinates": [
+          10.86135,
+          60.05707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rost"
+      },
+      "geometry": {
+        "coordinates": [
+          12.1176,
+          67.51754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosendal"
+      },
+      "geometry": {
+        "coordinates": [
+          6.01157,
+          59.98589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rorvik"
+      },
+      "geometry": {
+        "coordinates": [
+          11.23969,
+          64.86185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roros"
+      },
+      "geometry": {
+        "coordinates": [
+          11.3842,
+          62.57468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rollag"
+      },
+      "geometry": {
+        "coordinates": [
+          9.29644,
+          59.98431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rognan"
+      },
+      "geometry": {
+        "coordinates": [
+          15.39086,
+          67.10021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roa"
+      },
+      "geometry": {
+        "coordinates": [
+          10.61585,
+          60.29093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rjukan"
+      },
+      "geometry": {
+        "coordinates": [
+          8.59411,
+          59.87891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Risor"
+      },
+      "geometry": {
+        "coordinates": [
+          9.23422,
+          58.72057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rindal"
+      },
+      "geometry": {
+        "coordinates": [
+          9.21151,
+          63.05547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rena"
+      },
+      "geometry": {
+        "coordinates": [
+          11.37156,
+          61.13222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reinsvoll"
+      },
+      "geometry": {
+        "coordinates": [
+          10.62175,
+          60.67977
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rensvik"
+      },
+      "geometry": {
+        "coordinates": [
+          7.82026,
+          63.09843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reine"
+      },
+      "geometry": {
+        "coordinates": [
+          13.08955,
+          67.93249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raufoss"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6133,
+          60.72604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranemsletta"
+      },
+      "geometry": {
+        "coordinates": [
+          11.94912,
+          64.49447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randaberg"
+      },
+      "geometry": {
+        "coordinates": [
+          5.61871,
+          58.99955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramberg"
+      },
+      "geometry": {
+        "coordinates": [
+          13.22989,
+          68.08991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rakkestad"
+      },
+      "geometry": {
+        "coordinates": [
+          11.34535,
+          59.42513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raholt"
+      },
+      "geometry": {
+        "coordinates": [
+          11.17901,
+          60.27513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestfoss"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6352,
+          60.04343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestestranda"
+      },
+      "geometry": {
+        "coordinates": [
+          9.05866,
+          59.09773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porsgrunn"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6561,
+          59.14054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oystese"
+      },
+      "geometry": {
+        "coordinates": [
+          6.19251,
+          60.38825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farnes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.79694,
+          61.3085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otta"
+      },
+      "geometry": {
+        "coordinates": [
+          9.53529,
+          61.7712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osoyro"
+      },
+      "geometry": {
+        "coordinates": [
+          5.4638,
+          60.18385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oslo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.74609,
+          59.91273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Os"
+      },
+      "geometry": {
+        "coordinates": [
+          11.22326,
+          62.49647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ornes"
+      },
+      "geometry": {
+        "coordinates": [
+          13.70579,
+          66.86878
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkanger"
+      },
+      "geometry": {
+        "coordinates": [
+          9.85025,
+          63.30668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orje"
+      },
+      "geometry": {
+        "coordinates": [
+          11.66016,
+          59.48023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oppdal"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6912,
+          62.59431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.80799,
+          59.60437
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odda"
+      },
+      "geometry": {
+        "coordinates": [
+          6.54565,
+          60.06912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Notodden"
+      },
+      "geometry": {
+        "coordinates": [
+          9.25853,
+          59.55936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norheimsund"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14562,
+          60.37089
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noresund"
+      },
+      "geometry": {
+        "coordinates": [
+          9.62411,
+          60.17985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordfjordeid"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98557,
+          61.9122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nodeland"
+      },
+      "geometry": {
+        "coordinates": [
+          7.83576,
+          58.15517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nesna"
+      },
+      "geometry": {
+        "coordinates": [
+          13.01844,
+          66.19817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nesbyen"
+      },
+      "geometry": {
+        "coordinates": [
+          9.10274,
+          60.56809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naustdal"
+      },
+      "geometry": {
+        "coordinates": [
+          5.71694,
+          61.51108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narvik"
+      },
+      "geometry": {
+        "coordinates": [
+          17.4272,
+          68.43838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namsskogan"
+      },
+      "geometry": {
+        "coordinates": [
+          13.15954,
+          64.92886
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namsos"
+      },
+      "geometry": {
+        "coordinates": [
+          11.49572,
+          64.46624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naerbo"
+      },
+      "geometry": {
+        "coordinates": [
+          5.63788,
+          58.66546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mysen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.32578,
+          59.55354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myre"
+      },
+      "geometry": {
+        "coordinates": [
+          15.96308,
+          69.10588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myra"
+      },
+      "geometry": {
+        "coordinates": [
+          8.86254,
+          58.74921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosterhamn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.38585,
+          59.69919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moss"
+      },
+      "geometry": {
+        "coordinates": [
+          10.65771,
+          59.43403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosjoen"
+      },
+      "geometry": {
+        "coordinates": [
+          13.19076,
+          65.83599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moldjord"
+      },
+      "geometry": {
+        "coordinates": [
+          14.5743,
+          67.00601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molde"
+      },
+      "geometry": {
+        "coordinates": [
+          7.15912,
+          62.73752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fyresdal"
+      },
+      "geometry": {
+        "coordinates": [
+          8.0921,
+          59.18343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo i Rana"
+      },
+      "geometry": {
+        "coordinates": [
+          14.14278,
+          66.31278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moi"
+      },
+      "geometry": {
+        "coordinates": [
+          6.55184,
+          58.45674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moen"
+      },
+      "geometry": {
+        "coordinates": [
+          18.61226,
+          69.13043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moelv"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7,
+          60.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo"
+      },
+      "geometry": {
+        "coordinates": [
+          5.80575,
+          60.81625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mjondalen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.02477,
+          59.75075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midsund"
+      },
+      "geometry": {
+        "coordinates": [
+          6.67412,
+          62.67387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meraker"
+      },
+      "geometry": {
+        "coordinates": [
+          11.74298,
+          63.41406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melsomvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.33616,
+          59.22394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melhus"
+      },
+      "geometry": {
+        "coordinates": [
+          10.27806,
+          63.28555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbu"
+      },
+      "geometry": {
+        "coordinates": [
+          14.79962,
+          68.50246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maura"
+      },
+      "geometry": {
+        "coordinates": [
+          11.03192,
+          60.2583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masfjorden"
+      },
+      "geometry": {
+        "coordinates": [
+          5.30418,
+          60.79887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manger"
+      },
+      "geometry": {
+        "coordinates": [
+          5.04136,
+          60.64145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandal"
+      },
+      "geometry": {
+        "coordinates": [
+          7.45342,
+          58.0274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.68333,
+          63.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maloy"
+      },
+      "geometry": {
+        "coordinates": [
+          5.11362,
+          61.93535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malm"
+      },
+      "geometry": {
+        "coordinates": [
+          11.22398,
+          64.07534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lysaker"
+      },
+      "geometry": {
+        "coordinates": [
+          10.63545,
+          59.90994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyngdal"
+      },
+      "geometry": {
+        "coordinates": [
+          7.07002,
+          58.1376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunde"
+      },
+      "geometry": {
+        "coordinates": [
+          9.10268,
+          59.29832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lundamo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.28555,
+          63.15216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loten"
+      },
+      "geometry": {
+        "coordinates": [
+          11.34209,
+          60.81941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lopsmarka"
+      },
+      "geometry": {
+        "coordinates": [
+          14.44934,
+          67.31343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lonevag"
+      },
+      "geometry": {
+        "coordinates": [
+          5.49563,
+          60.52556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fossbergom"
+      },
+      "geometry": {
+        "coordinates": [
+          8.56842,
+          61.83772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodingen"
+      },
+      "geometry": {
+        "coordinates": [
+          15.99626,
+          68.41373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loding"
+      },
+      "geometry": {
+        "coordinates": [
+          14.73852,
+          67.30055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindas"
+      },
+      "geometry": {
+        "coordinates": [
+          5.16102,
+          60.73639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lillestrom"
+      },
+      "geometry": {
+        "coordinates": [
+          11.04918,
+          59.95597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lillesand"
+      },
+      "geometry": {
+        "coordinates": [
+          8.3778,
+          58.24879
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lillehammer"
+      },
+      "geometry": {
+        "coordinates": [
+          10.46628,
+          61.11514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liknes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.9618,
+          58.31216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levanger"
+      },
+      "geometry": {
+        "coordinates": [
+          11.29963,
+          63.74644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lervik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7461,
+          59.27119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lensvik"
+      },
+      "geometry": {
+        "coordinates": [
+          9.80611,
+          63.51389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lena"
+      },
+      "geometry": {
+        "coordinates": [
+          10.81317,
+          60.67391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leland"
+      },
+      "geometry": {
+        "coordinates": [
+          12.94325,
+          66.06406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leknes"
+      },
+      "geometry": {
+        "coordinates": [
+          11.7,
+          65.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leirvik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.50051,
+          59.77977
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leirsund"
+      },
+      "geometry": {
+        "coordinates": [
+          11.08746,
+          59.99682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lauvsnes"
+      },
+      "geometry": {
+        "coordinates": [
+          10.89396,
+          64.50061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.03517,
+          59.05328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larsnes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.57729,
+          62.20282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkollen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.66687,
+          59.33196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langevag"
+      },
+      "geometry": {
+        "coordinates": [
+          6.19137,
+          62.44085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langesund"
+      },
+      "geometry": {
+        "coordinates": [
+          9.74876,
+          59.00071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laerdalsoyri"
+      },
+      "geometry": {
+        "coordinates": [
+          7.47374,
+          61.10001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyrksaeterora"
+      },
+      "geometry": {
+        "coordinates": [
+          9.08909,
+          63.29057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kviteseid"
+      },
+      "geometry": {
+        "coordinates": [
+          8.49267,
+          59.40223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krokstadora"
+      },
+      "geometry": {
+        "coordinates": [
+          9.50062,
+          63.40099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kristiansund"
+      },
+      "geometry": {
+        "coordinates": [
+          7.72795,
+          63.11045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kristiansand"
+      },
+      "geometry": {
+        "coordinates": [
+          7.9956,
+          58.14671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kragero"
+      },
+      "geometry": {
+        "coordinates": [
+          9.41494,
+          58.8693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korgen"
+      },
+      "geometry": {
+        "coordinates": [
+          13.8216,
+          66.07662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koppang"
+      },
+      "geometry": {
+        "coordinates": [
+          11.04659,
+          61.57219
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopervik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.30669,
+          59.28354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konsmo"
+      },
+      "geometry": {
+        "coordinates": [
+          7.35598,
+          58.28529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongsvinger"
+      },
+      "geometry": {
+        "coordinates": [
+          11.99772,
+          60.19049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongsberg"
+      },
+      "geometry": {
+        "coordinates": [
+          9.65017,
+          59.66858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolvereid"
+      },
+      "geometry": {
+        "coordinates": [
+          11.60465,
+          64.86549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolbotn"
+      },
+      "geometry": {
+        "coordinates": [
+          10.80389,
+          59.81056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knarvik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.28208,
+          60.5453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knappstad"
+      },
+      "geometry": {
+        "coordinates": [
+          11.03274,
+          59.62424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knappskog"
+      },
+      "geometry": {
+        "coordinates": [
+          5.05602,
+          60.37906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klofta"
+      },
+      "geometry": {
+        "coordinates": [
+          11.13805,
+          60.07407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleppesto"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2276,
+          60.40844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjopsvik"
+      },
+      "geometry": {
+        "coordinates": [
+          16.37416,
+          68.09696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkenaer"
+      },
+      "geometry": {
+        "coordinates": [
+          12.05855,
+          60.4579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karlshus"
+      },
+      "geometry": {
+        "coordinates": [
+          10.87226,
+          59.35195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabelvag"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47554,
+          68.21066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judaberg"
+      },
+      "geometry": {
+        "coordinates": [
+          5.87617,
+          59.17204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jorpeland"
+      },
+      "geometry": {
+        "coordinates": [
+          6.04078,
+          59.02251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jondal"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25229,
+          60.27561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jevnaker"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38709,
+          60.23979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jessheim"
+      },
+      "geometry": {
+        "coordinates": [
+          11.17515,
+          60.14151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaren"
+      },
+      "geometry": {
+        "coordinates": [
+          10.56155,
+          60.39273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isdalsto"
+      },
+      "geometry": {
+        "coordinates": [
+          5.26942,
+          60.55519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inndyr"
+      },
+      "geometry": {
+        "coordinates": [
+          14.02663,
+          67.03353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyllestad"
+      },
+      "geometry": {
+        "coordinates": [
+          5.29603,
+          61.17109
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hylkje"
+      },
+      "geometry": {
+        "coordinates": [
+          5.35444,
+          60.51028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hvittingfoss"
+      },
+      "geometry": {
+        "coordinates": [
+          10.01173,
+          59.48572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hundorp"
+      },
+      "geometry": {
+        "coordinates": [
+          9.94069,
+          61.55523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoyanger"
+      },
+      "geometry": {
+        "coordinates": [
+          6.08471,
+          61.22348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hovden"
+      },
+      "geometry": {
+        "coordinates": [
+          7.3567,
+          59.56045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hov"
+      },
+      "geometry": {
+        "coordinates": [
+          10.35193,
+          60.6987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horten"
+      },
+      "geometry": {
+        "coordinates": [
+          10.48343,
+          59.41721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopen"
+      },
+      "geometry": {
+        "coordinates": [
+          8.01437,
+          63.46539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honefoss"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25647,
+          60.16804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hommelvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.79424,
+          63.41083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holmestrand"
+      },
+      "geometry": {
+        "coordinates": [
+          10.31761,
+          59.48761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hol"
+      },
+      "geometry": {
+        "coordinates": [
+          16.39218,
+          68.54902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokksund"
+      },
+      "geometry": {
+        "coordinates": [
+          9.90987,
+          59.77077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjelset"
+      },
+      "geometry": {
+        "coordinates": [
+          7.49277,
+          62.7805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herre"
+      },
+      "geometry": {
+        "coordinates": [
+          9.56195,
+          59.10351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermansverk"
+      },
+      "geometry": {
+        "coordinates": [
+          6.85016,
+          61.18461
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemsedal"
+      },
+      "geometry": {
+        "coordinates": [
+          8.55337,
+          60.86293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemnesberget"
+      },
+      "geometry": {
+        "coordinates": [
+          13.61643,
+          66.22489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heggenes"
+      },
+      "geometry": {
+        "coordinates": [
+          9.06942,
+          61.14383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauknes"
+      },
+      "geometry": {
+        "coordinates": [
+          14.06667,
+          66.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haugesund"
+      },
+      "geometry": {
+        "coordinates": [
+          5.268,
+          59.41378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauge i Dalane"
+      },
+      "geometry": {
+        "coordinates": [
+          6.28121,
+          58.34361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harstad"
+      },
+      "geometry": {
+        "coordinates": [
+          16.54165,
+          68.79833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hareid"
+      },
+      "geometry": {
+        "coordinates": [
+          6.02902,
+          62.37041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardbakke"
+      },
+      "geometry": {
+        "coordinates": [
+          4.84111,
+          61.07562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hansnes"
+      },
+      "geometry": {
+        "coordinates": [
+          19.62752,
+          69.96701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamnvik"
+      },
+      "geometry": {
+        "coordinates": [
+          17.17179,
+          68.77927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamar"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06798,
+          60.7945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halden"
+      },
+      "geometry": {
+        "coordinates": [
+          11.38754,
+          59.12478
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagavik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.40146,
+          60.18076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gvarv"
+      },
+      "geometry": {
+        "coordinates": [
+          9.1724,
+          59.38767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gullhaug"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25224,
+          59.5013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gryllefjord"
+      },
+      "geometry": {
+        "coordinates": [
+          17.05284,
+          69.36304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grua"
+      },
+      "geometry": {
+        "coordinates": [
+          10.66222,
+          60.25701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grong"
+      },
+      "geometry": {
+        "coordinates": [
+          12.31601,
+          64.46459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grimstad"
+      },
+      "geometry": {
+        "coordinates": [
+          8.59343,
+          58.3405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravdal"
+      },
+      "geometry": {
+        "coordinates": [
+          13.55339,
+          68.11832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gratangen"
+      },
+      "geometry": {
+        "coordinates": [
+          17.68333,
+          68.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granvin"
+      },
+      "geometry": {
+        "coordinates": [
+          6.7194,
+          60.52408
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gol"
+      },
+      "geometry": {
+        "coordinates": [
+          8.94572,
+          60.7014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glomfjord"
+      },
+      "geometry": {
+        "coordinates": [
+          13.94404,
+          66.81663
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstad"
+      },
+      "geometry": {
+        "coordinates": [
+          11.96218,
+          65.67683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justvik"
+      },
+      "geometry": {
+        "coordinates": [
+          8.03107,
+          58.19691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjovik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.69155,
+          60.79574
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjerstad"
+      },
+      "geometry": {
+        "coordinates": [
+          9.01861,
+          58.88083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geilo"
+      },
+      "geometry": {
+        "coordinates": [
+          8.20539,
+          60.53369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frogner"
+      },
+      "geometry": {
+        "coordinates": [
+          11.10284,
+          60.02463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frekhaug"
+      },
+      "geometry": {
+        "coordinates": [
+          5.24252,
+          60.51321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredrikstad"
+      },
+      "geometry": {
+        "coordinates": [
+          10.9298,
+          59.2181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fossby"
+      },
+      "geometry": {
+        "coordinates": [
+          11.69928,
+          59.22218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fosnavag"
+      },
+      "geometry": {
+        "coordinates": [
+          5.63396,
+          62.34194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forde"
+      },
+      "geometry": {
+        "coordinates": [
+          5.85717,
+          61.45217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Folldal"
+      },
+      "geometry": {
+        "coordinates": [
+          9.9968,
+          62.13246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floro"
+      },
+      "geometry": {
+        "coordinates": [
+          5.0328,
+          61.59957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flekkefjord"
+      },
+      "geometry": {
+        "coordinates": [
+          6.66069,
+          58.29705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flateby"
+      },
+      "geometry": {
+        "coordinates": [
+          11.15345,
+          59.82951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fla"
+      },
+      "geometry": {
+        "coordinates": [
+          9.46197,
+          60.43021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitjar"
+      },
+      "geometry": {
+        "coordinates": [
+          5.31674,
+          59.91803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finnsnes"
+      },
+      "geometry": {
+        "coordinates": [
+          17.98114,
+          69.22959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fillan"
+      },
+      "geometry": {
+        "coordinates": [
+          8.96961,
+          63.60638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fevik"
+      },
+      "geometry": {
+        "coordinates": [
+          8.67601,
+          58.3782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fetsund"
+      },
+      "geometry": {
+        "coordinates": [
+          11.15711,
+          59.92463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fedje"
+      },
+      "geometry": {
+        "coordinates": [
+          4.71485,
+          60.7789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fauske"
+      },
+      "geometry": {
+        "coordinates": [
+          15.39181,
+          67.25883
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farsund"
+      },
+      "geometry": {
+        "coordinates": [
+          6.80468,
+          58.09479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fagerstrand"
+      },
+      "geometry": {
+        "coordinates": [
+          10.59404,
+          59.73746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fagernes"
+      },
+      "geometry": {
+        "coordinates": [
+          9.23236,
+          60.98584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evjen"
+      },
+      "geometry": {
+        "coordinates": [
+          13.73333,
+          68.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evje"
+      },
+      "geometry": {
+        "coordinates": [
+          7.80363,
+          58.58569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evenskjer"
+      },
+      "geometry": {
+        "coordinates": [
+          16.57203,
+          68.58283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etne"
+      },
+      "geometry": {
+        "coordinates": [
+          5.93708,
+          59.66528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espeland"
+      },
+      "geometry": {
+        "coordinates": [
+          5.4657,
+          60.38249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elverum"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56231,
+          60.88191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eivindvik"
+      },
+      "geometry": {
+        "coordinates": [
+          5.07497,
+          60.98133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eikelandsosen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.74433,
+          60.24175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eike"
+      },
+      "geometry": {
+        "coordinates": [
+          5.36389,
+          59.39833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eidsvoll"
+      },
+      "geometry": {
+        "coordinates": [
+          11.26264,
+          60.3311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eidsvag"
+      },
+      "geometry": {
+        "coordinates": [
+          8.0655,
+          62.77656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eidfjord"
+      },
+      "geometry": {
+        "coordinates": [
+          7.07193,
+          60.4675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eide"
+      },
+      "geometry": {
+        "coordinates": [
+          7.44669,
+          62.91735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egersund"
+      },
+      "geometry": {
+        "coordinates": [
+          5.9997,
+          58.45133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drobak"
+      },
+      "geometry": {
+        "coordinates": [
+          10.62975,
+          59.66333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drammen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.20449,
+          59.74389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dovre"
+      },
+      "geometry": {
+        "coordinates": [
+          9.25556,
+          61.9875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dombas"
+      },
+      "geometry": {
+        "coordinates": [
+          9.12785,
+          62.07554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dokka"
+      },
+      "geometry": {
+        "coordinates": [
+          10.07362,
+          60.835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalen"
+      },
+      "geometry": {
+        "coordinates": [
+          8.00492,
+          59.44499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dale"
+      },
+      "geometry": {
+        "coordinates": [
+          5.40036,
+          61.36353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dale"
+      },
+      "geometry": {
+        "coordinates": [
+          5.81888,
+          60.58639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bygland"
+      },
+      "geometry": {
+        "coordinates": [
+          7.79616,
+          58.8285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryne"
+      },
+      "geometry": {
+        "coordinates": [
+          5.64766,
+          58.73536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brumunddal"
+      },
+      "geometry": {
+        "coordinates": [
+          10.93948,
+          60.88095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruflat"
+      },
+      "geometry": {
+        "coordinates": [
+          9.64143,
+          60.88781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bronnoysund"
+      },
+      "geometry": {
+        "coordinates": [
+          12.19973,
+          65.4625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svortland"
+      },
+      "geometry": {
+        "coordinates": [
+          5.17226,
+          59.79284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brekstad"
+      },
+      "geometry": {
+        "coordinates": [
+          9.66541,
+          63.68697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brattvag"
+      },
+      "geometry": {
+        "coordinates": [
+          6.44426,
+          62.59991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botngard"
+      },
+      "geometry": {
+        "coordinates": [
+          9.80863,
+          63.76484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borkenes"
+      },
+      "geometry": {
+        "coordinates": [
+          16.17115,
+          68.77261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randa"
+      },
+      "geometry": {
+        "coordinates": [
+          16.9928,
+          68.52647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodo"
+      },
+      "geometry": {
+        "coordinates": [
+          14.40501,
+          67.28
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.0693,
+          59.41299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blakstad"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4645,
+          59.8191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjorkelangen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56396,
+          59.88357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjerkvik"
+      },
+      "geometry": {
+        "coordinates": [
+          17.55709,
+          68.54917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birkeland"
+      },
+      "geometry": {
+        "coordinates": [
+          8.23229,
+          58.33091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berkak"
+      },
+      "geometry": {
+        "coordinates": [
+          10.01177,
+          62.82496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berger"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38641,
+          59.54994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.32415,
+          60.39299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batnfjordsora"
+      },
+      "geometry": {
+        "coordinates": [
+          7.67251,
+          62.89463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barkaker"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38963,
+          59.31859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballangen"
+      },
+      "geometry": {
+        "coordinates": [
+          16.83145,
+          68.34283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balestrand"
+      },
+      "geometry": {
+        "coordinates": [
+          6.53608,
+          61.20962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagn"
+      },
+      "geometry": {
+        "coordinates": [
+          9.55207,
+          60.82249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austrheim"
+      },
+      "geometry": {
+        "coordinates": [
+          4.9323,
+          60.7774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aursmoen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.44275,
+          59.92763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aure"
+      },
+      "geometry": {
+        "coordinates": [
+          8.52913,
+          63.2679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auli"
+      },
+      "geometry": {
+        "coordinates": [
+          11.36046,
+          60.0345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askim"
+      },
+      "geometry": {
+        "coordinates": [
+          11.16286,
+          59.58326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asker"
+      },
+      "geometry": {
+        "coordinates": [
+          10.43721,
+          59.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ask"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0362,
+          60.07131
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asgardstrand"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4675,
+          59.34889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aas"
+      },
+      "geometry": {
+        "coordinates": [
+          11.65,
+          63.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As"
+      },
+      "geometry": {
+        "coordinates": [
+          10.79465,
+          59.66472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aros"
+      },
+      "geometry": {
+        "coordinates": [
+          10.51092,
+          59.7061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arnes"
+      },
+      "geometry": {
+        "coordinates": [
+          10.22601,
+          63.96114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arnes"
+      },
+      "geometry": {
+        "coordinates": [
+          11.47005,
+          60.12237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indre Arna"
+      },
+      "geometry": {
+        "coordinates": [
+          5.47087,
+          60.41768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arendal"
+      },
+      "geometry": {
+        "coordinates": [
+          8.77253,
+          58.46151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardalstangen"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7037,
+          61.23581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aneby"
+      },
+      "geometry": {
+        "coordinates": [
+          10.86998,
+          60.08926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andenes"
+      },
+      "geometry": {
+        "coordinates": [
+          16.11939,
+          69.31428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andalsnes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.68709,
+          62.56749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amot"
+      },
+      "geometry": {
+        "coordinates": [
+          7.98871,
+          59.56974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amli"
+      },
+      "geometry": {
+        "coordinates": [
+          8.48392,
+          58.76566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alvdal"
+      },
+      "geometry": {
+        "coordinates": [
+          10.63073,
+          62.10766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algard"
+      },
+      "geometry": {
+        "coordinates": [
+          5.85253,
+          58.76417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alesund"
+      },
+      "geometry": {
+        "coordinates": [
+          6.15492,
+          62.47225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.3013,
+          62.84185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al"
+      },
+      "geometry": {
+        "coordinates": [
+          8.56071,
+          60.63024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akrehamn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.18689,
+          59.26053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agotnes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.01927,
+          60.40306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A i Afjord"
+      },
+      "geometry": {
+        "coordinates": [
+          10.22468,
+          63.96068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vormedal"
+      },
+      "geometry": {
+        "coordinates": [
+          5.31962,
+          59.35607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tingvoll"
+      },
+      "geometry": {
+        "coordinates": [
+          8.20526,
+          62.91318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oppeid"
+      },
+      "geometry": {
+        "coordinates": [
+          15.60942,
+          68.08522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hommersak"
+      },
+      "geometry": {
+        "coordinates": [
+          5.85104,
+          58.92556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikevag"
+      },
+      "geometry": {
+        "coordinates": [
+          5.6979,
+          59.09754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aroysund"
+      },
+      "geometry": {
+        "coordinates": [
+          10.45743,
+          59.18321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myre"
+      },
+      "geometry": {
+        "coordinates": [
+          15.07843,
+          68.914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nesoddtangen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.66308,
+          59.86244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askoy"
+      },
+      "geometry": {
+        "coordinates": [
+          5.18333,
+          60.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orsta"
+      },
+      "geometry": {
+        "coordinates": [
+          6.12904,
+          62.19983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryggebyen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.75,
+          59.375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vedavagen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.21874,
+          59.29483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestnes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.08696,
+          62.62544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fjellfoten"
+      },
+      "geometry": {
+        "coordinates": [
+          11.47222,
+          60.08967
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neskollen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.33926,
+          60.12159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinsarvik"
+      },
+      "geometry": {
+        "coordinates": [
+          6.71948,
+          60.37567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjolyststranda"
+      },
+      "geometry": {
+        "coordinates": [
+          10.68017,
+          59.92105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skei"
+      },
+      "geometry": {
+        "coordinates": [
+          6.4791,
+          61.5715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ytrebygda"
+      },
+      "geometry": {
+        "coordinates": [
+          5.28236,
+          60.30504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandsli"
+      },
+      "geometry": {
+        "coordinates": [
+          5.28554,
+          60.30323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stjordal"
+      },
+      "geometry": {
+        "coordinates": [
+          10.91776,
+          63.46803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frosta"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7423,
+          63.5891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vik"
+      },
+      "geometry": {
+        "coordinates": [
+          6.57806,
+          61.05712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sogndal"
+      },
+      "geometry": {
+        "coordinates": [
+          7.09674,
+          61.22908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romskog"
+      },
+      "geometry": {
+        "coordinates": [
+          11.8112,
+          59.7497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meieribyen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.16083,
+          59.47453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkebygda"
+      },
+      "geometry": {
+        "coordinates": [
+          10.87432,
+          59.4921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elvestad"
+      },
+      "geometry": {
+        "coordinates": [
+          10.9508,
+          59.62401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forsand"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1048,
+          58.9033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fjerdingby"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06527,
+          59.92626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkebygda"
+      },
+      "geometry": {
+        "coordinates": [
+          11.14492,
+          59.76452
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjenn"
+      },
+      "geometry": {
+        "coordinates": [
+          10.95373,
+          59.93098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teigebyen"
+      },
+      "geometry": {
+        "coordinates": [
+          11.0176,
+          60.22069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurdal"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06707,
+          60.43518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flisa"
+      },
+      "geometry": {
+        "coordinates": [
+          12.01088,
+          60.61318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergset"
+      },
+      "geometry": {
+        "coordinates": [
+          11.07769,
+          61.89126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engerdal"
+      },
+      "geometry": {
+        "coordinates": [
+          11.95937,
+          61.75904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lesja"
+      },
+      "geometry": {
+        "coordinates": [
+          8.86424,
+          62.11837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bismo"
+      },
+      "geometry": {
+        "coordinates": [
+          8.26665,
+          61.88406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringebu"
+      },
+      "geometry": {
+        "coordinates": [
+          10.13889,
+          61.52965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segalstad bru"
+      },
+      "geometry": {
+        "coordinates": [
+          10.22255,
+          61.22819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slidre"
+      },
+      "geometry": {
+        "coordinates": [
+          8.98141,
+          61.08802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vang"
+      },
+      "geometry": {
+        "coordinates": [
+          8.5729,
+          61.12529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.27908,
+          60.07706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troim"
+      },
+      "geometry": {
+        "coordinates": [
+          8.56537,
+          60.86114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hol"
+      },
+      "geometry": {
+        "coordinates": [
+          8.29398,
+          60.61511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lierbyen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.24447,
+          59.78651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lampeland"
+      },
+      "geometry": {
+        "coordinates": [
+          9.57912,
+          59.83486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodberg"
+      },
+      "geometry": {
+        "coordinates": [
+          8.94721,
+          60.26722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hof"
+      },
+      "geometry": {
+        "coordinates": [
+          10.09032,
+          59.53013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revetal"
+      },
+      "geometry": {
+        "coordinates": [
+          10.26308,
+          59.3724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andebu"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17653,
+          59.30592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borgheim"
+      },
+      "geometry": {
+        "coordinates": [
+          10.40745,
+          59.22629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svarstad"
+      },
+      "geometry": {
+        "coordinates": [
+          9.96144,
+          59.40168
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauland"
+      },
+      "geometry": {
+        "coordinates": [
+          8.93755,
+          59.6161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blakstad"
+      },
+      "geometry": {
+        "coordinates": [
+          8.64648,
+          58.5046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birketveit"
+      },
+      "geometry": {
+        "coordinates": [
+          7.91692,
+          58.45909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helland"
+      },
+      "geometry": {
+        "coordinates": [
+          7.52431,
+          58.19344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyrkjebygda"
+      },
+      "geometry": {
+        "coordinates": [
+          7.41391,
+          58.61523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleppe"
+      },
+      "geometry": {
+        "coordinates": [
+          5.62936,
+          58.77423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjelmelandsvagen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.17907,
+          59.23692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sand"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25109,
+          59.48468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ydstebohamn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.40249,
+          59.06227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bokn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.43524,
+          59.23062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aksdal"
+      },
+      "geometry": {
+        "coordinates": [
+          5.44553,
+          59.42408
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skogsvagen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.10161,
+          60.25512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straume"
+      },
+      "geometry": {
+        "coordinates": [
+          5.12199,
+          60.36131
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aurlandsvangen"
+      },
+      "geometry": {
+        "coordinates": [
+          7.18706,
+          60.90578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaupne"
+      },
+      "geometry": {
+        "coordinates": [
+          7.29458,
+          61.40472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askvoll"
+      },
+      "geometry": {
+        "coordinates": [
+          5.06224,
+          61.34673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hornindal"
+      },
+      "geometry": {
+        "coordinates": [
+          6.52418,
+          61.96921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiska"
+      },
+      "geometry": {
+        "coordinates": [
+          5.55788,
+          62.10059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stordal"
+      },
+      "geometry": {
+        "coordinates": [
+          6.98629,
+          62.38203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sykkylven"
+      },
+      "geometry": {
+        "coordinates": [
+          6.5875,
+          62.39594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valderoy"
+      },
+      "geometry": {
+        "coordinates": [
+          6.13472,
+          62.5007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falkhytta"
+      },
+      "geometry": {
+        "coordinates": [
+          6.88722,
+          62.805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elnesvagen"
+      },
+      "geometry": {
+        "coordinates": [
+          7.13769,
+          62.85426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruhagen"
+      },
+      "geometry": {
+        "coordinates": [
+          7.63416,
+          63.05259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surnadal"
+      },
+      "geometry": {
+        "coordinates": [
+          8.72472,
+          62.97397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liaboen"
+      },
+      "geometry": {
+        "coordinates": [
+          8.31587,
+          63.12249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rissa"
+      },
+      "geometry": {
+        "coordinates": [
+          9.95989,
+          63.58368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roan"
+      },
+      "geometry": {
+        "coordinates": [
+          10.22898,
+          64.17269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinsdalen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.51284,
+          64.29875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meldal"
+      },
+      "geometry": {
+        "coordinates": [
+          9.71337,
+          63.04721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.28501,
+          63.0391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borsa"
+      },
+      "geometry": {
+        "coordinates": [
+          10.0692,
+          63.32672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klaebu"
+      },
+      "geometry": {
+        "coordinates": [
+          10.48261,
+          63.29762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mebonden"
+      },
+      "geometry": {
+        "coordinates": [
+          11.03099,
+          63.23034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leksvik"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6232,
+          63.67274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namdalseid"
+      },
+      "geometry": {
+        "coordinates": [
+          11.22319,
+          64.22186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoylandet"
+      },
+      "geometry": {
+        "coordinates": [
+          12.30206,
+          64.62887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joa"
+      },
+      "geometry": {
+        "coordinates": [
+          11.26535,
+          64.6591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silvalen"
+      },
+      "geometry": {
+        "coordinates": [
+          12.28856,
+          65.9832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hattfjelldal"
+      },
+      "geometry": {
+        "coordinates": [
+          13.98791,
+          65.59736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luroy"
+      },
+      "geometry": {
+        "coordinates": [
+          12.84248,
+          66.41887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Husoya"
+      },
+      "geometry": {
+        "coordinates": [
+          12.09645,
+          66.50159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vagaholmen"
+      },
+      "geometry": {
+        "coordinates": [
+          13.28711,
+          66.71367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leinesfjorden"
+      },
+      "geometry": {
+        "coordinates": [
+          15.01545,
+          67.77548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leknes"
+      },
+      "geometry": {
+        "coordinates": [
+          13.61151,
+          68.14746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tennevoll"
+      },
+      "geometry": {
+        "coordinates": [
+          17.80621,
+          68.7471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorreisa"
+      },
+      "geometry": {
+        "coordinates": [
+          18.15292,
+          69.14527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brostadbotn"
+      },
+      "geometry": {
+        "coordinates": [
+          17.69489,
+          69.08873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatteng"
+      },
+      "geometry": {
+        "coordinates": [
+          19.95944,
+          69.27072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breivikbotn"
+      },
+      "geometry": {
+        "coordinates": [
+          22.28712,
+          70.58877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tana bru"
+      },
+      "geometry": {
+        "coordinates": [
+          28.19039,
+          70.19909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulsteinvik weather pws station"
+      },
+      "geometry": {
+        "coordinates": [
+          5.84385,
+          62.34338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Billingstad"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4823,
+          59.87548
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint George"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.67806,
+          32.38167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.78303,
+          32.2949
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

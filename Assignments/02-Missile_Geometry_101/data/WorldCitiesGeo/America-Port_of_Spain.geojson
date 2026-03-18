@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tunapuna"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.38333,
+          10.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabaquite"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.29704,
+          10.38824
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siparia"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.5,
+          10.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scarborough"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.73525,
+          11.18229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangre Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.11667,
+          10.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Fernando"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.46667,
+          10.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Claro"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.18333,
+          10.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princes Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.38333,
+          10.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.51889,
+          10.66668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Fortin"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.68333,
+          10.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petit Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.53333,
+          10.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penal"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.46667,
+          10.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.36298,
+          10.65298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mucurapo"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.53697,
+          10.66253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mon Repos"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.4459,
+          10.27979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marabella"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.44671,
+          10.30618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laventille"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.49889,
+          10.64917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debe"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.45273,
+          10.20846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Couva"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.46748,
+          10.42248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaguanas"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.41667,
+          10.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arouca"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.33487,
+          10.62877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arima"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.28333,
+          10.63333
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

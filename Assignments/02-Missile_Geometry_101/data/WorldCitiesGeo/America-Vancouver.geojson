@@ -1,0 +1,1214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbotsford"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.25257,
+          49.05798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agassiz"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.76926,
+          49.23298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anmore"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.85263,
+          49.31637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Armstrong"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.20235,
+          50.44979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashcroft"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.28207,
+          50.72372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowen Island"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.33622,
+          49.3847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnaby"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.95263,
+          49.26636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burns Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.76084,
+          54.22972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cache Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.3246,
+          50.81011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campbell River"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.24459,
+          50.01634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlegar"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.66894,
+          49.29984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chase"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.68571,
+          50.8165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chilliwack"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.95257,
+          49.16638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.48591,
+          48.43293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coquitlam"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.75262,
+          49.28297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courtenay"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.9936,
+          49.68657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumberland"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.03613,
+          49.61634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.9068,
+          49.14399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duncan"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.70266,
+          48.78293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enderby"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.15234,
+          50.5498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruitvale"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.55222,
+          49.11654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibsons"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.50555,
+          49.39539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Forks"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.4356,
+          49.03309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanceville"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.04458,
+          51.91922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hope"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.44144,
+          49.38299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houston"
+      },
+      "geometry": {
+        "coordinates": [
+          -126.67008,
+          54.39976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamloops"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.3192,
+          50.66648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelowna"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.48568,
+          49.88307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kitimat"
+      },
+      "geometry": {
+        "coordinates": [
+          -128.65342,
+          54.05244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladysmith"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.81699,
+          48.99016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Cowichan"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.05461,
+          48.82495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langford"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.50261,
+          48.44963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langley"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.65883,
+          49.10107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langley"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.58589,
+          49.08297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lions Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.2376,
+          49.45218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.80253,
+          50.49976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumby"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.96904,
+          50.24979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Ridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.60193,
+          49.21939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merritt"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.7942,
+          50.11225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metchosin"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.53591,
+          48.38293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakusp"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.80226,
+          50.24987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanaimo"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.94003,
+          49.16638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.28553,
+          49.49985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Westminster"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.91092,
+          49.20678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Cowichan"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.68596,
+          48.84133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Saanich"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.41933,
+          48.66634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Vancouver"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.06934,
+          49.31636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.3026,
+          48.44964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oliver"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.5524,
+          49.18306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osoyoos"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.45237,
+          49.03306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parksville"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.31575,
+          49.31947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peachland"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.73568,
+          49.76647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemberton"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.80273,
+          50.31641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penticton"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.58584,
+          49.48062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitt Meadows"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.68965,
+          49.22119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Alberni"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.8028,
+          49.24133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Moody"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.85263,
+          49.28297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powell River"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.52368,
+          49.83278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince George"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.75301,
+          53.9166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Rupert"
+      },
+      "geometry": {
+        "coordinates": [
+          -130.32098,
+          54.31507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princeton"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.51076,
+          49.45802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quesnel"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.4931,
+          52.97842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revelstoke"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.1953,
+          50.99712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.13683,
+          49.17003
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rossland"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.80224,
+          49.08313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmo"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.2689,
+          49.19986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmon Arm"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.30237,
+          50.6998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sechelt"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.75903,
+          49.47512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sicamous"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.98565,
+          50.83312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithers"
+      },
+      "geometry": {
+        "coordinates": [
+          -127.17428,
+          54.78036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sooke"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.72762,
+          48.37463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summerland"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.66911,
+          49.59977
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surrey"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.82509,
+          49.10635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrace"
+      },
+      "geometry": {
+        "coordinates": [
+          -128.60345,
+          54.51634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trail"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.70223,
+          49.09983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ucluelet"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.54635,
+          48.94153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.11934,
+          49.24966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanderhoof"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.01982,
+          54.01657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vernon"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.27337,
+          50.26729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.3693,
+          48.43294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watson Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -128.70893,
+          60.06349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West End"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.13333,
+          49.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistler"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.96946,
+          50.1164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Rock"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.8026,
+          49.01636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.14451,
+          52.14153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tofino"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.90744,
+          49.15314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lillooet"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.942,
+          50.6856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okanagan"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.34997,
+          50.36386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Kelowna"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.58333,
+          49.8625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladner"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.08241,
+          49.08938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walnut Grove"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.64042,
+          49.16473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aldergrove"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.47087,
+          49.05801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Vancouver"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.16652,
+          49.36672
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

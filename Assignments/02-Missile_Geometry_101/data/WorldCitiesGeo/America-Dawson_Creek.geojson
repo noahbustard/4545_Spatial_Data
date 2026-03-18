@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chetwynd"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.63627,
+          55.69988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawson Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.2403,
+          55.75984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort St. John"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.85292,
+          56.24988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumbler Ridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.99415,
+          55.13027
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

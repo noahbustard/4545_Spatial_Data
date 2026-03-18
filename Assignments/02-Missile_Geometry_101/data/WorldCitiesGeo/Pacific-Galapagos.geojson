@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Villamil"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.96654,
+          -0.95542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Baquerizo Moreno"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.60474,
+          -0.92322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Ayora"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.3138,
+          -0.74018
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

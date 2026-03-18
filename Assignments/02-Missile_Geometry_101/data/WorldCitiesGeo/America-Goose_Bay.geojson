@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Valley-Goose Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.32576,
+          53.3038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labrador City"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.91137,
+          52.94626
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

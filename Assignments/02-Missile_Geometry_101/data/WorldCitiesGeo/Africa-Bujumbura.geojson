@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makamba"
+      },
+      "geometry": {
+        "coordinates": [
+          29.804,
+          -4.1348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bururi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.62438,
+          -3.94877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumonge"
+      },
+      "geometry": {
+        "coordinates": [
+          29.4386,
+          -3.9736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mwaro"
+      },
+      "geometry": {
+        "coordinates": [
+          29.70334,
+          -3.51128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isale"
+      },
+      "geometry": {
+        "coordinates": [
+          29.4839,
+          -3.3489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bujumbura"
+      },
+      "geometry": {
+        "coordinates": [
+          29.3644,
+          -3.3822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muramvya"
+      },
+      "geometry": {
+        "coordinates": [
+          29.6079,
+          -3.2682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gitega"
+      },
+      "geometry": {
+        "coordinates": [
+          29.9308,
+          -3.4264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruyigi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.24861,
+          -3.47639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cankuzo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.5528,
+          -3.2186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karuzi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.16278,
+          -3.10139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubanza"
+      },
+      "geometry": {
+        "coordinates": [
+          29.391,
+          -3.0804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cibitoke"
+      },
+      "geometry": {
+        "coordinates": [
+          29.1248,
+          -2.8869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buganda"
+      },
+      "geometry": {
+        "coordinates": [
+          29.1944,
+          -2.9663
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngozi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.8306,
+          -2.9075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayanza"
+      },
+      "geometry": {
+        "coordinates": [
+          29.6293,
+          -2.9221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muyinga"
+      },
+      "geometry": {
+        "coordinates": [
+          30.3414,
+          -2.8451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirundo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.0959,
+          -2.5845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rutana"
+      },
+      "geometry": {
+        "coordinates": [
+          29.992,
+          -3.9279
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

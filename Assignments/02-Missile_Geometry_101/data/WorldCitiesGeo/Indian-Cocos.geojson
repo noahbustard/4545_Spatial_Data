@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Island"
+      },
+      "geometry": {
+        "coordinates": [
+          96.82251,
+          -12.15681
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

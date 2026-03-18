@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Control"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.81281,
+          25.95867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reynosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.28835,
+          26.08061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Laredo"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.51639,
+          27.47629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heroica Matamoros"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.50417,
+          25.87972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidalgo"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.2,
+          26.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedras Negras"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.52353,
+          28.70007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Anahuac"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.13229,
+          27.24457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Acuna"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.95217,
+          29.32322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anahuac"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.13222,
+          27.24056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Higuerillas"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.43611,
+          25.26222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Campanario y Oradel"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.62,
+          27.47306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CEFERESO Numero 3"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.63333,
+          25.84722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vamos Tamaulipas"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.22167,
+          25.98667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

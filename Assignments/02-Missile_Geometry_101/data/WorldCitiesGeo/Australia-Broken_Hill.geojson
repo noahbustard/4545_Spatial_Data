@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broken Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          141.4512,
+          -31.9652
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

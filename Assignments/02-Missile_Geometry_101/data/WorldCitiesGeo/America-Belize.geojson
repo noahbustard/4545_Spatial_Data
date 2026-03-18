@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shipyard"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.65452,
+          17.89382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.9659,
+          17.91598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Ignacio"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.0696,
+          17.1588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punta Gorda"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.8097,
+          16.09835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Placencia"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.36647,
+          16.51419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange Walk"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.56328,
+          18.08124
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dangriga"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.23313,
+          16.9697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corozal"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.38849,
+          18.39375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benque Viejo del Carmen"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.13917,
+          17.075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmopan"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.76667,
+          17.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belize City"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.19756,
+          17.49952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley of Peace"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.83472,
+          17.33472
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

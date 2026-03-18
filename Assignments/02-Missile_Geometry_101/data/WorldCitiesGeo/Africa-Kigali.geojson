@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rwamagana"
+      },
+      "geometry": {
+        "coordinates": [
+          30.4347,
+          -1.9487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musanze"
+      },
+      "geometry": {
+        "coordinates": [
+          29.63497,
+          -1.49984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nzega"
+      },
+      "geometry": {
+        "coordinates": [
+          29.5564,
+          -2.479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kigali"
+      },
+      "geometry": {
+        "coordinates": [
+          30.05885,
+          -1.94995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kibuye"
+      },
+      "geometry": {
+        "coordinates": [
+          29.34778,
+          -2.06028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kibungo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.5427,
+          -2.1597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gitarama"
+      },
+      "geometry": {
+        "coordinates": [
+          29.75667,
+          -2.07444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gikongoro"
+      },
+      "geometry": {
+        "coordinates": [
+          29.57389,
+          -2.46397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cyangugu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.9075,
+          -2.4846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gisenyi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.25639,
+          -1.70278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byumba"
+      },
+      "geometry": {
+        "coordinates": [
+          30.0675,
+          -1.5763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butare"
+      },
+      "geometry": {
+        "coordinates": [
+          29.73944,
+          -2.59667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butare"
+      },
+      "geometry": {
+        "coordinates": [
+          29.7431,
+          -2.6038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyanza"
+      },
+      "geometry": {
+        "coordinates": [
+          29.75089,
+          -2.35187
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

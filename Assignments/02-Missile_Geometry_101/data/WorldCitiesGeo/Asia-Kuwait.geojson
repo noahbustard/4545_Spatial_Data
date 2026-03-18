@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janub as Surrah"
+      },
+      "geometry": {
+        "coordinates": [
+          47.97806,
+          29.26917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawalli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.02861,
+          29.33278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.04881,
+          29.3032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Zawr"
+      },
+      "geometry": {
+        "coordinates": [
+          48.27472,
+          29.4425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As Salimiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.07611,
+          29.33389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shamiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          47.96167,
+          29.34722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rumaythiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.07417,
+          29.31167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Riqqah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.09472,
+          29.14583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Wafrah"
+      },
+      "geometry": {
+        "coordinates": [
+          47.93056,
+          28.63917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Manqaf"
+      },
+      "geometry": {
+        "coordinates": [
+          48.13278,
+          29.09611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mahbulah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.13028,
+          29.145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuwait City"
+      },
+      "geometry": {
+        "coordinates": [
+          47.97833,
+          29.36972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jahra'"
+      },
+      "geometry": {
+        "coordinates": [
+          47.65806,
+          29.3375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Funaytis"
+      },
+      "geometry": {
+        "coordinates": [
+          48.10167,
+          29.22528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fahahil"
+      },
+      "geometry": {
+        "coordinates": [
+          48.13028,
+          29.0825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fintas"
+      },
+      "geometry": {
+        "coordinates": [
+          48.12111,
+          29.17389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Farwaniyah"
+      },
+      "geometry": {
+        "coordinates": [
+          47.95861,
+          29.2775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Ahmadi"
+      },
+      "geometry": {
+        "coordinates": [
+          48.08389,
+          29.07694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad Dasmah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.00139,
+          29.365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salwa"
+      },
+      "geometry": {
+        "coordinates": [
+          48.07861,
+          29.29583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rabiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          47.93306,
+          29.295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabah as Salim"
+      },
+      "geometry": {
+        "coordinates": [
+          48.05722,
+          29.25722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mubarak al Kabir"
+      },
+      "geometry": {
+        "coordinates": [
+          48.08716,
+          29.18979
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

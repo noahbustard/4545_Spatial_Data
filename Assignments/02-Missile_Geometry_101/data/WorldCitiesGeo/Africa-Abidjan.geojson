@@ -1,0 +1,1552 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuenoula"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.05054,
+          7.43027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoukougbeu"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.8638,
+          6.76229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zouan-Hounien"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.2065,
+          6.91937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamoussoukro"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.27674,
+          6.82055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yakasse-Attobrou"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.65111,
+          6.18174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouaninou"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.86638,
+          8.2379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vavoua"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.47778,
+          7.38194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transua"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.01431,
+          7.55004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toumodi"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.01769,
+          6.55799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toulepleu Guere"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.42592,
+          6.57395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toulepleu"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.41091,
+          6.57974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Touba"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.68333,
+          8.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tengrela"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.40694,
+          10.48115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiebissou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.2248,
+          7.15772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiassale"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.82293,
+          5.89839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehini"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.65804,
+          9.60542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanda"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.16832,
+          7.80335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tai"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.45519,
+          5.87366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabou"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.3528,
+          4.42295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sipilou"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.10143,
+          7.8645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinfra"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.91144,
+          6.62103
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinematiali"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.38476,
+          9.5841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sikensi"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.57371,
+          5.66829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seguelon"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.12083,
+          9.35694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sassandra"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.08531,
+          4.95384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San-Pedro"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.6363,
+          4.74851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandegue"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.58012,
+          7.95376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samatiguila"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.56085,
+          9.81952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakassou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.29263,
+          7.45462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prikro"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.99626,
+          7.64705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oume"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.41759,
+          6.38309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouangolodougou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.14882,
+          9.96837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odienne"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.56433,
+          9.50511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niakaramandougou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.29109,
+          8.65759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nassian"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.47152,
+          8.45275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Bengue"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.90037,
+          10.00244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Batto"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.35781,
+          6.47197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Bahiakro"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.33993,
+          7.45728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankono"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.18972,
+          8.05861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minignan"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.83593,
+          9.99744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Man"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.55383,
+          7.41251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mafere"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.03006,
+          5.4151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madinani"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.94215,
+          9.61083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakota"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.682,
+          5.84752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouto"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.40921,
+          9.89029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kounahiri"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.83477,
+          7.79089
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koun-Fao"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.25249,
+          7.48764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouibly"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.23508,
+          7.25597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koro"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.46348,
+          8.55505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korhogo"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.62961,
+          9.45803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kong"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.60982,
+          9.14943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouassi-Kouassikro"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.67709,
+          7.34141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katiola"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.10095,
+          8.13728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaniasso"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.5125,
+          9.81471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kani"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.60509,
+          8.47807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacqueville"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.4146,
+          5.20515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Issia"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.58558,
+          6.49224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guitry"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.24038,
+          5.51952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiglo"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.4935,
+          6.54368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiberoua"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.17147,
+          6.23869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gueyo"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.0712,
+          5.6882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Lahou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.00333,
+          5.25068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Bassam"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.73884,
+          5.2118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Affery"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.95235,
+          6.32035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gbeleban"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.13183,
+          9.58461
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gagnoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.9506,
+          6.13193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresco"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.56938,
+          5.08226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferkessedougou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.19449,
+          9.5928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Facobly"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.37644,
+          7.3883
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dianra"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.2549,
+          8.94333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duekoue"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.34918,
+          6.74202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divo"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.35723,
+          5.83739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimbokro"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.70519,
+          6.64678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dikodougou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.77222,
+          9.06757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djekanou"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.11553,
+          6.48389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Didievi"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.89804,
+          7.12866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daoukro"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.9631,
+          7.0591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danane"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.15498,
+          7.25957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daloa"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.45022,
+          6.87735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabou"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.37685,
+          5.32556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabakala"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.42863,
+          8.36321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buyo"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.99704,
+          6.27534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boundiali"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.48694,
+          9.52167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouna"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.9951,
+          9.26927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouake"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.03031,
+          7.69385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouafle"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.7442,
+          6.99041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botro"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.31063,
+          7.85249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonoua"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.59625,
+          5.27247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bongouanou"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.20406,
+          6.65175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bondoukou"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.80003,
+          8.0402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocanda"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.49948,
+          7.06264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blolequin"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.00253,
+          6.56913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bingerville"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.88537,
+          5.35581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biankouma"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.61377,
+          7.73909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettie"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.40846,
+          6.07568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beoumi"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.58085,
+          7.67395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangolo"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.48639,
+          7.01232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azaguie"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.08204,
+          5.62984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayame"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.15709,
+          5.6052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attiegouakro"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.11411,
+          6.77402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrah"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.96938,
+          6.67342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anyama"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.05183,
+          5.49462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.66308,
+          5.5004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akoupe"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.88759,
+          6.38423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agnibilekrou"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.20415,
+          7.13113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agboville"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.21319,
+          5.92801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adzope"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.86194,
+          6.10694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adiake"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.30403,
+          5.28634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aboisso"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.20711,
+          5.46779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abobo"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.0159,
+          5.41613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abidjan"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.01266,
+          5.30966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abengourou"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.49639,
+          6.72972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seguela"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.67306,
+          7.96111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soubre"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.59388,
+          5.78377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agou"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.94393,
+          5.98289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiapoum"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.02308,
+          5.13622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soubre"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.60833,
+          5.78556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Songon"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.25415,
+          5.3196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taabo"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.10884,
+          6.1998
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-aux-Francais"
+      },
+      "geometry": {
+        "coordinates": [
+          70.21667,
+          -49.35
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchibanga"
+      },
+      "geometry": {
+        "coordinates": [
+          10.98178,
+          -2.93323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Gentil"
+      },
+      "geometry": {
+        "coordinates": [
+          8.78151,
+          -0.71933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oyem"
+      },
+      "geometry": {
+        "coordinates": [
+          11.57933,
+          1.5995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omboue"
+      },
+      "geometry": {
+        "coordinates": [
+          9.26184,
+          -1.57464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okondja"
+      },
+      "geometry": {
+        "coordinates": [
+          13.67533,
+          -0.65487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntoum"
+      },
+      "geometry": {
+        "coordinates": [
+          9.76096,
+          0.39051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndende"
+      },
+      "geometry": {
+        "coordinates": [
+          11.35813,
+          -2.40077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndjole"
+      },
+      "geometry": {
+        "coordinates": [
+          10.76488,
+          -0.17827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mounana"
+      },
+      "geometry": {
+        "coordinates": [
+          13.15857,
+          -1.4085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mouila"
+      },
+      "geometry": {
+        "coordinates": [
+          11.05594,
+          -1.86846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moanda"
+      },
+      "geometry": {
+        "coordinates": [
+          13.1987,
+          -1.56652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitzic"
+      },
+      "geometry": {
+        "coordinates": [
+          11.54904,
+          0.78205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mimongo"
+      },
+      "geometry": {
+        "coordinates": [
+          11.60675,
+          -1.61952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbigou"
+      },
+      "geometry": {
+        "coordinates": [
+          11.906,
+          -1.90046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayumba"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6554,
+          -3.43198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makokou"
+      },
+      "geometry": {
+        "coordinates": [
+          12.86419,
+          0.57381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libreville"
+      },
+      "geometry": {
+        "coordinates": [
+          9.45356,
+          0.39241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lekoni"
+      },
+      "geometry": {
+        "coordinates": [
+          14.25905,
+          -1.58431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lastoursville"
+      },
+      "geometry": {
+        "coordinates": [
+          12.70818,
+          -0.81742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lambarene"
+      },
+      "geometry": {
+        "coordinates": [
+          10.24055,
+          -0.7001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koulamoutou"
+      },
+      "geometry": {
+        "coordinates": [
+          12.46399,
+          -1.13667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamba"
+      },
+      "geometry": {
+        "coordinates": [
+          10.0,
+          -2.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franceville"
+      },
+      "geometry": {
+        "coordinates": [
+          13.58357,
+          -1.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fougamou"
+      },
+      "geometry": {
+        "coordinates": [
+          10.58378,
+          -1.21544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocobeach"
+      },
+      "geometry": {
+        "coordinates": [
+          9.58229,
+          1.00019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Booue"
+      },
+      "geometry": {
+        "coordinates": [
+          11.93846,
+          -0.09207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitam"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50065,
+          2.07597
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

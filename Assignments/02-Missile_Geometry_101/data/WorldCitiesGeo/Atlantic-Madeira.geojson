@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila de Porto Santo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.3341,
+          33.06018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Vicente"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.04323,
+          32.79673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santana"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.88333,
+          32.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.8,
+          32.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribeira Brava"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.06667,
+          32.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Moniz"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.16667,
+          32.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponta do Sol"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.1,
+          32.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nossa Senhora do Monte"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.9,
+          32.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Machico"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.76667,
+          32.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Funchal"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.92547,
+          32.66568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faja da Ovelha"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.23412,
+          32.77457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estreito da Calheta"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.18674,
+          32.73704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curral das Freiras"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.96993,
+          32.72029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canico"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.85,
+          32.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canical"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.73836,
+          32.73834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campanario"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.03576,
+          32.66578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camara de Lobos"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.96667,
+          32.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camacha"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.34253,
+          33.08665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camacha"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.84462,
+          32.67919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calheta"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.18333,
+          32.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arco da Calheta"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.14974,
+          32.71502
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

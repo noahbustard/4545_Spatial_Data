@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Road Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.62079,
+          18.42693
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

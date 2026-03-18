@@ -1,0 +1,1604 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoko"
+      },
+      "geometry": {
+        "coordinates": [
+          12.31667,
+          5.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yokadouma"
+      },
+      "geometry": {
+        "coordinates": [
+          15.05,
+          3.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaounde"
+      },
+      "geometry": {
+        "coordinates": [
+          11.51667,
+          3.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yagoua"
+      },
+      "geometry": {
+        "coordinates": [
+          15.23288,
+          10.34107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yabassi"
+      },
+      "geometry": {
+        "coordinates": [
+          9.96822,
+          4.45697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wum"
+      },
+      "geometry": {
+        "coordinates": [
+          10.06667,
+          6.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonga"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7,
+          4.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiko"
+      },
+      "geometry": {
+        "coordinates": [
+          9.36005,
+          4.075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tignere"
+      },
+      "geometry": {
+        "coordinates": [
+          12.65,
+          7.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tibati"
+      },
+      "geometry": {
+        "coordinates": [
+          12.62843,
+          6.46504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchollire"
+      },
+      "geometry": {
+        "coordinates": [
+          14.1698,
+          8.4022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangmelima"
+      },
+      "geometry": {
+        "coordinates": [
+          11.98333,
+          2.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saa"
+      },
+      "geometry": {
+        "coordinates": [
+          11.45,
+          4.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rey Bouba"
+      },
+      "geometry": {
+        "coordinates": [
+          14.1786,
+          8.6724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poli"
+      },
+      "geometry": {
+        "coordinates": [
+          13.24097,
+          8.4756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitoa"
+      },
+      "geometry": {
+        "coordinates": [
+          13.50231,
+          9.3839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penja"
+      },
+      "geometry": {
+        "coordinates": [
+          9.67987,
+          4.63911
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ombesa"
+      },
+      "geometry": {
+        "coordinates": [
+          11.25,
+          4.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okola"
+      },
+      "geometry": {
+        "coordinates": [
+          11.38333,
+          4.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okoa"
+      },
+      "geometry": {
+        "coordinates": [
+          11.6,
+          3.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obala"
+      },
+      "geometry": {
+        "coordinates": [
+          11.53333,
+          4.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntui"
+      },
+      "geometry": {
+        "coordinates": [
+          11.63333,
+          4.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nkoteng"
+      },
+      "geometry": {
+        "coordinates": [
+          12.03333,
+          4.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nkongsamba"
+      },
+      "geometry": {
+        "coordinates": [
+          9.9404,
+          4.9547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Njinikom"
+      },
+      "geometry": {
+        "coordinates": [
+          10.28333,
+          6.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nguti"
+      },
+      "geometry": {
+        "coordinates": [
+          9.4185,
+          5.3299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngoro"
+      },
+      "geometry": {
+        "coordinates": [
+          11.38333,
+          4.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngomedzap"
+      },
+      "geometry": {
+        "coordinates": [
+          11.2,
+          3.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngaoundere"
+      },
+      "geometry": {
+        "coordinates": [
+          13.58472,
+          7.32765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngambe"
+      },
+      "geometry": {
+        "coordinates": [
+          10.61532,
+          4.23343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndikinimeki"
+      },
+      "geometry": {
+        "coordinates": [
+          10.83333,
+          4.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndelele"
+      },
+      "geometry": {
+        "coordinates": [
+          14.92501,
+          4.04065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanga Eboko"
+      },
+      "geometry": {
+        "coordinates": [
+          12.36667,
+          4.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mvangue"
+      },
+      "geometry": {
+        "coordinates": [
+          11.51667,
+          2.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muyuka"
+      },
+      "geometry": {
+        "coordinates": [
+          9.4103,
+          4.2898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutengene"
+      },
+      "geometry": {
+        "coordinates": [
+          9.3144,
+          4.0913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundemba"
+      },
+      "geometry": {
+        "coordinates": [
+          8.8724,
+          4.9479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mouanko"
+      },
+      "geometry": {
+        "coordinates": [
+          9.77694,
+          3.63972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mora"
+      },
+      "geometry": {
+        "coordinates": [
+          14.14011,
+          11.04611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokolo"
+      },
+      "geometry": {
+        "coordinates": [
+          13.80227,
+          10.74244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mme-Bafumen"
+      },
+      "geometry": {
+        "coordinates": [
+          10.23333,
+          6.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minta"
+      },
+      "geometry": {
+        "coordinates": [
+          12.8,
+          4.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mindif"
+      },
+      "geometry": {
+        "coordinates": [
+          14.43626,
+          10.39757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melong"
+      },
+      "geometry": {
+        "coordinates": [
+          9.96143,
+          5.12181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meiganga"
+      },
+      "geometry": {
+        "coordinates": [
+          14.3,
+          6.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbouda"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25421,
+          5.62611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbengwi"
+      },
+      "geometry": {
+        "coordinates": [
+          10.0,
+          6.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbankomo"
+      },
+      "geometry": {
+        "coordinates": [
+          11.38333,
+          3.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbanga"
+      },
+      "geometry": {
+        "coordinates": [
+          9.5671,
+          4.5016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbang"
+      },
+      "geometry": {
+        "coordinates": [
+          13.33333,
+          4.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbandjok"
+      },
+      "geometry": {
+        "coordinates": [
+          11.9,
+          4.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbalmayo"
+      },
+      "geometry": {
+        "coordinates": [
+          11.5,
+          3.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maroua"
+      },
+      "geometry": {
+        "coordinates": [
+          14.31593,
+          10.59095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manjo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.8217,
+          4.8428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamfe"
+      },
+      "geometry": {
+        "coordinates": [
+          9.3137,
+          5.75132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makary"
+      },
+      "geometry": {
+        "coordinates": [
+          14.45483,
+          12.57535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loum"
+      },
+      "geometry": {
+        "coordinates": [
+          9.7351,
+          4.7182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lolodorf"
+      },
+      "geometry": {
+        "coordinates": [
+          10.73333,
+          3.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbe"
+      },
+      "geometry": {
+        "coordinates": [
+          9.20607,
+          4.02356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagdo"
+      },
+      "geometry": {
+        "coordinates": [
+          13.66605,
+          9.05828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumbo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.66667,
+          6.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumba"
+      },
+      "geometry": {
+        "coordinates": [
+          9.4469,
+          4.6363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kribi"
+      },
+      "geometry": {
+        "coordinates": [
+          9.90765,
+          2.93725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koza"
+      },
+      "geometry": {
+        "coordinates": [
+          13.88205,
+          10.86846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kousseri"
+      },
+      "geometry": {
+        "coordinates": [
+          15.03063,
+          12.07689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kontcha"
+      },
+      "geometry": {
+        "coordinates": [
+          12.23333,
+          7.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bankim"
+      },
+      "geometry": {
+        "coordinates": [
+          11.4905,
+          6.08303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaele"
+      },
+      "geometry": {
+        "coordinates": [
+          14.45083,
+          10.10917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakiri"
+      },
+      "geometry": {
+        "coordinates": [
+          10.65,
+          6.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guider"
+      },
+      "geometry": {
+        "coordinates": [
+          13.94671,
+          9.9333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garoua Boulai"
+      },
+      "geometry": {
+        "coordinates": [
+          14.55,
+          5.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garoua"
+      },
+      "geometry": {
+        "coordinates": [
+          13.39771,
+          9.30143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fundong"
+      },
+      "geometry": {
+        "coordinates": [
+          10.26667,
+          6.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foumbot"
+      },
+      "geometry": {
+        "coordinates": [
+          10.6325,
+          5.50803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foumban"
+      },
+      "geometry": {
+        "coordinates": [
+          10.89865,
+          5.72662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontem"
+      },
+      "geometry": {
+        "coordinates": [
+          9.8818,
+          5.4685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evodoula"
+      },
+      "geometry": {
+        "coordinates": [
+          11.2,
+          4.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esse"
+      },
+      "geometry": {
+        "coordinates": [
+          11.9,
+          4.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eseka"
+      },
+      "geometry": {
+        "coordinates": [
+          10.76667,
+          3.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edea"
+      },
+      "geometry": {
+        "coordinates": [
+          10.13333,
+          3.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebolowa"
+      },
+      "geometry": {
+        "coordinates": [
+          11.15,
+          2.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dschang"
+      },
+      "geometry": {
+        "coordinates": [
+          10.05332,
+          5.44397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doume"
+      },
+      "geometry": {
+        "coordinates": [
+          13.45,
+          4.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douala"
+      },
+      "geometry": {
+        "coordinates": [
+          9.70428,
+          4.04827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djohong"
+      },
+      "geometry": {
+        "coordinates": [
+          14.7,
+          6.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dizangue"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98333,
+          3.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimako"
+      },
+      "geometry": {
+        "coordinates": [
+          13.56667,
+          4.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dibombari"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6561,
+          4.1787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diang"
+      },
+      "geometry": {
+        "coordinates": [
+          10.01667,
+          4.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buea"
+      },
+      "geometry": {
+        "coordinates": [
+          9.241,
+          4.1527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonaberi"
+      },
+      "geometry": {
+        "coordinates": [
+          9.6759,
+          4.0779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogo"
+      },
+      "geometry": {
+        "coordinates": [
+          14.60928,
+          10.7336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betare Oya"
+      },
+      "geometry": {
+        "coordinates": [
+          14.08333,
+          5.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bertoua"
+      },
+      "geometry": {
+        "coordinates": [
+          13.68459,
+          4.57728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belo"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25,
+          6.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belel"
+      },
+      "geometry": {
+        "coordinates": [
+          14.43333,
+          7.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belabo"
+      },
+      "geometry": {
+        "coordinates": [
+          13.3,
+          4.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekondo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.3214,
+          4.6819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazou"
+      },
+      "geometry": {
+        "coordinates": [
+          10.46751,
+          5.06001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batouri"
+      },
+      "geometry": {
+        "coordinates": [
+          14.36667,
+          4.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batibo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.8553,
+          5.8358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banyo"
+      },
+      "geometry": {
+        "coordinates": [
+          11.81667,
+          6.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bansoa"
+      },
+      "geometry": {
+        "coordinates": [
+          10.31355,
+          5.44836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngou"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38595,
+          5.19685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangangte"
+      },
+      "geometry": {
+        "coordinates": [
+          10.52535,
+          5.14079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandjoun"
+      },
+      "geometry": {
+        "coordinates": [
+          10.41326,
+          5.37568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bana"
+      },
+      "geometry": {
+        "coordinates": [
+          10.27545,
+          5.14655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamusso"
+      },
+      "geometry": {
+        "coordinates": [
+          8.9027,
+          4.4591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamendjou"
+      },
+      "geometry": {
+        "coordinates": [
+          10.33014,
+          5.38988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamenda"
+      },
+      "geometry": {
+        "coordinates": [
+          10.14597,
+          5.9597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bali"
+      },
+      "geometry": {
+        "coordinates": [
+          10.01176,
+          5.88737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafoussam"
+      },
+      "geometry": {
+        "coordinates": [
+          10.41759,
+          5.47775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafia"
+      },
+      "geometry": {
+        "coordinates": [
+          11.23333,
+          4.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafang"
+      },
+      "geometry": {
+        "coordinates": [
+          10.1771,
+          5.15705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babanki"
+      },
+      "geometry": {
+        "coordinates": [
+          10.25,
+          6.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambam"
+      },
+      "geometry": {
+        "coordinates": [
+          11.28333,
+          2.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akonolinga"
+      },
+      "geometry": {
+        "coordinates": [
+          12.25,
+          3.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akono"
+      },
+      "geometry": {
+        "coordinates": [
+          11.33333,
+          3.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akom II"
+      },
+      "geometry": {
+        "coordinates": [
+          10.56667,
+          2.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abong Mbang"
+      },
+      "geometry": {
+        "coordinates": [
+          13.18333,
+          3.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idenao"
+      },
+      "geometry": {
+        "coordinates": [
+          9.00472,
+          4.2475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndom"
+      },
+      "geometry": {
+        "coordinates": [
+          9.5628,
+          4.4978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somie"
+      },
+      "geometry": {
+        "coordinates": [
+          11.43299,
+          6.45843
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

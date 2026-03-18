@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaitape"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.74913,
+          -16.50741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vairao"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.28333,
+          -17.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uturoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.44482,
+          -16.72891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tohautu"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.31667,
+          -17.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiarei"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.33333,
+          -17.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tevaitoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.48893,
+          -16.79139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teavaro"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.76667,
+          -17.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teahupoo"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.26667,
+          -17.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tautira"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.15,
+          -17.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.35,
+          -17.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punaauia"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.6,
+          -17.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pueu"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.21667,
+          -17.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirae"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.53333,
+          -17.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papetoai"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.87437,
+          -17.49538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papeete"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.5665,
+          -17.53733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papao"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.55,
+          -17.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paopao"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.82193,
+          -17.51863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paea"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.58333,
+          -17.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otutara"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.41667,
+          -17.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moerai"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.34191,
+          -22.45133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahina"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.48899,
+          -17.50648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hitiaa"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.3,
+          -17.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haapiti"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.86905,
+          -17.56352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitii"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.0327,
+          -16.73535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fare"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.03455,
+          -16.71085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faaone"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.3,
+          -17.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faanui"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.74102,
+          -16.48679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faaa"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.6,
+          -17.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arue"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.5,
+          -17.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anau"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.73333,
+          -16.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afareaitu"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.78333,
+          -17.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afaahiti"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.28333,
+          -17.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapuarava"
+      },
+      "geometry": {
+        "coordinates": [
+          -136.46328,
+          -18.46647
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koror"
+      },
+      "geometry": {
+        "coordinates": [
+          134.47326,
+          7.33978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulimang"
+      },
+      "geometry": {
+        "coordinates": [
+          134.64208,
+          7.62416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melekeok Village"
+      },
+      "geometry": {
+        "coordinates": [
+          134.63671,
+          7.49567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngereklmadel"
+      },
+      "geometry": {
+        "coordinates": [
+          134.48562,
+          7.48826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imeong Hamlet"
+      },
+      "geometry": {
+        "coordinates": [
+          134.52713,
+          7.53134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngchesar Hamlet"
+      },
+      "geometry": {
+        "coordinates": [
+          134.60991,
+          7.46932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngerkeai"
+      },
+      "geometry": {
+        "coordinates": [
+          134.63612,
+          7.55456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mengellang"
+      },
+      "geometry": {
+        "coordinates": [
+          134.63054,
+          7.6957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angaur State"
+      },
+      "geometry": {
+        "coordinates": [
+          134.12997,
+          6.90601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melekeok"
+      },
+      "geometry": {
+        "coordinates": [
+          134.62355,
+          7.50043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobi Village"
+      },
+      "geometry": {
+        "coordinates": [
+          131.12168,
+          3.00488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonsorol Village"
+      },
+      "geometry": {
+        "coordinates": [
+          132.21943,
+          5.32608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayangel"
+      },
+      "geometry": {
+        "coordinates": [
+          134.71725,
+          8.08228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kloulklubed"
+      },
+      "geometry": {
+        "coordinates": [
+          134.25561,
+          7.04192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngetkib"
+      },
+      "geometry": {
+        "coordinates": [
+          134.51484,
+          7.36451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngchemiangel"
+      },
+      "geometry": {
+        "coordinates": [
+          134.47678,
+          7.44613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngardmau"
+      },
+      "geometry": {
+        "coordinates": [
+          134.5744,
+          7.60986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koror Town"
+      },
+      "geometry": {
+        "coordinates": [
+          134.47888,
+          7.34257
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

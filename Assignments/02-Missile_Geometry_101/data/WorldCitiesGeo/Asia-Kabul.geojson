@@ -1,0 +1,4048 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zorkot"
+      },
+      "geometry": {
+        "coordinates": [
+          69.73446,
+          33.54149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuleswali Bihsud"
+      },
+      "geometry": {
+        "coordinates": [
+          67.90567,
+          34.3436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuhsan"
+      },
+      "geometry": {
+        "coordinates": [
+          61.19778,
+          34.65389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lash"
+      },
+      "geometry": {
+        "coordinates": [
+          64.77457,
+          35.3782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tukzar"
+      },
+      "geometry": {
+        "coordinates": [
+          66.42132,
+          35.94831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miray"
+      },
+      "geometry": {
+        "coordinates": [
+          68.44068,
+          33.32462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aq Kupruk"
+      },
+      "geometry": {
+        "coordinates": [
+          66.84029,
+          36.08352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zurmat"
+      },
+      "geometry": {
+        "coordinates": [
+          69.02774,
+          33.43778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaybak"
+      },
+      "geometry": {
+        "coordinates": [
+          71.3441,
+          36.52947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ziarat-e Shah Maqsud"
+      },
+      "geometry": {
+        "coordinates": [
+          65.4736,
+          31.9848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zindah Jan"
+      },
+      "geometry": {
+        "coordinates": [
+          61.74675,
+          34.34264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarghun Shahr"
+      },
+      "geometry": {
+        "coordinates": [
+          68.44573,
+          32.84734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarah Sharan"
+      },
+      "geometry": {
+        "coordinates": [
+          68.79213,
+          33.14641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaranj"
+      },
+      "geometry": {
+        "coordinates": [
+          61.86037,
+          30.95962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zamto Kelay"
+      },
+      "geometry": {
+        "coordinates": [
+          66.17708,
+          32.3726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangi Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.61131,
+          37.46572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yahya Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          68.64622,
+          32.93742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washer"
+      },
+      "geometry": {
+        "coordinates": [
+          63.85553,
+          32.25122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tormay"
+      },
+      "geometry": {
+        "coordinates": [
+          68.40205,
+          33.68847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulak"
+      },
+      "geometry": {
+        "coordinates": [
+          63.72868,
+          33.97509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titan"
+      },
+      "geometry": {
+        "coordinates": [
+          63.86361,
+          33.69032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tir Pul"
+      },
+      "geometry": {
+        "coordinates": [
+          61.26895,
+          34.59431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taywarah"
+      },
+      "geometry": {
+        "coordinates": [
+          64.42116,
+          33.52118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazar-e Tashkan"
+      },
+      "geometry": {
+        "coordinates": [
+          70.27674,
+          36.88168
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarinkot"
+      },
+      "geometry": {
+        "coordinates": [
+          65.87806,
+          32.62998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taloqan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.53451,
+          36.73605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagaw-Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          66.06164,
+          35.69941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagab"
+      },
+      "geometry": {
+        "coordinates": [
+          69.64917,
+          34.85501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markaz-e Hukumat-e Sultan-e Bakwah"
+      },
+      "geometry": {
+        "coordinates": [
+          62.94936,
+          32.24139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spin Boldak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.40001,
+          31.00575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sperah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.5152,
+          33.20204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sozmah Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          66.20823,
+          36.09916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siyahgird"
+      },
+      "geometry": {
+        "coordinates": [
+          68.85578,
+          35.00553
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheywah"
+      },
+      "geometry": {
+        "coordinates": [
+          70.58859,
+          34.57169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shindand"
+      },
+      "geometry": {
+        "coordinates": [
+          62.1474,
+          33.30294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaykh Amir Kelay"
+      },
+      "geometry": {
+        "coordinates": [
+          69.91283,
+          33.28744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qashqal"
+      },
+      "geometry": {
+        "coordinates": [
+          69.00685,
+          35.03975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shibirghan"
+      },
+      "geometry": {
+        "coordinates": [
+          65.7529,
+          36.66757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shwak"
+      },
+      "geometry": {
+        "coordinates": [
+          69.37684,
+          33.42386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahr-e Safa"
+      },
+      "geometry": {
+        "coordinates": [
+          66.32376,
+          31.80347
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahran"
+      },
+      "geometry": {
+        "coordinates": [
+          70.73928,
+          36.97984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahrak"
+      },
+      "geometry": {
+        "coordinates": [
+          64.3052,
+          34.10737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Shah Joy"
+      },
+      "geometry": {
+        "coordinates": [
+          67.41315,
+          32.52154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuleswali Sayyid Karam"
+      },
+      "geometry": {
+        "coordinates": [
+          69.36881,
+          33.69056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markaz-e Sayyidabad"
+      },
+      "geometry": {
+        "coordinates": [
+          68.71346,
+          34.00037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayad"
+      },
+      "geometry": {
+        "coordinates": [
+          65.8297,
+          36.13529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidqabad"
+      },
+      "geometry": {
+        "coordinates": [
+          69.35112,
+          35.02298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayagaz"
+      },
+      "geometry": {
+        "coordinates": [
+          67.03324,
+          32.56521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sar-e Tayghan"
+      },
+      "geometry": {
+        "coordinates": [
+          65.67632,
+          33.50998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarobi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.76005,
+          34.58962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sar Kani"
+      },
+      "geometry": {
+        "coordinates": [
+          71.10962,
+          34.79023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarfiraz Kala"
+      },
+      "geometry": {
+        "coordinates": [
+          67.96517,
+          32.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sar-e Pul"
+      },
+      "geometry": {
+        "coordinates": [
+          65.93249,
+          36.21544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sar Chakan"
+      },
+      "geometry": {
+        "coordinates": [
+          65.23055,
+          35.70177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangin"
+      },
+      "geometry": {
+        "coordinates": [
+          64.8359,
+          32.07275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sang-e Mashah"
+      },
+      "geometry": {
+        "coordinates": [
+          67.44046,
+          33.1396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sang-e Charak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.43694,
+          35.84972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sang Atesh"
+      },
+      "geometry": {
+        "coordinates": [
+          63.0044,
+          35.248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangar Saray"
+      },
+      "geometry": {
+        "coordinates": [
+          70.63937,
+          34.40744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aibak"
+      },
+      "geometry": {
+        "coordinates": [
+          68.01551,
+          36.26468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ru-ye Sang"
+      },
+      "geometry": {
+        "coordinates": [
+          67.63387,
+          35.31999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudbar"
+      },
+      "geometry": {
+        "coordinates": [
+          62.6,
+          30.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rustaq"
+      },
+      "geometry": {
+        "coordinates": [
+          69.83045,
+          37.12604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabat-e Sangi-ye Pa'in"
+      },
+      "geometry": {
+        "coordinates": [
+          62.13917,
+          34.79951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramak"
+      },
+      "geometry": {
+        "coordinates": [
+          68.6264,
+          33.52234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qurghan"
+      },
+      "geometry": {
+        "coordinates": [
+          65.0649,
+          36.91939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quchanghi"
+      },
+      "geometry": {
+        "coordinates": [
+          66.27801,
+          34.06183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangalak-i-Kaisar"
+      },
+      "geometry": {
+        "coordinates": [
+          64.29318,
+          35.68747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarqin"
+      },
+      "geometry": {
+        "coordinates": [
+          66.04358,
+          37.41853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarghah'i"
+      },
+      "geometry": {
+        "coordinates": [
+          70.24292,
+          34.55402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarchi Gak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.78891,
+          37.03999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarawul"
+      },
+      "geometry": {
+        "coordinates": [
+          68.7802,
+          37.21959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarah Bagh"
+      },
+      "geometry": {
+        "coordinates": [
+          61.77589,
+          34.94023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarah Bagh"
+      },
+      "geometry": {
+        "coordinates": [
+          68.10798,
+          33.19801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qala i Naw"
+      },
+      "geometry": {
+        "coordinates": [
+          63.12891,
+          34.98735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Kuf"
+      },
+      "geometry": {
+        "coordinates": [
+          70.47298,
+          38.04119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Kuhnah"
+      },
+      "geometry": {
+        "coordinates": [
+          63.66681,
+          32.61591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Shahr"
+      },
+      "geometry": {
+        "coordinates": [
+          65.5676,
+          35.54729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qalat"
+      },
+      "geometry": {
+        "coordinates": [
+          66.90833,
+          32.10575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Shahi"
+      },
+      "geometry": {
+        "coordinates": [
+          70.5914,
+          34.64921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qadis"
+      },
+      "geometry": {
+        "coordinates": [
+          63.43003,
+          34.8085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parun"
+      },
+      "geometry": {
+        "coordinates": [
+          70.92261,
+          35.42064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pul-e Khumri"
+      },
+      "geometry": {
+        "coordinates": [
+          68.71512,
+          35.94458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pul-e `Alam"
+      },
+      "geometry": {
+        "coordinates": [
+          69.02274,
+          33.99529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasnay"
+      },
+      "geometry": {
+        "coordinates": [
+          65.76486,
+          35.76664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pashmul"
+      },
+      "geometry": {
+        "coordinates": [
+          65.4343,
+          31.5572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasaband"
+      },
+      "geometry": {
+        "coordinates": [
+          64.8531,
+          33.68956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panjab"
+      },
+      "geometry": {
+        "coordinates": [
+          67.02327,
+          34.38795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paghman"
+      },
+      "geometry": {
+        "coordinates": [
+          68.95091,
+          34.58787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omnah"
+      },
+      "geometry": {
+        "coordinates": [
+          68.79627,
+          32.90029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaryeh-ye Owbeh"
+      },
+      "geometry": {
+        "coordinates": [
+          63.17639,
+          34.36972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uruzgan"
+      },
+      "geometry": {
+        "coordinates": [
+          66.63253,
+          32.92775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urgun"
+      },
+      "geometry": {
+        "coordinates": [
+          69.18,
+          32.94111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nusay"
+      },
+      "geometry": {
+        "coordinates": [
+          70.80413,
+          38.4435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurgal"
+      },
+      "geometry": {
+        "coordinates": [
+          70.76498,
+          34.61341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Now Zad"
+      },
+      "geometry": {
+        "coordinates": [
+          64.46959,
+          32.40315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nili"
+      },
+      "geometry": {
+        "coordinates": [
+          66.13023,
+          33.72178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nayak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.95292,
+          34.73414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nayak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.77403,
+          32.5723
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Now Dahanak"
+      },
+      "geometry": {
+        "coordinates": [
+          70.00511,
+          35.62398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okak"
+      },
+      "geometry": {
+        "coordinates": [
+          67.95652,
+          33.89793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naray"
+      },
+      "geometry": {
+        "coordinates": [
+          71.52284,
+          35.21995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narang"
+      },
+      "geometry": {
+        "coordinates": [
+          71.04738,
+          34.76009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nikeh"
+      },
+      "geometry": {
+        "coordinates": [
+          69.27179,
+          33.18934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahrin"
+      },
+      "geometry": {
+        "coordinates": [
+          69.13343,
+          36.0649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hukumat-e Nad `Ali"
+      },
+      "geometry": {
+        "coordinates": [
+          64.23982,
+          31.64286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musa Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          64.74486,
+          32.44565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bala Murghab"
+      },
+      "geometry": {
+        "coordinates": [
+          63.32886,
+          35.58408
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muqer"
+      },
+      "geometry": {
+        "coordinates": [
+          67.76934,
+          32.82009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muhammad Aghah Wuluswali"
+      },
+      "geometry": {
+        "coordinates": [
+          69.10026,
+          34.21422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mizan `Alaqahdari"
+      },
+      "geometry": {
+        "coordinates": [
+          66.51271,
+          32.17635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mir Bachah Kot"
+      },
+      "geometry": {
+        "coordinates": [
+          69.11899,
+          34.74999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miran"
+      },
+      "geometry": {
+        "coordinates": [
+          68.31259,
+          34.22037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirabad"
+      },
+      "geometry": {
+        "coordinates": [
+          61.8383,
+          30.43624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maymana"
+      },
+      "geometry": {
+        "coordinates": [
+          64.78361,
+          35.92139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maidan Khulah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.7812,
+          33.64916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mingajik"
+      },
+      "geometry": {
+        "coordinates": [
+          66.12817,
+          37.0279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mehtar Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          70.20944,
+          34.67139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazar-e Sharif"
+      },
+      "geometry": {
+        "coordinates": [
+          67.11087,
+          36.70904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maymay"
+      },
+      "geometry": {
+        "coordinates": [
+          71.03839,
+          38.40856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muta Khan"
+      },
+      "geometry": {
+        "coordinates": [
+          68.8663,
+          33.24001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mashhad"
+      },
+      "geometry": {
+        "coordinates": [
+          70.10211,
+          36.81665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mardian"
+      },
+      "geometry": {
+        "coordinates": [
+          66.29654,
+          36.99252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandol"
+      },
+      "geometry": {
+        "coordinates": [
+          70.17017,
+          35.28403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mama Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          69.9968,
+          34.24494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lashkar Gah"
+      },
+      "geometry": {
+        "coordinates": [
+          64.37161,
+          31.59382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lash-e Juwayn"
+      },
+      "geometry": {
+        "coordinates": [
+          61.62272,
+          31.71382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkird"
+      },
+      "geometry": {
+        "coordinates": [
+          66.66409,
+          35.48936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La`l"
+      },
+      "geometry": {
+        "coordinates": [
+          66.27997,
+          34.50141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushk"
+      },
+      "geometry": {
+        "coordinates": [
+          61.95221,
+          33.29565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotowal"
+      },
+      "geometry": {
+        "coordinates": [
+          70.46073,
+          34.10319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushk-e Kuhnah"
+      },
+      "geometry": {
+        "coordinates": [
+          62.54762,
+          34.8711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuran wa Munjan"
+      },
+      "geometry": {
+        "coordinates": [
+          70.77258,
+          36.02866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunduz"
+      },
+      "geometry": {
+        "coordinates": [
+          68.857,
+          36.72895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khoshi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.21582,
+          33.99916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khoshamand"
+      },
+      "geometry": {
+        "coordinates": [
+          68.23801,
+          32.68567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khwajah Ghar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.42126,
+          37.06588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khwajah Du Koh"
+      },
+      "geometry": {
+        "coordinates": [
+          65.62432,
+          36.82881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deh Khwahan"
+      },
+      "geometry": {
+        "coordinates": [
+          70.21875,
+          37.88965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khulbisat"
+      },
+      "geometry": {
+        "coordinates": [
+          70.00605,
+          33.4948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khugyani"
+      },
+      "geometry": {
+        "coordinates": [
+          66.5814,
+          31.56267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khost"
+      },
+      "geometry": {
+        "coordinates": [
+          69.92041,
+          33.33951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khulm"
+      },
+      "geometry": {
+        "coordinates": [
+          67.69826,
+          36.69736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khudaydad Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          67.68758,
+          35.17835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khinjan"
+      },
+      "geometry": {
+        "coordinates": [
+          68.90093,
+          35.58908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khinj"
+      },
+      "geometry": {
+        "coordinates": [
+          69.73482,
+          35.42898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khash"
+      },
+      "geometry": {
+        "coordinates": [
+          62.79055,
+          31.52919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khan Neshin"
+      },
+      "geometry": {
+        "coordinates": [
+          63.7888,
+          30.5488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanaqah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.53695,
+          36.62587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chahar Bagh"
+      },
+      "geometry": {
+        "coordinates": [
+          65.22392,
+          37.00108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandud"
+      },
+      "geometry": {
+        "coordinates": [
+          72.318,
+          36.95127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanaqah"
+      },
+      "geometry": {
+        "coordinates": [
+          66.16656,
+          36.86279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanabad"
+      },
+      "geometry": {
+        "coordinates": [
+          69.11556,
+          36.6825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khamyab"
+      },
+      "geometry": {
+        "coordinates": [
+          65.75833,
+          37.5275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khakiran"
+      },
+      "geometry": {
+        "coordinates": [
+          67.07377,
+          32.8385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kazhah"
+      },
+      "geometry": {
+        "coordinates": [
+          70.18274,
+          34.24088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kishk-e Nakhud"
+      },
+      "geometry": {
+        "coordinates": [
+          65.05511,
+          31.62519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karukh"
+      },
+      "geometry": {
+        "coordinates": [
+          62.5863,
+          34.48108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanday"
+      },
+      "geometry": {
+        "coordinates": [
+          70.77897,
+          34.9536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandahar"
+      },
+      "geometry": {
+        "coordinates": [
+          65.71013,
+          31.61332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalan Deh"
+      },
+      "geometry": {
+        "coordinates": [
+          68.40233,
+          33.83676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalakan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.15001,
+          34.78371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalafgan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.94489,
+          36.77226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kajran"
+      },
+      "geometry": {
+        "coordinates": [
+          65.47311,
+          33.20357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kai"
+      },
+      "geometry": {
+        "coordinates": [
+          70.71828,
+          34.12819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabul"
+      },
+      "geometry": {
+        "coordinates": [
+          69.17233,
+          34.52813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jurm"
+      },
+      "geometry": {
+        "coordinates": [
+          70.83421,
+          36.86477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jawand"
+      },
+      "geometry": {
+        "coordinates": [
+          64.14917,
+          35.06361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jani Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          68.39722,
+          32.76315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalrez"
+      },
+      "geometry": {
+        "coordinates": [
+          68.65438,
+          34.4708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalalabad"
+      },
+      "geometry": {
+        "coordinates": [
+          70.45153,
+          34.42647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabal os Saraj"
+      },
+      "geometry": {
+        "coordinates": [
+          69.23778,
+          35.11833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hukumat-e Shinkai"
+      },
+      "geometry": {
+        "coordinates": [
+          67.33558,
+          31.98303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herat"
+      },
+      "geometry": {
+        "coordinates": [
+          62.19967,
+          34.34817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haji Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          69.43341,
+          35.10922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafiz Moghul"
+      },
+      "geometry": {
+        "coordinates": [
+          70.40061,
+          37.05643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khafizan"
+      },
+      "geometry": {
+        "coordinates": [
+          70.37247,
+          34.28665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guzarah"
+      },
+      "geometry": {
+        "coordinates": [
+          62.21235,
+          34.21223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goshtah"
+      },
+      "geometry": {
+        "coordinates": [
+          70.76264,
+          34.35822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gomal Kelay"
+      },
+      "geometry": {
+        "coordinates": [
+          68.85598,
+          32.50989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Gelan"
+      },
+      "geometry": {
+        "coordinates": [
+          67.63696,
+          32.72692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghoriyan"
+      },
+      "geometry": {
+        "coordinates": [
+          61.49321,
+          34.3448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghormach"
+      },
+      "geometry": {
+        "coordinates": [
+          63.78264,
+          35.73062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghurayd Gharame"
+      },
+      "geometry": {
+        "coordinates": [
+          70.79063,
+          36.5222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghazni"
+      },
+      "geometry": {
+        "coordinates": [
+          68.42096,
+          33.55391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereshk"
+      },
+      "geometry": {
+        "coordinates": [
+          64.57005,
+          31.82089
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardez"
+      },
+      "geometry": {
+        "coordinates": [
+          69.22592,
+          33.59744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fayzabad"
+      },
+      "geometry": {
+        "coordinates": [
+          70.58002,
+          37.11664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faizabad"
+      },
+      "geometry": {
+        "coordinates": [
+          66.45921,
+          36.82091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fayzabad"
+      },
+      "geometry": {
+        "coordinates": [
+          64.86222,
+          36.29111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Farsi"
+      },
+      "geometry": {
+        "coordinates": [
+          63.24735,
+          33.78529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farkhar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.85783,
+          36.57288
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farah"
+      },
+      "geometry": {
+        "coordinates": [
+          62.11638,
+          32.37451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istalif"
+      },
+      "geometry": {
+        "coordinates": [
+          69.07756,
+          34.83268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafir Qala"
+      },
+      "geometry": {
+        "coordinates": [
+          61.06667,
+          34.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Injil"
+      },
+      "geometry": {
+        "coordinates": [
+          62.2465,
+          34.30157
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imam Sahib"
+      },
+      "geometry": {
+        "coordinates": [
+          68.93644,
+          37.18897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doshi"
+      },
+      "geometry": {
+        "coordinates": [
+          68.68473,
+          35.60918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowlatyar"
+      },
+      "geometry": {
+        "coordinates": [
+          65.79302,
+          34.55132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowlat Shah"
+      },
+      "geometry": {
+        "coordinates": [
+          70.07102,
+          34.9504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowlatabad"
+      },
+      "geometry": {
+        "coordinates": [
+          66.82069,
+          36.98821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowlatabad"
+      },
+      "geometry": {
+        "coordinates": [
+          64.92071,
+          36.43259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Du Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          61.4469,
+          32.14237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duab"
+      },
+      "geometry": {
+        "coordinates": [
+          67.82191,
+          35.56277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "De Narkhel Kelay"
+      },
+      "geometry": {
+        "coordinates": [
+          65.63484,
+          32.43205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dehi"
+      },
+      "geometry": {
+        "coordinates": [
+          67.27998,
+          35.95806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deh-e Salah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.31511,
+          35.69031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deh-e Now"
+      },
+      "geometry": {
+        "coordinates": [
+          69.04784,
+          34.74767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dehdadi"
+      },
+      "geometry": {
+        "coordinates": [
+          66.99339,
+          36.66319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwah Manday"
+      },
+      "geometry": {
+        "coordinates": [
+          69.58531,
+          33.28159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dasht-e Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.4435,
+          37.1539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dasht-e Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          63.8395,
+          33.02978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dasht-e Archi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.16667,
+          37.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darzab"
+      },
+      "geometry": {
+        "coordinates": [
+          65.37828,
+          35.97744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markaz-e Hukumat-e Darweshan"
+      },
+      "geometry": {
+        "coordinates": [
+          64.1934,
+          31.13231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darqad"
+      },
+      "geometry": {
+        "coordinates": [
+          69.45294,
+          37.38414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darayim"
+      },
+      "geometry": {
+        "coordinates": [
+          70.38333,
+          36.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dangam"
+      },
+      "geometry": {
+        "coordinates": [
+          71.41935,
+          34.99249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dandar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.47504,
+          34.79095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hukumati Dahanah-ye Ghori"
+      },
+      "geometry": {
+        "coordinates": [
+          68.48869,
+          35.90617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsowkey"
+      },
+      "geometry": {
+        "coordinates": [
+          70.92688,
+          34.69246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiras"
+      },
+      "geometry": {
+        "coordinates": [
+          65.98234,
+          35.41674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chisht-e Sharif"
+      },
+      "geometry": {
+        "coordinates": [
+          63.73966,
+          34.34731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinar"
+      },
+      "geometry": {
+        "coordinates": [
+          65.10721,
+          32.01583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimtal"
+      },
+      "geometry": {
+        "coordinates": [
+          66.80325,
+          36.67818
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charkh"
+      },
+      "geometry": {
+        "coordinates": [
+          68.93749,
+          33.79712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charikar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.17139,
+          35.01361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dowr-e Rabat"
+      },
+      "geometry": {
+        "coordinates": [
+          68.79093,
+          36.69132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsaperai"
+      },
+      "geometry": {
+        "coordinates": [
+          69.9192,
+          33.83003
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsamkani"
+      },
+      "geometry": {
+        "coordinates": [
+          69.81671,
+          33.80298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chakaray"
+      },
+      "geometry": {
+        "coordinates": [
+          69.4377,
+          34.34099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chakaran"
+      },
+      "geometry": {
+        "coordinates": [
+          71.0688,
+          36.91112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chahar Qal`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          68.29828,
+          33.55267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chahar Burj"
+      },
+      "geometry": {
+        "coordinates": [
+          62.19165,
+          34.24475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chah Ab"
+      },
+      "geometry": {
+        "coordinates": [
+          69.81464,
+          37.39773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fayroz Koh"
+      },
+      "geometry": {
+        "coordinates": [
+          65.25093,
+          34.51952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulolah"
+      },
+      "geometry": {
+        "coordinates": [
+          68.0879,
+          34.87706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bal Chiragh"
+      },
+      "geometry": {
+        "coordinates": [
+          65.2309,
+          35.84026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazar-e Talah"
+      },
+      "geometry": {
+        "coordinates": [
+          68.22317,
+          35.39205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basawul"
+      },
+      "geometry": {
+        "coordinates": [
+          70.87218,
+          34.24749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burkah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.15037,
+          36.22242
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barg-e Matal"
+      },
+      "geometry": {
+        "coordinates": [
+          71.34339,
+          35.67283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baraki Barak"
+      },
+      "geometry": {
+        "coordinates": [
+          68.9492,
+          33.96744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banu"
+      },
+      "geometry": {
+        "coordinates": [
+          69.26019,
+          35.63348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamyan"
+      },
+      "geometry": {
+        "coordinates": [
+          67.82734,
+          34.82156
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balkh"
+      },
+      "geometry": {
+        "coordinates": [
+          66.8972,
+          36.75635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baharak"
+      },
+      "geometry": {
+        "coordinates": [
+          70.90664,
+          37.00254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagrami"
+      },
+      "geometry": {
+        "coordinates": [
+          69.27427,
+          34.49376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baghlan"
+      },
+      "geometry": {
+        "coordinates": [
+          68.70829,
+          36.13068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hukumati Azrah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.64573,
+          34.17355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Khwajah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.47958,
+          37.08571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Atghar"
+      },
+      "geometry": {
+        "coordinates": [
+          67.3574,
+          31.73506
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asmar"
+      },
+      "geometry": {
+        "coordinates": [
+          71.35809,
+          35.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashkasham"
+      },
+      "geometry": {
+        "coordinates": [
+          71.53333,
+          36.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asadabad"
+      },
+      "geometry": {
+        "coordinates": [
+          71.14697,
+          34.87311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqchah"
+      },
+      "geometry": {
+        "coordinates": [
+          66.18341,
+          36.905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andkhoy"
+      },
+      "geometry": {
+        "coordinates": [
+          65.12376,
+          36.95293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Unabah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.37719,
+          35.23251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anar Darah"
+      },
+      "geometry": {
+        "coordinates": [
+          61.65397,
+          32.7587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amanzi"
+      },
+      "geometry": {
+        "coordinates": [
+          66.04765,
+          30.21144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari-ye Almar"
+      },
+      "geometry": {
+        "coordinates": [
+          64.53074,
+          35.84616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Ali Sher `Alaqahdari"
+      },
+      "geometry": {
+        "coordinates": [
+          70.06711,
+          33.4362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuluswali `Alingar"
+      },
+      "geometry": {
+        "coordinates": [
+          70.3593,
+          34.83529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Ali Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          69.71908,
+          33.94253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Yosuf Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          68.65,
+          33.05195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Dishu"
+      },
+      "geometry": {
+        "coordinates": [
+          63.29802,
+          30.43206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alah Say"
+      },
+      "geometry": {
+        "coordinates": [
+          69.72049,
+          34.8965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pachir wa Agam"
+      },
+      "geometry": {
+        "coordinates": [
+          70.27806,
+          34.20011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afaki"
+      },
+      "geometry": {
+        "coordinates": [
+          69.35095,
+          36.66172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adraskan"
+      },
+      "geometry": {
+        "coordinates": [
+          62.26959,
+          33.64573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ab-e Kamari"
+      },
+      "geometry": {
+        "coordinates": [
+          63.0678,
+          35.08796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khadir"
+      },
+      "geometry": {
+        "coordinates": [
+          65.93398,
+          33.92232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghulam `Ali"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2287,
+          34.95076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarah Bagh Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.17062,
+          34.8529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zargaran"
+      },
+      "geometry": {
+        "coordinates": [
+          69.05878,
+          34.78764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surkh Bilandi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.02863,
+          34.68474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pul-e Sangi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.25993,
+          34.59972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langar"
+      },
+      "geometry": {
+        "coordinates": [
+          68.05081,
+          35.99474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagh-e Maidan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.21397,
+          35.22156
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibrahim Khan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.25654,
+          35.05352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaranghu Toghai"
+      },
+      "geometry": {
+        "coordinates": [
+          67.63972,
+          37.21528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazarak"
+      },
+      "geometry": {
+        "coordinates": [
+          69.51519,
+          35.31292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherwani-ye Bala"
+      },
+      "geometry": {
+        "coordinates": [
+          69.59934,
+          35.01468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiraman"
+      },
+      "geometry": {
+        "coordinates": [
+          69.68125,
+          35.2973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Alaqahdari Sarobi"
+      },
+      "geometry": {
+        "coordinates": [
+          69.0866,
+          32.79331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerok-Alakadari"
+      },
+      "geometry": {
+        "coordinates": [
+          69.31278,
+          33.15806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushkak"
+      },
+      "geometry": {
+        "coordinates": [
+          61.52194,
+          32.28991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khayr Kot"
+      },
+      "geometry": {
+        "coordinates": [
+          68.44971,
+          32.85355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chowney"
+      },
+      "geometry": {
+        "coordinates": [
+          66.27233,
+          33.38278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wutahpur"
+      },
+      "geometry": {
+        "coordinates": [
+          71.09863,
+          34.91914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karbori"
+      },
+      "geometry": {
+        "coordinates": [
+          71.2746,
+          34.96597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sultanpur-e `Ulya"
+      },
+      "geometry": {
+        "coordinates": [
+          70.29634,
+          34.41204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babasakhib"
+      },
+      "geometry": {
+        "coordinates": [
+          65.66098,
+          31.66144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandal Ba'i"
+      },
+      "geometry": {
+        "coordinates": [
+          68.95524,
+          34.58469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahan-e Jarf"
+      },
+      "geometry": {
+        "coordinates": [
+          68.46273,
+          34.92891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maydanshakhr"
+      },
+      "geometry": {
+        "coordinates": [
+          68.86618,
+          34.39561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Du Lainah"
+      },
+      "geometry": {
+        "coordinates": [
+          64.78566,
+          34.15599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaram Qol"
+      },
+      "geometry": {
+        "coordinates": [
+          65.04299,
+          36.83006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pul-e Hisar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.47134,
+          35.61794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lab-Sar"
+      },
+      "geometry": {
+        "coordinates": [
+          66.83799,
+          36.02634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taqchah Khanah"
+      },
+      "geometry": {
+        "coordinates": [
+          69.62805,
+          36.61922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "March"
+      },
+      "geometry": {
+        "coordinates": [
+          70.4482,
+          37.52845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ziraki"
+      },
+      "geometry": {
+        "coordinates": [
+          70.55814,
+          37.59233
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliabad"
+      },
+      "geometry": {
+        "coordinates": [
+          68.89985,
+          36.52115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pas Pul"
+      },
+      "geometry": {
+        "coordinates": [
+          70.61617,
+          37.47355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qal`ah-ye Na`im"
+      },
+      "geometry": {
+        "coordinates": [
+          69.16705,
+          34.39951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markaz-e Woluswali-ye Achin"
+      },
+      "geometry": {
+        "coordinates": [
+          70.70778,
+          34.12583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manogay"
+      },
+      "geometry": {
+        "coordinates": [
+          70.91302,
+          34.99015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ster Giyan"
+      },
+      "geometry": {
+        "coordinates": [
+          69.37308,
+          32.97704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharan"
+      },
+      "geometry": {
+        "coordinates": [
+          68.73045,
+          33.17568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salam Khel"
+      },
+      "geometry": {
+        "coordinates": [
+          69.32983,
+          33.67067
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

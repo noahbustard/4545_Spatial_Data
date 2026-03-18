@@ -1,0 +1,733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Znamenskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          73.82821,
+          57.12806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vkhodnoy"
+      },
+      "geometry": {
+        "coordinates": [
+          73.17108,
+          54.95181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Ulagan"
+      },
+      "geometry": {
+        "coordinates": [
+          87.96046,
+          50.63258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Koksa"
+      },
+      "geometry": {
+        "coordinates": [
+          85.6108,
+          50.2696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Kan"
+      },
+      "geometry": {
+        "coordinates": [
+          84.761,
+          50.9276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Ishim"
+      },
+      "geometry": {
+        "coordinates": [
+          71.1665,
+          57.6935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyukalinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          72.19673,
+          55.87321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turochak"
+      },
+      "geometry": {
+        "coordinates": [
+          87.1224,
+          52.2576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troitsk"
+      },
+      "geometry": {
+        "coordinates": [
+          72.23369,
+          55.70128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tevriz"
+      },
+      "geometry": {
+        "coordinates": [
+          72.4042,
+          57.509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tavricheskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          73.6395,
+          54.58508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tashanta"
+      },
+      "geometry": {
+        "coordinates": [
+          89.19425,
+          49.71573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tara"
+      },
+      "geometry": {
+        "coordinates": [
+          74.37096,
+          56.89436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherbakul'"
+      },
+      "geometry": {
+        "coordinates": [
+          72.39635,
+          54.63159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shebalino"
+      },
+      "geometry": {
+        "coordinates": [
+          85.67722,
+          51.29167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sargatskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          73.49716,
+          55.61006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russkaya Polyana"
+      },
+      "geometry": {
+        "coordinates": [
+          73.88056,
+          53.77944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rostovka"
+      },
+      "geometry": {
+        "coordinates": [
+          71.88913,
+          55.3842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poltavka"
+      },
+      "geometry": {
+        "coordinates": [
+          71.76319,
+          54.36629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavlogradka"
+      },
+      "geometry": {
+        "coordinates": [
+          73.5592,
+          54.2024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onguday"
+      },
+      "geometry": {
+        "coordinates": [
+          86.15,
+          50.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omsk"
+      },
+      "geometry": {
+        "coordinates": [
+          73.36859,
+          54.99244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okoneshnikovo"
+      },
+      "geometry": {
+        "coordinates": [
+          75.08343,
+          54.83767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odesskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          72.9651,
+          54.215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novovarshavka"
+      },
+      "geometry": {
+        "coordinates": [
+          74.6946,
+          54.1721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novoomskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          73.30174,
+          54.84152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Souzga"
+      },
+      "geometry": {
+        "coordinates": [
+          85.84944,
+          51.88722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhnyaya Omka"
+      },
+      "geometry": {
+        "coordinates": [
+          74.94256,
+          55.43375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nazyvayevsk"
+      },
+      "geometry": {
+        "coordinates": [
+          71.35294,
+          55.56975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muromtsevo"
+      },
+      "geometry": {
+        "coordinates": [
+          75.24175,
+          56.37238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayma"
+      },
+      "geometry": {
+        "coordinates": [
+          85.90963,
+          52.01577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manzherok"
+      },
+      "geometry": {
+        "coordinates": [
+          85.76722,
+          51.82861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyubinskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          72.69247,
+          55.15421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luzino"
+      },
+      "geometry": {
+        "coordinates": [
+          73.03531,
+          54.94811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krutinka"
+      },
+      "geometry": {
+        "coordinates": [
+          71.51131,
+          56.0055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krutaya Gorka"
+      },
+      "geometry": {
+        "coordinates": [
+          73.2231,
+          55.36493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnyy Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          72.92635,
+          55.24242
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnoyarka"
+      },
+      "geometry": {
+        "coordinates": [
+          73.11667,
+          55.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosh-Agach"
+      },
+      "geometry": {
+        "coordinates": [
+          88.67598,
+          49.99273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kormilovka"
+      },
+      "geometry": {
+        "coordinates": [
+          74.10281,
+          55.00264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolosovka"
+      },
+      "geometry": {
+        "coordinates": [
+          73.61096,
+          56.46779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalachinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          74.57511,
+          55.05286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irtyshskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          73.58722,
+          54.81426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inya"
+      },
+      "geometry": {
+        "coordinates": [
+          86.61667,
+          50.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elekmonar"
+      },
+      "geometry": {
+        "coordinates": [
+          86.02194,
+          51.46083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Choya"
+      },
+      "geometry": {
+        "coordinates": [
+          86.5467,
+          52.0108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherlak"
+      },
+      "geometry": {
+        "coordinates": [
+          74.8055,
+          54.155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherga"
+      },
+      "geometry": {
+        "coordinates": [
+          85.5625,
+          51.56889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chemal"
+      },
+      "geometry": {
+        "coordinates": [
+          86.005,
+          51.41111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bol'sherech'ye"
+      },
+      "geometry": {
+        "coordinates": [
+          74.62716,
+          56.09252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beregovoy"
+      },
+      "geometry": {
+        "coordinates": [
+          73.21984,
+          55.17301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belyashi"
+      },
+      "geometry": {
+        "coordinates": [
+          87.41667,
+          49.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azovo"
+      },
+      "geometry": {
+        "coordinates": [
+          73.02367,
+          54.69972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artybash"
+      },
+      "geometry": {
+        "coordinates": [
+          87.27611,
+          51.79278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aktash"
+      },
+      "geometry": {
+        "coordinates": [
+          87.73333,
+          50.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iogach"
+      },
+      "geometry": {
+        "coordinates": [
+          87.26306,
+          51.78167
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

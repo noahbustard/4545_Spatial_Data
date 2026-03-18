@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.29959,
+          47.11638
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

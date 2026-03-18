@@ -1,0 +1,5 @@
+This repo requires Python 3.12.8
+
+If you use pyenv:
+  pyenv install 3.12.8
+  pyenv local 3.12.8

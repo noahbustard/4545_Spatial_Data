@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.93333,
+          5.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kinabalu"
+      },
+      "geometry": {
+        "coordinates": [
+          116.0724,
+          5.9749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donggongon"
+      },
+      "geometry": {
+        "coordinates": [
+          116.10146,
+          5.90702
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putatan"
+      },
+      "geometry": {
+        "coordinates": [
+          116.06094,
+          5.9258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinarut"
+      },
+      "geometry": {
+        "coordinates": [
+          116.0466,
+          5.8231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranau"
+      },
+      "geometry": {
+        "coordinates": [
+          116.6641,
+          5.9538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semporna"
+      },
+      "geometry": {
+        "coordinates": [
+          118.61119,
+          4.48178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          115.24167,
+          5.27667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaufort"
+      },
+      "geometry": {
+        "coordinates": [
+          115.7455,
+          5.3473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahad Datu"
+      },
+      "geometry": {
+        "coordinates": [
+          118.327,
+          5.0268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandakan"
+      },
+      "geometry": {
+        "coordinates": [
+          118.1179,
+          5.8402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keningau"
+      },
+      "geometry": {
+        "coordinates": [
+          116.1602,
+          5.3378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tawau"
+      },
+      "geometry": {
+        "coordinates": [
+          117.89115,
+          4.24482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuching"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33333,
+          1.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simanggang"
+      },
+      "geometry": {
+        "coordinates": [
+          111.45278,
+          1.24722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarikei"
+      },
+      "geometry": {
+        "coordinates": [
+          111.51667,
+          2.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sibu"
+      },
+      "geometry": {
+        "coordinates": [
+          111.81667,
+          2.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kudat"
+      },
+      "geometry": {
+        "coordinates": [
+          116.82364,
+          6.88732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Belud"
+      },
+      "geometry": {
+        "coordinates": [
+          116.4305,
+          6.351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapit"
+      },
+      "geometry": {
+        "coordinates": [
+          112.93333,
+          2.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bintulu"
+      },
+      "geometry": {
+        "coordinates": [
+          113.03333,
+          3.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbang"
+      },
+      "geometry": {
+        "coordinates": [
+          115.0,
+          4.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miri"
+      },
+      "geometry": {
+        "coordinates": [
+          113.99163,
+          4.39928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Labuan"
+      },
+      "geometry": {
+        "coordinates": [
+          115.26924,
+          5.28883
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Data Kakus"
+      },
+      "geometry": {
+        "coordinates": [
+          113.62249,
+          2.65465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Ampan Aing or Abanang"
+      },
+      "geometry": {
+        "coordinates": [
+          114.73675,
+          2.65671
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

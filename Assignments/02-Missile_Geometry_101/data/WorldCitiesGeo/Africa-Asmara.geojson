@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teseney"
+      },
+      "geometry": {
+        "coordinates": [
+          36.6575,
+          15.11
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massawa"
+      },
+      "geometry": {
+        "coordinates": [
+          39.47455,
+          15.60811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keren"
+      },
+      "geometry": {
+        "coordinates": [
+          38.45107,
+          15.77792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edd"
+      },
+      "geometry": {
+        "coordinates": [
+          41.6938,
+          13.93088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dek'emhare"
+      },
+      "geometry": {
+        "coordinates": [
+          39.0475,
+          15.07
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barentu"
+      },
+      "geometry": {
+        "coordinates": [
+          37.59067,
+          15.10582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asmara"
+      },
+      "geometry": {
+        "coordinates": [
+          38.93184,
+          15.33805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assab"
+      },
+      "geometry": {
+        "coordinates": [
+          42.73944,
+          13.00917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ak'ordat"
+      },
+      "geometry": {
+        "coordinates": [
+          37.88291,
+          15.54798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendefera"
+      },
+      "geometry": {
+        "coordinates": [
+          38.81528,
+          14.88722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adi Keyh"
+      },
+      "geometry": {
+        "coordinates": [
+          39.37722,
+          14.84444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mai-Mne"
+      },
+      "geometry": {
+        "coordinates": [
+          38.50292,
+          14.55438
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

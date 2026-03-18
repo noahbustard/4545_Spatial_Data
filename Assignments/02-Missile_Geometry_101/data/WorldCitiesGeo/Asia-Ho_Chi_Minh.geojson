@@ -1,0 +1,7961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Vinh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.66667,
+          18.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.47116,
+          18.99856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.06121,
+          20.18396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Yen Minh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.14159,
+          23.11792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Lac"
+      },
+      "geometry": {
+        "coordinates": [
+          106.18149,
+          22.23693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Lac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.57297,
+          21.23646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          104.30101,
+          21.04584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Bai"
+      },
+      "geometry": {
+        "coordinates": [
+          104.9113,
+          21.72288
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Doi Vam"
+      },
+      "geometry": {
+        "coordinates": [
+          104.81199,
+          8.85707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trang Bom"
+      },
+      "geometry": {
+        "coordinates": [
+          107.00589,
+          10.95358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gia Ray"
+      },
+      "geometry": {
+        "coordinates": [
+          107.40172,
+          10.92615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vung Tau"
+      },
+      "geometry": {
+        "coordinates": [
+          107.08426,
+          10.34599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vung Liem"
+      },
+      "geometry": {
+        "coordinates": [
+          106.18548,
+          10.09576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vu Ban"
+      },
+      "geometry": {
+        "coordinates": [
+          105.44348,
+          20.4642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vo Xu"
+      },
+      "geometry": {
+        "coordinates": [
+          107.56025,
+          11.18691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vi Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.47012,
+          9.78449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.60489,
+          21.30891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Vinh Tuy"
+      },
+      "geometry": {
+        "coordinates": [
+          104.89091,
+          22.27441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Thuan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.25747,
+          9.50802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.78381,
+          14.10884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Long"
+      },
+      "geometry": {
+        "coordinates": [
+          105.9722,
+          10.25369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          105.61567,
+          20.05438
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.98006,
+          9.32439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.58056,
+          10.34498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.69232,
+          18.67337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viet Tri"
+      },
+      "geometry": {
+        "coordinates": [
+          105.40198,
+          21.32274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Quan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.53925,
+          21.86516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Gia"
+      },
+      "geometry": {
+        "coordinates": [
+          109.22069,
+          12.69203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Dinh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.77236,
+          20.73514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Dien"
+      },
+      "geometry": {
+        "coordinates": [
+          105.845,
+          20.9463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Canh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.99805,
+          13.61945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Uong Bi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.77049,
+          21.03433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuy Phuoc"
+      },
+      "geometry": {
+        "coordinates": [
+          109.16651,
+          13.82738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuy Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          109.32094,
+          13.09546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Tuyen Quang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.21424,
+          21.82356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoa Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          104.47232,
+          19.26393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tu Nghia"
+      },
+      "geometry": {
+        "coordinates": [
+          108.826,
+          15.08451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Trung Khanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.52496,
+          22.83514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tri Ton"
+      },
+      "geometry": {
+        "coordinates": [
+          105.00073,
+          10.4202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra Vinh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.34225,
+          9.94719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra On"
+      },
+      "geometry": {
+        "coordinates": [
+          105.92168,
+          9.96261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trang Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.35751,
+          11.02987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Tram Tau"
+      },
+      "geometry": {
+        "coordinates": [
+          104.37966,
+          21.46659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra My"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22065,
+          15.33965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tram Chim"
+      },
+      "geometry": {
+        "coordinates": [
+          105.56469,
+          10.67001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra Cu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.25834,
+          9.69774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tra Bong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.51722,
+          15.25569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinh Gia"
+      },
+      "geometry": {
+        "coordinates": [
+          105.77861,
+          19.44645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tieu Can"
+      },
+      "geometry": {
+        "coordinates": [
+          106.19067,
+          9.81166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tien Phuoc"
+      },
+      "geometry": {
+        "coordinates": [
+          108.30736,
+          15.48819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thu Thua"
+      },
+      "geometry": {
+        "coordinates": [
+          106.40207,
+          10.60232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuong Xuan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.34723,
+          19.90294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thu Duc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.77209,
+          10.84863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thu Dau Mot"
+      },
+      "geometry": {
+        "coordinates": [
+          106.6519,
+          10.9804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tho Xuan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.52179,
+          19.93133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thot Not"
+      },
+      "geometry": {
+        "coordinates": [
+          105.5338,
+          10.27213
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thoi Lai"
+      },
+      "geometry": {
+        "coordinates": [
+          105.55863,
+          10.06522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thoi Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.09929,
+          9.35584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ai Tu"
+      },
+      "geometry": {
+        "coordinates": [
+          107.16504,
+          16.76886
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran That Khe"
+      },
+      "geometry": {
+        "coordinates": [
+          106.47359,
+          22.25525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Than Uyen"
+      },
+      "geometry": {
+        "coordinates": [
+          103.88001,
+          21.95907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          105.74111,
+          9.42838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.17892,
+          21.19867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.51629,
+          9.94827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ho Chi Minh City"
+      },
+      "geometry": {
+        "coordinates": [
+          106.62965,
+          10.82302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Ne"
+      },
+      "geometry": {
+        "coordinates": [
+          106.43834,
+          20.3881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.76667,
+          19.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Chuong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.33356,
+          18.77877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.48411,
+          10.5619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Thai Nguyen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84817,
+          21.59422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Thai Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.34002,
+          20.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Tan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.67454,
+          20.13053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thach Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          105.86122,
+          18.36788
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tay Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.09828,
+          11.31004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tay Ho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.81053,
+          21.06895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tay Dang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42217,
+          21.19809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GJam Doi"
+      },
+      "geometry": {
+        "coordinates": [
+          105.19602,
+          8.99214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Ky"
+      },
+      "geometry": {
+        "coordinates": [
+          105.26807,
+          19.04756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanh Linh"
+      },
+      "geometry": {
+        "coordinates": [
+          107.68095,
+          11.08421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Hiep"
+      },
+      "geometry": {
+        "coordinates": [
+          106.34386,
+          10.44905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Hiep"
+      },
+      "geometry": {
+        "coordinates": [
+          105.28578,
+          10.11709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.23887,
+          10.79832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan An"
+      },
+      "geometry": {
+        "coordinates": [
+          106.41366,
+          10.53589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tam Ky"
+      },
+      "geometry": {
+        "coordinates": [
+          108.47403,
+          15.57364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trai Ngau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.61441,
+          21.39324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tam Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.00017,
+          10.04811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Ta Lung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.5669,
+          22.4979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Tinh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.79582,
+          15.15856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Tay"
+      },
+      "geometry": {
+        "coordinates": [
+          105.50686,
+          21.14053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          108.46973,
+          15.04193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Duong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.39901,
+          21.69676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son La"
+      },
+      "geometry": {
+        "coordinates": [
+          103.91882,
+          21.3256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Song Ma"
+      },
+      "geometry": {
+        "coordinates": [
+          103.74987,
+          21.05091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Song Cau"
+      },
+      "geometry": {
+        "coordinates": [
+          109.22348,
+          13.4556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soc Trang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97193,
+          9.59995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Sin Ho"
+      },
+      "geometry": {
+        "coordinates": [
+          103.23438,
+          22.36647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Si Ma Cai"
+      },
+      "geometry": {
+        "coordinates": [
+          104.27857,
+          22.6951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sa Pa"
+      },
+      "geometry": {
+        "coordinates": [
+          103.84415,
+          22.34023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sa Dec"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75635,
+          10.29085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rach Gia"
+      },
+      "geometry": {
+        "coordinates": [
+          105.08091,
+          10.01245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Chien"
+      },
+      "geometry": {
+        "coordinates": [
+          103.56608,
+          21.8424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quynh Coi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.32744,
+          20.66192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qui Nhon"
+      },
+      "geometry": {
+        "coordinates": [
+          109.22367,
+          13.77648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quy Hop"
+      },
+      "geometry": {
+        "coordinates": [
+          105.18251,
+          19.32546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oui Dat"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97044,
+          17.80459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quy Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.09387,
+          19.55206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Que Son"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2201,
+          15.67356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Son"
+      },
+      "geometry": {
+        "coordinates": [
+          104.91903,
+          19.60409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.10024,
+          20.38481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          106.8027,
+          20.9421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Quang Uyen"
+      },
+      "geometry": {
+        "coordinates": [
+          106.44235,
+          22.69499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ba Don"
+      },
+      "geometry": {
+        "coordinates": [
+          106.42355,
+          17.75353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Hau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.64072,
+          17.40438
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Ngai"
+      },
+      "geometry": {
+        "coordinates": [
+          108.79232,
+          15.12047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plei Kan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6862,
+          14.70495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleiku"
+      },
+      "geometry": {
+        "coordinates": [
+          108.0,
+          13.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.64439,
+          21.26331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Vang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.71438,
+          16.43911
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Tuc"
+      },
+      "geometry": {
+        "coordinates": [
+          108.69043,
+          13.19682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Thong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.87943,
+          22.27314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.22221,
+          21.39963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duong GJong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.95929,
+          10.21716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Phong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.91903,
+          13.90964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuoc An"
+      },
+      "geometry": {
+        "coordinates": [
+          108.30148,
+          12.71298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.95,
+          21.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phung Hiep"
+      },
+      "geometry": {
+        "coordinates": [
+          105.7338,
+          9.77972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu My"
+      },
+      "geometry": {
+        "coordinates": [
+          109.04888,
+          14.17182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Phu Ly"
+      },
+      "geometry": {
+        "coordinates": [
+          105.91221,
+          20.54531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          107.85898,
+          16.28035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Khuong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.13333,
+          11.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuc Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.70483,
+          21.23695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Cat"
+      },
+      "geometry": {
+        "coordinates": [
+          109.05804,
+          14.00316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phong Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          103.29776,
+          22.54433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phong Dien"
+      },
+      "geometry": {
+        "coordinates": [
+          107.36438,
+          16.58321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phong Dien"
+      },
+      "geometry": {
+        "coordinates": [
+          105.6673,
+          9.99753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Pho Lu"
+      },
+      "geometry": {
+        "coordinates": [
+          104.18719,
+          22.31918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42411,
+          18.51335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Sung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.57815,
+          19.63141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phat Diem"
+      },
+      "geometry": {
+        "coordinates": [
+          106.08323,
+          20.09054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phan Thiet"
+      },
+      "geometry": {
+        "coordinates": [
+          108.10208,
+          10.92889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phan Rang-Thap Cham"
+      },
+      "geometry": {
+        "coordinates": [
+          108.98858,
+          11.56432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Mon"
+      },
+      "geometry": {
+        "coordinates": [
+          105.62318,
+          10.10974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Nuoc Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.15216,
+          22.73738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nui Deo"
+      },
+      "geometry": {
+        "coordinates": [
+          106.6744,
+          20.91569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ninh Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          109.12495,
+          12.49187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ninh Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.39789,
+          20.73083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Ninh Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97965,
+          20.25809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhu Quynh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.98486,
+          20.98167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nho Quan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75189,
+          20.32279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhon Trach"
+      },
+      "geometry": {
+        "coordinates": [
+          106.88341,
+          10.72294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nha Trang"
+      },
+      "geometry": {
+        "coordinates": [
+          109.19432,
+          12.24507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nha Be"
+      },
+      "geometry": {
+        "coordinates": [
+          106.74032,
+          10.69672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nha Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.00854,
+          10.62502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Nguyen Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.95985,
+          22.64995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngo Dong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.44347,
+          20.28296
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngoc Lac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.36761,
+          20.09189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tien Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.50365,
+          20.40557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nghi Xuan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75575,
+          18.66206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Hanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.64597,
+          18.77927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nghia Hanh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.77724,
+          15.04568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nga Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97044,
+          20.00722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Tung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.99687,
+          22.43082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Ngai Giao"
+      },
+      "geometry": {
+        "coordinates": [
+          107.24577,
+          10.6471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Na Sam"
+      },
+      "geometry": {
+        "coordinates": [
+          106.6151,
+          22.05639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Nam Dinh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17729,
+          20.43389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nam Dan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.49881,
+          18.69799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nam Can"
+      },
+      "geometry": {
+        "coordinates": [
+          104.99285,
+          8.75899
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.98984,
+          9.56006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          106.35996,
+          10.36004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.69508,
+          10.44267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.10238,
+          20.44111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh My"
+      },
+      "geometry": {
+        "coordinates": [
+          107.83678,
+          15.74889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Nhe"
+      },
+      "geometry": {
+        "coordinates": [
+          102.4579,
+          22.19236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Muong Khuong"
+      },
+      "geometry": {
+        "coordinates": [
+          104.12156,
+          22.76141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Lat"
+      },
+      "geometry": {
+        "coordinates": [
+          104.60138,
+          20.52915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mu Cang Chai"
+      },
+      "geometry": {
+        "coordinates": [
+          104.08954,
+          21.85125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mong Cai"
+      },
+      "geometry": {
+        "coordinates": [
+          107.96619,
+          21.52471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo Duc"
+      },
+      "geometry": {
+        "coordinates": [
+          108.88586,
+          14.95513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moc Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          104.62177,
+          20.85199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo Cay"
+      },
+      "geometry": {
+        "coordinates": [
+          106.33519,
+          10.13312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minh Luong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.1595,
+          9.90248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minh Long"
+      },
+      "geometry": {
+        "coordinates": [
+          108.70328,
+          14.93218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Meo Vac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.40993,
+          23.16411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma Da Gui"
+      },
+      "geometry": {
+        "coordinates": [
+          107.53508,
+          11.38702
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.43518,
+          10.38639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.95029,
+          10.78909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.11881,
+          9.61025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long My"
+      },
+      "geometry": {
+        "coordinates": [
+          105.57226,
+          9.68141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loc Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.59073,
+          11.84476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loc Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.92335,
+          21.75873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lien De"
+      },
+      "geometry": {
+        "coordinates": [
+          106.18747,
+          20.22095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lien Huong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.72366,
+          11.22761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kien Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79011,
+          17.22328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lap Vo"
+      },
+      "geometry": {
+        "coordinates": [
+          105.51924,
+          10.36161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lao Chai"
+      },
+      "geometry": {
+        "coordinates": [
+          103.86844,
+          22.31377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lao Cai"
+      },
+      "geometry": {
+        "coordinates": [
+          103.97066,
+          22.48556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Lang Son"
+      },
+      "geometry": {
+        "coordinates": [
+          106.76101,
+          21.85264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Phuoc Buu"
+      },
+      "geometry": {
+        "coordinates": [
+          107.40202,
+          10.53472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lung Ho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.23983,
+          22.98479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lang Chanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.24223,
+          20.15611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai Vung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.6617,
+          10.28701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai Thieu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.69949,
+          10.90512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai Cach"
+      },
+      "geometry": {
+        "coordinates": [
+          106.24756,
+          20.93252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Gi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.77206,
+          10.65993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lak"
+      },
+      "geometry": {
+        "coordinates": [
+          108.17682,
+          12.41086
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac Duong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.41905,
+          12.00405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Xen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.15239,
+          19.39795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ky Anh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.29832,
+          18.06243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kon Tum"
+      },
+      "geometry": {
+        "coordinates": [
+          108.00759,
+          14.35451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinh Mon"
+      },
+      "geometry": {
+        "coordinates": [
+          106.5551,
+          20.98962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Bai"
+      },
+      "geometry": {
+        "coordinates": [
+          105.76963,
+          20.85265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kien Luong"
+      },
+      "geometry": {
+        "coordinates": [
+          104.64616,
+          10.28624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khe Sanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.73884,
+          16.62825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Khanh Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.25149,
+          22.08935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ke Sat"
+      },
+      "geometry": {
+        "coordinates": [
+          106.14771,
+          20.91007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ke Sach"
+      },
+      "geometry": {
+        "coordinates": [
+          105.98574,
+          9.76743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huu Lung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.34459,
+          21.5056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huong Tra"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4755,
+          16.52539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huong Khe"
+      },
+      "geometry": {
+        "coordinates": [
+          105.70019,
+          18.17669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huong Canh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.64697,
+          21.27882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hung Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          106.05112,
+          20.64637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hue"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59546,
+          16.4619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ho Xa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.0052,
+          17.06836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Long"
+      },
+      "geometry": {
+        "coordinates": [
+          106.60586,
+          11.64711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Ha Long"
+      },
+      "geometry": {
+        "coordinates": [
+          107.07336,
+          20.95045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngoc Hon Doc"
+      },
+      "geometry": {
+        "coordinates": [
+          104.92959,
+          10.18462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoi An"
+      },
+      "geometry": {
+        "coordinates": [
+          108.335,
+          15.87944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoc Mon"
+      },
+      "geometry": {
+        "coordinates": [
+          106.59533,
+          10.8891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoa Vang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.13893,
+          15.98764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoa Mac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.989,
+          20.64173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoai An"
+      },
+      "geometry": {
+        "coordinates": [
+          108.96476,
+          14.36352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Hoa Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.33759,
+          20.81717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doug An"
+      },
+      "geometry": {
+        "coordinates": [
+          108.11422,
+          15.58224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Tinh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.90569,
+          18.34282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Tien"
+      },
+      "geometry": {
+        "coordinates": [
+          104.48753,
+          10.3831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanoi"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84117,
+          21.0245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Thanh Nhat"
+      },
+      "geometry": {
+        "coordinates": [
+          106.67004,
+          22.68749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          108.35062,
+          15.73871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haiphong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.68345,
+          20.86481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hai Lang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.25124,
+          16.69347
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Hai Duong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.33302,
+          20.94099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.00512,
+          21.56302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Ha Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.98357,
+          22.82333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Dong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.77876,
+          20.97136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Go Quao"
+      },
+      "geometry": {
+        "coordinates": [
+          105.27393,
+          9.7332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giong Rieng"
+      },
+      "geometry": {
+        "coordinates": [
+          105.31433,
+          9.90974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gio Linh"
+      },
+      "geometry": {
+        "coordinates": [
+          107.08438,
+          16.9248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gia Nghia"
+      },
+      "geometry": {
+        "coordinates": [
+          107.69074,
+          12.00423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duy Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25956,
+          15.82898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GJuc Trong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.3733,
+          11.73559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duc Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.58302,
+          18.53957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duc Phong"
+      },
+      "geometry": {
+        "coordinates": [
+          107.24433,
+          11.81346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho Duc"
+      },
+      "geometry": {
+        "coordinates": [
+          108.95931,
+          14.81355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tram de Dak Mil"
+      },
+      "geometry": {
+        "coordinates": [
+          107.62237,
+          12.44957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          109.10807,
+          13.37732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Luan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.88324,
+          11.53495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran GJong Van"
+      },
+      "geometry": {
+        "coordinates": [
+          105.36291,
+          23.27841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Mo"
+      },
+      "geometry": {
+        "coordinates": [
+          106.57832,
+          21.65701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran GJong Khe"
+      },
+      "geometry": {
+        "coordinates": [
+          106.43194,
+          22.42939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwang Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.62226,
+          17.46885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          107.10031,
+          16.81625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anh Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.05505,
+          18.96961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doan Hung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.18462,
+          21.62254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinh Lap"
+      },
+      "geometry": {
+        "coordinates": [
+          107.09812,
+          21.54633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Di Linh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.07641,
+          11.58153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dien Khanh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.09332,
+          12.2549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dien Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.60034,
+          18.97652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dien Bien Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          103.02301,
+          21.38602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Nam"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25447,
+          15.88853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giemdiem"
+      },
+      "geometry": {
+        "coordinates": [
+          106.56882,
+          20.55832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Di An"
+      },
+      "geometry": {
+        "coordinates": [
+          106.7694,
+          10.90682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dau Tieng"
+      },
+      "geometry": {
+        "coordinates": [
+          106.35879,
+          11.2741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuoc Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          107.27014,
+          10.49093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Nang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22083,
+          16.06778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Lat"
+      },
+      "geometry": {
+        "coordinates": [
+          108.44193,
+          11.94646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Song"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60924,
+          12.25518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dai Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          108.12092,
+          15.88214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak To"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8389,
+          14.66092
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cung Son"
+      },
+      "geometry": {
+        "coordinates": [
+          108.97895,
+          13.04998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cu Chi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.49325,
+          10.97333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co Do"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42916,
+          10.09377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Con Son"
+      },
+      "geometry": {
+        "coordinates": [
+          106.60824,
+          8.68641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Con Cuong"
+      },
+      "geometry": {
+        "coordinates": [
+          104.88124,
+          19.04996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chuc Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.70155,
+          20.92375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.56649,
+          21.37379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chon Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.63536,
+          11.42821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Moi"
+      },
+      "geometry": {
+        "coordinates": [
+          105.77281,
+          21.88374
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Moi"
+      },
+      "geometry": {
+        "coordinates": [
+          105.40441,
+          10.55123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Lach"
+      },
+      "geometry": {
+        "coordinates": [
+          106.11892,
+          10.26032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giong Trom"
+      },
+      "geometry": {
+        "coordinates": [
+          106.50606,
+          10.15021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Gao"
+      },
+      "geometry": {
+        "coordinates": [
+          106.4634,
+          10.34984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Chu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.64219,
+          21.90724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chi Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.21522,
+          13.30845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chi Ne"
+      },
+      "geometry": {
+        "coordinates": [
+          105.778,
+          20.49056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huyen Chiem Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.27277,
+          22.14413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Dok"
+      },
+      "geometry": {
+        "coordinates": [
+          105.11667,
+          10.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cau Ke"
+      },
+      "geometry": {
+        "coordinates": [
+          106.05497,
+          9.8724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cau Giat"
+      },
+      "geometry": {
+        "coordinates": [
+          105.63089,
+          19.146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cat Ba"
+      },
+      "geometry": {
+        "coordinates": [
+          107.04819,
+          20.72779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cao Thuong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.12931,
+          21.38707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cao Lanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.63294,
+          10.46017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Cao Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.25786,
+          22.66568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Can Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.78825,
+          10.03711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Can Gio"
+      },
+      "geometry": {
+        "coordinates": [
+          106.95474,
+          10.41115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Can Duoc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.60308,
+          10.50966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Can Giuoc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.67135,
+          10.60857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          106.00132,
+          18.25029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Thuy"
+      },
+      "geometry": {
+        "coordinates": [
+          105.4695,
+          20.20866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Ranh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.15913,
+          11.92144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Pha Mines"
+      },
+      "geometry": {
+        "coordinates": [
+          107.3,
+          21.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Pha"
+      },
+      "geometry": {
+        "coordinates": [
+          107.27345,
+          21.01004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Lo"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99405,
+          16.80797
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Ranh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.16082,
+          11.92732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ca Mau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.15242,
+          9.17682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Tau Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          105.87044,
+          10.25973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Rang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75095,
+          10.0009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Nuoc"
+      },
+      "geometry": {
+        "coordinates": [
+          105.01411,
+          8.94231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Nhum"
+      },
+      "geometry": {
+        "coordinates": [
+          106.11051,
+          10.17412
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buon Trap"
+      },
+      "geometry": {
+        "coordinates": [
+          108.02982,
+          12.48478
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buon Ma Thuot"
+      },
+      "geometry": {
+        "coordinates": [
+          108.03775,
+          12.66747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoan Lao"
+      },
+      "geometry": {
+        "coordinates": [
+          106.53425,
+          17.58436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bong Son"
+      },
+      "geometry": {
+        "coordinates": [
+          109.0156,
+          14.42907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bu Dop"
+      },
+      "geometry": {
+        "coordinates": [
+          106.80018,
+          11.95486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Thuy"
+      },
+      "geometry": {
+        "coordinates": [
+          105.73974,
+          10.07431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Son"
+      },
+      "geometry": {
+        "coordinates": [
+          108.76124,
+          15.29776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Gia"
+      },
+      "geometry": {
+        "coordinates": [
+          106.36448,
+          21.96094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Dai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.69149,
+          10.18964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Tuc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.59128,
+          10.69541
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bim Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.86028,
+          20.07806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bien Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.82432,
+          10.94469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Tre"
+      },
+      "geometry": {
+        "coordinates": [
+          106.37585,
+          10.24147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Cau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17924,
+          11.11051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ba Tri"
+      },
+      "geometry": {
+        "coordinates": [
+          106.5902,
+          10.04427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ba To"
+      },
+      "geometry": {
+        "coordinates": [
+          108.73223,
+          14.7636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Pho Rang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.47643,
+          22.23429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bao Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          107.80772,
+          11.54798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Bao Lac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.68046,
+          22.94924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Yen Nhan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.05711,
+          20.93653
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "It Ong"
+      },
+      "geometry": {
+        "coordinates": [
+          104.02701,
+          21.5175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Thuan Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          103.69,
+          21.43849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.43281,
+          21.24626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Son"
+      },
+      "geometry": {
+        "coordinates": [
+          106.32077,
+          21.89999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.07631,
+          21.18608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh pho Bac Lieu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.72776,
+          9.29414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          104.29305,
+          22.53911
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.1946,
+          21.27307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Kan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.83481,
+          22.14701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Tru"
+      },
+      "geometry": {
+        "coordinates": [
+          106.50762,
+          10.51271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ap Tan Ngai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.28333,
+          10.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.74435,
+          10.29693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Nhon"
+      },
+      "geometry": {
+        "coordinates": [
+          109.10823,
+          13.88579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Lao"
+      },
+      "geometry": {
+        "coordinates": [
+          108.8899,
+          14.61241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Duong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.6133,
+          20.86382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.84934,
+          21.33465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Bien"
+      },
+      "geometry": {
+        "coordinates": [
+          105.06366,
+          9.81532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Luoi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.23385,
+          16.27228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          106.73643,
+          10.7118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tam Diep"
+      },
+      "geometry": {
+        "coordinates": [
+          105.91737,
+          20.15635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chau Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.34939,
+          9.86989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uyen Hung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.78834,
+          11.08416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Lap"
+      },
+      "geometry": {
+        "coordinates": [
+          105.05739,
+          21.34705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Ba"
+      },
+      "geometry": {
+        "coordinates": [
+          105.14104,
+          21.49881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Song Thao"
+      },
+      "geometry": {
+        "coordinates": [
+          105.13374,
+          21.4213
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hung Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.2953,
+          21.25487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phong Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.31228,
+          21.4068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Tan Yen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.0345,
+          22.0655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Viet"
+      },
+      "geometry": {
+        "coordinates": [
+          105.45905,
+          22.86407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pac Miau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.49334,
+          22.82968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lap Thach"
+      },
+      "geometry": {
+        "coordinates": [
+          105.46081,
+          21.41539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.38622,
+          10.44559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nui Sap"
+      },
+      "geometry": {
+        "coordinates": [
+          105.26676,
+          10.26478
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tam Vu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.46793,
+          10.44114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gia Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17468,
+          21.05938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thua"
+      },
+      "geometry": {
+        "coordinates": [
+          106.20044,
+          21.01937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.95471,
+          21.19491
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho Moi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.15164,
+          21.15328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ho"
+      },
+      "geometry": {
+        "coordinates": [
+          106.0857,
+          21.06308
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lim"
+      },
+      "geometry": {
+        "coordinates": [
+          106.02018,
+          21.14388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cung Kiem"
+      },
+      "geometry": {
+        "coordinates": [
+          106.16076,
+          21.18697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Ganh Hao"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42115,
+          9.03183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Ngan Dua"
+      },
+      "geometry": {
+        "coordinates": [
+          105.45019,
+          9.56703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Phuoc Long"
+      },
+      "geometry": {
+        "coordinates": [
+          105.46217,
+          9.43753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Gia Rai"
+      },
+      "geometry": {
+        "coordinates": [
+          105.45524,
+          9.23789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Hoa Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.62916,
+          9.28471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cai Dau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.24005,
+          10.57428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cau Go"
+      },
+      "geometry": {
+        "coordinates": [
+          106.12653,
+          21.47679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GJoi Ngo"
+      },
+      "geometry": {
+        "coordinates": [
+          106.38673,
+          21.30626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neo"
+      },
+      "geometry": {
+        "coordinates": [
+          106.24739,
+          21.20048
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bich GJong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.10069,
+          21.27421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.98344,
+          21.35505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boc Bo"
+      },
+      "geometry": {
+        "coordinates": [
+          105.66707,
+          22.61206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bang Lung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.59559,
+          22.15777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Long GJien"
+      },
+      "geometry": {
+        "coordinates": [
+          107.21226,
+          10.48557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Cha"
+      },
+      "geometry": {
+        "coordinates": [
+          103.09783,
+          21.76172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Tua Chua"
+      },
+      "geometry": {
+        "coordinates": [
+          103.3426,
+          21.85771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dien Bien Dong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.22009,
+          21.29673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran GJien Bien"
+      },
+      "geometry": {
+        "coordinates": [
+          103.0344,
+          21.2596
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tam Duong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.62619,
+          22.31812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          103.45824,
+          22.39644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Muong Te"
+      },
+      "geometry": {
+        "coordinates": [
+          102.82011,
+          22.38067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Tam Son"
+      },
+      "geometry": {
+        "coordinates": [
+          104.98926,
+          23.0674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Vi Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.98191,
+          22.66762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Viet Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          104.95988,
+          22.62486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Viet Quang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.80682,
+          22.41509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.37145,
+          22.73223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Vinh Quang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.67956,
+          22.74085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Binh"
+      },
+      "geometry": {
+        "coordinates": [
+          104.57949,
+          22.40989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Thong Nong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.9832,
+          22.7841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Xuan Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.07737,
+          22.90243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Hung Quoc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.32335,
+          22.82898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Cao Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.76833,
+          21.8665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Vinh Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          105.27192,
+          22.1436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Thinh"
+      },
+      "geometry": {
+        "coordinates": [
+          104.5948,
+          21.56252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co Phuc"
+      },
+      "geometry": {
+        "coordinates": [
+          104.82768,
+          21.75585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Yen The"
+      },
+      "geometry": {
+        "coordinates": [
+          104.76748,
+          22.11075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Na Hang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.38241,
+          22.34917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh Minh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.82221,
+          10.06821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.09038,
+          10.81591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu My"
+      },
+      "geometry": {
+        "coordinates": [
+          105.35573,
+          10.59236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Phu My"
+      },
+      "geometry": {
+        "coordinates": [
+          107.054,
+          10.6036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat Xat"
+      },
+      "geometry": {
+        "coordinates": [
+          103.88989,
+          22.54311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hat Lot"
+      },
+      "geometry": {
+        "coordinates": [
+          104.10595,
+          21.19733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Xuong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.78273,
+          19.72948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nong Cong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.64941,
+          19.62403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Son"
+      },
+      "geometry": {
+        "coordinates": [
+          104.94521,
+          20.25909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Cat"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42854,
+          19.66327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "But Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.85482,
+          19.85797
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canh Nang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.22881,
+          20.34803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hau Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          105.88615,
+          19.91444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trieu Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.60392,
+          19.81913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Lao"
+      },
+      "geometry": {
+        "coordinates": [
+          105.65106,
+          19.97153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha Trung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.85322,
+          20.01285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rung Thong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.73279,
+          19.81906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          105.67879,
+          19.88659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Bac"
+      },
+      "geometry": {
+        "coordinates": [
+          105.25417,
+          20.87714
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Khen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.27948,
+          20.61441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hang Tram"
+      },
+      "geometry": {
+        "coordinates": [
+          105.6224,
+          20.39472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bo"
+      },
+      "geometry": {
+        "coordinates": [
+          105.53625,
+          20.67264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luong Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.52568,
+          20.87148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ky Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.35244,
+          20.88668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cao Phong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.32063,
+          20.70446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me"
+      },
+      "geometry": {
+        "coordinates": [
+          105.83615,
+          20.34697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thien Ton"
+      },
+      "geometry": {
+        "coordinates": [
+          105.95198,
+          20.29905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Thinh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.00697,
+          20.16245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xuan Truong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.33275,
+          20.29227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen Dinh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.29578,
+          20.20145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          106.01208,
+          20.32773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.07826,
+          20.33335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nam Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17754,
+          20.33322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co Le"
+      },
+      "geometry": {
+        "coordinates": [
+          106.26584,
+          20.32336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Que"
+      },
+      "geometry": {
+        "coordinates": [
+          105.87266,
+          20.58064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Tru"
+      },
+      "geometry": {
+        "coordinates": [
+          106.02812,
+          20.5602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binh My"
+      },
+      "geometry": {
+        "coordinates": [
+          106.00955,
+          20.49121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Luu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.95268,
+          20.47398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hung Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          106.22445,
+          20.5904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vu Thu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.29116,
+          20.43671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Hung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.35532,
+          20.55651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Pho Ba Ria"
+      },
+      "geometry": {
+        "coordinates": [
+          107.16841,
+          10.49629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi Tran Tuan Giao"
+      },
+      "geometry": {
+        "coordinates": [
+          103.42179,
+          21.58992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muong Ang"
+      },
+      "geometry": {
+        "coordinates": [
+          103.22294,
+          21.51993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Lao"
+      },
+      "geometry": {
+        "coordinates": [
+          106.55575,
+          20.82294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tien Lang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.55391,
+          20.72464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nui Doi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.66894,
+          20.75078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          107.75592,
+          21.4506
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99101,
+          21.03141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co To"
+      },
+      "geometry": {
+        "coordinates": [
+          107.76578,
+          20.97268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Mien"
+      },
+      "geometry": {
+        "coordinates": [
+          106.24623,
+          20.78714
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nam Sach"
+      },
+      "geometry": {
+        "coordinates": [
+          106.33613,
+          20.99205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gia Loc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.3,
+          20.86783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tu Ky"
+      },
+      "geometry": {
+        "coordinates": [
+          106.40661,
+          20.81914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          106.42612,
+          20.89816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Thai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.5095,
+          20.96278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Du"
+      },
+      "geometry": {
+        "coordinates": [
+          105.70388,
+          21.73847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huong Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97814,
+          21.46014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chua Hang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84168,
+          21.62384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Thuy"
+      },
+      "geometry": {
+        "coordinates": [
+          105.28388,
+          21.17548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lam Thao"
+      },
+      "geometry": {
+        "coordinates": [
+          105.29156,
+          21.3201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me Linh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.72041,
+          21.1831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Tuong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.51249,
+          21.2165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hop Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          105.54256,
+          21.37525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Giang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.93119,
+          20.94301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yen My"
+      },
+      "geometry": {
+        "coordinates": [
+          106.0356,
+          20.88557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khoai Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97755,
+          20.83912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luong Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.05998,
+          20.74003
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Thi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.09118,
+          20.81835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tran Cao"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17971,
+          20.72952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuong"
+      },
+      "geometry": {
+        "coordinates": [
+          106.11751,
+          20.7011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lien Quan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.57919,
+          21.05723
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuc Tho"
+      },
+      "geometry": {
+        "coordinates": [
+          105.54551,
+          21.10345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.65901,
+          21.08902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troi"
+      },
+      "geometry": {
+        "coordinates": [
+          105.70646,
+          21.06953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quoc Oai"
+      },
+      "geometry": {
+        "coordinates": [
+          105.64088,
+          20.99019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuong Tin"
+      },
+      "geometry": {
+        "coordinates": [
+          105.86125,
+          20.86874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Xuyen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.91363,
+          20.74549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dai Nghia"
+      },
+      "geometry": {
+        "coordinates": [
+          105.74471,
+          20.68667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soc Son"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84894,
+          21.25782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Anh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84926,
+          21.13962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cau Dien"
+      },
+      "geometry": {
+        "coordinates": [
+          105.76659,
+          21.03929
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trau Quy"
+      },
+      "geometry": {
+        "coordinates": [
+          105.93694,
+          21.01951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cau Giay"
+      },
+      "geometry": {
+        "coordinates": [
+          105.80073,
+          21.03228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Xuan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.79977,
+          20.99472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Da"
+      },
+      "geometry": {
+        "coordinates": [
+          105.83097,
+          21.02009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoan Kiem"
+      },
+      "geometry": {
+        "coordinates": [
+          105.85064,
+          21.02857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hai BaTrung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84772,
+          21.01341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hung Nguyen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.62882,
+          18.67165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vu Quang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.5059,
+          18.38385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nghen"
+      },
+      "geometry": {
+        "coordinates": [
+          105.77969,
+          18.45119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Le"
+      },
+      "geometry": {
+        "coordinates": [
+          106.02536,
+          17.88389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krong Klang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.8874,
+          16.68906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khe Tre"
+      },
+      "geometry": {
+        "coordinates": [
+          107.71793,
+          16.1691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sia"
+      },
+      "geometry": {
+        "coordinates": [
+          107.51066,
+          16.57452
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Khe"
+      },
+      "geometry": {
+        "coordinates": [
+          108.19102,
+          16.0706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Le"
+      },
+      "geometry": {
+        "coordinates": [
+          108.20381,
+          16.01771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Son Tra"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23256,
+          16.06068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lien Chieu"
+      },
+      "geometry": {
+        "coordinates": [
+          108.15815,
+          16.07272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngu Hanh Son"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25335,
+          16.01618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prao"
+      },
+      "geometry": {
+        "coordinates": [
+          107.64814,
+          15.92438
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kham Duc"
+      },
+      "geometry": {
+        "coordinates": [
+          107.79337,
+          15.44508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nui Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.65946,
+          15.43194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Ninh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.41142,
+          15.55473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tay Tra"
+      },
+      "geometry": {
+        "coordinates": [
+          108.35998,
+          15.16948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ly Son"
+      },
+      "geometry": {
+        "coordinates": [
+          109.11891,
+          15.37198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Glei"
+      },
+      "geometry": {
+        "coordinates": [
+          107.73577,
+          15.08642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sa Thay"
+      },
+      "geometry": {
+        "coordinates": [
+          107.79339,
+          14.41377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          107.92102,
+          14.51345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Rve"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2473,
+          14.50717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kon Plong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.29088,
+          14.60064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Doa"
+      },
+      "geometry": {
+        "coordinates": [
+          108.11207,
+          13.99501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.59908,
+          14.14453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kong Chro"
+      },
+      "geometry": {
+        "coordinates": [
+          108.52558,
+          13.77532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ia Pa"
+      },
+      "geometry": {
+        "coordinates": [
+          108.45529,
+          13.53361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Yun Pa"
+      },
+      "geometry": {
+        "coordinates": [
+          108.43503,
+          13.40025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chu Se"
+      },
+      "geometry": {
+        "coordinates": [
+          108.08023,
+          13.69153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chu Prong"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88624,
+          13.75684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chu Ty"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6961,
+          13.80507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ia Kha"
+      },
+      "geometry": {
+        "coordinates": [
+          107.84484,
+          13.96242
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.96896,
+          14.10005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kon Dong"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25011,
+          14.03886
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hai Rieng"
+      },
+      "geometry": {
+        "coordinates": [
+          108.89732,
+          12.97908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ea Sup"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88546,
+          13.06616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ea Drang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.21029,
+          13.2045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krong Nang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.34425,
+          12.9517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quang Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          108.07738,
+          12.81965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ea Kar"
+      },
+      "geometry": {
+        "coordinates": [
+          108.44901,
+          12.80816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krong Kmar"
+      },
+      "geometry": {
+        "coordinates": [
+          108.33288,
+          12.5045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Drak"
+      },
+      "geometry": {
+        "coordinates": [
+          108.74281,
+          12.74624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanh Vinh"
+      },
+      "geometry": {
+        "coordinates": [
+          108.9047,
+          12.28355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "To Hap"
+      },
+      "geometry": {
+        "coordinates": [
+          108.94868,
+          12.00582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cam Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          109.16004,
+          12.05398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ea T'ling"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89578,
+          12.58904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dak Mam"
+      },
+      "geometry": {
+        "coordinates": [
+          107.86246,
+          12.45789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GJinh Van"
+      },
+      "geometry": {
+        "coordinates": [
+          108.24282,
+          11.78624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh My"
+      },
+      "geometry": {
+        "coordinates": [
+          108.49473,
+          11.76165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loc Thang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.83508,
+          11.62836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Nai"
+      },
+      "geometry": {
+        "coordinates": [
+          107.36518,
+          11.57981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Teh"
+      },
+      "geometry": {
+        "coordinates": [
+          107.49092,
+          11.51148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Ai"
+      },
+      "geometry": {
+        "coordinates": [
+          108.90316,
+          11.84104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Son"
+      },
+      "geometry": {
+        "coordinates": [
+          108.7848,
+          11.77521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuoc Dan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.92996,
+          11.52696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khanh Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          109.04052,
+          11.59105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cho Lau"
+      },
+      "geometry": {
+        "coordinates": [
+          108.50707,
+          11.22158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma Lam"
+      },
+      "geometry": {
+        "coordinates": [
+          108.12997,
+          11.07297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuan Nam"
+      },
+      "geometry": {
+        "coordinates": [
+          107.87864,
+          10.85004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phu Quy"
+      },
+      "geometry": {
+        "coordinates": [
+          108.93292,
+          10.5166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          107.43655,
+          11.27221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh An"
+      },
+      "geometry": {
+        "coordinates": [
+          107.03516,
+          11.08901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thong Nhat"
+      },
+      "geometry": {
+        "coordinates": [
+          107.14571,
+          10.95055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Khanh"
+      },
+      "geometry": {
+        "coordinates": [
+          107.24783,
+          10.92655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.86811,
+          11.45119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.17245,
+          11.55202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Bien"
+      },
+      "geometry": {
+        "coordinates": [
+          106.01161,
+          11.54441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chau Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.0295,
+          11.31167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoa Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.12936,
+          11.28696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Go Dau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.26346,
+          11.0885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duong Minh Chau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.23078,
+          11.38414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Hung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.66135,
+          10.83476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Hung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.78495,
+          10.89067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.04714,
+          10.60666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanh Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.18081,
+          10.65744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dong Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.30614,
+          10.89221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hau Nghia"
+      },
+      "geometry": {
+        "coordinates": [
+          106.39695,
+          10.89434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Phuoc"
+      },
+      "geometry": {
+        "coordinates": [
+          106.19256,
+          10.47711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tan Hoa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.71128,
+          10.31906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thu Muoi Mot"
+      },
+      "geometry": {
+        "coordinates": [
+          104.9465,
+          9.61144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sa Rai"
+      },
+      "geometry": {
+        "coordinates": [
+          105.46583,
+          10.87016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Ho"
+      },
+      "geometry": {
+        "coordinates": [
+          106.01229,
+          10.19281
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duyen Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.49237,
+          9.63497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chau Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.35701,
+          10.30122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinh Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.39841,
+          10.22263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nang Mau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.53448,
+          9.75129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nga Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          105.82096,
+          9.81371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nga Sau"
+      },
+      "geometry": {
+        "coordinates": [
+          105.80542,
+          9.92303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mot Ngan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.62964,
+          9.92402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cu Lao Dung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.14874,
+          9.67314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chau Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          105.90202,
+          9.7007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huynh Huu Nghia"
+      },
+      "geometry": {
+        "coordinates": [
+          105.81165,
+          9.63537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U Minh"
+      },
+      "geometry": {
+        "coordinates": [
+          104.97353,
+          9.41286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tran Van Thoi"
+      },
+      "geometry": {
+        "coordinates": [
+          104.97914,
+          9.07713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngoc Hien"
+      },
+      "geometry": {
+        "coordinates": [
+          105.06021,
+          8.65724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Hai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.74948,
+          10.79156
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Chin"
+      },
+      "geometry": {
+        "coordinates": [
+          106.77093,
+          10.8397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Bon"
+      },
+      "geometry": {
+        "coordinates": [
+          106.70574,
+          10.76684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Sau"
+      },
+      "geometry": {
+        "coordinates": [
+          106.64903,
+          10.7468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Nam"
+      },
+      "geometry": {
+        "coordinates": [
+          106.66745,
+          10.75567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Mot"
+      },
+      "geometry": {
+        "coordinates": [
+          106.69944,
+          10.78069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Phu Nhuan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.6763,
+          10.79475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Tan Phu"
+      },
+      "geometry": {
+        "coordinates": [
+          106.63704,
+          10.78379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Muoi Mot"
+      },
+      "geometry": {
+        "coordinates": [
+          106.64355,
+          10.76383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Muoi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.66632,
+          10.76823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Ba"
+      },
+      "geometry": {
+        "coordinates": [
+          106.68628,
+          10.77494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quan Binh Thanh"
+      },
+      "geometry": {
+        "coordinates": [
+          106.69666,
+          10.80325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoang Sa"
+      },
+      "geometry": {
+        "coordinates": [
+          112.72541,
+          16.66657
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

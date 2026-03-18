@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marechal Thaumaturgo"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.79167,
+          -8.94111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarauaca"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.76556,
+          -8.16139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sena Madureira"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.67245,
+          -9.06341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Branco"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.81,
+          -9.97472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Walter"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.74389,
+          -8.26861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manoel Urbano"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.25972,
+          -8.83889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mancio Lima"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.89583,
+          -7.61417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feijo"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.35486,
+          -8.1654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruzeiro do Sul"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.67756,
+          -7.62759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xapuri"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.50444,
+          -10.65167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senador Guiomard"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.73741,
+          -10.1497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Placido de Castro"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.18556,
+          -10.33528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasileia"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.74806,
+          -11.01611
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

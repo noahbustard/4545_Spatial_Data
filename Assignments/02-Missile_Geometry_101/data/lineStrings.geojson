@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "Tokyo",
+        "to-city": "Paris",
+        "stroke": "#ffff00"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            139.69171,
+            35.6895
+          ],
+          [
+            2.3488,
+            48.85341
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "Paris",
+        "to-city": "London",
+        "stroke": "#00ffff"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            2.3488,
+            48.85341
+          ],
+          [
+            -0.12574,
+            51.50853
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "London",
+        "to-city": "London",
+        "stroke": "#00ff00"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -0.12574,
+            51.50853
+          ],
+          [
+            -0.12574,
+            51.50853
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "London",
+        "to-city": "New York City",
+        "stroke": "#ff0000"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -0.12574,
+            51.50853
+          ],
+          [
+            -74.00597,
+            40.71427
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "New York City",
+        "to-city": "Tokyo",
+        "stroke": "#0000ff"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -74.00597,
+            40.71427
+          ],
+          [
+            139.69171,
+            35.6895
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

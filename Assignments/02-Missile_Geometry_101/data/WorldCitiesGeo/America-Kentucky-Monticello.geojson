@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monticello"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.84911,
+          36.82979
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

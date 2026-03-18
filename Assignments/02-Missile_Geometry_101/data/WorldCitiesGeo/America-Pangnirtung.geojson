@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pangnirtung"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.69996,
+          66.14642
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

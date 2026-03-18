@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fale old settlement"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.24675,
+          -9.38516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nukunonu"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.84804,
+          -9.20045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atafu Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -172.51591,
+          -8.54212
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

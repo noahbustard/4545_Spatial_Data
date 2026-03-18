@@ -1,0 +1,1786 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wormeldange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.40546,
+          49.61114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winseler"
+      },
+      "geometry": {
+        "coordinates": [
+          5.89028,
+          49.96778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wincrange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.91917,
+          50.05333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilwerwiltz"
+      },
+      "geometry": {
+        "coordinates": [
+          5.99917,
+          49.98889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiltz"
+      },
+      "geometry": {
+        "coordinates": [
+          5.93194,
+          49.96889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weiswampach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.075,
+          50.13722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weiler-la-Tour"
+      },
+      "geometry": {
+        "coordinates": [
+          6.20083,
+          49.54083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserbillig"
+      },
+      "geometry": {
+        "coordinates": [
+          6.49861,
+          49.71534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warken"
+      },
+      "geometry": {
+        "coordinates": [
+          6.095,
+          49.85444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walferdange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.13722,
+          49.65833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldbredimus"
+      },
+      "geometry": {
+        "coordinates": [
+          6.2875,
+          49.555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldbillig"
+      },
+      "geometry": {
+        "coordinates": [
+          6.28667,
+          49.78889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahl"
+      },
+      "geometry": {
+        "coordinates": [
+          5.90639,
+          49.83667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vichten"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0,
+          49.80306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vianden"
+      },
+      "geometry": {
+        "coordinates": [
+          6.20889,
+          49.935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Useldange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98222,
+          49.76972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuntange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.01028,
+          49.71778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troisvierges"
+      },
+      "geometry": {
+        "coordinates": [
+          6.00028,
+          50.12111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tetange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.04222,
+          49.47583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tandel"
+      },
+      "geometry": {
+        "coordinates": [
+          6.18333,
+          49.8975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strassen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.07333,
+          49.62056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinsel"
+      },
+      "geometry": {
+        "coordinates": [
+          6.12389,
+          49.67694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinfort"
+      },
+      "geometry": {
+        "coordinates": [
+          5.91917,
+          49.66139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtbredimus"
+      },
+      "geometry": {
+        "coordinates": [
+          6.36444,
+          49.56278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soleuvre"
+      },
+      "geometry": {
+        "coordinates": [
+          5.94056,
+          49.52556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Septfontaines"
+      },
+      "geometry": {
+        "coordinates": [
+          5.96722,
+          49.70111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schuttrange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.26861,
+          49.62056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schrassig"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25889,
+          49.60583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schouweiler"
+      },
+      "geometry": {
+        "coordinates": [
+          5.95639,
+          49.5825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schifflange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.01278,
+          49.50639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schieren"
+      },
+      "geometry": {
+        "coordinates": [
+          6.09861,
+          49.83056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schengen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.362,
+          49.47
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanem"
+      },
+      "geometry": {
+        "coordinates": [
+          5.92889,
+          49.54806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandweiler"
+      },
+      "geometry": {
+        "coordinates": [
+          6.21889,
+          49.61333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saeul"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98639,
+          49.72722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumelange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.03306,
+          49.46083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosport"
+      },
+      "geometry": {
+        "coordinates": [
+          6.50417,
+          49.79778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rollingen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.11444,
+          49.74167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roeser"
+      },
+      "geometry": {
+        "coordinates": [
+          6.15,
+          49.54222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.84083,
+          49.54639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remich"
+      },
+      "geometry": {
+        "coordinates": [
+          6.36694,
+          49.545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reisdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.26778,
+          49.86861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redange-sur-Attert"
+      },
+      "geometry": {
+        "coordinates": [
+          5.89083,
+          49.76556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reckange-sur-Mess"
+      },
+      "geometry": {
+        "coordinates": [
+          6.00889,
+          49.5625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rambrouch"
+      },
+      "geometry": {
+        "coordinates": [
+          5.845,
+          49.83083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putscheid"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14306,
+          49.96083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontpierre"
+      },
+      "geometry": {
+        "coordinates": [
+          6.02944,
+          49.53639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.88056,
+          49.55833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olm"
+      },
+      "geometry": {
+        "coordinates": [
+          6.00028,
+          49.65722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obercorn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.89611,
+          49.51361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nommern"
+      },
+      "geometry": {
+        "coordinates": [
+          6.17472,
+          49.78694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niedercorn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.89306,
+          49.53611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederanven"
+      },
+      "geometry": {
+        "coordinates": [
+          6.26,
+          49.6475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muellendorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.13,
+          49.68028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moutfort"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25556,
+          49.58528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mondorf-les-Bains"
+      },
+      "geometry": {
+        "coordinates": [
+          6.28111,
+          49.505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mondercange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98833,
+          49.53306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mompach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.465,
+          49.74611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mertzig"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0075,
+          49.83389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mertert"
+      },
+      "geometry": {
+        "coordinates": [
+          6.48139,
+          49.69611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mersch"
+      },
+      "geometry": {
+        "coordinates": [
+          6.10611,
+          49.74889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medernach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.21521,
+          49.80955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manternach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.42639,
+          49.70278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamer"
+      },
+      "geometry": {
+        "coordinates": [
+          6.02333,
+          49.6275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luxembourg"
+      },
+      "geometry": {
+        "coordinates": [
+          6.13,
+          49.61167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lorentzweiler"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1425,
+          49.69472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lintgen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.13361,
+          49.71583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leudelange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.06528,
+          49.56833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenningen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.36806,
+          49.59861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larochette"
+      },
+      "geometry": {
+        "coordinates": [
+          6.22111,
+          49.77694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamadelaine"
+      },
+      "geometry": {
+        "coordinates": [
+          5.85639,
+          49.54639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopstal"
+      },
+      "geometry": {
+        "coordinates": [
+          6.07306,
+          49.66444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koerich"
+      },
+      "geometry": {
+        "coordinates": [
+          5.95,
+          49.67
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirchberg"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14944,
+          49.62389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kehlen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.03583,
+          49.66833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayl"
+      },
+      "geometry": {
+        "coordinates": [
+          6.03972,
+          49.48917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junglinster"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25306,
+          49.70722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itzig"
+      },
+      "geometry": {
+        "coordinates": [
+          6.17361,
+          49.58417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hosingen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.09333,
+          50.01778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hobscheid"
+      },
+      "geometry": {
+        "coordinates": [
+          5.91472,
+          49.68861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hesperange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.15139,
+          49.56806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helmsange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14139,
+          49.65278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heisdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14222,
+          49.66861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heffingen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.24139,
+          49.7625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hautcharage"
+      },
+      "geometry": {
+        "coordinates": [
+          5.91083,
+          49.5775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grosbous"
+      },
+      "geometry": {
+        "coordinates": [
+          5.96722,
+          49.82778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grevenmacher"
+      },
+      "geometry": {
+        "coordinates": [
+          6.44194,
+          49.67472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gonderange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.24833,
+          49.68889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G\u0153sdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          5.96833,
+          49.92167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garnich"
+      },
+      "geometry": {
+        "coordinates": [
+          5.9525,
+          49.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frisange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.19167,
+          49.515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flaxweiler"
+      },
+      "geometry": {
+        "coordinates": [
+          6.34361,
+          49.66167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischbach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.18722,
+          49.73972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederfeulen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.04722,
+          49.85556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fentange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.15389,
+          49.56278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ettelbruck"
+      },
+      "geometry": {
+        "coordinates": [
+          6.10417,
+          49.8475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esch-sur-Sure"
+      },
+      "geometry": {
+        "coordinates": [
+          5.93639,
+          49.91139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esch-sur-Alzette"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98056,
+          49.49583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erpeldange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.11472,
+          49.86472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ell"
+      },
+      "geometry": {
+        "coordinates": [
+          5.85722,
+          49.76389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eischen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.87861,
+          49.68556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echternach"
+      },
+      "geometry": {
+        "coordinates": [
+          6.42222,
+          49.80556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudelange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0875,
+          49.48056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dippach"
+      },
+      "geometry": {
+        "coordinates": [
+          5.98333,
+          49.58833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Differdange"
+      },
+      "geometry": {
+        "coordinates": [
+          5.89139,
+          49.52417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diekirch"
+      },
+      "geometry": {
+        "coordinates": [
+          6.15583,
+          49.86778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalheim"
+      },
+      "geometry": {
+        "coordinates": [
+          6.25972,
+          49.54083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crauthem"
+      },
+      "geometry": {
+        "coordinates": [
+          6.14694,
+          49.53556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Contern"
+      },
+      "geometry": {
+        "coordinates": [
+          6.22667,
+          49.58194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Consdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.33833,
+          49.77306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colmar"
+      },
+      "geometry": {
+        "coordinates": [
+          6.09722,
+          49.81028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clervaux"
+      },
+      "geometry": {
+        "coordinates": [
+          6.03139,
+          50.05472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clemency"
+      },
+      "geometry": {
+        "coordinates": [
+          5.87583,
+          49.59667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capellen"
+      },
+      "geometry": {
+        "coordinates": [
+          5.99083,
+          49.645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridel"
+      },
+      "geometry": {
+        "coordinates": [
+          6.08222,
+          49.65833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bous"
+      },
+      "geometry": {
+        "coordinates": [
+          6.32917,
+          49.55389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bourscheid"
+      },
+      "geometry": {
+        "coordinates": [
+          6.06722,
+          49.91
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulaide"
+      },
+      "geometry": {
+        "coordinates": [
+          5.81639,
+          49.88778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boevange-sur-Attert"
+      },
+      "geometry": {
+        "coordinates": [
+          6.01556,
+          49.77528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biwer"
+      },
+      "geometry": {
+        "coordinates": [
+          6.37472,
+          49.70278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bissen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.06944,
+          49.7875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betzdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.35,
+          49.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettendorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.21806,
+          49.87667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettembourg"
+      },
+      "geometry": {
+        "coordinates": [
+          6.10278,
+          49.51861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettborn"
+      },
+      "geometry": {
+        "coordinates": [
+          5.94111,
+          49.79528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bertrange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.05,
+          49.61111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergem"
+      },
+      "geometry": {
+        "coordinates": [
+          6.04222,
+          49.525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bereldange"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1275,
+          49.65694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berdorf"
+      },
+      "geometry": {
+        "coordinates": [
+          6.35028,
+          49.81361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belvaux"
+      },
+      "geometry": {
+        "coordinates": [
+          5.92944,
+          49.51278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beckerich"
+      },
+      "geometry": {
+        "coordinates": [
+          5.88722,
+          49.73056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bech"
+      },
+      "geometry": {
+        "coordinates": [
+          6.36361,
+          49.74611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaufort"
+      },
+      "geometry": {
+        "coordinates": [
+          6.29167,
+          49.83583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bavigne"
+      },
+      "geometry": {
+        "coordinates": [
+          5.84944,
+          49.92194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bascharage"
+      },
+      "geometry": {
+        "coordinates": [
+          5.9073,
+          49.56727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspelt"
+      },
+      "geometry": {
+        "coordinates": [
+          6.22472,
+          49.52278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alzingen"
+      },
+      "geometry": {
+        "coordinates": [
+          6.16361,
+          49.565
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

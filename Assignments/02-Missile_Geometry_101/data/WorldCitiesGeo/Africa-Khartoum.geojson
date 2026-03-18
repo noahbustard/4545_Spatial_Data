@@ -1,0 +1,928 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongola"
+      },
+      "geometry": {
+        "coordinates": [
+          30.47689,
+          19.18163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zalingei"
+      },
+      "geometry": {
+        "coordinates": [
+          23.47058,
+          12.90918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagar"
+      },
+      "geometry": {
+        "coordinates": [
+          36.2032,
+          16.1525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wad Rawah"
+      },
+      "geometry": {
+        "coordinates": [
+          33.13972,
+          15.16028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wad Medani"
+      },
+      "geometry": {
+        "coordinates": [
+          33.51989,
+          14.40118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wad az Zaki"
+      },
+      "geometry": {
+        "coordinates": [
+          32.2065,
+          14.4619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Ruwaba"
+      },
+      "geometry": {
+        "coordinates": [
+          31.2158,
+          12.9061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Kaddadah"
+      },
+      "geometry": {
+        "coordinates": [
+          26.68759,
+          13.60169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Um Jar Al Gharbiyya"
+      },
+      "geometry": {
+        "coordinates": [
+          32.4078,
+          13.8013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omdurman"
+      },
+      "geometry": {
+        "coordinates": [
+          32.47773,
+          15.64453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokar"
+      },
+      "geometry": {
+        "coordinates": [
+          37.729,
+          18.4254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tandalti"
+      },
+      "geometry": {
+        "coordinates": [
+          31.86667,
+          13.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talodi"
+      },
+      "geometry": {
+        "coordinates": [
+          30.3797,
+          10.63246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singa"
+      },
+      "geometry": {
+        "coordinates": [
+          33.93117,
+          13.1483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shendi"
+      },
+      "geometry": {
+        "coordinates": [
+          33.4341,
+          16.6915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sawakin"
+      },
+      "geometry": {
+        "coordinates": [
+          37.3321,
+          19.1059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinnar"
+      },
+      "geometry": {
+        "coordinates": [
+          33.56718,
+          13.56907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabak"
+      },
+      "geometry": {
+        "coordinates": [
+          32.73999,
+          13.18087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyala"
+      },
+      "geometry": {
+        "coordinates": [
+          24.88069,
+          12.04888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merowe"
+      },
+      "geometry": {
+        "coordinates": [
+          31.81126,
+          18.47036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marabba"
+      },
+      "geometry": {
+        "coordinates": [
+          32.18333,
+          12.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maiurno"
+      },
+      "geometry": {
+        "coordinates": [
+          33.66667,
+          13.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kutum"
+      },
+      "geometry": {
+        "coordinates": [
+          24.66667,
+          14.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosti"
+      },
+      "geometry": {
+        "coordinates": [
+          32.66347,
+          13.1629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurmuk"
+      },
+      "geometry": {
+        "coordinates": [
+          34.28333,
+          10.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuraymah"
+      },
+      "geometry": {
+        "coordinates": [
+          31.85,
+          18.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinana"
+      },
+      "geometry": {
+        "coordinates": [
+          33.1712,
+          14.0361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kassala"
+      },
+      "geometry": {
+        "coordinates": [
+          36.39998,
+          15.45099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmah an Nuzul"
+      },
+      "geometry": {
+        "coordinates": [
+          30.41667,
+          19.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadugli"
+      },
+      "geometry": {
+        "coordinates": [
+          29.71833,
+          11.01111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gebeit"
+      },
+      "geometry": {
+        "coordinates": [
+          36.31667,
+          21.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalqani"
+      },
+      "geometry": {
+        "coordinates": [
+          34.2186,
+          12.4486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doka"
+      },
+      "geometry": {
+        "coordinates": [
+          35.76667,
+          13.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dilling"
+      },
+      "geometry": {
+        "coordinates": [
+          29.65,
+          12.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Sudan"
+      },
+      "geometry": {
+        "coordinates": [
+          37.21644,
+          19.61745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berber"
+      },
+      "geometry": {
+        "coordinates": [
+          33.98299,
+          18.02158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barah"
+      },
+      "geometry": {
+        "coordinates": [
+          30.36667,
+          13.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atbara"
+      },
+      "geometry": {
+        "coordinates": [
+          33.98638,
+          17.70217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As Suki"
+      },
+      "geometry": {
+        "coordinates": [
+          33.88333,
+          13.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Ruseris"
+      },
+      "geometry": {
+        "coordinates": [
+          34.3869,
+          11.8659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rahad"
+      },
+      "geometry": {
+        "coordinates": [
+          30.65,
+          12.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aroma"
+      },
+      "geometry": {
+        "coordinates": [
+          36.13333,
+          15.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argo"
+      },
+      "geometry": {
+        "coordinates": [
+          30.41667,
+          19.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Nuhud"
+      },
+      "geometry": {
+        "coordinates": [
+          28.43333,
+          12.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Obeid"
+      },
+      "geometry": {
+        "coordinates": [
+          30.21669,
+          13.18421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qitena"
+      },
+      "geometry": {
+        "coordinates": [
+          32.3668,
+          14.8648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qadarif"
+      },
+      "geometry": {
+        "coordinates": [
+          35.38344,
+          14.03493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Masallamiyya"
+      },
+      "geometry": {
+        "coordinates": [
+          33.3373,
+          14.5748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mijlad"
+      },
+      "geometry": {
+        "coordinates": [
+          27.73333,
+          11.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Matama"
+      },
+      "geometry": {
+        "coordinates": [
+          33.3565,
+          16.7095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Manaqil"
+      },
+      "geometry": {
+        "coordinates": [
+          32.9891,
+          14.2459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Lagowa"
+      },
+      "geometry": {
+        "coordinates": [
+          29.13333,
+          11.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khartoum"
+      },
+      "geometry": {
+        "coordinates": [
+          32.53241,
+          15.55177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Kiremit al `Arakiyyin"
+      },
+      "geometry": {
+        "coordinates": [
+          32.9437,
+          14.3476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Kawa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.4996,
+          13.7463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geneina"
+      },
+      "geometry": {
+        "coordinates": [
+          22.44725,
+          13.45262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hilaliyya"
+      },
+      "geometry": {
+        "coordinates": [
+          33.234,
+          14.9398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hawatah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.63333,
+          13.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hasaheisa"
+      },
+      "geometry": {
+        "coordinates": [
+          33.29836,
+          14.75264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fulah"
+      },
+      "geometry": {
+        "coordinates": [
+          28.35786,
+          11.73292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Fasher"
+      },
+      "geometry": {
+        "coordinates": [
+          25.34936,
+          13.62793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Bauga"
+      },
+      "geometry": {
+        "coordinates": [
+          33.90812,
+          18.26197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad Douiem"
+      },
+      "geometry": {
+        "coordinates": [
+          32.3116,
+          14.0012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Daein"
+      },
+      "geometry": {
+        "coordinates": [
+          26.12583,
+          11.46186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad Dindar"
+      },
+      "geometry": {
+        "coordinates": [
+          34.16667,
+          13.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ed Damer"
+      },
+      "geometry": {
+        "coordinates": [
+          33.97205,
+          17.59898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad-Damazin"
+      },
+      "geometry": {
+        "coordinates": [
+          34.3592,
+          11.7891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad Dabbah"
+      },
+      "geometry": {
+        "coordinates": [
+          30.95,
+          18.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Zabad"
+      },
+      "geometry": {
+        "coordinates": [
+          29.25,
+          12.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Jibeha"
+      },
+      "geometry": {
+        "coordinates": [
+          31.2285,
+          11.4562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Fula"
+      },
+      "geometry": {
+        "coordinates": [
+          28.3462,
+          11.71195
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

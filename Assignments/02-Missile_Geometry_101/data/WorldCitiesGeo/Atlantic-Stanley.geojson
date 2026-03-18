@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanley"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.85,
+          -51.7
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

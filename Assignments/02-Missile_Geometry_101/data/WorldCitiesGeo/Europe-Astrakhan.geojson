@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zenzeli"
+      },
+      "geometry": {
+        "coordinates": [
+          47.04739,
+          45.92407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yenotayevka"
+      },
+      "geometry": {
+        "coordinates": [
+          47.02814,
+          47.24559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yandyki"
+      },
+      "geometry": {
+        "coordinates": [
+          47.12577,
+          45.76913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaksatovo"
+      },
+      "geometry": {
+        "coordinates": [
+          48.01514,
+          46.24343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volodarskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          48.54093,
+          46.40134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volgo-Kaspiyskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.91869,
+          46.20306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verkhniy Baskunchak"
+      },
+      "geometry": {
+        "coordinates": [
+          46.72169,
+          48.22564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uvary"
+      },
+      "geometry": {
+        "coordinates": [
+          48.03558,
+          46.04575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumak"
+      },
+      "geometry": {
+        "coordinates": [
+          48.50627,
+          46.23436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trudfront"
+      },
+      "geometry": {
+        "coordinates": [
+          47.66929,
+          45.9346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambovka"
+      },
+      "geometry": {
+        "coordinates": [
+          47.37773,
+          47.31528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starokucherganovka"
+      },
+      "geometry": {
+        "coordinates": [
+          47.9555,
+          46.32476
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solyanka"
+      },
+      "geometry": {
+        "coordinates": [
+          48.01755,
+          46.3889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sizyy Bugor"
+      },
+      "geometry": {
+        "coordinates": [
+          48.50462,
+          46.21343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sasykoli"
+      },
+      "geometry": {
+        "coordinates": [
+          46.99679,
+          47.55153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poldnevoye"
+      },
+      "geometry": {
+        "coordinates": [
+          47.95241,
+          45.85568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranzherei"
+      },
+      "geometry": {
+        "coordinates": [
+          47.56635,
+          45.84756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhniy Baskunchak"
+      },
+      "geometry": {
+        "coordinates": [
+          46.83105,
+          48.21978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narimanov"
+      },
+      "geometry": {
+        "coordinates": [
+          47.8498,
+          46.6927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nachalovo"
+      },
+      "geometry": {
+        "coordinates": [
+          48.20128,
+          46.338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marfino"
+      },
+      "geometry": {
+        "coordinates": [
+          48.71398,
+          46.40852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liman"
+      },
+      "geometry": {
+        "coordinates": [
+          47.22405,
+          45.78457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnyy Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          48.34559,
+          46.53314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnyye Barrikady"
+      },
+      "geometry": {
+        "coordinates": [
+          47.8535,
+          46.2045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirovskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          48.12472,
+          45.84639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharabali"
+      },
+      "geometry": {
+        "coordinates": [
+          47.25678,
+          47.41958
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapustin Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          45.74481,
+          48.58175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamyzyak"
+      },
+      "geometry": {
+        "coordinates": [
+          48.07364,
+          46.10995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ikryanoye"
+      },
+      "geometry": {
+        "coordinates": [
+          47.73078,
+          46.09323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chyorny Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          46.10911,
+          48.06242
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astrakhan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.04076,
+          46.34968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aksarayskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          48.01188,
+          46.79244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akhtubinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          46.17217,
+          48.27955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Znamensk"
+      },
+      "geometry": {
+        "coordinates": [
+          45.7338,
+          48.5842
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

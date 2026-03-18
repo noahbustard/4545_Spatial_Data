@@ -1,0 +1,1006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aberdeen"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.83833,
+          42.94408
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.85444,
+          42.78602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ammon"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.96664,
+          43.46964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arco"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.30028,
+          43.63657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashton"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.44829,
+          44.07158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellevue"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.2606,
+          43.46352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackfoot"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.34498,
+          43.19047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boise"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.20345,
+          43.6135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buhl"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.75949,
+          42.59907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burley"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.79279,
+          42.53574
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caldwell"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.68736,
+          43.66294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.0418,
+          44.51628
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Challis"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.23173,
+          44.50464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chubbuck"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.46609,
+          42.92075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.4382,
+          44.72989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Driggs"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.11133,
+          43.72325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubois"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.23082,
+          44.1763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.35401,
+          43.69544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmett"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.4993,
+          43.8735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.79173,
+          43.34657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Filer"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.60782,
+          42.57019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.43831,
+          43.03325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruitland"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.91655,
+          44.00766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden City"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.23817,
+          43.62211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenns Ferry"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.3009,
+          42.9549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gooding"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.71311,
+          42.93879
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hailey"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.31532,
+          43.51963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hansen"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.30101,
+          42.53068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heyburn"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.7639,
+          42.55852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homedale"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.93376,
+          43.61766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho City"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.83455,
+          43.8285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.03414,
+          43.46658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iona"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.93302,
+          43.5263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerome"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.51865,
+          42.72407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ketchum"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.36366,
+          43.68074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimberly"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.36476,
+          42.5338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuna"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.42012,
+          43.49183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.96441,
+          43.51297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malad City"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.2508,
+          42.19159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsing"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.8132,
+          43.54544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCall"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.09874,
+          44.91101
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meridian"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.39151,
+          43.61211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middleton"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.62014,
+          43.70683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montpelier"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.2977,
+          42.32215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moreland"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.44248,
+          43.22269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountain Home"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.6912,
+          43.13295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murphy"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.55234,
+          43.21822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nampa"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.56346,
+          43.54072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Plymouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.81904,
+          43.96989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.40104,
+          42.22715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parma"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.94321,
+          43.78516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.78335,
+          42.60796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Payette"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.93377,
+          44.07822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocatello"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.44553,
+          42.8713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preston"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.87662,
+          42.09631
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rexburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.78969,
+          43.82602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rigby"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.91497,
+          43.67241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rupert"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.67723,
+          42.61908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Anthony"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.68218,
+          43.9663
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmon"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.8959,
+          45.17575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelley"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.12331,
+          43.3813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shoshone"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.40588,
+          42.93602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soda Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.60467,
+          42.65437
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Star"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.49346,
+          43.69211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar City"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.7483,
+          43.87297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.35172,
+          43.69713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.46087,
+          42.56297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyhee"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.46637,
+          42.95158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ucon"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.96386,
+          43.5963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victor"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.11133,
+          43.6027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weiser"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.96933,
+          44.251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendell"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.70422,
+          42.77574
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilder"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.91182,
+          43.67655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyssa"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.99488,
+          43.87683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ontario"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.96294,
+          44.02655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vale"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.23823,
+          43.98211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Spring"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.25093,
+          43.72216
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

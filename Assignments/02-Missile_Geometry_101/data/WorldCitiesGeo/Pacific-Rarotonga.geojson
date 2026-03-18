@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avarua"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.775,
+          -21.20778
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

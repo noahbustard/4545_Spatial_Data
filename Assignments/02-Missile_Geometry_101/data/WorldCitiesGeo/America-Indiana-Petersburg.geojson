@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petersburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.27862,
+          38.49199
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1799 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahar"
+      },
+      "geometry": {
+        "coordinates": [
+          35.78656,
+          32.56558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarqa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.69638,
+          31.97583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waqqas"
+      },
+      "geometry": {
+        "coordinates": [
+          35.60496,
+          32.54179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petra"
+      },
+      "geometry": {
+        "coordinates": [
+          35.47895,
+          30.32096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi as Sir"
+      },
+      "geometry": {
+        "coordinates": [
+          35.81831,
+          31.9545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Qays"
+      },
+      "geometry": {
+        "coordinates": [
+          35.68414,
+          32.6532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm as Summaq"
+      },
+      "geometry": {
+        "coordinates": [
+          35.8543,
+          31.88542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm ar Rasas"
+      },
+      "geometry": {
+        "coordinates": [
+          35.91837,
+          31.51225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm al Qittayn"
+      },
+      "geometry": {
+        "coordinates": [
+          36.62826,
+          32.31449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm al Jimal"
+      },
+      "geometry": {
+        "coordinates": [
+          36.36788,
+          32.32863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm al Basatin"
+      },
+      "geometry": {
+        "coordinates": [
+          35.8759,
+          31.82475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adhruh"
+      },
+      "geometry": {
+        "coordinates": [
+          35.59659,
+          30.3307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tibnah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7303,
+          32.47548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suf"
+      },
+      "geometry": {
+        "coordinates": [
+          35.83713,
+          32.31372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shunah al Janubiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.6178,
+          31.8915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samma ar Rawsan"
+      },
+      "geometry": {
+        "coordinates": [
+          35.82709,
+          32.63669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samma"
+      },
+      "geometry": {
+        "coordinates": [
+          35.68798,
+          32.57192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sama as Sirhan"
+      },
+      "geometry": {
+        "coordinates": [
+          36.24363,
+          32.46859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sal"
+      },
+      "geometry": {
+        "coordinates": [
+          35.91292,
+          32.56994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakib"
+      },
+      "geometry": {
+        "coordinates": [
+          35.80946,
+          32.2833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakhrah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.84327,
+          32.37055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saham al Kaffarat"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7762,
+          32.69763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahab"
+      },
+      "geometry": {
+        "coordinates": [
+          36.00479,
+          31.87032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabha"
+      },
+      "geometry": {
+        "coordinates": [
+          36.50159,
+          32.32696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rujm ash Shami al Gharbi"
+      },
+      "geometry": {
+        "coordinates": [
+          36.00492,
+          31.83693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rehab"
+      },
+      "geometry": {
+        "coordinates": [
+          36.09087,
+          32.32341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raymun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.82532,
+          32.28339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qumaym"
+      },
+      "geometry": {
+        "coordinates": [
+          35.73467,
+          32.57108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qafqafa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.93824,
+          32.34881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Na`ur"
+      },
+      "geometry": {
+        "coordinates": [
+          35.82467,
+          31.87436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulayh"
+      },
+      "geometry": {
+        "coordinates": [
+          35.80716,
+          31.58517
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mughayyir"
+      },
+      "geometry": {
+        "coordinates": [
+          35.77083,
+          31.40634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malka"
+      },
+      "geometry": {
+        "coordinates": [
+          35.74923,
+          32.67496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma`in"
+      },
+      "geometry": {
+        "coordinates": [
+          35.732,
+          31.68002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma'daba"
+      },
+      "geometry": {
+        "coordinates": [
+          35.79392,
+          31.71599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma'an"
+      },
+      "geometry": {
+        "coordinates": [
+          35.73405,
+          30.19624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurayyimah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.59938,
+          32.27639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kufrinjah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.70212,
+          32.29755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Faysaliyah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.76922,
+          31.74909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kitim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.89597,
+          32.43962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birayn"
+      },
+      "geometry": {
+        "coordinates": [
+          35.95783,
+          32.09943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Murayghah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.52314,
+          30.09526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharja"
+      },
+      "geometry": {
+        "coordinates": [
+          35.88725,
+          32.6592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Sawm"
+      },
+      "geometry": {
+        "coordinates": [
+          35.80285,
+          32.67995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Asad"
+      },
+      "geometry": {
+        "coordinates": [
+          35.71368,
+          32.59341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Abil"
+      },
+      "geometry": {
+        "coordinates": [
+          35.66276,
+          32.41736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juraynah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.79466,
+          31.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judita"
+      },
+      "geometry": {
+        "coordinates": [
+          35.70802,
+          32.40792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jawa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.93928,
+          31.85247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jarash"
+      },
+      "geometry": {
+        "coordinates": [
+          35.89929,
+          32.28082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Izra"
+      },
+      "geometry": {
+        "coordinates": [
+          35.69278,
+          31.15889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Irjan"
+      },
+      "geometry": {
+        "coordinates": [
+          35.73277,
+          32.39512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irbid"
+      },
+      "geometry": {
+        "coordinates": [
+          35.85,
+          32.55556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hisban"
+      },
+      "geometry": {
+        "coordinates": [
+          35.80986,
+          31.79819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawsha"
+      },
+      "geometry": {
+        "coordinates": [
+          36.09903,
+          32.45144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.77812,
+          32.645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halawah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.66147,
+          32.38464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakama"
+      },
+      "geometry": {
+        "coordinates": [
+          35.88292,
+          32.59345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuqu`"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7022,
+          31.36805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhiban"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7839,
+          31.49856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayr Yusuf"
+      },
+      "geometry": {
+        "coordinates": [
+          35.79505,
+          32.48934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayr `Alla"
+      },
+      "geometry": {
+        "coordinates": [
+          35.62161,
+          32.19571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayr Abi Sa`id"
+      },
+      "geometry": {
+        "coordinates": [
+          35.68521,
+          32.49812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busayra"
+      },
+      "geometry": {
+        "coordinates": [
+          35.60983,
+          30.7318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burma"
+      },
+      "geometry": {
+        "coordinates": [
+          35.78507,
+          32.2193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayt Yafa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.78482,
+          32.52237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayt Idis"
+      },
+      "geometry": {
+        "coordinates": [
+          35.69765,
+          32.43775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balila"
+      },
+      "geometry": {
+        "coordinates": [
+          35.9403,
+          32.39325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bal`ama"
+      },
+      "geometry": {
+        "coordinates": [
+          36.08811,
+          32.23649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarqa"
+      },
+      "geometry": {
+        "coordinates": [
+          36.08796,
+          32.07275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muthallath al Azraq"
+      },
+      "geometry": {
+        "coordinates": [
+          36.81487,
+          31.83269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Azraq ash Shamali"
+      },
+      "geometry": {
+        "coordinates": [
+          36.83017,
+          31.88209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Ayy"
+      },
+      "geometry": {
+        "coordinates": [
+          35.64375,
+          31.13371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Ayn Jannah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7637,
+          32.33466
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Ayn al Basha"
+      },
+      "geometry": {
+        "coordinates": [
+          35.83109,
+          32.05726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayl"
+      },
+      "geometry": {
+        "coordinates": [
+          35.53627,
+          30.20588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aydun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.85444,
+          32.51031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Turrah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.99004,
+          32.6368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Tayyibah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7186,
+          32.54388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Tayyibah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.60168,
+          31.05672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Tayyibah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.4657,
+          30.25125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Tafilah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.60442,
+          30.83752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As Subayhi"
+      },
+      "geometry": {
+        "coordinates": [
+          35.70535,
+          32.14844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As Salt"
+      },
+      "geometry": {
+        "coordinates": [
+          35.72722,
+          32.03917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safi"
+      },
+      "geometry": {
+        "coordinates": [
+          35.46544,
+          31.03608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shunah ash Shamaliyah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.61451,
+          32.62023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shawbak"
+      },
+      "geometry": {
+        "coordinates": [
+          35.57135,
+          30.52134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shajarah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.94206,
+          32.64299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Ruwayshid"
+      },
+      "geometry": {
+        "coordinates": [
+          38.20405,
+          32.50152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rusayfah"
+      },
+      "geometry": {
+        "coordinates": [
+          36.03271,
+          32.01727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Ramtha"
+      },
+      "geometry": {
+        "coordinates": [
+          36.00816,
+          32.55873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rabbah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.73829,
+          31.26923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Anjarah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.75653,
+          32.3063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amman"
+      },
+      "geometry": {
+        "coordinates": [
+          35.94503,
+          31.95522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hayy al Quwaysimah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.94975,
+          31.91037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Quwayrah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.3116,
+          29.80045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qatranah"
+      },
+      "geometry": {
+        "coordinates": [
+          36.04932,
+          31.25083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qasr"
+      },
+      "geometry": {
+        "coordinates": [
+          35.74393,
+          31.31407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghawr al Mazra`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.51674,
+          31.26586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mazar ash Shamali"
+      },
+      "geometry": {
+        "coordinates": [
+          35.7987,
+          32.47228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mazar al Janubi"
+      },
+      "geometry": {
+        "coordinates": [
+          35.69486,
+          31.06722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mastabah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.85588,
+          32.18434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manshiyat Bani Hasan"
+      },
+      "geometry": {
+        "coordinates": [
+          36.07933,
+          32.37066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mafraq"
+      },
+      "geometry": {
+        "coordinates": [
+          36.20804,
+          32.34289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Allan"
+      },
+      "geometry": {
+        "coordinates": [
+          35.74351,
+          32.11815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Kittah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.84114,
+          32.27685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Karamah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.58033,
+          31.95439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qir Moav"
+      },
+      "geometry": {
+        "coordinates": [
+          35.69999,
+          31.18248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Juwayyidah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.93212,
+          31.88732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jubayhah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.89802,
+          32.01071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jizah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.9553,
+          31.69893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jafr"
+      },
+      "geometry": {
+        "coordinates": [
+          36.17775,
+          30.3184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Husayniyah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.72294,
+          31.02606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hisn"
+      },
+      "geometry": {
+        "coordinates": [
+          35.88466,
+          32.48268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hashimiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          36.1213,
+          32.12901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hasa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.97499,
+          30.82131
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hamra'"
+      },
+      "geometry": {
+        "coordinates": [
+          36.15265,
+          32.44017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fuhays"
+      },
+      "geometry": {
+        "coordinates": [
+          35.78088,
+          32.00468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hayy al Bunayyat"
+      },
+      "geometry": {
+        "coordinates": [
+          35.88465,
+          31.89603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al `Arid"
+      },
+      "geometry": {
+        "coordinates": [
+          35.65736,
+          31.55839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqaba"
+      },
+      "geometry": {
+        "coordinates": [
+          35.00778,
+          29.52667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ajlun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.75279,
+          32.33326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adir"
+      },
+      "geometry": {
+        "coordinates": [
+          35.76155,
+          31.20217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Khalidiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          36.30326,
+          32.179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rishah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.21671,
+          30.22435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Muwaqqar"
+      },
+      "geometry": {
+        "coordinates": [
+          36.11036,
+          31.81665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karak City"
+      },
+      "geometry": {
+        "coordinates": [
+          35.76204,
+          31.16368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Husayniyah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.79701,
+          30.59545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ad Disah"
+      },
+      "geometry": {
+        "coordinates": [
+          35.51123,
+          29.65284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russeifa"
+      },
+      "geometry": {
+        "coordinates": [
+          36.04639,
+          32.01778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muthallath Sabha"
+      },
+      "geometry": {
+        "coordinates": [
+          36.4678,
+          32.26011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Khalidiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          36.30313,
+          32.17871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tala Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          34.97918,
+          29.40842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muthallath Jami`at Al al Bayt"
+      },
+      "geometry": {
+        "coordinates": [
+          36.23352,
+          32.34592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Zulayl"
+      },
+      "geometry": {
+        "coordinates": [
+          36.28008,
+          32.1208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al `Abdalli"
+      },
+      "geometry": {
+        "coordinates": [
+          35.90821,
+          31.96501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayr al Kahf"
+      },
+      "geometry": {
+        "coordinates": [
+          36.83949,
+          32.27535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rukban"
+      },
+      "geometry": {
+        "coordinates": [
+          38.70342,
+          33.31405
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

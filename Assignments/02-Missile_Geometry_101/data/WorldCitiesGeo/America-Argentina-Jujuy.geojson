@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuto"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.47194,
+          -23.64342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.9425,
+          -23.47735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumbaya"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.45741,
+          -23.85626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilcara"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.3509,
+          -23.57757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.66253,
+          -24.30921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Catalina"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.05219,
+          -21.94467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Salvador de Jujuy"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.29712,
+          -24.19457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.86614,
+          -24.23127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.33471,
+          -24.36753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rinconada"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.16779,
+          -22.44083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palpala"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.21163,
+          -24.25647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palma Sola"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.29872,
+          -23.96336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maimara"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.40797,
+          -23.62392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libertador General San Martin"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.78757,
+          -23.80644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Quiaca"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.59299,
+          -22.10236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Mendieta"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.96377,
+          -24.31187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingenio La Esperanza"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.83896,
+          -24.22554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humahuaca"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.35048,
+          -23.20544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fraile Pintado"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.79943,
+          -23.94079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Carmen"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.26177,
+          -24.38682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Aguilar"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.69213,
+          -23.22582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calilegua"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.77002,
+          -23.77368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caimancito"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.5937,
+          -23.74069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abra Pampa"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.69697,
+          -22.72049
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

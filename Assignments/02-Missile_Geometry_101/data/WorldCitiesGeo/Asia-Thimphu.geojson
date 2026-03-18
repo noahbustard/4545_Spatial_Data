@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wangdue Phodrang"
+      },
+      "geometry": {
+        "coordinates": [
+          89.89915,
+          27.48615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trongsa"
+      },
+      "geometry": {
+        "coordinates": [
+          90.50716,
+          27.5026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thimphu"
+      },
+      "geometry": {
+        "coordinates": [
+          89.64191,
+          27.46609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trashi Yangtse"
+      },
+      "geometry": {
+        "coordinates": [
+          91.498,
+          27.6116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trashigang"
+      },
+      "geometry": {
+        "coordinates": [
+          91.55424,
+          27.3331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daga"
+      },
+      "geometry": {
+        "coordinates": [
+          89.87688,
+          27.07529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shemgang"
+      },
+      "geometry": {
+        "coordinates": [
+          90.65793,
+          27.21689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarpang"
+      },
+      "geometry": {
+        "coordinates": [
+          90.26745,
+          26.86395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punakha"
+      },
+      "geometry": {
+        "coordinates": [
+          89.87743,
+          27.59137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phuntsholing"
+      },
+      "geometry": {
+        "coordinates": [
+          89.38837,
+          26.85164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paro"
+      },
+      "geometry": {
+        "coordinates": [
+          89.41334,
+          27.4305
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajo"
+      },
+      "geometry": {
+        "coordinates": [
+          89.88333,
+          27.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongar"
+      },
+      "geometry": {
+        "coordinates": [
+          91.23963,
+          27.27471
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lhuentse"
+      },
+      "geometry": {
+        "coordinates": [
+          91.18393,
+          27.66787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ha"
+      },
+      "geometry": {
+        "coordinates": [
+          89.28074,
+          27.38747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gasa"
+      },
+      "geometry": {
+        "coordinates": [
+          89.72689,
+          27.90372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daphu"
+      },
+      "geometry": {
+        "coordinates": [
+          89.38333,
+          26.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsirang"
+      },
+      "geometry": {
+        "coordinates": [
+          90.12291,
+          27.0219
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsimasham"
+      },
+      "geometry": {
+        "coordinates": [
+          89.53604,
+          27.0989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakar"
+      },
+      "geometry": {
+        "coordinates": [
+          90.7525,
+          27.54918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panbang"
+      },
+      "geometry": {
+        "coordinates": [
+          90.98333,
+          26.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samtse"
+      },
+      "geometry": {
+        "coordinates": [
+          89.09951,
+          26.89903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemagatshel"
+      },
+      "geometry": {
+        "coordinates": [
+          91.40305,
+          27.03795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samdrup Jongkhar"
+      },
+      "geometry": {
+        "coordinates": [
+          91.50519,
+          26.80069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lungtenzampa"
+      },
+      "geometry": {
+        "coordinates": [
+          89.64441,
+          27.46821
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

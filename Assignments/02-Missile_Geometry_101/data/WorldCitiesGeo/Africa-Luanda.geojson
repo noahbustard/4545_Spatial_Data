@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saurimo"
+      },
+      "geometry": {
+        "coordinates": [
+          20.39155,
+          -9.66078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucapa"
+      },
+      "geometry": {
+        "coordinates": [
+          20.74466,
+          -8.41915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumeje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.78333,
+          -11.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luau"
+      },
+      "geometry": {
+        "coordinates": [
+          22.22466,
+          -10.70727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leua"
+      },
+      "geometry": {
+        "coordinates": [
+          20.45,
+          -11.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cazaji"
+      },
+      "geometry": {
+        "coordinates": [
+          20.70148,
+          -11.06715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uige"
+      },
+      "geometry": {
+        "coordinates": [
+          15.06131,
+          -7.60874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soio"
+      },
+      "geometry": {
+        "coordinates": [
+          12.36894,
+          -6.1349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nzeto"
+      },
+      "geometry": {
+        "coordinates": [
+          12.8666,
+          -7.23116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N'dalatando"
+      },
+      "geometry": {
+        "coordinates": [
+          14.91162,
+          -9.29782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbanza Congo"
+      },
+      "geometry": {
+        "coordinates": [
+          14.2401,
+          -6.26703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malanje"
+      },
+      "geometry": {
+        "coordinates": [
+          16.34096,
+          -9.54015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luanda"
+      },
+      "geometry": {
+        "coordinates": [
+          13.23432,
+          -8.83682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caxito"
+      },
+      "geometry": {
+        "coordinates": [
+          13.66425,
+          -8.57848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camabatela"
+      },
+      "geometry": {
+        "coordinates": [
+          15.37495,
+          -8.18812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabinda"
+      },
+      "geometry": {
+        "coordinates": [
+          12.2,
+          -5.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uacu Cungo"
+      },
+      "geometry": {
+        "coordinates": [
+          15.11719,
+          -11.35669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumbe"
+      },
+      "geometry": {
+        "coordinates": [
+          13.84371,
+          -11.20605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quibala"
+      },
+      "geometry": {
+        "coordinates": [
+          14.97995,
+          -10.73366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ondjiva"
+      },
+      "geometry": {
+        "coordinates": [
+          15.73333,
+          -17.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namibe"
+      },
+      "geometry": {
+        "coordinates": [
+          12.15222,
+          -15.19611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menongue"
+      },
+      "geometry": {
+        "coordinates": [
+          17.69099,
+          -14.6585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luena"
+      },
+      "geometry": {
+        "coordinates": [
+          19.91667,
+          -11.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lubango"
+      },
+      "geometry": {
+        "coordinates": [
+          13.4925,
+          -14.91717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longonjo"
+      },
+      "geometry": {
+        "coordinates": [
+          15.25333,
+          -12.90667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobito"
+      },
+      "geometry": {
+        "coordinates": [
+          13.53601,
+          -12.3644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuito"
+      },
+      "geometry": {
+        "coordinates": [
+          16.93333,
+          -12.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huambo"
+      },
+      "geometry": {
+        "coordinates": [
+          15.73917,
+          -12.77611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chissamba"
+      },
+      "geometry": {
+        "coordinates": [
+          17.33333,
+          -12.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catumbela"
+      },
+      "geometry": {
+        "coordinates": [
+          13.54677,
+          -12.43002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catabola"
+      },
+      "geometry": {
+        "coordinates": [
+          17.28333,
+          -12.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camacupa"
+      },
+      "geometry": {
+        "coordinates": [
+          17.48333,
+          -12.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caluquembe"
+      },
+      "geometry": {
+        "coordinates": [
+          14.68333,
+          -13.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caconda"
+      },
+      "geometry": {
+        "coordinates": [
+          15.06667,
+          -13.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caala"
+      },
+      "geometry": {
+        "coordinates": [
+          15.56056,
+          -12.8525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benguela"
+      },
+      "geometry": {
+        "coordinates": [
+          13.40547,
+          -12.57626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chela"
+      },
+      "geometry": {
+        "coordinates": [
+          15.43358,
+          -12.30261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinjenje"
+      },
+      "geometry": {
+        "coordinates": [
+          14.99238,
+          -12.93244
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

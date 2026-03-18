@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creston"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.50211,
+          49.09987
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxedis Guerrero"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.01667,
+          31.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matamoros"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.58523,
+          26.76209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julimes"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.42727,
+          28.42376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jose Esteban Coronado"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.15833,
+          26.73722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ejido Benito Juarez"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.88362,
+          30.14937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adolfo Lopez Mateos"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.3,
+          28.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miguel Ahumada"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.51222,
+          30.61861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle de Allende"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.39271,
+          26.93527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valentin Gomez Farias"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.58333,
+          28.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saucillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.29376,
+          28.03055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Barbara"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.82024,
+          26.80381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Oro"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.84838,
+          26.8632
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosales"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.55717,
+          28.18753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Palomas"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.63439,
+          31.77718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Casas Grandes"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.91166,
+          30.41552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naica"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.49233,
+          27.85736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meoqui"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.48046,
+          28.27226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro Madera"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.14684,
+          29.19366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julimes"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.43056,
+          28.42306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimenez"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.4,
+          28.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ignacio Zaragoza"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.22774,
+          28.39355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parral"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.6664,
+          26.93022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe y Calvo"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.9626,
+          26.09117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.73835,
+          31.53396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Morelos"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.51062,
+          28.2492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Isabel"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.3722,
+          28.34166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Varas (Estacion Babicora)"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.02556,
+          29.48083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ejido El Largo"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.26667,
+          29.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuauhtemoc"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.86319,
+          28.40884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creel"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.6352,
+          27.75054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congregacion Ortiz"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.51922,
+          28.25375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Nicolas Bravo (Kilometro Noventa y Dos)"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.52778,
+          28.09222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampliacion Colonia Lazaro Cardenas"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.61667,
+          28.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Abraham Gonzalez (La Quemada)"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.4075,
+          28.20667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Delicias"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.47012,
+          28.19013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Camargo"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.17136,
+          27.67842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chihuahua"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.08889,
+          28.63528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casas Grandes"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.95628,
+          30.38269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenaventura"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.46067,
+          29.8432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benito Juarez"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.93966,
+          29.74624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ascencion"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.98333,
+          31.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Eulalia"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.88796,
+          28.5945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anahuac"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.7472,
+          28.48396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Revolucion"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.44361,
+          28.24167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miguel Hidalgo"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.39389,
+          28.15361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Campesina"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.52667,
+          28.14028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Octaviano Lopez"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.03306,
+          27.0025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariano Balleza"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.34611,
+          26.95389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ninguno [CERESO]"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.94028,
+          28.60972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Yerbitas [Aserradero]"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.77969,
+          26.08025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boquilla de Babisas (La Boquilla de Conchos)"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.40361,
+          27.54861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turuachi"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.70417,
+          26.13139
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

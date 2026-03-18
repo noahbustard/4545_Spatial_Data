@@ -1,0 +1,3112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Isa"
+      },
+      "geometry": {
+        "coordinates": [
+          139.49727,
+          -20.72523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeppoon"
+      },
+      "geometry": {
+        "coordinates": [
+          150.74406,
+          -23.12683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yatala"
+      },
+      "geometry": {
+        "coordinates": [
+          153.21667,
+          -27.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarraman"
+      },
+      "geometry": {
+        "coordinates": [
+          151.98138,
+          -26.84167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yandina"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95595,
+          -26.56165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wynnum"
+      },
+      "geometry": {
+        "coordinates": [
+          153.15813,
+          -27.44527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woree"
+      },
+      "geometry": {
+        "coordinates": [
+          145.75,
+          -16.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woorim"
+      },
+      "geometry": {
+        "coordinates": [
+          153.20427,
+          -27.06931
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woombye"
+      },
+      "geometry": {
+        "coordinates": [
+          152.96947,
+          -26.66054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodridge"
+      },
+      "geometry": {
+        "coordinates": [
+          153.1,
+          -27.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodford"
+      },
+      "geometry": {
+        "coordinates": [
+          152.77747,
+          -26.95291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wondai"
+      },
+      "geometry": {
+        "coordinates": [
+          151.87242,
+          -26.3177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windaroo"
+      },
+      "geometry": {
+        "coordinates": [
+          153.2,
+          -27.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westcourt"
+      },
+      "geometry": {
+        "coordinates": [
+          150.15,
+          -26.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbrook"
+      },
+      "geometry": {
+        "coordinates": [
+          151.86667,
+          -27.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington Point"
+      },
+      "geometry": {
+        "coordinates": [
+          153.25,
+          -27.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weipa"
+      },
+      "geometry": {
+        "coordinates": [
+          141.87883,
+          -12.62346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warwick"
+      },
+      "geometry": {
+        "coordinates": [
+          152.03438,
+          -28.21901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walkerston"
+      },
+      "geometry": {
+        "coordinates": [
+          149.05814,
+          -21.16097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wacol"
+      },
+      "geometry": {
+        "coordinates": [
+          152.93333,
+          -27.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Point"
+      },
+      "geometry": {
+        "coordinates": [
+          153.31172,
+          -27.58329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urraween"
+      },
+      "geometry": {
+        "coordinates": [
+          152.7676,
+          -25.28809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urangan"
+      },
+      "geometry": {
+        "coordinates": [
+          152.90535,
+          -25.29214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Coomera"
+      },
+      "geometry": {
+        "coordinates": [
+          153.3,
+          -27.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tugun"
+      },
+      "geometry": {
+        "coordinates": [
+          153.5,
+          -28.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          145.69682,
+          -16.78876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Townsville"
+      },
+      "geometry": {
+        "coordinates": [
+          146.80569,
+          -19.26639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torquay"
+      },
+      "geometry": {
+        "coordinates": [
+          152.87886,
+          -25.28496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toowoomba"
+      },
+      "geometry": {
+        "coordinates": [
+          151.95386,
+          -27.56056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toolooa"
+      },
+      "geometry": {
+        "coordinates": [
+          151.28333,
+          -23.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolga"
+      },
+      "geometry": {
+        "coordinates": [
+          145.48333,
+          -17.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tin Can Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0032,
+          -25.91914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thagoona"
+      },
+      "geometry": {
+        "coordinates": [
+          152.63333,
+          -27.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thabeban"
+      },
+      "geometry": {
+        "coordinates": [
+          152.35,
+          -24.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tewantin"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03432,
+          -26.39104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarragindi"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03333,
+          -27.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taroom"
+      },
+      "geometry": {
+        "coordinates": [
+          149.7998,
+          -25.63925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallebudgera"
+      },
+      "geometry": {
+        "coordinates": [
+          153.43333,
+          -28.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surfers Paradise"
+      },
+      "geometry": {
+        "coordinates": [
+          153.42999,
+          -28.00274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunnybank"
+      },
+      "geometry": {
+        "coordinates": [
+          153.05,
+          -27.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strathpine"
+      },
+      "geometry": {
+        "coordinates": [
+          152.98977,
+          -27.30414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanthorpe"
+      },
+      "geometry": {
+        "coordinates": [
+          151.93388,
+          -28.65425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02311,
+          -27.46141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southport"
+      },
+      "geometry": {
+        "coordinates": [
+          153.39796,
+          -27.96724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slacks Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          153.15,
+          -27.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shorncliffe"
+      },
+      "geometry": {
+        "coordinates": [
+          153.08161,
+          -27.32759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharon"
+      },
+      "geometry": {
+        "coordinates": [
+          152.26994,
+          -24.87593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scarness"
+      },
+      "geometry": {
+        "coordinates": [
+          152.856,
+          -25.28405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarina"
+      },
+      "geometry": {
+        "coordinates": [
+          149.21677,
+          -21.4191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandgate"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06951,
+          -27.32198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roma"
+      },
+      "geometry": {
+        "coordinates": [
+          148.78751,
+          -26.56741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocklea"
+      },
+      "geometry": {
+        "coordinates": [
+          153.00402,
+          -27.53917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockhampton"
+      },
+      "geometry": {
+        "coordinates": [
+          150.50595,
+          -23.38032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverview"
+      },
+      "geometry": {
+        "coordinates": [
+          152.85,
+          -27.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redlynch"
+      },
+      "geometry": {
+        "coordinates": [
+          145.7,
+          -16.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redland Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          153.30022,
+          -27.6113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          148.5,
+          -20.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redbank"
+      },
+      "geometry": {
+        "coordinates": [
+          152.86667,
+          -27.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenshoe"
+      },
+      "geometry": {
+        "coordinates": [
+          145.48413,
+          -17.60901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Proserpine"
+      },
+      "geometry": {
+        "coordinates": [
+          148.5802,
+          -20.4011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Douglas"
+      },
+      "geometry": {
+        "coordinates": [
+          145.46725,
+          -16.48383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          153.46584,
+          -28.11694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One Mile"
+      },
+      "geometry": {
+        "coordinates": [
+          152.73768,
+          -27.62902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakey"
+      },
+      "geometry": {
+        "coordinates": [
+          151.72063,
+          -27.43305
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noosaville"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06667,
+          -26.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noosa Heads"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0901,
+          -26.39433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nerang"
+      },
+      "geometry": {
+        "coordinates": [
+          153.33633,
+          -27.98941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narangba"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95923,
+          -27.20338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nambour"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95941,
+          -26.62613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morayfield"
+      },
+      "geometry": {
+        "coordinates": [
+          152.94907,
+          -27.10876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mooloolaba"
+      },
+      "geometry": {
+        "coordinates": [
+          153.11925,
+          -26.68164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moggill"
+      },
+      "geometry": {
+        "coordinates": [
+          152.86667,
+          -27.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maryborough"
+      },
+      "geometry": {
+        "coordinates": [
+          152.70493,
+          -25.54073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margate"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09809,
+          -27.24761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mareeba"
+      },
+      "geometry": {
+        "coordinates": [
+          145.42306,
+          -16.99096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackay"
+      },
+      "geometry": {
+        "coordinates": [
+          149.16554,
+          -21.15345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuranda"
+      },
+      "geometry": {
+        "coordinates": [
+          145.63818,
+          -16.81978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingaroy"
+      },
+      "geometry": {
+        "coordinates": [
+          151.8373,
+          -26.53994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innisfail"
+      },
+      "geometry": {
+        "coordinates": [
+          146.03102,
+          -17.52209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingham"
+      },
+      "geometry": {
+        "coordinates": [
+          146.16248,
+          -18.64552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hughenden"
+      },
+      "geometry": {
+        "coordinates": [
+          144.20035,
+          -20.84399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          147.41232,
+          -19.65921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gympie"
+      },
+      "geometry": {
+        "coordinates": [
+          152.66499,
+          -26.18979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goondiwindi"
+      },
+      "geometry": {
+        "coordinates": [
+          150.30546,
+          -28.54709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodna"
+      },
+      "geometry": {
+        "coordinates": [
+          152.89896,
+          -27.61046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Coast"
+      },
+      "geometry": {
+        "coordinates": [
+          153.43088,
+          -28.00029
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone"
+      },
+      "geometry": {
+        "coordinates": [
+          151.25775,
+          -23.84852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gayndah"
+      },
+      "geometry": {
+        "coordinates": [
+          151.61144,
+          -25.62522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatton"
+      },
+      "geometry": {
+        "coordinates": [
+          152.27618,
+          -27.55873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emerald"
+      },
+      "geometry": {
+        "coordinates": [
+          148.15784,
+          -23.52296
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deception Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02631,
+          -27.19354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deagon"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06667,
+          -27.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalby"
+      },
+      "geometry": {
+        "coordinates": [
+          151.26205,
+          -27.18169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D'Aguilar"
+      },
+      "geometry": {
+        "coordinates": [
+          152.8,
+          -26.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coolum Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          153.08809,
+          -26.5283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooktown"
+      },
+      "geometry": {
+        "coordinates": [
+          145.136,
+          -15.43912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cloncurry"
+      },
+      "geometry": {
+        "coordinates": [
+          140.51303,
+          -20.70718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.26516,
+          -27.52677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchill"
+      },
+      "geometry": {
+        "coordinates": [
+          152.75022,
+          -27.64233
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinchilla"
+      },
+      "geometry": {
+        "coordinates": [
+          150.6297,
+          -26.73787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Childers"
+      },
+      "geometry": {
+        "coordinates": [
+          152.27876,
+          -25.23708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charters Towers"
+      },
+      "geometry": {
+        "coordinates": [
+          146.26353,
+          -20.07671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caloundra"
+      },
+      "geometry": {
+        "coordinates": [
+          153.12195,
+          -26.80346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairns"
+      },
+      "geometry": {
+        "coordinates": [
+          145.76625,
+          -16.92304
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caboolture"
+      },
+      "geometry": {
+        "coordinates": [
+          152.9511,
+          -27.08465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burpengary"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95758,
+          -27.15746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bundamba"
+      },
+      "geometry": {
+        "coordinates": [
+          152.81133,
+          -27.60947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bundaberg"
+      },
+      "geometry": {
+        "coordinates": [
+          152.3479,
+          -24.86621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buderim"
+      },
+      "geometry": {
+        "coordinates": [
+          153.05705,
+          -26.68443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brisbane"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02809,
+          -27.46794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brighton"
+      },
+      "geometry": {
+        "coordinates": [
+          153.05721,
+          -27.29582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowen"
+      },
+      "geometry": {
+        "coordinates": [
+          148.24754,
+          -20.01367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bongaree"
+      },
+      "geometry": {
+        "coordinates": [
+          153.15942,
+          -27.08367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwater"
+      },
+      "geometry": {
+        "coordinates": [
+          148.87912,
+          -23.58351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biloela"
+      },
+      "geometry": {
+        "coordinates": [
+          150.51504,
+          -24.39589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmont"
+      },
+      "geometry": {
+        "coordinates": [
+          153.11667,
+          -27.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beenleigh"
+      },
+      "geometry": {
+        "coordinates": [
+          153.2029,
+          -27.71137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayr"
+      },
+      "geometry": {
+        "coordinates": [
+          147.40666,
+          -19.57393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atherton"
+      },
+      "geometry": {
+        "coordinates": [
+          145.47522,
+          -17.26864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Cove"
+      },
+      "geometry": {
+        "coordinates": [
+          145.66667,
+          -16.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yorkeys Knob"
+      },
+      "geometry": {
+        "coordinates": [
+          145.72083,
+          -16.80278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Brisbane"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02049,
+          -27.48034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scarborough"
+      },
+      "geometry": {
+        "coordinates": [
+          153.10939,
+          -27.20118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moranbah"
+      },
+      "geometry": {
+        "coordinates": [
+          148.04661,
+          -22.00163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springfield Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          152.92488,
+          -27.66757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tieri"
+      },
+      "geometry": {
+        "coordinates": [
+          148.34463,
+          -23.03829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taringa"
+      },
+      "geometry": {
+        "coordinates": [
+          152.97861,
+          -27.49061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inala"
+      },
+      "geometry": {
+        "coordinates": [
+          152.97432,
+          -27.59715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          153.4266,
+          -27.97879
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wooloowin"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04204,
+          -27.42244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zillmere"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04453,
+          -27.35591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taigum"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04444,
+          -27.34265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bracken Ridge"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03097,
+          -27.3171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mango Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02384,
+          -27.24349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolloongabba"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03655,
+          -27.48855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milton"
+      },
+      "geometry": {
+        "coordinates": [
+          153.00312,
+          -27.47039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortitude Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03178,
+          -27.45706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windsor"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02882,
+          -27.43631
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Waters"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0,
+          -26.61
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridegman Downs"
+      },
+      "geometry": {
+        "coordinates": [
+          152.99432,
+          -27.35538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamborine Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          153.19937,
+          -27.96954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainbow Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09174,
+          -25.90432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan City"
+      },
+      "geometry": {
+        "coordinates": [
+          153.10944,
+          -27.63917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carindale"
+      },
+      "geometry": {
+        "coordinates": [
+          153.10236,
+          -27.50578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springwood"
+      },
+      "geometry": {
+        "coordinates": [
+          153.12899,
+          -27.61183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varsity Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          153.4122,
+          -28.0894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxenford"
+      },
+      "geometry": {
+        "coordinates": [
+          153.31309,
+          -27.89033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnetic Island"
+      },
+      "geometry": {
+        "coordinates": [
+          146.8485,
+          -19.15514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Booval"
+      },
+      "geometry": {
+        "coordinates": [
+          152.78944,
+          -27.61328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Booval"
+      },
+      "geometry": {
+        "coordinates": [
+          152.79485,
+          -27.60392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Ipswich"
+      },
+      "geometry": {
+        "coordinates": [
+          152.76146,
+          -27.60286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brassall"
+      },
+      "geometry": {
+        "coordinates": [
+          152.74755,
+          -27.59753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silkstone"
+      },
+      "geometry": {
+        "coordinates": [
+          152.78768,
+          -27.62126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          152.77828,
+          -27.62849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raceview"
+      },
+      "geometry": {
+        "coordinates": [
+          152.77519,
+          -27.63472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flinders View"
+      },
+      "geometry": {
+        "coordinates": [
+          152.77451,
+          -27.65046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deebing Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          152.74867,
+          -27.66719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamanto"
+      },
+      "geometry": {
+        "coordinates": [
+          152.73863,
+          -27.66027
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redbank Plains"
+      },
+      "geometry": {
+        "coordinates": [
+          152.85965,
+          -27.64613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collingwood Park"
+      },
+      "geometry": {
+        "coordinates": [
+          152.86008,
+          -27.61282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clontarf"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07835,
+          -27.25341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woody Point"
+      },
+      "geometry": {
+        "coordinates": [
+          153.10427,
+          -27.25608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bohle Plains"
+      },
+      "geometry": {
+        "coordinates": [
+          146.69186,
+          -19.31365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacobs Well"
+      },
+      "geometry": {
+        "coordinates": [
+          153.36153,
+          -27.77992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thursday Island"
+      },
+      "geometry": {
+        "coordinates": [
+          142.21949,
+          -10.58257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cannon Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09475,
+          -27.47237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrumba Downs"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01053,
+          -27.26733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chambers Flat"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07764,
+          -27.74811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09218,
+          -26.78436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annerley"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03248,
+          -27.51228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highvale"
+      },
+      "geometry": {
+        "coordinates": [
+          152.80195,
+          -27.37227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wavell Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04698,
+          -27.39385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grange"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01527,
+          -27.42251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bald Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          153.00857,
+          -27.32112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ascot"
+      },
+      "geometry": {
+        "coordinates": [
+          153.058,
+          -27.43154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robertson"
+      },
+      "geometry": {
+        "coordinates": [
+          153.05738,
+          -27.56583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathan"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0623,
+          -27.55888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chermside West"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01586,
+          -27.38383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Everton Park"
+      },
+      "geometry": {
+        "coordinates": [
+          152.9884,
+          -27.40732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gordon Park"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02547,
+          -27.41899
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stafford"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01105,
+          -27.41044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stafford Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0105,
+          -27.39354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilston"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01904,
+          -27.43218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burbank"
+      },
+      "geometry": {
+        "coordinates": [
+          153.14701,
+          -27.55584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coopers Plains"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04067,
+          -27.56463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          152.96883,
+          -27.62563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenslopes"
+      },
+      "geometry": {
+        "coordinates": [
+          153.04951,
+          -27.50815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackenzie"
+      },
+      "geometry": {
+        "coordinates": [
+          153.12057,
+          -27.54351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mansfield"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09895,
+          -27.53929
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Gravatt East"
+      },
+      "geometry": {
+        "coordinates": [
+          153.08221,
+          -27.5405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richlands"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95321,
+          -27.59616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seventeen Mile Rocks"
+      },
+      "geometry": {
+        "coordinates": [
+          152.95896,
+          -27.5507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunnybank Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          153.05388,
+          -27.61025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Mount Gravatt"
+      },
+      "geometry": {
+        "coordinates": [
+          153.08453,
+          -27.56128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeerongpilly"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01234,
+          -27.5215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeronga"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01642,
+          -27.51571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balmoral"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0668,
+          -27.45341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07629,
+          -27.49354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandler"
+      },
+      "geometry": {
+        "coordinates": [
+          153.14907,
+          -27.51398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manly West"
+      },
+      "geometry": {
+        "coordinates": [
+          153.16641,
+          -27.47382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morningside"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07511,
+          -27.46165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07474,
+          -27.48341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wynnum West"
+      },
+      "geometry": {
+        "coordinates": [
+          153.15319,
+          -27.45824
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenmore Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          152.93183,
+          -27.5042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pullenvale"
+      },
+      "geometry": {
+        "coordinates": [
+          152.88651,
+          -27.52283
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverhills"
+      },
+      "geometry": {
+        "coordinates": [
+          152.91106,
+          -27.55928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Ipswich"
+      },
+      "geometry": {
+        "coordinates": [
+          152.77232,
+          -27.60637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadliers Crossing"
+      },
+      "geometry": {
+        "coordinates": [
+          152.74577,
+          -27.61251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springfield"
+      },
+      "geometry": {
+        "coordinates": [
+          152.91716,
+          -27.65365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tivoli"
+      },
+      "geometry": {
+        "coordinates": [
+          152.76798,
+          -27.59278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Vale"
+      },
+      "geometry": {
+        "coordinates": [
+          153.02891,
+          -27.88923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan Reserve"
+      },
+      "geometry": {
+        "coordinates": [
+          153.09002,
+          -27.72414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Maclean"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01646,
+          -27.76759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Ridge South"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0332,
+          -27.72707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rochedale South"
+      },
+      "geometry": {
+        "coordinates": [
+          153.12332,
+          -27.59521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterford West"
+      },
+      "geometry": {
+        "coordinates": [
+          153.13319,
+          -27.69056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caboolture South"
+      },
+      "geometry": {
+        "coordinates": [
+          152.94874,
+          -27.09389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferny Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          152.93737,
+          -27.39594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samford Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          152.86699,
+          -27.3727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burleigh Waters"
+      },
+      "geometry": {
+        "coordinates": [
+          153.42463,
+          -28.09975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clear Island Waters"
+      },
+      "geometry": {
+        "coordinates": [
+          153.39815,
+          -28.05308
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Beechmont"
+      },
+      "geometry": {
+        "coordinates": [
+          153.24572,
+          -28.04751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Nathan"
+      },
+      "geometry": {
+        "coordinates": [
+          153.27198,
+          -27.9643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ormeau Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          153.2567,
+          -27.79653
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallebudgera Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          153.35489,
+          -28.1927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Rockhampton"
+      },
+      "geometry": {
+        "coordinates": [
+          150.48175,
+          -23.37941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          152.87561,
+          -26.39886
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caloundra West"
+      },
+      "geometry": {
+        "coordinates": [
+          153.11405,
+          -26.79854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dicky Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          153.13766,
+          -26.78364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peregian Springs"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07577,
+          -26.48801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.68245,
+          -26.21191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangeville"
+      },
+      "geometry": {
+        "coordinates": [
+          151.97997,
+          -27.58318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darling Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          151.93045,
+          -27.59659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Toowoomba"
+      },
+      "geometry": {
+        "coordinates": [
+          151.97422,
+          -27.57086
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Top Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          151.9392,
+          -27.63584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilsonton Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          151.92444,
+          -27.53227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinbeerwah"
+      },
+      "geometry": {
+        "coordinates": [
+          152.98256,
+          -26.40443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooroibah"
+      },
+      "geometry": {
+        "coordinates": [
+          152.98599,
+          -26.36316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunshine Coast"
+      },
+      "geometry": {
+        "coordinates": [
+          153.07955,
+          -26.65682
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

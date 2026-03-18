@@ -1,0 +1,941 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiraspolul Nou"
+      },
+      "geometry": {
+        "coordinates": [
+          29.52174,
+          46.82874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinet"
+      },
+      "geometry": {
+        "coordinates": [
+          27.30337,
+          48.17215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iargara"
+      },
+      "geometry": {
+        "coordinates": [
+          28.42676,
+          46.4252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vulcanesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.40613,
+          45.68492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visniovca"
+      },
+      "geometry": {
+        "coordinates": [
+          28.44797,
+          46.3326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varnita"
+      },
+      "geometry": {
+        "coordinates": [
+          29.46636,
+          46.86606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vadul lui Voda"
+      },
+      "geometry": {
+        "coordinates": [
+          29.0757,
+          47.09009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ustia"
+      },
+      "geometry": {
+        "coordinates": [
+          29.12406,
+          47.25524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ungheni"
+      },
+      "geometry": {
+        "coordinates": [
+          27.80047,
+          47.21079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tvardita"
+      },
+      "geometry": {
+        "coordinates": [
+          28.96491,
+          46.14826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiraspol"
+      },
+      "geometry": {
+        "coordinates": [
+          29.62909,
+          46.84274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telenesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.36536,
+          47.5011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taraclia"
+      },
+      "geometry": {
+        "coordinates": [
+          28.66816,
+          45.90273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singera"
+      },
+      "geometry": {
+        "coordinates": [
+          28.96673,
+          46.91557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stefan Voda"
+      },
+      "geometry": {
+        "coordinates": [
+          29.66193,
+          46.51287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straseni"
+      },
+      "geometry": {
+        "coordinates": [
+          28.60774,
+          47.14216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stauceni"
+      },
+      "geometry": {
+        "coordinates": [
+          28.86791,
+          47.09643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilicenii Vechi"
+      },
+      "geometry": {
+        "coordinates": [
+          28.04734,
+          47.6558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soroca"
+      },
+      "geometry": {
+        "coordinates": [
+          28.28489,
+          48.15659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soldanesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.79718,
+          47.81608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slobozia"
+      },
+      "geometry": {
+        "coordinates": [
+          29.70446,
+          46.72927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saharna"
+      },
+      "geometry": {
+        "coordinates": [
+          28.97458,
+          47.69107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riscani"
+      },
+      "geometry": {
+        "coordinates": [
+          27.56376,
+          47.94792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribnita"
+      },
+      "geometry": {
+        "coordinates": [
+          29.01,
+          47.76817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rezina"
+      },
+      "geometry": {
+        "coordinates": [
+          28.96583,
+          47.74928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomaisc"
+      },
+      "geometry": {
+        "coordinates": [
+          29.9617,
+          46.73253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orhei"
+      },
+      "geometry": {
+        "coordinates": [
+          28.82446,
+          47.38494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocnita"
+      },
+      "geometry": {
+        "coordinates": [
+          27.43805,
+          48.38274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anenii Noi"
+      },
+      "geometry": {
+        "coordinates": [
+          29.23483,
+          46.87839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nisporeni"
+      },
+      "geometry": {
+        "coordinates": [
+          28.17138,
+          47.08159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mindresti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.27687,
+          47.50525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maiac"
+      },
+      "geometry": {
+        "coordinates": [
+          29.38498,
+          47.23727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marculesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.24109,
+          47.86897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leova"
+      },
+      "geometry": {
+        "coordinates": [
+          28.25301,
+          46.4823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singerei"
+      },
+      "geometry": {
+        "coordinates": [
+          28.14296,
+          47.63632
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cricova"
+      },
+      "geometry": {
+        "coordinates": [
+          28.86156,
+          47.13835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crasnoe"
+      },
+      "geometry": {
+        "coordinates": [
+          29.80403,
+          46.64844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hincesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.59064,
+          46.83047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocieri"
+      },
+      "geometry": {
+        "coordinates": [
+          29.11755,
+          47.3017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitcani"
+      },
+      "geometry": {
+        "coordinates": [
+          29.61682,
+          46.78296
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Causeni"
+      },
+      "geometry": {
+        "coordinates": [
+          29.41114,
+          46.63674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ialoveni"
+      },
+      "geometry": {
+        "coordinates": [
+          28.78233,
+          46.94346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grigoriopol"
+      },
+      "geometry": {
+        "coordinates": [
+          29.30008,
+          47.15413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glodeni"
+      },
+      "geometry": {
+        "coordinates": [
+          27.51891,
+          47.77513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghindesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.37679,
+          47.85482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floresti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.29312,
+          47.89137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falesti"
+      },
+      "geometry": {
+        "coordinates": [
+          27.71264,
+          47.57667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giurgiulesti"
+      },
+      "geometry": {
+        "coordinates": [
+          28.19722,
+          45.48167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubasari"
+      },
+      "geometry": {
+        "coordinates": [
+          29.16667,
+          47.26562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drochia"
+      },
+      "geometry": {
+        "coordinates": [
+          27.81293,
+          48.03555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donduseni"
+      },
+      "geometry": {
+        "coordinates": [
+          27.6101,
+          48.24268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dnestrovsc"
+      },
+      "geometry": {
+        "coordinates": [
+          29.91926,
+          46.6164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dancu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.20716,
+          46.75818
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Criuleni"
+      },
+      "geometry": {
+        "coordinates": [
+          29.15926,
+          47.21307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comrat"
+      },
+      "geometry": {
+        "coordinates": [
+          28.6565,
+          46.29456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimislia"
+      },
+      "geometry": {
+        "coordinates": [
+          28.76441,
+          46.52685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chisinau"
+      },
+      "geometry": {
+        "coordinates": [
+          28.8575,
+          47.00556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceadir-Lunga"
+      },
+      "geometry": {
+        "coordinates": [
+          28.83078,
+          46.06169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantemir"
+      },
+      "geometry": {
+        "coordinates": [
+          28.2027,
+          46.27743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camenca"
+      },
+      "geometry": {
+        "coordinates": [
+          28.69899,
+          48.03233
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calarasi"
+      },
+      "geometry": {
+        "coordinates": [
+          28.30987,
+          47.2556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahul"
+      },
+      "geometry": {
+        "coordinates": [
+          28.19929,
+          45.90425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucovat"
+      },
+      "geometry": {
+        "coordinates": [
+          28.45802,
+          47.19064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bugeac"
+      },
+      "geometry": {
+        "coordinates": [
+          28.6625,
+          46.36554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Briceni"
+      },
+      "geometry": {
+        "coordinates": [
+          27.70293,
+          48.35628
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bender"
+      },
+      "geometry": {
+        "coordinates": [
+          29.47769,
+          46.83156
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basarabeasca"
+      },
+      "geometry": {
+        "coordinates": [
+          28.96365,
+          46.3317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balti"
+      },
+      "geometry": {
+        "coordinates": [
+          27.92932,
+          47.76314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otaci"
+      },
+      "geometry": {
+        "coordinates": [
+          27.79912,
+          48.43285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vatra"
+      },
+      "geometry": {
+        "coordinates": [
+          28.73685,
+          47.0746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciorescu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.88937,
+          47.13
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biruinta"
+      },
+      "geometry": {
+        "coordinates": [
+          28.07004,
+          47.81353
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

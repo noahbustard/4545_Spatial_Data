@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Trois-Bassins"
+      },
+      "geometry": {
+        "coordinates": [
+          55.3,
+          -21.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salazie"
+      },
+      "geometry": {
+        "coordinates": [
+          55.539,
+          -21.02734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Pierre"
+      },
+      "geometry": {
+        "coordinates": [
+          55.47811,
+          -21.3393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Philippe"
+      },
+      "geometry": {
+        "coordinates": [
+          55.76795,
+          -21.35852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Paul"
+      },
+      "geometry": {
+        "coordinates": [
+          55.27071,
+          -21.00963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Louis"
+      },
+      "geometry": {
+        "coordinates": [
+          55.41124,
+          -21.28585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Leu"
+      },
+      "geometry": {
+        "coordinates": [
+          55.28824,
+          -21.17059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Joseph"
+      },
+      "geometry": {
+        "coordinates": [
+          55.61918,
+          -21.37839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Suzanne"
+      },
+      "geometry": {
+        "coordinates": [
+          55.60886,
+          -20.90614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Rose"
+      },
+      "geometry": {
+        "coordinates": [
+          55.79629,
+          -21.12983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Marie"
+      },
+      "geometry": {
+        "coordinates": [
+          55.5496,
+          -20.89684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Denis"
+      },
+      "geometry": {
+        "coordinates": [
+          55.4504,
+          -20.88231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Benoit"
+      },
+      "geometry": {
+        "coordinates": [
+          55.71937,
+          -21.03801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Andre"
+      },
+      "geometry": {
+        "coordinates": [
+          55.65031,
+          -20.96333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petite-Ile"
+      },
+      "geometry": {
+        "coordinates": [
+          55.56667,
+          -21.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Tampon"
+      },
+      "geometry": {
+        "coordinates": [
+          55.51802,
+          -21.28309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Avirons"
+      },
+      "geometry": {
+        "coordinates": [
+          55.33938,
+          -21.24181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Port"
+      },
+      "geometry": {
+        "coordinates": [
+          55.29189,
+          -20.9373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Possession"
+      },
+      "geometry": {
+        "coordinates": [
+          55.33513,
+          -20.92892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entre-Deux"
+      },
+      "geometry": {
+        "coordinates": [
+          55.46667,
+          -21.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cilaos"
+      },
+      "geometry": {
+        "coordinates": [
+          55.4719,
+          -21.13357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bras-Panon"
+      },
+      "geometry": {
+        "coordinates": [
+          55.67823,
+          -20.99667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piton Saint-Leu"
+      },
+      "geometry": {
+        "coordinates": [
+          55.31513,
+          -21.21962
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

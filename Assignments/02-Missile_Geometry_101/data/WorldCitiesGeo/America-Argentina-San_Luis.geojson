@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa General Roca"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.45052,
+          -32.66535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.94602,
+          -35.15282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilisarao"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.29109,
+          -32.73292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa del Conlara"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.20323,
+          -32.34286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.33563,
+          -33.29501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco del Monte de Oro"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.12539,
+          -32.59825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naschel"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.37535,
+          -32.91656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merlo"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.01396,
+          -32.34288
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lujan"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.9296,
+          -32.3757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libertador General San Martin"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.67586,
+          -32.41074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Toma"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.62385,
+          -33.05258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justo Daract"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.18277,
+          -33.8594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Concaran"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.2427,
+          -32.56009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candelaria"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.82477,
+          -32.06036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buena Esperanza"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.25379,
+          -34.75647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Mercedes"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.45783,
+          -33.67571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Punta"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.3127,
+          -33.18368
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

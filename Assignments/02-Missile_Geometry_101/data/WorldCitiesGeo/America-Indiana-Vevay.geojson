@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vevay"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.06717,
+          38.74784
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

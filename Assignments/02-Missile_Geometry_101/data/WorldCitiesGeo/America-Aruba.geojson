@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranjestad"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.02703,
+          12.52398
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

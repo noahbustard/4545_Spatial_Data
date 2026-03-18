@@ -1,0 +1,1591 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toamasina"
+      },
+      "geometry": {
+        "coordinates": [
+          49.40234,
+          -18.1492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vondrozo"
+      },
+      "geometry": {
+        "coordinates": [
+          47.28333,
+          -22.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vohipaho"
+      },
+      "geometry": {
+        "coordinates": [
+          47.5,
+          -23.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vohimanitra"
+      },
+      "geometry": {
+        "coordinates": [
+          47.7,
+          -21.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vohibinany"
+      },
+      "geometry": {
+        "coordinates": [
+          49.03333,
+          -17.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vavatenina"
+      },
+      "geometry": {
+        "coordinates": [
+          49.2,
+          -17.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangaindrano"
+      },
+      "geometry": {
+        "coordinates": [
+          47.6,
+          -23.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsiroanomandidy"
+      },
+      "geometry": {
+        "coordinates": [
+          46.04653,
+          -18.76969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsiombe"
+      },
+      "geometry": {
+        "coordinates": [
+          45.48333,
+          -25.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsaratanana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.65165,
+          -16.79706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranovaho"
+      },
+      "geometry": {
+        "coordinates": [
+          44.96667,
+          -25.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toliara"
+      },
+      "geometry": {
+        "coordinates": [
+          43.66667,
+          -23.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Dauphin"
+      },
+      "geometry": {
+        "coordinates": [
+          46.98329,
+          -25.03249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soavinandriana"
+      },
+      "geometry": {
+        "coordinates": [
+          46.73333,
+          -19.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soanindrariny"
+      },
+      "geometry": {
+        "coordinates": [
+          47.23333,
+          -19.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soanierana Ivongo"
+      },
+      "geometry": {
+        "coordinates": [
+          49.58333,
+          -16.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitampiky"
+      },
+      "geometry": {
+        "coordinates": [
+          46.1,
+          -16.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.9,
+          -22.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sambava"
+      },
+      "geometry": {
+        "coordinates": [
+          50.16667,
+          -14.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sambaina"
+      },
+      "geometry": {
+        "coordinates": [
+          47.78333,
+          -18.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakaraha"
+      },
+      "geometry": {
+        "coordinates": [
+          44.53333,
+          -22.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahavato"
+      },
+      "geometry": {
+        "coordinates": [
+          48.33333,
+          -20.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahatavy"
+      },
+      "geometry": {
+        "coordinates": [
+          49.0,
+          -17.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadjoavato"
+      },
+      "geometry": {
+        "coordinates": [
+          49.35,
+          -12.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadabe"
+      },
+      "geometry": {
+        "coordinates": [
+          47.7,
+          -18.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranohira"
+      },
+      "geometry": {
+        "coordinates": [
+          45.4,
+          -22.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nosy Varika"
+      },
+      "geometry": {
+        "coordinates": [
+          48.53333,
+          -20.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nandihizana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.71667,
+          -18.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morondava"
+      },
+      "geometry": {
+        "coordinates": [
+          44.31782,
+          -20.28869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moramanga"
+      },
+      "geometry": {
+        "coordinates": [
+          48.23007,
+          -18.94948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miarinarivo"
+      },
+      "geometry": {
+        "coordinates": [
+          46.90553,
+          -18.95873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miandrivazo"
+      },
+      "geometry": {
+        "coordinates": [
+          45.45559,
+          -19.52905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miandrarivo"
+      },
+      "geometry": {
+        "coordinates": [
+          46.75,
+          -19.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miadanandriana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.78333,
+          -19.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merikanjaka"
+      },
+      "geometry": {
+        "coordinates": [
+          47.85,
+          -19.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marovoay"
+      },
+      "geometry": {
+        "coordinates": [
+          46.64383,
+          -16.11064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marolambo"
+      },
+      "geometry": {
+        "coordinates": [
+          48.11667,
+          -20.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maroantsetra"
+      },
+      "geometry": {
+        "coordinates": [
+          49.73794,
+          -15.43527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mantasoa"
+      },
+      "geometry": {
+        "coordinates": [
+          47.83333,
+          -19.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manjakandriana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.8,
+          -18.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manja"
+      },
+      "geometry": {
+        "coordinates": [
+          44.33333,
+          -21.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manato"
+      },
+      "geometry": {
+        "coordinates": [
+          47.48333,
+          -22.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mananjary"
+      },
+      "geometry": {
+        "coordinates": [
+          48.34173,
+          -21.23034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mananara"
+      },
+      "geometry": {
+        "coordinates": [
+          49.76622,
+          -16.16864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manakara"
+      },
+      "geometry": {
+        "coordinates": [
+          48.01055,
+          -22.14862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maintirano"
+      },
+      "geometry": {
+        "coordinates": [
+          44.02951,
+          -18.06354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahavelona"
+      },
+      "geometry": {
+        "coordinates": [
+          49.50869,
+          -17.68475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahanoro"
+      },
+      "geometry": {
+        "coordinates": [
+          48.8,
+          -19.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahalina"
+      },
+      "geometry": {
+        "coordinates": [
+          48.81667,
+          -12.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahajanga"
+      },
+      "geometry": {
+        "coordinates": [
+          46.31667,
+          -15.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahabe"
+      },
+      "geometry": {
+        "coordinates": [
+          45.33333,
+          -17.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maevatanana"
+      },
+      "geometry": {
+        "coordinates": [
+          46.83333,
+          -16.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopoky"
+      },
+      "geometry": {
+        "coordinates": [
+          45.2,
+          -25.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ikongo"
+      },
+      "geometry": {
+        "coordinates": [
+          47.43333,
+          -21.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ikalamavony"
+      },
+      "geometry": {
+        "coordinates": [
+          46.58333,
+          -21.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ihosy"
+      },
+      "geometry": {
+        "coordinates": [
+          46.12576,
+          -22.40293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ifatsy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.75,
+          -22.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ifanadiana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.63333,
+          -21.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fianarantsoa"
+      },
+      "geometry": {
+        "coordinates": [
+          47.08569,
+          -21.45267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fenoarivo Be"
+      },
+      "geometry": {
+        "coordinates": [
+          46.56667,
+          -18.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fenoarivo Atsinanana"
+      },
+      "geometry": {
+        "coordinates": [
+          49.40826,
+          -17.38095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faratsiho"
+      },
+      "geometry": {
+        "coordinates": [
+          46.95,
+          -19.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farafangana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.82615,
+          -22.82223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fandriana"
+      },
+      "geometry": {
+        "coordinates": [
+          47.38333,
+          -20.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fandrandava"
+      },
+      "geometry": {
+        "coordinates": [
+          47.25,
+          -21.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betioky"
+      },
+      "geometry": {
+        "coordinates": [
+          44.38069,
+          -23.72065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beteza"
+      },
+      "geometry": {
+        "coordinates": [
+          45.11667,
+          -24.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betafo"
+      },
+      "geometry": {
+        "coordinates": [
+          46.85,
+          -19.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beroroha"
+      },
+      "geometry": {
+        "coordinates": [
+          45.16667,
+          -21.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bemaitso"
+      },
+      "geometry": {
+        "coordinates": [
+          48.5,
+          -17.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belo sur Tsiribihina"
+      },
+      "geometry": {
+        "coordinates": [
+          44.54587,
+          -19.69787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beloha"
+      },
+      "geometry": {
+        "coordinates": [
+          45.05,
+          -25.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Behompy"
+      },
+      "geometry": {
+        "coordinates": [
+          43.85,
+          -23.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bealanana"
+      },
+      "geometry": {
+        "coordinates": [
+          48.74981,
+          -14.54329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arivonimamo"
+      },
+      "geometry": {
+        "coordinates": [
+          47.18333,
+          -19.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsohimbondrona"
+      },
+      "geometry": {
+        "coordinates": [
+          48.85,
+          -13.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsohihy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.98751,
+          -14.87959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsiranana"
+      },
+      "geometry": {
+        "coordinates": [
+          49.29188,
+          -12.31732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsirabe Afovoany"
+      },
+      "geometry": {
+        "coordinates": [
+          48.96667,
+          -15.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsirabe"
+      },
+      "geometry": {
+        "coordinates": [
+          47.03333,
+          -19.86586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antanimena"
+      },
+      "geometry": {
+        "coordinates": [
+          44.1,
+          -23.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antanifotsy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.31667,
+          -19.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antananarivo"
+      },
+      "geometry": {
+        "coordinates": [
+          47.53613,
+          -18.91368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antalaha"
+      },
+      "geometry": {
+        "coordinates": [
+          50.27876,
+          -14.90033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antakotako"
+      },
+      "geometry": {
+        "coordinates": [
+          49.8,
+          -15.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankazondandy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.78333,
+          -18.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankazobe"
+      },
+      "geometry": {
+        "coordinates": [
+          47.11667,
+          -18.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankazoabo"
+      },
+      "geometry": {
+        "coordinates": [
+          44.51667,
+          -22.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjozorobe"
+      },
+      "geometry": {
+        "coordinates": [
+          47.86667,
+          -18.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjepy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.71667,
+          -18.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andramasina"
+      },
+      "geometry": {
+        "coordinates": [
+          47.59016,
+          -19.18785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hell-Ville"
+      },
+      "geometry": {
+        "coordinates": [
+          48.26663,
+          -13.39718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andilamena"
+      },
+      "geometry": {
+        "coordinates": [
+          48.57313,
+          -17.01009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andovoranto"
+      },
+      "geometry": {
+        "coordinates": [
+          49.1094,
+          -18.95443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andapa"
+      },
+      "geometry": {
+        "coordinates": [
+          49.65,
+          -14.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anandravy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.36667,
+          -22.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anakao"
+      },
+      "geometry": {
+        "coordinates": [
+          43.65,
+          -23.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampasimanolotra"
+      },
+      "geometry": {
+        "coordinates": [
+          49.06667,
+          -18.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amparafaravola"
+      },
+      "geometry": {
+        "coordinates": [
+          48.22391,
+          -17.5876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampanihy"
+      },
+      "geometry": {
+        "coordinates": [
+          44.74581,
+          -24.6937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampahana"
+      },
+      "geometry": {
+        "coordinates": [
+          50.21667,
+          -14.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambovombe"
+      },
+      "geometry": {
+        "coordinates": [
+          46.08722,
+          -25.17838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambositra"
+      },
+      "geometry": {
+        "coordinates": [
+          47.24344,
+          -20.53034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambohitseheno"
+      },
+      "geometry": {
+        "coordinates": [
+          47.8,
+          -18.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambohitrolomahitsy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.68333,
+          -18.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambohitrandriamanitra"
+      },
+      "geometry": {
+        "coordinates": [
+          47.78333,
+          -19.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambodivoara"
+      },
+      "geometry": {
+        "coordinates": [
+          49.98333,
+          -14.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambodifotatra"
+      },
+      "geometry": {
+        "coordinates": [
+          49.85,
+          -16.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amboasary"
+      },
+      "geometry": {
+        "coordinates": [
+          46.38333,
+          -25.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amboasary"
+      },
+      "geometry": {
+        "coordinates": [
+          45.95,
+          -24.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amboanjo"
+      },
+      "geometry": {
+        "coordinates": [
+          47.85,
+          -22.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambilobe"
+      },
+      "geometry": {
+        "coordinates": [
+          49.05,
+          -13.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatondrazaka"
+      },
+      "geometry": {
+        "coordinates": [
+          48.41667,
+          -17.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatolaona"
+      },
+      "geometry": {
+        "coordinates": [
+          47.9,
+          -18.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatolampy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.41667,
+          -19.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatofinandrahana"
+      },
+      "geometry": {
+        "coordinates": [
+          46.80365,
+          -20.55284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambato Boeny"
+      },
+      "geometry": {
+        "coordinates": [
+          46.71667,
+          -16.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambarakaraka"
+      },
+      "geometry": {
+        "coordinates": [
+          48.86667,
+          -13.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambanja"
+      },
+      "geometry": {
+        "coordinates": [
+          48.453,
+          -13.669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambalavao"
+      },
+      "geometry": {
+        "coordinates": [
+          46.93333,
+          -21.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambalasoa"
+      },
+      "geometry": {
+        "coordinates": [
+          46.0,
+          -23.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alarobia"
+      },
+      "geometry": {
+        "coordinates": [
+          47.73333,
+          -18.96667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

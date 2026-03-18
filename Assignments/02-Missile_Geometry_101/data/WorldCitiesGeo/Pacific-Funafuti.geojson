@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toga Village"
+      },
+      "geometry": {
+        "coordinates": [
+          176.31472,
+          -6.28764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanrake Village"
+      },
+      "geometry": {
+        "coordinates": [
+          177.14511,
+          -7.24562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulia Village"
+      },
+      "geometry": {
+        "coordinates": [
+          177.33393,
+          -6.10819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Funafuti"
+      },
+      "geometry": {
+        "coordinates": [
+          179.19417,
+          -8.52425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asau Village"
+      },
+      "geometry": {
+        "coordinates": [
+          178.68016,
+          -7.49026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savave Village"
+      },
+      "geometry": {
+        "coordinates": [
+          178.31351,
+          -8.02731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alapi Village"
+      },
+      "geometry": {
+        "coordinates": [
+          179.1968,
+          -8.52074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakaifou Village"
+      },
+      "geometry": {
+        "coordinates": [
+          179.20094,
+          -8.51758
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

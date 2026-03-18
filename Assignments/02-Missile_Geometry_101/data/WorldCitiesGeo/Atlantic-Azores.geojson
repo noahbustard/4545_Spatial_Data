@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila Franca do Campo"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.43333,
+          37.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Roque do Pico"
+      },
+      "geometry": {
+        "coordinates": [
+          -28.30752,
+          38.51631
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosto de Cao"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.65,
+          37.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribeira Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -28.7,
+          38.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabo de Peixe"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.58333,
+          37.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia da Vitoria"
+      },
+      "geometry": {
+        "coordinates": [
+          -27.06667,
+          38.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponta Delgada"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.66667,
+          37.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madalena"
+      },
+      "geometry": {
+        "coordinates": [
+          -28.5266,
+          38.53642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lajes das Flores"
+      },
+      "geometry": {
+        "coordinates": [
+          -31.17847,
+          39.37744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -27.98333,
+          39.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horta"
+      },
+      "geometry": {
+        "coordinates": [
+          -28.63333,
+          38.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Furnas"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.31035,
+          37.77567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faja de Baixo"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.65,
+          37.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biscoitos"
+      },
+      "geometry": {
+        "coordinates": [
+          -27.25,
+          38.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrifes"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.7,
+          37.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angra do Heroismo"
+      },
+      "geometry": {
+        "coordinates": [
+          -27.21667,
+          38.65
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

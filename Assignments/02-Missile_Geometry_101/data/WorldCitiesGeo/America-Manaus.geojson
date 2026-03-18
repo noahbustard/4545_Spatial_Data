@@ -1,0 +1,512 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urucurituba"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.15856,
+          -3.12845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urucara"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.76,
+          -2.53639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parintins"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.73583,
+          -2.62833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Olinda do Norte"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.09542,
+          -3.89174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maues"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.71861,
+          -3.38361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itacoatiara"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.44417,
+          -3.14306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guajara"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.66667,
+          -2.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Careiro da Varzea"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.82674,
+          -3.19695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borba"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.58864,
+          -4.39143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barreirinha"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.07,
+          -2.79333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autazes"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.13056,
+          -3.57972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uarini"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.10833,
+          -2.99
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonantins"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.80222,
+          -2.87306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tefe"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.72054,
+          -3.36841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabatinga"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.93858,
+          -4.23116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Paulo de Olivenca"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.8725,
+          -3.37833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Gabriel da Cachoeira"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.08527,
+          -0.1181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Antonio do Ica"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.93972,
+          -3.10222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Isabel do Rio Negro"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.01917,
+          -0.41389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pauini"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.97639,
+          -7.71361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novo Aripuana"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.37972,
+          -5.12056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maraa"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.35883,
+          -1.82403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manicore"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.30028,
+          -5.80917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manaus"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.025,
+          -3.10194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manaquiri"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.35,
+          -3.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manacapuru"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.62056,
+          -3.29972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jutai"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.9,
+          -5.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humaita"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.03105,
+          -7.51651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fonte Boa"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.09167,
+          -2.51389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Codajas"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.05694,
+          -3.83667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coari"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.14139,
+          -4.085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carauari"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.89583,
+          -4.88278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canutama"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.38306,
+          -6.53389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boca do Acre"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.39778,
+          -8.75222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcelos"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.9269,
+          -0.97357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anori"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.64417,
+          -3.77278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alvaraes"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.80417,
+          -3.22083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iranduba"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.18611,
+          -3.28472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Preto da Eva"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.70172,
+          -2.69795
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

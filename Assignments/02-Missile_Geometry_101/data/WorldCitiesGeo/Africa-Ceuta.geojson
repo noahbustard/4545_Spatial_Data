@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melilla"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.93833,
+          35.29369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceuta"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.31979,
+          35.88933
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

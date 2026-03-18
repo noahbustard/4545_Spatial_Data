@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winamac"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.60306,
+          41.05143
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phnom Penh"
+      },
+      "geometry": {
+        "coordinates": [
+          104.91601,
+          11.56245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veun Sai"
+      },
+      "geometry": {
+        "coordinates": [
+          106.81144,
+          13.97598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta Khmau"
+      },
+      "geometry": {
+        "coordinates": [
+          104.95,
+          11.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takeo"
+      },
+      "geometry": {
+        "coordinates": [
+          104.78498,
+          10.99081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svay Rieng"
+      },
+      "geometry": {
+        "coordinates": [
+          105.79935,
+          11.08785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svay Chek"
+      },
+      "geometry": {
+        "coordinates": [
+          102.96184,
+          13.80539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suong"
+      },
+      "geometry": {
+        "coordinates": [
+          105.65821,
+          11.91178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stung Treng"
+      },
+      "geometry": {
+        "coordinates": [
+          105.9683,
+          13.52586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srae Ambel"
+      },
+      "geometry": {
+        "coordinates": [
+          103.75383,
+          11.12212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sisophon"
+      },
+      "geometry": {
+        "coordinates": [
+          102.97369,
+          13.58588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siem Reap"
+      },
+      "geometry": {
+        "coordinates": [
+          103.86056,
+          13.36179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siem Pang"
+      },
+      "geometry": {
+        "coordinates": [
+          106.38838,
+          14.11728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senmonourom"
+      },
+      "geometry": {
+        "coordinates": [
+          107.18811,
+          12.45583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prey Veng"
+      },
+      "geometry": {
+        "coordinates": [
+          105.32533,
+          11.48682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S'ang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.00776,
+          11.36067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koah Thum"
+      },
+      "geometry": {
+        "coordinates": [
+          105.05722,
+          11.12421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pursat"
+      },
+      "geometry": {
+        "coordinates": [
+          103.9192,
+          12.53878
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phumi Veal Sre"
+      },
+      "geometry": {
+        "coordinates": [
+          104.77828,
+          10.98081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bak Khlang"
+      },
+      "geometry": {
+        "coordinates": [
+          102.95542,
+          11.56903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thma Puok"
+      },
+      "geometry": {
+        "coordinates": [
+          103.05307,
+          13.93987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta Loas"
+      },
+      "geometry": {
+        "coordinates": [
+          103.46023,
+          12.8079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samraong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.51761,
+          14.18175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sala Krau"
+      },
+      "geometry": {
+        "coordinates": [
+          102.60891,
+          12.95612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preaek Prasab"
+      },
+      "geometry": {
+        "coordinates": [
+          106.03562,
+          12.35367
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koas Krala"
+      },
+      "geometry": {
+        "coordinates": [
+          103.25514,
+          12.75588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Seila"
+      },
+      "geometry": {
+        "coordinates": [
+          103.90078,
+          11.09167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chhuk"
+      },
+      "geometry": {
+        "coordinates": [
+          104.45528,
+          10.83644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chhloung"
+      },
+      "geometry": {
+        "coordinates": [
+          105.97004,
+          12.2561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bavel"
+      },
+      "geometry": {
+        "coordinates": [
+          102.87795,
+          13.25128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.14239,
+          12.93964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tbeng Meanchey"
+      },
+      "geometry": {
+        "coordinates": [
+          104.98046,
+          13.80731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paoy Paet"
+      },
+      "geometry": {
+        "coordinates": [
+          102.56365,
+          13.65805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pailin"
+      },
+      "geometry": {
+        "coordinates": [
+          102.60928,
+          12.84895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moung Ruessei"
+      },
+      "geometry": {
+        "coordinates": [
+          103.44926,
+          12.77452
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumphat"
+      },
+      "geometry": {
+        "coordinates": [
+          106.98022,
+          13.49146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuleaen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.69824,
+          13.82147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krong Kep"
+      },
+      "geometry": {
+        "coordinates": [
+          104.31672,
+          10.48291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koh Kong"
+      },
+      "geometry": {
+        "coordinates": [
+          102.9838,
+          11.61531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kratie"
+      },
+      "geometry": {
+        "coordinates": [
+          106.01879,
+          12.48811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batheay"
+      },
+      "geometry": {
+        "coordinates": [
+          104.94208,
+          11.98935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampot"
+      },
+      "geometry": {
+        "coordinates": [
+          104.18145,
+          10.61041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Trach"
+      },
+      "geometry": {
+        "coordinates": [
+          104.46753,
+          10.55847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Trabaek"
+      },
+      "geometry": {
+        "coordinates": [
+          105.48275,
+          11.14379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Thom"
+      },
+      "geometry": {
+        "coordinates": [
+          104.88873,
+          12.71112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Speu"
+      },
+      "geometry": {
+        "coordinates": [
+          104.52085,
+          11.45332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sihanoukville"
+      },
+      "geometry": {
+        "coordinates": [
+          103.52958,
+          10.60932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Chhnang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.66667,
+          12.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Cham"
+      },
+      "geometry": {
+        "coordinates": [
+          105.4635,
+          11.99339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sesan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.09224,
+          13.55329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ban Lung"
+      },
+      "geometry": {
+        "coordinates": [
+          106.98727,
+          13.73939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odongk"
+      },
+      "geometry": {
+        "coordinates": [
+          104.69945,
+          11.68267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battambang"
+      },
+      "geometry": {
+        "coordinates": [
+          103.19822,
+          13.10271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baray"
+      },
+      "geometry": {
+        "coordinates": [
+          105.07518,
+          12.39429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Kaev"
+      },
+      "geometry": {
+        "coordinates": [
+          107.21417,
+          13.6862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pal Hal"
+      },
+      "geometry": {
+        "coordinates": [
+          104.97859,
+          13.79226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anlong Veaeng"
+      },
+      "geometry": {
+        "coordinates": [
+          104.08107,
+          14.23223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sampov Lun"
+      },
+      "geometry": {
+        "coordinates": [
+          102.37574,
+          13.4319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smach Mean Chey"
+      },
+      "geometry": {
+        "coordinates": [
+          103.03569,
+          11.54665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phnum Proek"
+      },
+      "geometry": {
+        "coordinates": [
+          102.39546,
+          13.2235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamrieng"
+      },
+      "geometry": {
+        "coordinates": [
+          102.49074,
+          13.08806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samlout"
+      },
+      "geometry": {
+        "coordinates": [
+          102.85862,
+          12.61698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ou Chrov"
+      },
+      "geometry": {
+        "coordinates": [
+          102.58356,
+          13.63885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veal Veaeng"
+      },
+      "geometry": {
+        "coordinates": [
+          103.1023,
+          12.30491
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aek Phnum"
+      },
+      "geometry": {
+        "coordinates": [
+          103.23134,
+          13.15993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat Dambang"
+      },
+      "geometry": {
+        "coordinates": [
+          103.09037,
+          13.26298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phnum Srok"
+      },
+      "geometry": {
+        "coordinates": [
+          103.33892,
+          13.74403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kralanh"
+      },
+      "geometry": {
+        "coordinates": [
+          103.41903,
+          13.60535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongkol Borei"
+      },
+      "geometry": {
+        "coordinates": [
+          103.02693,
+          13.54057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preah Netr Preah"
+      },
+      "geometry": {
+        "coordinates": [
+          103.18212,
+          13.62371
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mondul Seima"
+      },
+      "geometry": {
+        "coordinates": [
+          102.95015,
+          11.62411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smach Meanchey"
+      },
+      "geometry": {
+        "coordinates": [
+          102.98801,
+          11.60412
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botum Sakor"
+      },
+      "geometry": {
+        "coordinates": [
+          103.47117,
+          11.1872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangkae"
+      },
+      "geometry": {
+        "coordinates": [
+          103.24454,
+          13.07943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mittakpheap"
+      },
+      "geometry": {
+        "coordinates": [
+          103.52473,
+          10.62268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thma Bang"
+      },
+      "geometry": {
+        "coordinates": [
+          103.52958,
+          11.62925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phnum Kravanh"
+      },
+      "geometry": {
+        "coordinates": [
+          103.7694,
+          12.35121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srei Snam"
+      },
+      "geometry": {
+        "coordinates": [
+          103.51315,
+          13.8342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chum Kiri"
+      },
+      "geometry": {
+        "coordinates": [
+          104.42185,
+          10.92522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampot"
+      },
+      "geometry": {
+        "coordinates": [
+          104.25611,
+          10.60421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Damnak Chang'aeur"
+      },
+      "geometry": {
+        "coordinates": [
+          104.36881,
+          10.53021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phnum Sruoch"
+      },
+      "geometry": {
+        "coordinates": [
+          104.37165,
+          11.385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thpong"
+      },
+      "geometry": {
+        "coordinates": [
+          104.42743,
+          11.75375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soutr Nikom"
+      },
+      "geometry": {
+        "coordinates": [
+          104.13784,
+          13.23879
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trapeang Prasat"
+      },
+      "geometry": {
+        "coordinates": [
+          104.35533,
+          14.18689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiri Vongs"
+      },
+      "geometry": {
+        "coordinates": [
+          104.87319,
+          10.63781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banteay Meas"
+      },
+      "geometry": {
+        "coordinates": [
+          104.56026,
+          10.66781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandal Stueng"
+      },
+      "geometry": {
+        "coordinates": [
+          104.82648,
+          11.4135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta Khmau"
+      },
+      "geometry": {
+        "coordinates": [
+          104.94556,
+          11.44641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tram Kak"
+      },
+      "geometry": {
+        "coordinates": [
+          104.67631,
+          11.01173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basedth"
+      },
+      "geometry": {
+        "coordinates": [
+          104.53641,
+          11.14918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mukh Kampul"
+      },
+      "geometry": {
+        "coordinates": [
+          104.97713,
+          11.73577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponhea Lueu"
+      },
+      "geometry": {
+        "coordinates": [
+          104.86684,
+          11.65577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruessei Kaev"
+      },
+      "geometry": {
+        "coordinates": [
+          104.90941,
+          11.62439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dangkao"
+      },
+      "geometry": {
+        "coordinates": [
+          104.85553,
+          11.56173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mean Chey"
+      },
+      "geometry": {
+        "coordinates": [
+          104.93662,
+          11.53264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Leaeng"
+      },
+      "geometry": {
+        "coordinates": [
+          104.72737,
+          12.27446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stueng Saen"
+      },
+      "geometry": {
+        "coordinates": [
+          104.89108,
+          12.71121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stoung"
+      },
+      "geometry": {
+        "coordinates": [
+          104.57072,
+          12.9404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bourei Cholsar"
+      },
+      "geometry": {
+        "coordinates": [
+          105.01851,
+          10.83431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preah Sdach"
+      },
+      "geometry": {
+        "coordinates": [
+          105.38447,
+          11.09511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kang Meas"
+      },
+      "geometry": {
+        "coordinates": [
+          105.27491,
+          11.94627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaoh Soutin"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42782,
+          11.88548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sithor Kandal"
+      },
+      "geometry": {
+        "coordinates": [
+          105.38274,
+          11.77264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prey Veaeng"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42058,
+          11.57101
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chamkar Leu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.28186,
+          12.30851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheung Prey"
+      },
+      "geometry": {
+        "coordinates": [
+          105.07475,
+          12.05685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prey Chhor"
+      },
+      "geometry": {
+        "coordinates": [
+          105.25723,
+          12.05804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.25407,
+          13.10459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumduol"
+      },
+      "geometry": {
+        "coordinates": [
+          105.82261,
+          11.15888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svay Teab"
+      },
+      "geometry": {
+        "coordinates": [
+          105.88531,
+          11.05456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me Sang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.54605,
+          11.32761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stueng Trang"
+      },
+      "geometry": {
+        "coordinates": [
+          105.53522,
+          12.25578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chantrea"
+      },
+      "geometry": {
+        "coordinates": [
+          106.12486,
+          10.98431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaev Seima"
+      },
+      "geometry": {
+        "coordinates": [
+          106.88061,
+          12.18739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ou Chum"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99378,
+          13.7978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andoung Meas"
+      },
+      "geometry": {
+        "coordinates": [
+          107.29682,
+          13.86724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ou Ya Dav"
+      },
+      "geometry": {
+        "coordinates": [
+          107.34701,
+          13.67061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangkom Thmei"
+      },
+      "geometry": {
+        "coordinates": [
+          104.91315,
+          13.58147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peam Ro"
+      },
+      "geometry": {
+        "coordinates": [
+          105.28366,
+          11.30852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampong Leav"
+      },
+      "geometry": {
+        "coordinates": [
+          105.34318,
+          11.49308
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leuk Daek"
+      },
+      "geometry": {
+        "coordinates": [
+          105.2292,
+          11.1751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peam Chor"
+      },
+      "geometry": {
+        "coordinates": [
+          105.22114,
+          11.09877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koun Mom"
+      },
+      "geometry": {
+        "coordinates": [
+          106.77289,
+          13.57767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pechreada"
+      },
+      "geometry": {
+        "coordinates": [
+          107.42393,
+          12.55254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prey Nob"
+      },
+      "geometry": {
+        "coordinates": [
+          103.82091,
+          10.70939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.78579,
+          12.60209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angkor Thum"
+      },
+      "geometry": {
+        "coordinates": [
+          103.87413,
+          13.48339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakong"
+      },
+      "geometry": {
+        "coordinates": [
+          103.98756,
+          13.34741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varin"
+      },
+      "geometry": {
+        "coordinates": [
+          103.76085,
+          13.79322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angkor Chum"
+      },
+      "geometry": {
+        "coordinates": [
+          103.6479,
+          13.68385
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

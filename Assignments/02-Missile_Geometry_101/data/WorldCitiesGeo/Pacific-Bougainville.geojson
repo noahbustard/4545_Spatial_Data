@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panguna"
+      },
+      "geometry": {
+        "coordinates": [
+          155.48483,
+          -6.31639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieta"
+      },
+      "geometry": {
+        "coordinates": [
+          155.63333,
+          -6.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arawa"
+      },
+      "geometry": {
+        "coordinates": [
+          155.56598,
+          -6.22977
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buka"
+      },
+      "geometry": {
+        "coordinates": [
+          154.67098,
+          -5.43261
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

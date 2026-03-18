@@ -1,0 +1,1998 @@
+{
+   "Aruba": {
+      "name": "Aruba",
+      "isLandLocked": 0,
+      "population": 105845,
+      "avgTemperatureCels": 29.17,
+      "popDensity": 588.0277778,
+      "lifeExpectancy": 78.4
+   },
+   "Afghanistan": {
+      "name": "Afghanistan",
+      "isLandLocked": 1,
+      "population": 37172386,
+      "avgTemperatureCels": 13.37,
+      "popDensity": 56.93776001,
+      "lifeExpectancy": 45.9
+   },
+   "Angola": {
+      "name": "Angola",
+      "isLandLocked": 0,
+      "population": 30809762,
+      "avgTemperatureCels": 21.77,
+      "popDensity": 24.71305206,
+      "lifeExpectancy": 38.3
+   },
+   "Anguilla": {
+      "name": "Anguilla",
+      "isLandLocked": 0,
+      "population": 15094,
+      "avgTemperatureCels": 27.71,
+      "popDensity": 167,
+      "lifeExpectancy": 76.1
+   },
+   "Albania": {
+      "name": "Albania",
+      "isLandLocked": 0,
+      "population": 2866376,
+      "avgTemperatureCels": 12.44,
+      "popDensity": 104.6122628,
+      "lifeExpectancy": 71.6
+   },
+   "Aland": {},
+   "Andorra": {
+      "name": "Andorra",
+      "isLandLocked": 1,
+      "population": 77006,
+      "avgTemperatureCels": 8.27,
+      "popDensity": 163.8425532,
+      "lifeExpectancy": 83.5
+   },
+   "United Arab Emirates": {
+      "name": "United Arab Emirates",
+      "isLandLocked": 0,
+      "population": 9630959,
+      "avgTemperatureCels": 28.17,
+      "popDensity": 135.6091101,
+      "lifeExpectancy": 74.1
+   },
+   "Argentina": {
+      "name": "Argentina",
+      "isLandLocked": 0,
+      "population": 44494502,
+      "avgTemperatureCels": 15.11,
+      "popDensity": 16.2585101,
+      "lifeExpectancy": 75.1
+   },
+   "Armenia": {
+      "name": "Armenia",
+      "isLandLocked": 1,
+      "population": 2951776,
+      "avgTemperatureCels": 7.82,
+      "popDensity": 103.6802248,
+      "lifeExpectancy": 66.4
+   },
+   "American Samoa": {
+      "name": "American Samoa",
+      "isLandLocked": 0,
+      "population": 55465,
+      "avgTemperatureCels": 27.38,
+      "popDensity": 277.325,
+      "lifeExpectancy": 75.1
+   },
+   "Antarctica": {
+      "name": "Antarctica",
+      "isLandLocked": 0,
+      "population": 1106,
+      "avgTemperatureCels": null,
+      "popDensity": 0.0035,
+      "lifeExpectancy": null
+   },
+   "Ashmore and Cartier Islands": {},
+   "French Southern and Antarctic Lands": {},
+   "Antigua and Barbuda": {
+      "name": "Antigua and Barbuda",
+      "isLandLocked": 0,
+      "population": 96286,
+      "avgTemperatureCels": 27.2,
+      "popDensity": 218.8318182,
+      "lifeExpectancy": 70.5
+   },
+   "Australia": {
+      "name": "Australia",
+      "isLandLocked": 0,
+      "population": 24982688,
+      "avgTemperatureCels": 22.05,
+      "popDensity": 3.249129487,
+      "lifeExpectancy": 79.8
+   },
+   "Austria": {
+      "name": "Austria",
+      "isLandLocked": 1,
+      "population": 8840521,
+      "avgTemperatureCels": 7.44,
+      "popDensity": 107.2069267,
+      "lifeExpectancy": 77.7
+   },
+   "Azerbaijan": {
+      "name": "Azerbaijan",
+      "isLandLocked": 1,
+      "population": 9939800,
+      "avgTemperatureCels": 12.96,
+      "popDensity": 120.2653199,
+      "lifeExpectancy": 62.9
+   },
+   "Burundi": {
+      "name": "Burundi",
+      "isLandLocked": 1,
+      "population": 11175378,
+      "avgTemperatureCels": 20.51,
+      "popDensity": 435.178271,
+      "lifeExpectancy": 46.2
+   },
+   "Belgium": {
+      "name": "Belgium",
+      "isLandLocked": 0,
+      "population": 11433256,
+      "avgTemperatureCels": 10.67,
+      "popDensity": 377.2149273,
+      "lifeExpectancy": 77.8
+   },
+   "Benin": {
+      "name": "Benin",
+      "isLandLocked": 0,
+      "population": 11485048,
+      "avgTemperatureCels": 28.02,
+      "popDensity": 101.8539198,
+      "lifeExpectancy": 50.2
+   },
+   "Burkina Faso": {
+      "name": "Burkina Faso",
+      "isLandLocked": 1,
+      "population": 19751535,
+      "avgTemperatureCels": 29.26,
+      "popDensity": 72.19128289,
+      "lifeExpectancy": 46.7
+   },
+   "Bangladesh": {
+      "name": "Bangladesh",
+      "isLandLocked": 0,
+      "population": 161356039,
+      "avgTemperatureCels": 25.71,
+      "popDensity": 1239.579312,
+      "lifeExpectancy": 60.2
+   },
+   "Bulgaria": {
+      "name": "Bulgaria",
+      "isLandLocked": 0,
+      "population": 7025037,
+      "avgTemperatureCels": 11.35,
+      "popDensity": 64.70353721,
+      "lifeExpectancy": 70.9
+   },
+   "Bahrain": {
+      "name": "Bahrain",
+      "isLandLocked": 0,
+      "population": 1569439,
+      "avgTemperatureCels": 27.69,
+      "popDensity": 2017.2737,
+      "lifeExpectancy": 73
+   },
+   "The Bahamas": {},
+   "Bosnia and Herzegovina": {
+      "name": "Bosnia and Herzegovina",
+      "isLandLocked": 0,
+      "population": 3323929,
+      "avgTemperatureCels": 10.35,
+      "popDensity": 64.92048828,
+      "lifeExpectancy": 71.5
+   },
+   "Bajo Nuevo Bank (Petrel Is.)": {},
+   "Saint Barthelemy": {},
+   "Belarus": {
+      "name": "Belarus",
+      "isLandLocked": 1,
+      "population": 9483499,
+      "avgTemperatureCels": 7.45,
+      "popDensity": 46.7287999,
+      "lifeExpectancy": 68
+   },
+   "Belize": {
+      "name": "Belize",
+      "isLandLocked": 0,
+      "population": 383071,
+      "avgTemperatureCels": 25.7,
+      "popDensity": 16.79399386,
+      "lifeExpectancy": 70.9
+   },
+   "Bermuda": {
+      "name": "Bermuda",
+      "isLandLocked": 0,
+      "population": 63973,
+      "avgTemperatureCels": 21.67,
+      "popDensity": 1184.592572,
+      "lifeExpectancy": 76.9
+   },
+   "Bolivia": {
+      "name": "Bolivia",
+      "isLandLocked": 1,
+      "population": 11353142,
+      "avgTemperatureCels": 20.76,
+      "popDensity": 10.48014585,
+      "lifeExpectancy": 63.7
+   },
+   "Brazil": {
+      "name": "Brazil",
+      "isLandLocked": 0,
+      "population": 209469333,
+      "avgTemperatureCels": 25.44,
+      "popDensity": 25.06171624,
+      "lifeExpectancy": 62.9
+   },
+   "Barbados": {
+      "name": "Barbados",
+      "isLandLocked": 0,
+      "population": 286641,
+      "avgTemperatureCels": 26.61,
+      "popDensity": 666.6069767,
+      "lifeExpectancy": 73
+   },
+   "Brunei": {
+      "name": "Brunei",
+      "isLandLocked": 0,
+      "population": 428962,
+      "avgTemperatureCels": 26.95,
+      "popDensity": 81.39696395,
+      "lifeExpectancy": 73.6
+   },
+   "Bhutan": {
+      "name": "Bhutan",
+      "isLandLocked": 1,
+      "population": 754394,
+      "avgTemperatureCels": 10.38,
+      "popDensity": 19.77752777,
+      "lifeExpectancy": 52.4
+   },
+   "Botswana": {
+      "name": "Botswana",
+      "isLandLocked": 1,
+      "population": 2254126,
+      "avgTemperatureCels": 22.09,
+      "popDensity": 3.977424876,
+      "lifeExpectancy": 39.3
+   },
+   "Central African Republic": {
+      "name": "Central African Republic",
+      "isLandLocked": 1,
+      "population": 4666377,
+      "avgTemperatureCels": 25.47,
+      "popDensity": 7.490412212,
+      "lifeExpectancy": 44
+   },
+   "Canada": {
+      "name": "Canada",
+      "isLandLocked": 0,
+      "population": 37057765,
+      "avgTemperatureCels": -4.03,
+      "popDensity": 4.075308214,
+      "lifeExpectancy": 79.4
+   },
+   "Switzerland": {
+      "name": "Switzerland",
+      "isLandLocked": 1,
+      "population": 8513227,
+      "avgTemperatureCels": 6.47,
+      "popDensity": 215.5213784,
+      "lifeExpectancy": 79.6
+   },
+   "Chile": {
+      "name": "Chile",
+      "isLandLocked": 0,
+      "population": 18729160,
+      "avgTemperatureCels": 9.39,
+      "popDensity": 25.18944607,
+      "lifeExpectancy": 75.7
+   },
+   "China": {
+      "name": "China",
+      "isLandLocked": 0,
+      "population": 1392730000,
+      "avgTemperatureCels": 7.59,
+      "popDensity": 148.3488333,
+      "lifeExpectancy": 71.4
+   },
+   "Ivory Coast": {
+      "name": "Ivory Coast",
+      "isLandLocked": 0,
+      "population": 25069229,
+      "avgTemperatureCels": 26.8,
+      "popDensity": 78.83405346,
+      "lifeExpectancy": 45.2
+   },
+   "Clipperton Island": {},
+   "Cameroon": {
+      "name": "Cameroon",
+      "isLandLocked": 0,
+      "population": 25216237,
+      "avgTemperatureCels": 24.8,
+      "popDensity": 53.34398891,
+      "lifeExpectancy": 54.8
+   },
+   "Cyprus No Mans Area": {},
+   "Democratic Republic of the Congo": {},
+   "Republic of Congo": {},
+   "Cook Islands": {
+      "name": "Cook Islands",
+      "isLandLocked": 0,
+      "population": 17379,
+      "avgTemperatureCels": 24.71,
+      "popDensity": 73,
+      "lifeExpectancy": 71.1
+   },
+   "Colombia": {
+      "name": "Colombia",
+      "isLandLocked": 0,
+      "population": 49648685,
+      "avgTemperatureCels": 25,
+      "popDensity": 44.74870212,
+      "lifeExpectancy": 70.3
+   },
+   "Comoros": {
+      "name": "Comoros",
+      "isLandLocked": 0,
+      "population": 832322,
+      "avgTemperatureCels": 23.73,
+      "popDensity": 447.2444775,
+      "lifeExpectancy": 60
+   },
+   "Cape Verde": {
+      "name": "Cape Verde",
+      "isLandLocked": 0,
+      "avgTemperatureCels": 22.53,
+      "popDensity": 134.9297767,
+      "lifeExpectancy": 68.9
+   },
+   "Costa Rica": {
+      "name": "Costa Rica",
+      "isLandLocked": 0,
+      "population": 4999441,
+      "avgTemperatureCels": 24.83,
+      "popDensity": 97.91306306,
+      "lifeExpectancy": 75.8
+   },
+   "Coral Sea Islands": {},
+   "Cuba": {
+      "name": "Cuba",
+      "isLandLocked": 0,
+      "population": 11338138,
+      "avgTemperatureCels": 25.81,
+      "popDensity": 108.9995962,
+      "lifeExpectancy": 76.2
+   },
+   "Cura\u00e7ao": {},
+   "Cayman Islands": {
+      "name": "Cayman Islands",
+      "isLandLocked": 0,
+      "population": 64174,
+      "avgTemperatureCels": 27.82,
+      "popDensity": 267.3916667,
+      "lifeExpectancy": 78.9
+   },
+   "Northern Cyprus": {},
+   "Cyprus": {
+      "name": "Cyprus",
+      "isLandLocked": 0,
+      "population": 1189265,
+      "avgTemperatureCels": 18.95,
+      "popDensity": 128.7083333,
+      "lifeExpectancy": 76.7
+   },
+   "Czech Republic": {
+      "name": "Czech Republic",
+      "isLandLocked": 1,
+      "population": 10629928,
+      "avgTemperatureCels": 8.6,
+      "popDensity": 137.6028879,
+      "lifeExpectancy": 74.5
+   },
+   "Germany": {
+      "name": "Germany",
+      "isLandLocked": 0,
+      "population": 82905782,
+      "avgTemperatureCels": 9.59,
+      "popDensity": 237.3709698,
+      "lifeExpectancy": 77.4
+   },
+   "Djibouti": {
+      "name": "Djibouti",
+      "isLandLocked": 0,
+      "population": 958920,
+      "avgTemperatureCels": 28.49,
+      "popDensity": 41.36842105,
+      "lifeExpectancy": 50.8
+   },
+   "Dominica": {
+      "name": "Dominica",
+      "isLandLocked": 0,
+      "population": 71625,
+      "avgTemperatureCels": 26.83,
+      "popDensity": 95.5,
+      "lifeExpectancy": 73.4
+   },
+   "Denmark": {
+      "name": "Denmark",
+      "isLandLocked": 0,
+      "population": 5793636,
+      "avgTemperatureCels": 8.9,
+      "popDensity": 138.0673017,
+      "lifeExpectancy": 76.5
+   },
+   "Dominican Republic": {
+      "name": "Dominican Republic",
+      "isLandLocked": 0,
+      "population": 10627165,
+      "avgTemperatureCels": 24.55,
+      "popDensity": 219.9785759,
+      "lifeExpectancy": 73.2
+   },
+   "Algeria": {
+      "name": "Algeria",
+      "isLandLocked": 0,
+      "population": 42228429,
+      "avgTemperatureCels": 23.6,
+      "popDensity": 17.73007507,
+      "lifeExpectancy": 69.7
+   },
+   "Ecuador": {
+      "name": "Ecuador",
+      "isLandLocked": 0,
+      "population": 17084357,
+      "avgTemperatureCels": 21.43,
+      "popDensity": 68.78868175,
+      "lifeExpectancy": 71.1
+   },
+   "Egypt": {
+      "name": "Egypt",
+      "isLandLocked": 0,
+      "population": 98423595,
+      "avgTemperatureCels": 23.14,
+      "popDensity": 98.87346929,
+      "lifeExpectancy": 63.3
+   },
+   "Eritrea": {
+      "name": "Eritrea",
+      "isLandLocked": 0,
+      "population": 6213972,
+      "avgTemperatureCels": 26.63,
+      "popDensity": 35,
+      "lifeExpectancy": 55.8
+   },
+   "Dhekelia Sovereign Base Area": {},
+   "Spain": {
+      "name": "Spain",
+      "isLandLocked": 0,
+      "population": 46796540,
+      "avgTemperatureCels": 14.07,
+      "popDensity": 93.52905826,
+      "lifeExpectancy": 78.8
+   },
+   "Estonia": {
+      "name": "Estonia",
+      "isLandLocked": 0,
+      "population": 1321977,
+      "avgTemperatureCels": 6.34,
+      "popDensity": 30.38610536,
+      "lifeExpectancy": 69.5
+   },
+   "Ethiopia": {
+      "name": "Ethiopia",
+      "isLandLocked": 1,
+      "population": 109224559,
+      "avgTemperatureCels": 23.37,
+      "popDensity": 109.224559,
+      "lifeExpectancy": 45.2
+   },
+   "Finland": {
+      "name": "Finland",
+      "isLandLocked": 0,
+      "population": 5515525,
+      "avgTemperatureCels": 2.46,
+      "popDensity": 18.15685565,
+      "lifeExpectancy": 77.4
+   },
+   "Fiji": {},
+   "Falkland Islands": {
+      "name": "Falkland Islands",
+      "isLandLocked": 0,
+      "population": 2840,
+      "avgTemperatureCels": null,
+      "popDensity": 0.28,
+      "lifeExpectancy": null
+   },
+   "France": {
+      "name": "France",
+      "isLandLocked": 0,
+      "population": 66977107,
+      "avgTemperatureCels": 11.65,
+      "popDensity": 122.3383957,
+      "lifeExpectancy": 78.8
+   },
+   "Faroe Islands": {
+      "name": "Faroe Islands",
+      "isLandLocked": 0,
+      "population": 48497,
+      "avgTemperatureCels": 6.6,
+      "popDensity": 34.73996983,
+      "lifeExpectancy": 78.4
+   },
+   "Federated States of Micronesia": {},
+   "Gabon": {
+      "name": "Gabon",
+      "isLandLocked": 0,
+      "population": 2119275,
+      "avgTemperatureCels": 25.2,
+      "popDensity": 8.224764233,
+      "lifeExpectancy": 50.1
+   },
+   "United Kingdom": {
+      "name": "United Kingdom",
+      "isLandLocked": 0,
+      "population": 66460344,
+      "avgTemperatureCels": 9.24,
+      "popDensity": 274.8273922,
+      "lifeExpectancy": 77.7
+   },
+   "Georgia": {
+      "name": "Georgia",
+      "isLandLocked": 0,
+      "population": 3726549,
+      "avgTemperatureCels": 9.01,
+      "popDensity": 65.27520207,
+      "lifeExpectancy": 64.5
+   },
+   "Guernsey": {},
+   "Ghana": {
+      "name": "Ghana",
+      "isLandLocked": 0,
+      "population": 29767108,
+      "avgTemperatureCels": 27.66,
+      "popDensity": 130.8214292,
+      "lifeExpectancy": 57.4
+   },
+   "Gibraltar": {
+      "name": "Gibraltar",
+      "isLandLocked": 0,
+      "population": 33718,
+      "avgTemperatureCels": 18.15,
+      "popDensity": 3371.8,
+      "lifeExpectancy": 79
+   },
+   "Guinea": {
+      "name": "Guinea",
+      "isLandLocked": 0,
+      "population": 12414318,
+      "avgTemperatureCels": 25.86,
+      "popDensity": 50.52221227,
+      "lifeExpectancy": 45.6
+   },
+   "Gambia": {
+      "name": "Gambia",
+      "isLandLocked": 0,
+      "population": 2280102,
+      "avgTemperatureCels": 28.38,
+      "popDensity": 225.3065217,
+      "lifeExpectancy": 53.2
+   },
+   "Guinea Bissau": {},
+   "Equatorial Guinea": {
+      "name": "Equatorial Guinea",
+      "isLandLocked": 0,
+      "population": 1308974,
+      "avgTemperatureCels": 24.66,
+      "popDensity": 46.66573975,
+      "lifeExpectancy": 53.6
+   },
+   "Greece": {
+      "name": "Greece",
+      "isLandLocked": 0,
+      "population": 10731726,
+      "avgTemperatureCels": 14.26,
+      "popDensity": 83.22473235,
+      "lifeExpectancy": 78.4
+   },
+   "Grenada": {
+      "name": "Grenada",
+      "isLandLocked": 0,
+      "population": 111454,
+      "avgTemperatureCels": 26.49,
+      "popDensity": 327.8058824,
+      "lifeExpectancy": 64.5
+   },
+   "Greenland": {
+      "name": "Greenland",
+      "isLandLocked": 0,
+      "population": 56025,
+      "avgTemperatureCels": -18.68,
+      "popDensity": 0.136496528,
+      "lifeExpectancy": 68.1
+   },
+   "Guatemala": {
+      "name": "Guatemala",
+      "isLandLocked": 0,
+      "population": 17247807,
+      "avgTemperatureCels": 23.65,
+      "popDensity": 160.9537794,
+      "lifeExpectancy": 66.2
+   },
+   "Guam": {
+      "name": "Guam",
+      "isLandLocked": 0,
+      "population": 165768,
+      "avgTemperatureCels": 27.81,
+      "popDensity": 306.9777778,
+      "lifeExpectancy": 77.8
+   },
+   "Guyana": {
+      "name": "Guyana",
+      "isLandLocked": 0,
+      "population": 779004,
+      "avgTemperatureCels": 26.12,
+      "popDensity": 3.957348235,
+      "lifeExpectancy": 64
+   },
+   "Hong Kong S.A.R.": {},
+   "Heard Island and McDonald Islands": {
+      "name": "Heard Island and McDonald Islands",
+      "isLandLocked": 0,
+      "population": 0,
+      "avgTemperatureCels": 2.46,
+      "popDensity": 0,
+      "lifeExpectancy": null
+   },
+   "Honduras": {
+      "name": "Honduras",
+      "isLandLocked": 0,
+      "population": 9587522,
+      "avgTemperatureCels": 24.72,
+      "popDensity": 85.68703191,
+      "lifeExpectancy": 69.9
+   },
+   "Croatia": {
+      "name": "Croatia",
+      "isLandLocked": 0,
+      "population": 4087843,
+      "avgTemperatureCels": 11.96,
+      "popDensity": 73.077198,
+      "lifeExpectancy": 73.7
+   },
+   "Haiti": {
+      "name": "Haiti",
+      "isLandLocked": 0,
+      "population": 11123176,
+      "avgTemperatureCels": 24.95,
+      "popDensity": 403.5985486,
+      "lifeExpectancy": 49.2
+   },
+   "Hungary": {
+      "name": "Hungary",
+      "isLandLocked": 1,
+      "population": 9775564,
+      "avgTemperatureCels": 11.5,
+      "popDensity": 107.9066055,
+      "lifeExpectancy": 71.4
+   },
+   "Indonesia": {
+      "name": "Indonesia",
+      "isLandLocked": 0,
+      "population": 267663435,
+      "avgTemperatureCels": 25.96,
+      "popDensity": 147.7521901,
+      "lifeExpectancy": 70.1
+   },
+   "Isle of Man": {},
+   "India": {
+      "name": "India",
+      "isLandLocked": 0,
+      "population": 1352617328,
+      "avgTemperatureCels": 24.94,
+      "popDensity": 454.9380726,
+      "lifeExpectancy": 62.5
+   },
+   "Indian Ocean Territories": {},
+   "British Indian Ocean Territory": {
+      "name": "British Indian Ocean Territory",
+      "isLandLocked": 0,
+      "population": 0,
+      "avgTemperatureCels": 27.61,
+      "popDensity": 58.3,
+      "lifeExpectancy": null
+   },
+   "Ireland": {
+      "name": "Ireland",
+      "isLandLocked": 0,
+      "population": 4867309,
+      "avgTemperatureCels": 9.73,
+      "popDensity": 70.45298302,
+      "lifeExpectancy": 76.8
+   },
+   "Iran": {
+      "name": "Iran",
+      "isLandLocked": 0,
+      "population": 81800269,
+      "avgTemperatureCels": 18.34,
+      "popDensity": 50.22242012,
+      "lifeExpectancy": 69.7
+   },
+   "Iraq": {
+      "name": "Iraq",
+      "isLandLocked": 0,
+      "population": 38433600,
+      "avgTemperatureCels": 22.95,
+      "popDensity": 88.53057004,
+      "lifeExpectancy": 66.5
+   },
+   "Iceland": {
+      "name": "Iceland",
+      "isLandLocked": 0,
+      "population": 352721,
+      "avgTemperatureCels": 1.85,
+      "popDensity": 3.526922693,
+      "lifeExpectancy": 79.4
+   },
+   "Israel": {
+      "name": "Israel",
+      "isLandLocked": 0,
+      "population": 8882800,
+      "avgTemperatureCels": 19.99,
+      "popDensity": 410.5268022,
+      "lifeExpectancy": 78.6
+   },
+   "Italy": {
+      "name": "Italy",
+      "isLandLocked": 0,
+      "population": 60421760,
+      "avgTemperatureCels": 13.22,
+      "popDensity": 205.4507479,
+      "lifeExpectancy": 79
+   },
+   "Jamaica": {
+      "name": "Jamaica",
+      "isLandLocked": 0,
+      "population": 2934855,
+      "avgTemperatureCels": 25.91,
+      "popDensity": 270.9930748,
+      "lifeExpectancy": 75.2
+   },
+   "Jersey": {},
+   "Jordan": {
+      "name": "Jordan",
+      "isLandLocked": 0,
+      "population": 9956011,
+      "avgTemperatureCels": 19.52,
+      "popDensity": 112.1424983,
+      "lifeExpectancy": 77.4
+   },
+   "Japan": {
+      "name": "Japan",
+      "isLandLocked": 0,
+      "population": 126529100,
+      "avgTemperatureCels": 11.78,
+      "popDensity": 347.0734584,
+      "lifeExpectancy": 80.7
+   },
+   "Baykonur Cosmodrome": {},
+   "Siachen Glacier": {},
+   "Kazakhstan": {
+      "name": "Kazakhstan",
+      "isLandLocked": 1,
+      "population": 18272430,
+      "avgTemperatureCels": 7.11,
+      "popDensity": 6.769825907,
+      "lifeExpectancy": 63.2
+   },
+   "Kenya": {
+      "name": "Kenya",
+      "isLandLocked": 0,
+      "population": 51393010,
+      "avgTemperatureCels": 25.08,
+      "popDensity": 90.29941666,
+      "lifeExpectancy": 48
+   },
+   "Kyrgyzstan": {
+      "name": "Kyrgyzstan",
+      "isLandLocked": 1,
+      "population": 6322800,
+      "avgTemperatureCels": 2.65,
+      "popDensity": 32.92909281,
+      "lifeExpectancy": 63.4
+   },
+   "Cambodia": {
+      "name": "Cambodia",
+      "isLandLocked": 0,
+      "population": 16249798,
+      "avgTemperatureCels": 27.41,
+      "popDensity": 92.05641287,
+      "lifeExpectancy": 56.5
+   },
+   "Kiribati": {
+      "name": "Kiribati",
+      "isLandLocked": 0,
+      "population": 115847,
+      "avgTemperatureCels": 27.77,
+      "popDensity": 143.0209877,
+      "lifeExpectancy": 59.8
+   },
+   "Saint Kitts and Nevis": {
+      "name": "Saint Kitts and Nevis",
+      "isLandLocked": 0,
+      "population": 52441,
+      "avgTemperatureCels": 27.47,
+      "popDensity": 201.6961538,
+      "lifeExpectancy": 70.7
+   },
+   "South Korea": {
+      "name": "South Korea",
+      "isLandLocked": 0,
+      "population": 51606633,
+      "avgTemperatureCels": 12.22,
+      "popDensity": 529.6521036,
+      "lifeExpectancy": 74.4
+   },
+   "Kosovo": {},
+   "Kuwait": {
+      "name": "Kuwait",
+      "isLandLocked": 0,
+      "population": 4137309,
+      "avgTemperatureCels": 26.31,
+      "popDensity": 232.1722222,
+      "lifeExpectancy": 76.1
+   },
+   "Laos": {
+      "name": "Laos",
+      "isLandLocked": 1,
+      "population": 7061507,
+      "avgTemperatureCels": 24.16,
+      "popDensity": 30.59578423,
+      "lifeExpectancy": 53.1
+   },
+   "Lebanon": {
+      "name": "Lebanon",
+      "isLandLocked": 0,
+      "population": 6848925,
+      "avgTemperatureCels": 15.45,
+      "popDensity": 669.4941349,
+      "lifeExpectancy": 71.3
+   },
+   "Liberia": {
+      "name": "Liberia",
+      "isLandLocked": 0,
+      "population": 4818977,
+      "avgTemperatureCels": 25.45,
+      "popDensity": 50.03090739,
+      "lifeExpectancy": 51
+   },
+   "Libya": {
+      "name": "Libya",
+      "isLandLocked": 0,
+      "population": 6678567,
+      "avgTemperatureCels": 22.81,
+      "popDensity": 3.795632381,
+      "lifeExpectancy": 75.5
+   },
+   "Saint Lucia": {
+      "name": "Saint Lucia",
+      "isLandLocked": 0,
+      "population": 181889,
+      "avgTemperatureCels": 27,
+      "popDensity": 298.1786885,
+      "lifeExpectancy": 72.3
+   },
+   "Liechtenstein": {
+      "name": "Liechtenstein",
+      "isLandLocked": 1,
+      "population": 37910,
+      "avgTemperatureCels": 7.55,
+      "popDensity": 236.9375,
+      "lifeExpectancy": 78.8
+   },
+   "Sri Lanka": {
+      "name": "Sri Lanka",
+      "isLandLocked": 0,
+      "population": 21670000,
+      "avgTemperatureCels": 27.25,
+      "popDensity": 345.558922,
+      "lifeExpectancy": 75.5
+   },
+   "Lesotho": {
+      "name": "Lesotho",
+      "isLandLocked": 1,
+      "population": 2108132,
+      "avgTemperatureCels": 12.38,
+      "popDensity": 69.43781291,
+      "lifeExpectancy": 50.8
+   },
+   "Lithuania": {
+      "name": "Lithuania",
+      "isLandLocked": 0,
+      "population": 2801543,
+      "avgTemperatureCels": 7.38,
+      "popDensity": 44.53135138,
+      "lifeExpectancy": 69.1
+   },
+   "Luxembourg": {
+      "name": "Luxembourg",
+      "isLandLocked": 1,
+      "population": 607950,
+      "avgTemperatureCels": 10.02,
+      "popDensity": 250.0938272,
+      "lifeExpectancy": 77.1
+   },
+   "Latvia": {
+      "name": "Latvia",
+      "isLandLocked": 0,
+      "population": 1927174,
+      "avgTemperatureCels": 6.87,
+      "popDensity": 30.98330653,
+      "lifeExpectancy": 68.4
+   },
+   "Macao S.A.R": {},
+   "Saint Martin": {},
+   "Morocco": {
+      "name": "Morocco",
+      "isLandLocked": 0,
+      "population": 36029138,
+      "avgTemperatureCels": 18.14,
+      "popDensity": 80.72851893,
+      "lifeExpectancy": 69.1
+   },
+   "Monaco": {
+      "name": "Monaco",
+      "isLandLocked": 0,
+      "population": 38682,
+      "avgTemperatureCels": 13.53,
+      "popDensity": 19196,
+      "lifeExpectancy": 78.8
+   },
+   "Moldova": {
+      "name": "Moldova",
+      "isLandLocked": 1,
+      "population": 2706049,
+      "avgTemperatureCels": 10.89,
+      "popDensity": 123.5198035,
+      "lifeExpectancy": 64.5
+   },
+   "Madagascar": {
+      "name": "Madagascar",
+      "isLandLocked": 0,
+      "population": 26262368,
+      "avgTemperatureCels": 22.64,
+      "popDensity": 45.13985562,
+      "lifeExpectancy": 55
+   },
+   "Maldives": {
+      "name": "Maldives",
+      "isLandLocked": 0,
+      "population": 515696,
+      "avgTemperatureCels": 28.11,
+      "popDensity": 1718.986667,
+      "lifeExpectancy": 62.2
+   },
+   "Mexico": {
+      "name": "Mexico",
+      "isLandLocked": 0,
+      "population": 126190788,
+      "avgTemperatureCels": 21.31,
+      "popDensity": 64.91462641,
+      "lifeExpectancy": 71.5
+   },
+   "Marshall Islands": {
+      "name": "Marshall Islands",
+      "isLandLocked": 0,
+      "population": 58413,
+      "avgTemperatureCels": 28.01,
+      "popDensity": 324.5166667,
+      "lifeExpectancy": 65.5
+   },
+   "Macedonia": {},
+   "Mali": {
+      "name": "Mali",
+      "isLandLocked": 1,
+      "population": 19077690,
+      "avgTemperatureCels": 29.21,
+      "popDensity": 15.63501586,
+      "lifeExpectancy": 46.7
+   },
+   "Malta": {
+      "name": "Malta",
+      "isLandLocked": 0,
+      "population": 484630,
+      "avgTemperatureCels": 19.58,
+      "popDensity": 1511.03125,
+      "lifeExpectancy": 77.9
+   },
+   "Myanmar": {
+      "name": "Myanmar",
+      "isLandLocked": 0,
+      "population": 53708395,
+      "avgTemperatureCels": 23.82,
+      "popDensity": 82.23861548,
+      "lifeExpectancy": 54.9
+   },
+   "Montenegro": {
+      "name": "Montenegro",
+      "population": 631219
+   },
+   "Mongolia": {
+      "name": "Mongolia",
+      "isLandLocked": 1,
+      "population": 3170208,
+      "avgTemperatureCels": 1.07,
+      "popDensity": 2.040608667,
+      "lifeExpectancy": 67.3
+   },
+   "Northern Mariana Islands": {
+      "name": "Northern Mariana Islands",
+      "isLandLocked": 0,
+      "population": 56882,
+      "avgTemperatureCels": 27.6,
+      "popDensity": 123.6565217,
+      "lifeExpectancy": 75.5
+   },
+   "Mozambique": {
+      "name": "Mozambique",
+      "isLandLocked": 0,
+      "population": 29495962,
+      "avgTemperatureCels": 24.41,
+      "popDensity": 37.50853531,
+      "lifeExpectancy": 37.5
+   },
+   "Mauritania": {
+      "name": "Mauritania",
+      "isLandLocked": 0,
+      "population": 4403319,
+      "avgTemperatureCels": 28.82,
+      "popDensity": 4.272163578,
+      "lifeExpectancy": 50.8
+   },
+   "Montserrat": {
+      "name": "Montserrat",
+      "isLandLocked": 0,
+      "population": 5900,
+      "avgTemperatureCels": 25.75,
+      "popDensity": 50,
+      "lifeExpectancy": 78
+   },
+   "Mauritius": {
+      "name": "Mauritius",
+      "isLandLocked": 0,
+      "population": 1265303,
+      "avgTemperatureCels": 23.33,
+      "popDensity": 623.3019704,
+      "lifeExpectancy": 71
+   },
+   "Malawi": {
+      "name": "Malawi",
+      "isLandLocked": 1,
+      "population": 18143315,
+      "avgTemperatureCels": 22.66,
+      "popDensity": 192.4407616,
+      "lifeExpectancy": 37.6
+   },
+   "Malaysia": {
+      "name": "Malaysia",
+      "isLandLocked": 0,
+      "population": 31528585,
+      "avgTemperatureCels": 26.38,
+      "popDensity": 95.96282149,
+      "lifeExpectancy": 70.8
+   },
+   "Namibia": {
+      "name": "Namibia",
+      "isLandLocked": 0,
+      "population": 2448255,
+      "avgTemperatureCels": 20.45,
+      "popDensity": 2.973745582,
+      "lifeExpectancy": 42.5
+   },
+   "New Caledonia": {
+      "name": "New Caledonia",
+      "isLandLocked": 0,
+      "population": 284060,
+      "avgTemperatureCels": 22.69,
+      "popDensity": 15.53938731,
+      "lifeExpectancy": 72.8
+   },
+   "Niger": {
+      "name": "Niger",
+      "isLandLocked": 1,
+      "population": 22442948,
+      "avgTemperatureCels": 28.04,
+      "popDensity": 17.71765059,
+      "lifeExpectancy": 41.3
+   },
+   "Norfolk Island": {
+      "name": "Norfolk Island",
+      "isLandLocked": 0,
+      "population": 2169,
+      "avgTemperatureCels": 19.01,
+      "popDensity": 61.9,
+      "lifeExpectancy": null
+   },
+   "Nigeria": {
+      "name": "Nigeria",
+      "isLandLocked": 0,
+      "population": 195874740,
+      "avgTemperatureCels": 27.3,
+      "popDensity": 215.064989,
+      "lifeExpectancy": 51.6
+   },
+   "Nicaragua": {
+      "name": "Nicaragua",
+      "isLandLocked": 0,
+      "population": 6465513,
+      "avgTemperatureCels": 25.88,
+      "popDensity": 53.72704836,
+      "lifeExpectancy": 68.7
+   },
+   "Niue": {
+      "name": "Niue",
+      "isLandLocked": 0,
+      "population": 1624,
+      "avgTemperatureCels": 25.03,
+      "popDensity": 5.35,
+      "lifeExpectancy": null
+   },
+   "Netherlands": {
+      "name": "Netherlands",
+      "isLandLocked": 0,
+      "population": 17231624,
+      "avgTemperatureCels": 10.49,
+      "popDensity": 511.4579104,
+      "lifeExpectancy": 78.3
+   },
+   "Norway": {
+      "name": "Norway",
+      "isLandLocked": 0,
+      "population": 5311916,
+      "avgTemperatureCels": 2.21,
+      "popDensity": 14.55491954,
+      "lifeExpectancy": 78.7
+   },
+   "Nepal": {
+      "name": "Nepal",
+      "isLandLocked": 1,
+      "population": 28087871,
+      "avgTemperatureCels": 14.17,
+      "popDensity": 195.9391071,
+      "lifeExpectancy": 57.8
+   },
+   "Nauru": {
+      "name": "Nauru",
+      "isLandLocked": 0,
+      "population": 12704,
+      "avgTemperatureCels": 27.83,
+      "popDensity": 635.2,
+      "lifeExpectancy": 60.8
+   },
+   "New Zealand": {
+      "name": "New Zealand",
+      "isLandLocked": 0,
+      "population": 4841000,
+      "avgTemperatureCels": 10.46,
+      "popDensity": 18.55417569,
+      "lifeExpectancy": 77.8
+   },
+   "Oman": {
+      "name": "Oman",
+      "isLandLocked": 0,
+      "population": 4829483,
+      "avgTemperatureCels": 27.64,
+      "popDensity": 15.6041454,
+      "lifeExpectancy": 71.8
+   },
+   "Pakistan": {
+      "name": "Pakistan",
+      "isLandLocked": 0,
+      "population": 212215030,
+      "avgTemperatureCels": 21.38,
+      "popDensity": 275.2893187,
+      "lifeExpectancy": 61.1
+   },
+   "Panama": {
+      "name": "Panama",
+      "isLandLocked": 0,
+      "population": 4176873,
+      "avgTemperatureCels": 25.6,
+      "popDensity": 56.18607748,
+      "lifeExpectancy": 75.5
+   },
+   "Pitcairn Islands": {},
+   "Peru": {
+      "name": "Peru",
+      "isLandLocked": 0,
+      "population": 31989256,
+      "avgTemperatureCels": 19.72,
+      "popDensity": 24.99160625,
+      "lifeExpectancy": 70
+   },
+   "Spratly Islands": {},
+   "Philippines": {
+      "name": "Philippines",
+      "isLandLocked": 0,
+      "population": 106651922,
+      "avgTemperatureCels": 26.27,
+      "popDensity": 357.6883053,
+      "lifeExpectancy": 67.5
+   },
+   "Palau": {
+      "name": "Palau",
+      "isLandLocked": 0,
+      "population": 17907,
+      "avgTemperatureCels": 27.9,
+      "popDensity": 38.92826087,
+      "lifeExpectancy": 68.6
+   },
+   "Papua New Guinea": {
+      "name": "Papua New Guinea",
+      "isLandLocked": 0,
+      "population": 8606316,
+      "avgTemperatureCels": 24.74,
+      "popDensity": 19.00436338,
+      "lifeExpectancy": 63.1
+   },
+   "Poland": {
+      "name": "Poland",
+      "isLandLocked": 0,
+      "population": 37974750,
+      "avgTemperatureCels": 8.78,
+      "popDensity": 124.0358862,
+      "lifeExpectancy": 73.2
+   },
+   "Puerto Rico": {
+      "name": "Puerto Rico",
+      "isLandLocked": 0,
+      "population": 3195153,
+      "avgTemperatureCels": 25.04,
+      "popDensity": 360.2201804,
+      "lifeExpectancy": 75.6
+   },
+   "North Korea": {
+      "name": "North Korea",
+      "isLandLocked": 0,
+      "population": 25549819,
+      "avgTemperatureCels": 6.98,
+      "popDensity": 212.1901752,
+      "lifeExpectancy": 70.7
+   },
+   "Portugal": {
+      "name": "Portugal",
+      "isLandLocked": 0,
+      "population": 10283822,
+      "avgTemperatureCels": 15.85,
+      "popDensity": 112.2394535,
+      "lifeExpectancy": 75.8
+   },
+   "Paraguay": {
+      "name": "Paraguay",
+      "isLandLocked": 1,
+      "population": 6956071,
+      "avgTemperatureCels": 23.92,
+      "popDensity": 17.50835892,
+      "lifeExpectancy": 73.7
+   },
+   "Palestine": {
+      "name": "Palestine",
+      "isLandLocked": 0,
+      "population": 4569087,
+      "avgTemperatureCels": 19.5,
+      "popDensity": 758.9845515,
+      "lifeExpectancy": 71.4
+   },
+   "French Polynesia": {
+      "name": "French Polynesia",
+      "isLandLocked": 0,
+      "population": 277679,
+      "avgTemperatureCels": 24.3,
+      "popDensity": 75.86857923,
+      "lifeExpectancy": 74.8
+   },
+   "Qatar": {
+      "name": "Qatar",
+      "isLandLocked": 0,
+      "population": 2781677,
+      "avgTemperatureCels": 28.02,
+      "popDensity": 239.5931955,
+      "lifeExpectancy": 72.4
+   },
+   "Romania": {
+      "name": "Romania",
+      "isLandLocked": 0,
+      "population": 19466145,
+      "avgTemperatureCels": 10.18,
+      "popDensity": 84.63984701,
+      "lifeExpectancy": 69.9
+   },
+   "Russia": {
+      "name": "Russia",
+      "isLandLocked": 0,
+      "population": 144478050,
+      "avgTemperatureCels": -3.79,
+      "popDensity": 8.822079555,
+      "lifeExpectancy": 67.2
+   },
+   "Rwanda": {
+      "name": "Rwanda",
+      "isLandLocked": 1,
+      "population": 12301939,
+      "avgTemperatureCels": 19.2,
+      "popDensity": 498.6598703,
+      "lifeExpectancy": 39.3
+   },
+   "Western Sahara": {
+      "name": "Western Sahara",
+      "isLandLocked": 0,
+      "population": 652271,
+      "avgTemperatureCels": null,
+      "popDensity": 2.03,
+      "lifeExpectancy": 49.8
+   },
+   "Saudi Arabia": {
+      "name": "Saudi Arabia",
+      "isLandLocked": 0,
+      "population": 33699947,
+      "avgTemperatureCels": 25.94,
+      "popDensity": 15.67665431,
+      "lifeExpectancy": 67.8
+   },
+   "Scarborough Reef": {},
+   "Sudan": {
+      "name": "Sudan",
+      "isLandLocked": 0,
+      "population": 41801533,
+      "avgTemperatureCels": 27.95,
+      "popDensity": 20.73,
+      "lifeExpectancy": 56.6
+   },
+   "South Sudan": {
+      "name": "South Sudan",
+      "isLandLocked": 1,
+      "population": 10975920,
+      "avgTemperatureCels": 27.97,
+      "popDensity": 20.3,
+      "lifeExpectancy": null
+   },
+   "Senegal": {
+      "name": "Senegal",
+      "isLandLocked": 0,
+      "population": 15854360,
+      "avgTemperatureCels": 28.9,
+      "popDensity": 82.34747832,
+      "lifeExpectancy": 62.2
+   },
+   "Serranilla Bank": {},
+   "Singapore": {
+      "name": "Singapore",
+      "isLandLocked": 0,
+      "population": 5638676,
+      "avgTemperatureCels": 27.68,
+      "popDensity": 7952.998418,
+      "lifeExpectancy": 80.1
+   },
+   "South Georgia and South Sandwich Islands": {},
+   "Saint Helena": {
+      "name": "Saint Helena",
+      "isLandLocked": 0,
+      "population": 6600,
+      "avgTemperatureCels": 18.1,
+      "popDensity": 37.3,
+      "lifeExpectancy": 76.8
+   },
+   "Solomon Islands": {
+      "name": "Solomon Islands",
+      "isLandLocked": 0,
+      "population": 652858,
+      "avgTemperatureCels": 25.92,
+      "popDensity": 23.32468739,
+      "lifeExpectancy": 71.3
+   },
+   "Sierra Leone": {
+      "name": "Sierra Leone",
+      "isLandLocked": 0,
+      "population": 7650154,
+      "avgTemperatureCels": 26.54,
+      "popDensity": 105.987171,
+      "lifeExpectancy": 45.3
+   },
+   "El Salvador": {
+      "name": "El Salvador",
+      "isLandLocked": 0,
+      "population": 6420744,
+      "avgTemperatureCels": 25.23,
+      "popDensity": 309.8814672,
+      "lifeExpectancy": 69.7
+   },
+   "San Marino": {
+      "name": "San Marino",
+      "isLandLocked": 1,
+      "population": 33785,
+      "avgTemperatureCels": 12.83,
+      "popDensity": 563.0833333,
+      "lifeExpectancy": 81.1
+   },
+   "Somaliland": {},
+   "Somalia": {
+      "name": "Somalia",
+      "isLandLocked": 0,
+      "population": 15008154,
+      "avgTemperatureCels": 26.95,
+      "popDensity": 23.9234769,
+      "lifeExpectancy": 46.2
+   },
+   "Saint Pierre and Miquelon": {
+      "name": "Saint Pierre and Miquelon",
+      "isLandLocked": 0,
+      "population": 5888,
+      "avgTemperatureCels": 5.72,
+      "popDensity": 26.0,
+      "lifeExpectancy": 77.6
+   },
+   "Republic of Serbia": {},
+   "Sao Tome and Principe": {
+      "name": "Sao Tome and Principe",
+      "isLandLocked": 0,
+      "population": 211028,
+      "avgTemperatureCels": 24.49,
+      "popDensity": 219.8208333,
+      "lifeExpectancy": 65.3
+   },
+   "Suriname": {
+      "name": "Suriname",
+      "isLandLocked": 0,
+      "population": 575991,
+      "avgTemperatureCels": 26.58,
+      "popDensity": 3.69225,
+      "lifeExpectancy": 71.4
+   },
+   "Slovakia": {
+      "name": "Slovakia",
+      "isLandLocked": 1,
+      "population": 5446771,
+      "avgTemperatureCels": 8.83,
+      "popDensity": 113.2905782,
+      "lifeExpectancy": 73.7
+   },
+   "Slovenia": {
+      "name": "Slovenia",
+      "isLandLocked": 0,
+      "population": 2073894,
+      "avgTemperatureCels": 9.86,
+      "popDensity": 102.6398595,
+      "lifeExpectancy": 74.9
+   },
+   "Sweden": {
+      "name": "Sweden",
+      "isLandLocked": 0,
+      "population": 10175214,
+      "avgTemperatureCels": 3.23,
+      "popDensity": 25.00104343,
+      "lifeExpectancy": 79.6
+   },
+   "Swaziland": {},
+   "Sint Maarten": {},
+   "Seychelles": {
+      "name": "Seychelles",
+      "isLandLocked": 0,
+      "population": 96762,
+      "avgTemperatureCels": 27.09,
+      "popDensity": 210.3521739,
+      "lifeExpectancy": 70.4
+   },
+   "Syria": {
+      "name": "Syria",
+      "isLandLocked": 0,
+      "population": 16906283,
+      "avgTemperatureCels": 18.75,
+      "popDensity": 92.06710777,
+      "lifeExpectancy": 68.5
+   },
+   "Turks and Caicos Islands": {
+      "name": "Turks and Caicos Islands",
+      "isLandLocked": 0,
+      "population": 37665,
+      "avgTemperatureCels": 26.29,
+      "popDensity": 39.64736842,
+      "lifeExpectancy": 73.3
+   },
+   "Chad": {
+      "name": "Chad",
+      "isLandLocked": 1,
+      "population": 15477751,
+      "avgTemperatureCels": 27.63,
+      "popDensity": 12.29173364,
+      "lifeExpectancy": 50.5
+   },
+   "Togo": {
+      "name": "Togo",
+      "isLandLocked": 0,
+      "population": 7889094,
+      "avgTemperatureCels": 27.33,
+      "popDensity": 145.0467733,
+      "lifeExpectancy": 54.7
+   },
+   "Thailand": {
+      "name": "Thailand",
+      "isLandLocked": 0,
+      "population": 69428524,
+      "avgTemperatureCels": 26.85,
+      "popDensity": 135.8972068,
+      "lifeExpectancy": 68.6
+   },
+   "Tajikistan": {
+      "name": "Tajikistan",
+      "isLandLocked": 1,
+      "population": 9100837,
+      "avgTemperatureCels": 3.85,
+      "popDensity": 65.57271417,
+      "lifeExpectancy": 64.1
+   },
+   "Turkmenistan": {
+      "name": "Turkmenistan",
+      "isLandLocked": 1,
+      "population": 5850908,
+      "avgTemperatureCels": 16.66,
+      "popDensity": 12.45059477,
+      "lifeExpectancy": 60.9
+   },
+   "East Timor": {
+      "name": "East Timor",
+      "isLandLocked": 0,
+      "population": 1267972,
+      "avgTemperatureCels": 24.57,
+      "popDensity": 85.27,
+      "lifeExpectancy": 46
+   },
+   "Tonga": {
+      "name": "Tonga",
+      "isLandLocked": 0,
+      "population": 103197,
+      "avgTemperatureCels": 25.01,
+      "popDensity": 143.3291667,
+      "lifeExpectancy": 67.9
+   },
+   "Trinidad and Tobago": {
+      "name": "Trinidad and Tobago",
+      "isLandLocked": 0,
+      "population": 1389858,
+      "avgTemperatureCels": 26.55,
+      "popDensity": 270.9274854,
+      "lifeExpectancy": 68
+   },
+   "Tunisia": {
+      "name": "Tunisia",
+      "isLandLocked": 0,
+      "population": 11565204,
+      "avgTemperatureCels": 20.53,
+      "popDensity": 74.44132338,
+      "lifeExpectancy": 73.7
+   },
+   "Turkey": {
+      "name": "Turkey",
+      "isLandLocked": 0,
+      "population": 82319724,
+      "avgTemperatureCels": 11.66,
+      "popDensity": 106.9601289,
+      "lifeExpectancy": 71
+   },
+   "Tuvalu": {
+      "name": "Tuvalu",
+      "isLandLocked": 0,
+      "population": 11508,
+      "avgTemperatureCels": 28.62,
+      "popDensity": 383.6,
+      "lifeExpectancy": 66.3
+   },
+   "Taiwan": {},
+   "United Republic of Tanzania": {},
+   "Uganda": {
+      "name": "Uganda",
+      "isLandLocked": 1,
+      "population": 42723139,
+      "avgTemperatureCels": 23.25,
+      "popDensity": 213.0617345,
+      "lifeExpectancy": 42.9
+   },
+   "Ukraine": {
+      "name": "Ukraine",
+      "isLandLocked": 0,
+      "population": 44622516,
+      "avgTemperatureCels": 9.27,
+      "popDensity": 77.02966735,
+      "lifeExpectancy": 66
+   },
+   "United States Minor Outlying Islands": {
+      "name": "United States Minor Outlying Islands",
+      "isLandLocked": 0,
+      "population": 300,
+      "avgTemperatureCels": 24.97,
+      "popDensity": 9,
+      "lifeExpectancy": null
+   },
+   "Uruguay": {
+      "name": "Uruguay",
+      "isLandLocked": 0,
+      "population": 3449299,
+      "avgTemperatureCels": 17.97,
+      "popDensity": 19.70802765,
+      "lifeExpectancy": 75.2
+   },
+   "United States of America": {},
+   "US Naval Base Guantanamo Bay": {},
+   "Uzbekistan": {
+      "name": "Uzbekistan",
+      "isLandLocked": 1,
+      "population": 32955400,
+      "avgTemperatureCels": 13.69,
+      "popDensity": 77.46920545,
+      "lifeExpectancy": 63.7
+   },
+   "Vatican": {},
+   "Saint Vincent and the Grenadines": {
+      "name": "Saint Vincent and the Grenadines",
+      "isLandLocked": 0,
+      "population": 110210,
+      "avgTemperatureCels": 26.17,
+      "popDensity": 282.5897436,
+      "lifeExpectancy": 72.3
+   },
+   "Venezuela": {
+      "name": "Venezuela",
+      "isLandLocked": 0,
+      "population": 28870195,
+      "avgTemperatureCels": 25.71,
+      "popDensity": 32.73079191,
+      "lifeExpectancy": 73.1
+   },
+   "British Virgin Islands": {},
+   "United States Virgin Islands": {},
+   "Vietnam": {
+      "name": "Vietnam",
+      "isLandLocked": 0,
+      "population": 95540395,
+      "avgTemperatureCels": 24.79,
+      "popDensity": 308.1252459,
+      "lifeExpectancy": 69.3
+   },
+   "Vanuatu": {
+      "name": "Vanuatu",
+      "isLandLocked": 0,
+      "population": 292680,
+      "avgTemperatureCels": 24.44,
+      "popDensity": 24.00984413,
+      "lifeExpectancy": 60.6
+   },
+   "Wallis and Futuna": {
+      "name": "Wallis and Futuna",
+      "isLandLocked": 0,
+      "population": 15289,
+      "avgTemperatureCels": 27.3,
+      "popDensity": 83.55,
+      "lifeExpectancy": null
+   },
+   "Akrotiri Sovereign Base Area": {},
+   "Samoa": {
+      "name": "Samoa",
+      "isLandLocked": 0,
+      "population": 196130,
+      "avgTemperatureCels": 27.58,
+      "popDensity": 69.30388693,
+      "lifeExpectancy": 69.2
+   },
+   "Yemen": {
+      "name": "Yemen",
+      "isLandLocked": 0,
+      "population": 28498687,
+      "avgTemperatureCels": 25.54,
+      "popDensity": 53.97785291,
+      "lifeExpectancy": 59.8
+   },
+   "South Africa": {
+      "name": "South Africa",
+      "isLandLocked": 0,
+      "population": 57779622,
+      "avgTemperatureCels": 18.23,
+      "popDensity": 47.63011978,
+      "lifeExpectancy": 51.1
+   },
+   "Zambia": {
+      "name": "Zambia",
+      "isLandLocked": 1,
+      "population": 17351822,
+      "avgTemperatureCels": 22.23,
+      "popDensity": 23.3414789,
+      "lifeExpectancy": 37.2
+   },
+   "Zimbabwe": {
+      "name": "Zimbabwe",
+      "isLandLocked": 1,
+      "population": 14439018,
+      "avgTemperatureCels": 21.9,
+      "popDensity": 37.32459093,
+      "lifeExpectancy": 37.8
+   },
+   "Bahamas": {
+      "name": "Bahamas",
+      "isLandLocked": 0,
+      "population": 385640,
+      "avgTemperatureCels": 25.58,
+      "popDensity": 38.52547453,
+      "lifeExpectancy": 71.1
+   },
+   "Bouvet Island": {
+      "name": "Bouvet Island",
+      "isLandLocked": 0,
+      "population": 0,
+      "avgTemperatureCels": null,
+      "popDensity": 0,
+      "lifeExpectancy": null
+   },
+   "Christmas Island": {
+      "name": "Christmas Island",
+      "isLandLocked": 0,
+      "population": 1402,
+      "avgTemperatureCels": 26.06,
+      "popDensity": 10.39,
+      "lifeExpectancy": null
+   },
+   "Cocos (Keeling) Islands": {
+      "name": "Cocos (Keeling) Islands",
+      "isLandLocked": 0,
+      "population": 596,
+      "avgTemperatureCels": 26.79,
+      "popDensity": 40.46,
+      "lifeExpectancy": null
+   },
+   "Congo": {
+      "name": "Congo",
+      "isLandLocked": 0,
+      "population": 5244363,
+      "avgTemperatureCels": 24.74,
+      "popDensity": 15.35684627,
+      "lifeExpectancy": 47.4
+   },
+   "England": {
+      "name": "England",
+      "isLandLocked": 0,
+      "population": 55619400,
+      "avgTemperatureCels": null,
+      "popDensity": 259,
+      "lifeExpectancy": null
+   },
+   "Eswatini": {
+      "name": "Eswatini",
+      "isLandLocked": 1,
+      "population": 1136191,
+      "avgTemperatureCels": 20.64,
+      "popDensity": 66.05761628,
+      "lifeExpectancy": 40.4
+   },
+   "Fiji Islands": {
+      "name": "Fiji Islands",
+      "isLandLocked": 0,
+      "population": 883483,
+      "avgTemperatureCels": 24.68,
+      "popDensity": 48.35703339,
+      "lifeExpectancy": 67.9
+   },
+   "French Guiana": {
+      "name": "French Guiana",
+      "isLandLocked": 0,
+      "population": 290691,
+      "avgTemperatureCels": null,
+      "popDensity": 3.5,
+      "lifeExpectancy": 76.1
+   },
+   "French Southern territories": {
+      "name": "French Southern territories",
+      "isLandLocked": 0,
+      "population": 0,
+      "avgTemperatureCels": 4.11,
+      "popDensity": 0,
+      "lifeExpectancy": null
+   },
+   "Guadeloupe": {
+      "name": "Guadeloupe",
+      "isLandLocked": 0,
+      "population": 395700,
+      "avgTemperatureCels": null,
+      "popDensity": 243.1,
+      "lifeExpectancy": 77
+   },
+   "Guinea-Bissau": {
+      "name": "Guinea-Bissau",
+      "isLandLocked": 0,
+      "population": 1874309,
+      "avgTemperatureCels": 27.98,
+      "popDensity": 66.65394737,
+      "lifeExpectancy": 49
+   },
+   "Holy See (Vatican City State)": {
+      "name": "Holy See (Vatican City State)",
+      "isLandLocked": null,
+      "population": 825,
+      "avgTemperatureCels": 16.34,
+      "popDensity": 924,
+      "lifeExpectancy": null
+   },
+   "Hong Kong": {
+      "name": "Hong Kong",
+      "isLandLocked": 0,
+      "population": 7451000,
+      "avgTemperatureCels": null,
+      "popDensity": 7096.190476,
+      "lifeExpectancy": 79.5
+   },
+   "Macao": {
+      "name": "Macao",
+      "isLandLocked": 0,
+      "population": 631636,
+      "avgTemperatureCels": null,
+      "popDensity": 20777.50026,
+      "lifeExpectancy": 81.6
+   },
+   "North Macedonia": {
+      "name": "North Macedonia",
+      "isLandLocked": 1,
+      "population": 2084367,
+      "avgTemperatureCels": 10.79,
+      "popDensity": 82.6,
+      "lifeExpectancy": 73.8
+   },
+   "Martinique": {
+      "name": "Martinique",
+      "isLandLocked": 0,
+      "population": 376480,
+      "avgTemperatureCels": null,
+      "popDensity": 330,
+      "lifeExpectancy": 78.3
+   },
+   "Mayotte": {
+      "name": "Mayotte",
+      "isLandLocked": 0,
+      "population": 270372,
+      "avgTemperatureCels": null,
+      "popDensity": 728,
+      "lifeExpectancy": 59.5
+   },
+   "Micronesia, Federated States of": {
+      "name": "Micronesia, Federated States of",
+      "isLandLocked": 0,
+      "population": 112640,
+      "avgTemperatureCels": 27.28,
+      "popDensity": 160.9142857,
+      "lifeExpectancy": null
+   },
+   "Netherlands Antilles": {
+      "name": "Netherlands Antilles",
+      "isLandLocked": 0,
+      "population": 227049,
+      "avgTemperatureCels": null,
+      "popDensity": 80,
+      "lifeExpectancy": 74.7
+   },
+   "Northern Ireland": {
+      "name": "Northern Ireland",
+      "isLandLocked": 0,
+      "population": 1885400,
+      "avgTemperatureCels": null,
+      "popDensity": 133,
+      "lifeExpectancy": null
+   },
+   "Pitcairn": {
+      "name": "Pitcairn",
+      "isLandLocked": 0,
+      "population": 67,
+      "avgTemperatureCels": 20.56,
+      "popDensity": 10,
+      "lifeExpectancy": null
+   },
+   "Reunion": {
+      "name": "Reunion",
+      "isLandLocked": 0,
+      "population": 859959,
+      "avgTemperatureCels": null,
+      "popDensity": 358,
+      "lifeExpectancy": 72.7
+   },
+   "Scotland": {
+      "name": "Scotland",
+      "isLandLocked": 0,
+      "population": 5424800,
+      "avgTemperatureCels": null,
+      "popDensity": 67.2,
+      "lifeExpectancy": null
+   },
+   "Serbia": {
+      "name": "Serbia",
+      "isLandLocked": 1,
+      "population": 6963764,
+      "avgTemperatureCels": 11.4,
+      "popDensity": 100,
+      "lifeExpectancy": 76.05
+   },
+   "South Georgia and the South Sandwich Islands": {
+      "name": "South Georgia and the South Sandwich Islands",
+      "isLandLocked": 0,
+      "population": 30,
+      "avgTemperatureCels": null,
+      "popDensity": 0,
+      "lifeExpectancy": null
+   },
+   "Svalbard and Jan Mayen": {
+      "name": "Svalbard and Jan Mayen",
+      "isLandLocked": 0,
+      "population": 2572,
+      "avgTemperatureCels": -6.78,
+      "popDensity": 0.044,
+      "lifeExpectancy": null
+   },
+   "Tanzania": {
+      "name": "Tanzania",
+      "isLandLocked": 0,
+      "population": 56318348,
+      "avgTemperatureCels": 22.92,
+      "popDensity": 63.5790788,
+      "lifeExpectancy": 52.3
+   },
+   "The Democratic Republic of Congo": {
+      "name": "The Democratic Republic of Congo",
+      "isLandLocked": 0,
+      "population": 84068091,
+      "avgTemperatureCels": 24.35,
+      "popDensity": 37.08259236,
+      "lifeExpectancy": null
+   },
+   "Tokelau": {
+      "name": "Tokelau",
+      "isLandLocked": 0,
+      "population": 1411,
+      "avgTemperatureCels": 28.71,
+      "popDensity": 115,
+      "lifeExpectancy": null
+   },
+   "United States": {
+      "name": "United States",
+      "isLandLocked": 0,
+      "population": 326687501,
+      "avgTemperatureCels": 9.46,
+      "popDensity": 35.76608858,
+      "lifeExpectancy": 77.1
+   },
+   "Virgin Islands, British": {
+      "name": "Virgin Islands, British",
+      "isLandLocked": 0,
+      "population": 29802,
+      "avgTemperatureCels": 26.7,
+      "popDensity": 198.68,
+      "lifeExpectancy": null
+   },
+   "Virgin Islands, U.S.": {
+      "name": "Virgin Islands, U.S.",
+      "isLandLocked": 0,
+      "population": 106977,
+      "avgTemperatureCels": 26.98,
+      "popDensity": 305.6485714,
+      "lifeExpectancy": null
+   },
+   "Wales": {
+      "name": "Wales",
+      "isLandLocked": 0,
+      "population": 3139000,
+      "avgTemperatureCels": null,
+      "popDensity": 151.4,
+      "lifeExpectancy": null
+   },
+   "Cabo Verde": {
+      "name": "Cabo Verde",
+      "population": 555987
+   }
+}

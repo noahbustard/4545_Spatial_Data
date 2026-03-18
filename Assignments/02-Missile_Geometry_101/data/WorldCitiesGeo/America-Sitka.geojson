@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ketchikan"
+      },
+      "geometry": {
+        "coordinates": [
+          -131.64757,
+          55.3418
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petersburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -132.95556,
+          56.8125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitka"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.33088,
+          57.05315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wrangell"
+      },
+      "geometry": {
+        "coordinates": [
+          -132.37667,
+          56.47083
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

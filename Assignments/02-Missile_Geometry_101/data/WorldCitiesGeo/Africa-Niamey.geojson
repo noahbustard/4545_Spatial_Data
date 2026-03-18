@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birnin Gaoure"
+      },
+      "geometry": {
+        "coordinates": [
+          2.91099,
+          13.08173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birni N Konni"
+      },
+      "geometry": {
+        "coordinates": [
+          5.25026,
+          13.79599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zinder"
+      },
+      "geometry": {
+        "coordinates": [
+          8.9881,
+          13.80716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tillaberi"
+      },
+      "geometry": {
+        "coordinates": [
+          1.45418,
+          14.20711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tibiri"
+      },
+      "geometry": {
+        "coordinates": [
+          7.04848,
+          13.56271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tessaoua"
+      },
+      "geometry": {
+        "coordinates": [
+          7.9874,
+          13.75737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tera"
+      },
+      "geometry": {
+        "coordinates": [
+          0.75306,
+          14.00776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchintabaraden"
+      },
+      "geometry": {
+        "coordinates": [
+          5.7985,
+          15.8969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanout"
+      },
+      "geometry": {
+        "coordinates": [
+          8.88786,
+          14.97089
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tahoua"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2692,
+          14.8888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Say"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3689,
+          13.1007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouallam"
+      },
+      "geometry": {
+        "coordinates": [
+          2.08597,
+          14.31641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niamey"
+      },
+      "geometry": {
+        "coordinates": [
+          2.1098,
+          13.51366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nguigmi"
+      },
+      "geometry": {
+        "coordinates": [
+          13.10921,
+          14.24953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirriah"
+      },
+      "geometry": {
+        "coordinates": [
+          9.15013,
+          13.70727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayahi"
+      },
+      "geometry": {
+        "coordinates": [
+          7.67122,
+          13.95532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matamey"
+      },
+      "geometry": {
+        "coordinates": [
+          8.47485,
+          13.42309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maradi"
+      },
+      "geometry": {
+        "coordinates": [
+          7.10174,
+          13.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maine Soroa"
+      },
+      "geometry": {
+        "coordinates": [
+          12.0241,
+          13.21139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magaria"
+      },
+      "geometry": {
+        "coordinates": [
+          8.90991,
+          12.99826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madarounfa"
+      },
+      "geometry": {
+        "coordinates": [
+          7.15602,
+          13.30867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madaoua"
+      },
+      "geometry": {
+        "coordinates": [
+          5.96,
+          14.073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loga"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2358,
+          13.6132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kollo"
+      },
+      "geometry": {
+        "coordinates": [
+          2.339,
+          13.3043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keita"
+      },
+      "geometry": {
+        "coordinates": [
+          5.7749,
+          14.7551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantche"
+      },
+      "geometry": {
+        "coordinates": [
+          8.46293,
+          13.53926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illela"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2437,
+          14.4605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guidan Roumdji"
+      },
+      "geometry": {
+        "coordinates": [
+          6.69567,
+          13.6576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goure"
+      },
+      "geometry": {
+        "coordinates": [
+          10.27035,
+          13.9835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaya"
+      },
+      "geometry": {
+        "coordinates": [
+          3.44919,
+          11.88435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Filingue"
+      },
+      "geometry": {
+        "coordinates": [
+          3.3168,
+          14.3521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dosso"
+      },
+      "geometry": {
+        "coordinates": [
+          3.1937,
+          13.049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dogondoutchi"
+      },
+      "geometry": {
+        "coordinates": [
+          4.02875,
+          13.63933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diffa"
+      },
+      "geometry": {
+        "coordinates": [
+          12.61135,
+          13.31536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakoro"
+      },
+      "geometry": {
+        "coordinates": [
+          6.765,
+          14.51056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouza"
+      },
+      "geometry": {
+        "coordinates": [
+          6.04278,
+          14.42293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilma"
+      },
+      "geometry": {
+        "coordinates": [
+          12.91643,
+          18.68532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayorou"
+      },
+      "geometry": {
+        "coordinates": [
+          0.91739,
+          14.73075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlit"
+      },
+      "geometry": {
+        "coordinates": [
+          7.38528,
+          18.73694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaghsas"
+      },
+      "geometry": {
+        "coordinates": [
+          8.0168,
+          17.0187
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguie"
+      },
+      "geometry": {
+        "coordinates": [
+          7.77863,
+          13.50601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agadez"
+      },
+      "geometry": {
+        "coordinates": [
+          7.99111,
+          16.97333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abalak"
+      },
+      "geometry": {
+        "coordinates": [
+          6.2793,
+          15.4509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchirozerine"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7614,
+          17.22096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanamma"
+      },
+      "geometry": {
+        "coordinates": [
+          12.1079,
+          13.09969
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

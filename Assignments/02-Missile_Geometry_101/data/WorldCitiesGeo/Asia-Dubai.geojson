@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm al Qaywayn"
+      },
+      "geometry": {
+        "coordinates": [
+          55.55517,
+          25.56473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ras al-Khaimah"
+      },
+      "geometry": {
+        "coordinates": [
+          55.9432,
+          25.78953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzayri`"
+      },
+      "geometry": {
+        "coordinates": [
+          53.7881,
+          23.14355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khawr Fakkan"
+      },
+      "geometry": {
+        "coordinates": [
+          56.34199,
+          25.33132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubai"
+      },
+      "geometry": {
+        "coordinates": [
+          55.17128,
+          25.0657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dibba Al-Fujairah"
+      },
+      "geometry": {
+        "coordinates": [
+          56.26176,
+          25.59246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dibba Al-Hisn"
+      },
+      "geometry": {
+        "coordinates": [
+          56.27291,
+          25.61955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharjah"
+      },
+      "geometry": {
+        "coordinates": [
+          55.41206,
+          25.33737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Ruways"
+      },
+      "geometry": {
+        "coordinates": [
+          52.73056,
+          24.11028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fujayrah"
+      },
+      "geometry": {
+        "coordinates": [
+          56.34141,
+          25.11641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Ain"
+      },
+      "geometry": {
+        "coordinates": [
+          55.76056,
+          24.19167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ajman"
+      },
+      "geometry": {
+        "coordinates": [
+          55.43504,
+          25.41111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adh Dhayd"
+      },
+      "geometry": {
+        "coordinates": [
+          55.88157,
+          25.28812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Dhabi"
+      },
+      "geometry": {
+        "coordinates": [
+          54.36667,
+          24.46667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assiniboia"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.98446,
+          49.63336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biggar"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.00135,
+          52.0668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canora"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.43425,
+          51.63328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlyle"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.26765,
+          49.63334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmeny"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.76792,
+          52.33339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esterhazy"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.08426,
+          50.65001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estevan"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.98422,
+          49.13337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foam Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.53431,
+          51.65001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravelbourg"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.55122,
+          49.88336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.38425,
+          52.85003
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humboldt"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.1255,
+          52.20005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Head"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.66775,
+          50.53336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamsack"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.90093,
+          51.56668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerrobert"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.13479,
+          51.91682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindersley"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.16818,
+          51.46681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.71763,
+          50.84999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langham"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.96793,
+          52.3668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanigan"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.03443,
+          51.85006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Ronge"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.28422,
+          55.10013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumsden"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.86783,
+          50.65009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macklin"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.93484,
+          52.33344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.48481,
+          49.91678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martensville"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.66792,
+          52.28339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadow Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.43471,
+          54.13348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melfort"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.61768,
+          52.86673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melville"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.80099,
+          50.91671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moose Jaw"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.53445,
+          50.40005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moosomin"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.66766,
+          50.13332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nipawin"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.00092,
+          53.36678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Battleford"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.2967,
+          52.77972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outlook"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.05128,
+          51.50008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxbow"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.1676,
+          49.23335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilot Butte"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.41778,
+          50.46678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preeceville"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.66766,
+          51.94998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Albert"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.76772,
+          53.20008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regina"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.6178,
+          50.45008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.00136,
+          51.5501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosthern"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.33446,
+          52.66679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saskatoon"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.66892,
+          52.13238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaunavon"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.4181,
+          49.65005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shellbrook"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.40109,
+          53.21679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tisdale"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.05096,
+          52.85002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unity"
+      },
+      "geometry": {
+        "coordinates": [
+          -109.16816,
+          52.45014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadena"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.80102,
+          51.94999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warman"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.56791,
+          52.31679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watrous"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.46788,
+          51.66677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weyburn"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.85109,
+          49.66675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White City"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.36778,
+          50.43338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilkie"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.70142,
+          52.41683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wynyard"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.18436,
+          51.76674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yorkton"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.46766,
+          51.2167
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

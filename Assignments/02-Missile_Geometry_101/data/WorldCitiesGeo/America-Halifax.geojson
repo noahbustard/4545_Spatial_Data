@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alberton"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.06542,
+          46.81685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amherst"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.19874,
+          45.83345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antigonish"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.99858,
+          45.61685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.88197,
+          46.08341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berwick"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.73208,
+          45.05015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridgewater"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.51882,
+          44.37856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlottetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.13414,
+          46.23899
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chester"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.23891,
+          44.54225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornwall"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.21809,
+          46.22652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dartmouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.57719,
+          44.67134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digby"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.7586,
+          44.62188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.93169,
+          44.97413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hantsport"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.16544,
+          45.06685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kensington"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.64871,
+          46.43343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kentville"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.49605,
+          45.0771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.31658,
+          44.37847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middleton"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.07022,
+          44.94284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montague"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.64866,
+          46.16681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Glasgow"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.64863,
+          45.58344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.86542,
+          45.73345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parrsboro"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.32585,
+          45.40567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pictou"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.70936,
+          45.67875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Hawkesbury"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.34853,
+          45.61685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princeville"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.29853,
+          45.76684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelburne"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.32355,
+          43.76325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Souris"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.24862,
+          46.3501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springhill"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.04873,
+          45.65015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summerside"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.78762,
+          46.39593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Truro"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.26538,
+          45.36685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windsor"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.13204,
+          44.98345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolfville"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.36546,
+          45.08345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarmouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.11557,
+          43.83345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halifax"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.57239,
+          44.64533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cole Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.47506,
+          44.67244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Sackville"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.67865,
+          44.77599
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston"
+      },
+      "geometry": {
+        "coordinates": [
+          167.96628,
+          -29.05459
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

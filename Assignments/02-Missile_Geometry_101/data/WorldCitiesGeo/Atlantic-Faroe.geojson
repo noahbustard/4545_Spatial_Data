@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestmanna"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.16639,
+          62.15639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vagur"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.81185,
+          61.47324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tvoroyri"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.81109,
+          61.55557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torshavn"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.77164,
+          62.00973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorvagur"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.3577,
+          62.09726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandur"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.80778,
+          61.8425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midvagur"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.19389,
+          62.05111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunoy"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.64754,
+          62.30388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kollafjordhur"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.91067,
+          62.11167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klaksvik"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.58901,
+          62.22655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoyvik"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.78127,
+          62.03407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuglafjordur"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.81395,
+          62.24398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eidi"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.09245,
+          62.2993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argir"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.77154,
+          61.99595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eystur"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.75247,
+          62.20907
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

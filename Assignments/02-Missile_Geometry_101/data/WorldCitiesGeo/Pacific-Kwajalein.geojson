@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebaye"
+      },
+      "geometry": {
+        "coordinates": [
+          167.73919,
+          8.77479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabat"
+      },
+      "geometry": {
+        "coordinates": [
+          168.97513,
+          7.75003
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nukus"
+      },
+      "geometry": {
+        "coordinates": [
+          59.61028,
+          42.45306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muynoq"
+      },
+      "geometry": {
+        "coordinates": [
+          59.02139,
+          43.76833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qanliko`l"
+      },
+      "geometry": {
+        "coordinates": [
+          59.00093,
+          42.8395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khujayli"
+      },
+      "geometry": {
+        "coordinates": [
+          59.46005,
+          42.40043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kegeyli Shahar"
+      },
+      "geometry": {
+        "coordinates": [
+          59.60778,
+          42.77667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qozonketkan"
+      },
+      "geometry": {
+        "coordinates": [
+          59.36425,
+          43.01907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oltinko`l"
+      },
+      "geometry": {
+        "coordinates": [
+          58.90372,
+          43.06874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oqmang`it"
+      },
+      "geometry": {
+        "coordinates": [
+          59.53444,
+          42.59889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qo`ng`irot Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          58.84596,
+          43.05207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xo`jayli Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          59.44544,
+          42.40881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimboy Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          59.78199,
+          42.92952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo`ynoq Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          59.03039,
+          43.77877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shumanay Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          58.9306,
+          42.63433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zomin"
+      },
+      "geometry": {
+        "coordinates": [
+          68.39583,
+          39.96056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishon Tumani"
+      },
+      "geometry": {
+        "coordinates": [
+          65.67512,
+          38.69395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urgut"
+      },
+      "geometry": {
+        "coordinates": [
+          67.24306,
+          39.40222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mug`lon Shahar"
+      },
+      "geometry": {
+        "coordinates": [
+          65.41217,
+          38.91878
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirmiz"
+      },
+      "geometry": {
+        "coordinates": [
+          67.27833,
+          37.22417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sho`rchi"
+      },
+      "geometry": {
+        "coordinates": [
+          67.7875,
+          37.99944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahrisabz"
+      },
+      "geometry": {
+        "coordinates": [
+          66.83417,
+          39.05778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samarqand"
+      },
+      "geometry": {
+        "coordinates": [
+          66.95972,
+          39.65417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romiton"
+      },
+      "geometry": {
+        "coordinates": [
+          64.37944,
+          39.92944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarshi"
+      },
+      "geometry": {
+        "coordinates": [
+          65.78905,
+          38.86056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muborak"
+      },
+      "geometry": {
+        "coordinates": [
+          65.15278,
+          39.25528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangi Mirishkor"
+      },
+      "geometry": {
+        "coordinates": [
+          65.27789,
+          38.85143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kitob"
+      },
+      "geometry": {
+        "coordinates": [
+          66.83318,
+          39.08425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kattaqo`rg`on"
+      },
+      "geometry": {
+        "coordinates": [
+          66.25611,
+          39.89889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koson"
+      },
+      "geometry": {
+        "coordinates": [
+          65.585,
+          39.0375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qorovulbozor"
+      },
+      "geometry": {
+        "coordinates": [
+          64.79361,
+          39.50056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karakul'"
+      },
+      "geometry": {
+        "coordinates": [
+          63.83333,
+          39.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qorako'l"
+      },
+      "geometry": {
+        "coordinates": [
+          63.85389,
+          39.49944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kogon"
+      },
+      "geometry": {
+        "coordinates": [
+          64.55167,
+          39.72278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ishtixon"
+      },
+      "geometry": {
+        "coordinates": [
+          66.48611,
+          39.96639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G`uzor"
+      },
+      "geometry": {
+        "coordinates": [
+          66.24806,
+          38.62083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galaosiyo"
+      },
+      "geometry": {
+        "coordinates": [
+          64.44833,
+          39.85778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juma"
+      },
+      "geometry": {
+        "coordinates": [
+          66.66417,
+          39.71611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jomboy"
+      },
+      "geometry": {
+        "coordinates": [
+          67.09333,
+          39.69889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denov"
+      },
+      "geometry": {
+        "coordinates": [
+          67.89886,
+          38.26746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daxbet"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9125,
+          39.76389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiroqchi"
+      },
+      "geometry": {
+        "coordinates": [
+          66.57222,
+          39.03361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.86111,
+          39.92028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charxin"
+      },
+      "geometry": {
+        "coordinates": [
+          66.76861,
+          39.69667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulung'ur"
+      },
+      "geometry": {
+        "coordinates": [
+          67.27139,
+          39.76472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukhara"
+      },
+      "geometry": {
+        "coordinates": [
+          64.42861,
+          39.77472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beshkent"
+      },
+      "geometry": {
+        "coordinates": [
+          65.65306,
+          38.82139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boysun"
+      },
+      "geometry": {
+        "coordinates": [
+          67.20664,
+          38.20835
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olot"
+      },
+      "geometry": {
+        "coordinates": [
+          63.80333,
+          39.415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oqtosh"
+      },
+      "geometry": {
+        "coordinates": [
+          65.92528,
+          39.92139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qorovulbozor Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          64.81142,
+          39.50308
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qorashina"
+      },
+      "geometry": {
+        "coordinates": [
+          66.56342,
+          38.34185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahrisabz Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.82083,
+          39.05206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koson Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.59082,
+          39.04472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kitob Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.8757,
+          39.12251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muborak Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.15674,
+          39.25778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beshkent Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.64246,
+          38.81107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G`uzor Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.24515,
+          38.62596
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qamashi Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.46441,
+          38.81998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiroqchi Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.58083,
+          39.02727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yakkabog` Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          66.68867,
+          38.97664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangi-Nishon Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.68952,
+          38.64501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangirabot"
+      },
+      "geometry": {
+        "coordinates": [
+          65.96095,
+          40.02539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wobkent"
+      },
+      "geometry": {
+        "coordinates": [
+          64.515,
+          40.03028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urganch"
+      },
+      "geometry": {
+        "coordinates": [
+          60.63333,
+          41.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomdibuloq"
+      },
+      "geometry": {
+        "coordinates": [
+          64.61711,
+          41.7508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taxtako`pir"
+      },
+      "geometry": {
+        "coordinates": [
+          60.30111,
+          43.01171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Showot"
+      },
+      "geometry": {
+        "coordinates": [
+          60.3025,
+          41.65583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shofirkon"
+      },
+      "geometry": {
+        "coordinates": [
+          64.50139,
+          40.12
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qushkupir"
+      },
+      "geometry": {
+        "coordinates": [
+          60.34556,
+          41.535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Payshanba"
+      },
+      "geometry": {
+        "coordinates": [
+          66.23694,
+          40.00778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paxtakor"
+      },
+      "geometry": {
+        "coordinates": [
+          67.95444,
+          40.31528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurota"
+      },
+      "geometry": {
+        "coordinates": [
+          65.68861,
+          40.56139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novyy Turtkul'"
+      },
+      "geometry": {
+        "coordinates": [
+          61.01667,
+          41.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navoiy"
+      },
+      "geometry": {
+        "coordinates": [
+          65.37917,
+          40.08444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manghit"
+      },
+      "geometry": {
+        "coordinates": [
+          60.05972,
+          42.11556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiziltepa"
+      },
+      "geometry": {
+        "coordinates": [
+          64.85,
+          40.03306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khiwa"
+      },
+      "geometry": {
+        "coordinates": [
+          60.36389,
+          41.37833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qorao`zak"
+      },
+      "geometry": {
+        "coordinates": [
+          60.01701,
+          43.02207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konimex"
+      },
+      "geometry": {
+        "coordinates": [
+          65.14511,
+          40.27593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jizzax"
+      },
+      "geometry": {
+        "coordinates": [
+          67.84222,
+          40.11583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazorasp"
+      },
+      "geometry": {
+        "coordinates": [
+          61.07417,
+          41.31944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurlan"
+      },
+      "geometry": {
+        "coordinates": [
+          60.39194,
+          41.84472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghijduwon"
+      },
+      "geometry": {
+        "coordinates": [
+          64.68333,
+          40.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gazli"
+      },
+      "geometry": {
+        "coordinates": [
+          63.45,
+          40.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beshrabot"
+      },
+      "geometry": {
+        "coordinates": [
+          65.33527,
+          40.19761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beruniy"
+      },
+      "geometry": {
+        "coordinates": [
+          60.7525,
+          41.69111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beruniy Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          60.75501,
+          41.69904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "To`rtko`l Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          61.0018,
+          41.56055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bo`ston Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          60.94744,
+          41.84607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mang`it Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          60.06276,
+          42.12215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navoiy"
+      },
+      "geometry": {
+        "coordinates": [
+          65.36667,
+          40.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uchquduq Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          63.55221,
+          42.15001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmana Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.37545,
+          40.13782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiziltepa Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          64.82885,
+          40.0254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurota Shahri"
+      },
+      "geometry": {
+        "coordinates": [
+          65.67947,
+          40.56762
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

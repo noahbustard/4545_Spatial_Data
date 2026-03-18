@@ -1,0 +1,1344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vitoria de Santo Antao"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.29139,
+          -8.11806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vicencia"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.32667,
+          -7.65694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tupanatinga"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.33972,
+          -8.75333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trindade"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.26778,
+          -7.76194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toritama"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.05667,
+          -8.00667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timbauba"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.31833,
+          -7.50528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taquaritinga do Norte"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.04417,
+          -7.90306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamandare"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.09995,
+          -8.75632
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabira"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.53944,
+          -7.59083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surubim"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.75472,
+          -7.83306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirinhaem"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.11611,
+          -8.59083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sertania"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.26444,
+          -8.07361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serra Talhada"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.29833,
+          -7.99194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Lourenco da Mata"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.01833,
+          -8.00222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Jose do Egito"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.27444,
+          -7.47889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Jose do Belmonte"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.75972,
+          -7.86139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Jose da Coroa Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.14778,
+          -8.89778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Joaquim do Monte"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.80444,
+          -8.4325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Joao"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.36667,
+          -8.87556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz do Capibaribe"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.20472,
+          -7.9575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salgueiro"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.11917,
+          -8.07417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Formoso"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.16277,
+          -8.66877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribeirao"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.37778,
+          -8.51444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Recife"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.88111,
+          -8.05389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quipapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.01167,
+          -8.82778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pombos"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.39583,
+          -8.14139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrolina"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.50083,
+          -9.39861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jatoba"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.26889,
+          -9.18306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pesqueira"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.69639,
+          -8.35778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedras de Fogo"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.11639,
+          -7.40194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedra"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.94083,
+          -8.49694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paulista"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.87306,
+          -7.94083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Passira"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.58056,
+          -7.995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parnamirim"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.57833,
+          -8.09056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmares"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.59167,
+          -8.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouricuri"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.08167,
+          -7.8825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orobo"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.60222,
+          -7.745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olinda"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.85528,
+          -8.00889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nazare da Mata"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.22778,
+          -7.74167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moreno"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.09222,
+          -8.11861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maraial"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.80889,
+          -8.7825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macaparana"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.45306,
+          -7.55472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limoeiro"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.45028,
+          -7.87472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lajedo"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.32,
+          -8.66361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagoa do Itaenga"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.29028,
+          -7.93611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joaquim Nabuco"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.53333,
+          -8.62444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joao Alfredo"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.58833,
+          -7.85583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaboatao"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.00139,
+          -8.18028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaquitinga"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.10167,
+          -7.66778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itapissuma"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.89222,
+          -7.77639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaiba"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.42278,
+          -8.9475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipubi"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.14889,
+          -7.65194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ipojuca"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.06389,
+          -8.39889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igarassu"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.90639,
+          -7.83417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibimirim"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.69028,
+          -8.54056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guabiraba"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.66667,
+          -8.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravata"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.56472,
+          -8.20111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goiana"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.0025,
+          -7.56056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gloria do Goita"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.29278,
+          -8.00167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garanhuns"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.50216,
+          -8.88202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gameleira"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.38667,
+          -8.58444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floresta"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.56861,
+          -8.60111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flores"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.97472,
+          -7.86806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feira Nova"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.38917,
+          -7.95083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exu"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.72417,
+          -7.51194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escada"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.22361,
+          -8.35917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Custodia"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.64306,
+          -8.0875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cupira"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.95,
+          -8.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cumaru"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.69722,
+          -8.00611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Condado"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.10583,
+          -7.58583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Leopoldina"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.725,
+          -8.90889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cha Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.46167,
+          -8.23833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catende"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.71667,
+          -8.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caruaru"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.97611,
+          -8.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carpina"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.25472,
+          -7.85083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnaiba"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.66667,
+          -8.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capoeiras"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.62667,
+          -8.73472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canhotinho"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.19111,
+          -8.88222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camocim de Sao Felix"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.76194,
+          -8.35861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caetes"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.6225,
+          -8.77306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cachoeirinha"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.23306,
+          -8.48639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabrobo"
+      },
+      "geometry": {
+        "coordinates": [
+          -39.31,
+          -8.51417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabo"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.03333,
+          -8.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buique"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.15583,
+          -8.62306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brejo da Madre de Deus"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.37111,
+          -8.14583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonito"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.72861,
+          -8.47028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bom Jardim"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.58722,
+          -7.79583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bom Conselho"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.67972,
+          -9.16972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bezerros"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.79694,
+          -8.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belo Jardim"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.42417,
+          -8.33556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belem de Sao Francisco"
+      },
+      "geometry": {
+        "coordinates": [
+          -38.96583,
+          -8.75389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barreiros"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.18639,
+          -8.81833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcoverde"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.05389,
+          -8.41889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araripina"
+      },
+      "geometry": {
+        "coordinates": [
+          -40.49833,
+          -7.57611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracoiaba"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.09083,
+          -7.79028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaraji"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.4525,
+          -8.38306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altinho"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.05944,
+          -8.48972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguas Belas"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.12306,
+          -9.11139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agua Preta"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.53056,
+          -8.7075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agrestina"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.94472,
+          -8.45806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afogados da Ingazeira"
+      },
+      "geometry": {
+        "coordinates": [
+          -37.63917,
+          -7.75083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abreu e Lima"
+      },
+      "geometry": {
+        "coordinates": [
+          -34.90278,
+          -7.91167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaboatao dos Guararapes"
+      },
+      "geometry": {
+        "coordinates": [
+          -35.01472,
+          -8.11278
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

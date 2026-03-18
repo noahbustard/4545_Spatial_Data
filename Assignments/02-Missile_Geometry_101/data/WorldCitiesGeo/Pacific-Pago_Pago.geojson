@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aua"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.66389,
+          -14.27611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaitogi"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.73472,
+          -14.35889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vailoatai"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.78222,
+          -14.36111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taulaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.08833,
+          -11.05528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta`u"
+      },
+      "geometry": {
+        "coordinates": [
+          -169.51444,
+          -14.23361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tafuna"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.72,
+          -14.33583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faleniu"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.74444,
+          -14.3325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fagatogo"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.69,
+          -14.2825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faleasao"
+      },
+      "geometry": {
+        "coordinates": [
+          -169.51278,
+          -14.2222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leone"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.785,
+          -14.34389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malaeimi"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.73389,
+          -14.32278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapusagafou"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.75278,
+          -14.33056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ofu"
+      },
+      "geometry": {
+        "coordinates": [
+          -169.6775,
+          -14.17528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pago Pago"
+      },
+      "geometry": {
+        "coordinates": [
+          -170.7025,
+          -14.27806
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

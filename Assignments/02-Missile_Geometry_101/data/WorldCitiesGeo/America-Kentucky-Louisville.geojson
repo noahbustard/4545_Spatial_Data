@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlestown"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.67024,
+          38.45312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarksville"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75996,
+          38.29674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corydon"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.12192,
+          38.21201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galena"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.94164,
+          38.35173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.97552,
+          38.29451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henryville"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.76774,
+          38.54173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeffersonville"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.73718,
+          38.27757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Albany"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.82413,
+          38.28562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.69635,
+          38.30562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sellersburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75496,
+          38.39812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchorage"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.53302,
+          38.26674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Audubon Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.72524,
+          38.20396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbourmeade"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.60329,
+          38.29729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beechwood Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.63135,
+          38.25479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buechel"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.6519,
+          38.19507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coldstream"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.52385,
+          38.31479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douglass Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.55274,
+          38.23785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairdale"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75885,
+          38.10507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fern Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.58774,
+          38.15979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graymoor-Devondale"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.62302,
+          38.27313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highview"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.62413,
+          38.14285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurstbourne Acres"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.58913,
+          38.22118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurstbourne"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.58829,
+          38.23813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.66274,
+          38.27257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Hills Cherokee Section"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.64996,
+          38.27951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeffersontown"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.5644,
+          38.19424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louisville"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75941,
+          38.25424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyndon"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.60163,
+          38.25674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middletown"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.53885,
+          38.24535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heritage Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.71968,
+          38.12368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.65968,
+          38.16007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.64107,
+          38.28701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okolona"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.68774,
+          38.14118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleasure Ridge Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.8583,
+          38.14535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prospect"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.61552,
+          38.34507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Matthews"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.65579,
+          38.25285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Regis Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.61663,
+          38.22674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shively"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.82274,
+          38.20007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Dennis"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.8458,
+          38.1884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.87024,
+          38.11118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watterson Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.68329,
+          38.19229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Buechel"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.66329,
+          38.19701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windy Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.63441,
+          38.27396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worthington Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.5269,
+          38.30896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worthington"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.56163,
+          38.31562
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

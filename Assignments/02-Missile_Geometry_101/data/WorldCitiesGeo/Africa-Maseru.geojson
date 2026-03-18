@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teyateyaneng"
+      },
+      "geometry": {
+        "coordinates": [
+          27.74895,
+          -29.14719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quthing"
+      },
+      "geometry": {
+        "coordinates": [
+          27.70027,
+          -30.40001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qacha's Nek"
+      },
+      "geometry": {
+        "coordinates": [
+          28.68936,
+          -30.11537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nako"
+      },
+      "geometry": {
+        "coordinates": [
+          27.76667,
+          -29.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokhotlong"
+      },
+      "geometry": {
+        "coordinates": [
+          29.06751,
+          -29.28939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohale's Hoek"
+      },
+      "geometry": {
+        "coordinates": [
+          27.47691,
+          -30.15137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maseru"
+      },
+      "geometry": {
+        "coordinates": [
+          27.48333,
+          -29.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maputsoe"
+      },
+      "geometry": {
+        "coordinates": [
+          27.89915,
+          -28.8866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mafeteng"
+      },
+      "geometry": {
+        "coordinates": [
+          27.23744,
+          -29.82299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leribe"
+      },
+      "geometry": {
+        "coordinates": [
+          28.04501,
+          -28.87185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butha-Buthe"
+      },
+      "geometry": {
+        "coordinates": [
+          28.24937,
+          -28.76659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaba-Tseka"
+      },
+      "geometry": {
+        "coordinates": [
+          28.6084,
+          -29.52204
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

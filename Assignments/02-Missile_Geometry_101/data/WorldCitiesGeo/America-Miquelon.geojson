@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Pierre"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.1773,
+          46.77914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miquelon"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.38139,
+          47.0975
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Likiep"
+      },
+      "geometry": {
+        "coordinates": [
+          169.31065,
+          9.82511
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabor"
+      },
+      "geometry": {
+        "coordinates": [
+          169.64335,
+          5.92098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ailuk"
+      },
+      "geometry": {
+        "coordinates": [
+          169.97967,
+          10.21972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majuro"
+      },
+      "geometry": {
+        "coordinates": [
+          171.38027,
+          7.08971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taroa"
+      },
+      "geometry": {
+        "coordinates": [
+          171.2275,
+          8.70576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enewetak"
+      },
+      "geometry": {
+        "coordinates": [
+          162.33733,
+          11.34735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebon"
+      },
+      "geometry": {
+        "coordinates": [
+          168.69636,
+          4.58199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aur"
+      },
+      "geometry": {
+        "coordinates": [
+          171.16869,
+          8.1499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arno"
+      },
+      "geometry": {
+        "coordinates": [
+          171.55413,
+          7.06691
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airuk"
+      },
+      "geometry": {
+        "coordinates": [
+          168.8203,
+          7.27717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mili"
+      },
+      "geometry": {
+        "coordinates": [
+          171.73502,
+          6.0815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lae"
+      },
+      "geometry": {
+        "coordinates": [
+          166.26344,
+          8.92217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utrik"
+      },
+      "geometry": {
+        "coordinates": [
+          169.84739,
+          11.22778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ujae"
+      },
+      "geometry": {
+        "coordinates": [
+          165.76416,
+          8.93218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rongelap"
+      },
+      "geometry": {
+        "coordinates": [
+          166.89408,
+          11.16351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loen"
+      },
+      "geometry": {
+        "coordinates": [
+          168.23072,
+          7.76007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namdrik"
+      },
+      "geometry": {
+        "coordinates": [
+          168.10282,
+          5.59944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mejit"
+      },
+      "geometry": {
+        "coordinates": [
+          170.86461,
+          10.27531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lib"
+      },
+      "geometry": {
+        "coordinates": [
+          167.37662,
+          8.31221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kili"
+      },
+      "geometry": {
+        "coordinates": [
+          169.12109,
+          5.64387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wotje"
+      },
+      "geometry": {
+        "coordinates": [
+          170.23674,
+          9.45429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wotho"
+      },
+      "geometry": {
+        "coordinates": [
+          166.01022,
+          10.16575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RMI Capitol"
+      },
+      "geometry": {
+        "coordinates": [
+          171.3805,
+          7.08931
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

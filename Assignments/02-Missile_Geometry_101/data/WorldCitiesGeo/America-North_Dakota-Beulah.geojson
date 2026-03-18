@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beulah"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.77795,
+          47.26334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazen"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.62266,
+          47.29445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanton"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.38155,
+          47.32111
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
