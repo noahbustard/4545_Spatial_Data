@@ -45,6 +45,23 @@ The submission is organized into the following directory structure:
 - **`README.md`**: This document.
 - **`reflection.md`**: A write-up reflecting on the project process and outcomes.
 
+## Tech Stack
+
+### Core Project Libraries
+
+- **`pandas`**: Used to organize threat data into tables and generate CSV summary outputs.
+- **`geopandas`**: Used to load world border GeoJSON data and perform country-level spatial analysis.
+- **`shapely`**: Used to build `Point` and `LineString` geometries, compute intersections, and create damage-zone buffers.
+- **`folium`**: Used to generate the interactive HTML maps for each project milestone.
+- **`wdo.wdo_geo`**: Custom project toolkit used for Haversine distance, bearing, destination-point, and trajectory calculations.
+
+### Supporting Notebook / Environment Libraries
+
+- **`pyproj`**: Projection and coordinate reference support used by the geospatial stack.
+- **`numpy`**: Numeric support for notebook-side calculations and geospatial experimentation.
+- **`jupyterlab`**: Notebook environment used to build and present the analysis workflow.
+- **`ipywidgets`** and **`ipyleaflet`**: Used for interactive notebook-side mapping experiments and supporting micro-lessons.
+
 ## Milestones & Analysis
 
 The project was completed by achieving five key milestones, each building upon the last.
