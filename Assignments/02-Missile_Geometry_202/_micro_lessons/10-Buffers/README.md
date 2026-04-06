@@ -23,3 +23,4 @@ Converting a point or path into an area of influence: accurate km-radius circles
 | [Buffer Visualization Strategies](./04-Buffer_Visualization_Strategies.ipynb) | [A](./04-Buffer_Visualization_Strategies.ipynb#exercise-a) [B](./04-Buffer_Visualization_Strategies.ipynb#exercise-b) | [✓](./04-Buffer_Visualization_Strategies.ipynb#check-your-understanding) |
 | [CRS Limitations](./05-CRS_Limitations.ipynb) | [A](./05-CRS_Limitations.ipynb#exercise-a) [B](./05-CRS_Limitations.ipynb#exercise-b) | [✓](./05-CRS_Limitations.ipynb#check-your-understanding) |
 | [Applications Impact Zones](./06-Applications_Impact_Zones.ipynb) | [A](./06-Applications_Impact_Zones.ipynb#exercise-a) [B](./06-Applications_Impact_Zones.ipynb#exercise-b) | [✓](./06-Applications_Impact_Zones.ipynb#check-your-understanding) |
+
