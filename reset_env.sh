@@ -15,6 +15,16 @@ echo "Python:    $PYVER"
 echo "Kernel:    $KERNEL_NAME  ($KERNEL_DISPLAY)"
 echo ""
 
+# Prefer `python3` first on macOS; some shells expose a broken `python` shim.
+if command -v python3 >/dev/null 2>&1; then
+  PYTHON_CMD="python3"
+elif command -v python >/dev/null 2>&1; then
+  PYTHON_CMD="python"
+else
+  echo "ERROR: Neither python nor python3 was found in PATH."
+  exit 1
+fi
+
 # Pin python for this repo folder (pyenv)
 if command -v pyenv >/dev/null 2>&1; then
   pyenv local "$PYVER"
@@ -24,15 +34,15 @@ fi
 
 # Rebuild venv
 rm -rf .venv
-python -m venv .venv
+"$PYTHON_CMD" -m venv .venv
 source .venv/bin/activate
 
-python -m pip install -U pip
-python -m pip install -r requirements.txt
+./.venv/bin/python -m pip install -U pip
+./.venv/bin/python -m pip install -r requirements.txt
 
 # Kernel registration (user scope is correct)
-python -m pip install -U ipykernel
-python -m ipykernel install --user \
+./.venv/bin/python -m pip install -U ipykernel
+./.venv/bin/python -m ipykernel install --user \
   --name "$KERNEL_NAME" \
   --display-name "$KERNEL_DISPLAY"
 
