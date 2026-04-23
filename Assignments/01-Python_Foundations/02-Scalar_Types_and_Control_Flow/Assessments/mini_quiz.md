@@ -8,6 +8,8 @@
 type(True)
 ```
 
+`bool`
+
 ---
 
 ### 2. What will the following print?
@@ -17,11 +19,13 @@ x = 7
 print(x >= 7 and x < 10)
 ```
 
-Answer: __________
+Answer: True
 
 ---
 
 ### 3. What does `not` do in a boolean expression?
+
+Flips it.
 
 ---
 
@@ -32,6 +36,10 @@ if score ___ 100:
     print("Perfect score!")
 ```
 
+`!=`
+
 ---
 
 ### 5. What keyword starts a conditional chain after an `if` block?
+
+`elif`

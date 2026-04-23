@@ -6,7 +6,7 @@
       "properties": {
         "from-city": "Tokyo",
         "to-city": "Paris",
-        "stroke": "#ffff00"
+        "stroke": "#00ffff"
       },
       "geometry": {
         "coordinates": [
@@ -27,7 +27,7 @@
       "properties": {
         "from-city": "Paris",
         "to-city": "London",
-        "stroke": "#00ffff"
+        "stroke": "#00ff00"
       },
       "geometry": {
         "coordinates": [
@@ -48,7 +48,7 @@
       "properties": {
         "from-city": "London",
         "to-city": "London",
-        "stroke": "#00ff00"
+        "stroke": "#ff00ff"
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +69,7 @@
       "properties": {
         "from-city": "London",
         "to-city": "New York City",
-        "stroke": "#ff0000"
+        "stroke": "#0000ff"
       },
       "geometry": {
         "coordinates": [
@@ -90,7 +90,7 @@
       "properties": {
         "from-city": "New York City",
         "to-city": "Tokyo",
-        "stroke": "#0000ff"
+        "stroke": "#ffff00"
       },
       "geometry": {
         "coordinates": [

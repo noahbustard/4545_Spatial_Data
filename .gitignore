@@ -1,2 +1,9 @@
 .*
 !.gitignore
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Generated large tileset not intended for Git history
+Assignments/03-Data_Manager/data/railroads.mbtiles
