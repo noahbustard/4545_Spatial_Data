@@ -38,7 +38,7 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 ### 04-Foundations
 
 - [x] Assessments/01-Foundations_Quiz.ipynb
-- [ ] Assessments/02-mini_quiz.ipynb
+- [x] Assessments/02-mini_quiz.ipynb
 - [x] Lessons/01-Magic_Commands/01-magic_commands.ipynb
 - [x] Lessons/02-Markdown_and_Formatting/02-Markdown_and_Formatting.ipynb
 - [x] Lessons/03-Work_With_Files/03-Work_With_Files.ipynb
@@ -50,12 +50,12 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 
 ### 05-Working_with_Data_Adv
 
-- [ ] Assessments/mini_quiz.ipynb
+- [x] Assessments/mini_quiz.ipynb
 - [ ] Lessons/01-Lists_Dicts_and_Tuples/01-Lists_Dicts_and_Tuples.ipynb
 - [ ] Lessons/02-Pandas_Series_and_Dataframes/02-Pandas_Series_and_Dataframes.ipynb
-- [ ] Lessons/03-Loading*and_Exploring_Eata/03-Loading_and_Exploring_Eata.ipynb *(likely typo — "Eata" → "Data"?)\_
-- [ ] Lessons/04-Indexing_and_Selection/04-Indexing_and_Selection.ipynb
-- [ ] Lessons/05-Basic_Cleaning/05-Basic_Cleaning.ipynb
+- [x] Lessons/03-Loading*and_Exploring_Eata/03-Loading_and_Exploring_Eata.ipynb *(likely typo — "Eata" → "Data"?)\_
+- [x] Lessons/04-Indexing_and_Selection/04-Indexing_and_Selection.ipynb
+- [x] Lessons/05-Basic_Cleaning/05-Basic_Cleaning.ipynb
 - [x] Lessons/06-Column_Operations/06-Column_Operations.ipynb
 - [ ] Lessons/07-Sorting_and_Filtering/07-Sorting_and_Filtering.ipynb
 - [ ] Lessons/08-Pandas_Wrangle_Lab/08-Pandas_Wrangle_Lab.ipynb
@@ -63,7 +63,7 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 
 ### 06-Describing_and_Visualizing_Data
 
-- [ ] Assessments/mini_quiz.ipynb
+- [x] Assessments/mini_quiz.ipynb
 - [ ] Lessons/01-Types_of_Data/01-Types_of_Data.ipynb
 - [ ] Lessons/02-Summary_Statistics/02-Summary_Statistics.ipynb
 - [ ] Lessons/03-Matplotlib_Basics/03-Matplotlib_Basics.ipynb
@@ -87,6 +87,8 @@ If you do this version, do all 11 notebooks + **the actual working project**
 - [x] \_micro_lessons/07-InteractiveMaps.ipynb
 - [x] \_micro_lessons/08-InstallingLocalLib.ipynb
 - [x] \_micro_lessons/09-YourOwnLibrary.ipynb
+- [x] Working project: run_project.py
+- [x] Generated outputs: maps/, data/*.csv, and screenshots/
 
 ---
 
@@ -248,3 +250,8 @@ If you do this version, **do all 21 notebooks.**
 - [x] 02-The_Comparison.ipynb
 
 ## Assignments/04-Worldle
+
+- [x] worldle.ipynb
+- [x] README.md student write-up
+- [x] screenshots/worldle_completed_round.png
+- [x] Resources/wdo Worldle helper implementations

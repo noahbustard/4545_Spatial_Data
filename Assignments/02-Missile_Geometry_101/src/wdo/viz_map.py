@@ -4,7 +4,7 @@ from typing import Dict, List, Tuple, Optional
 
 import folium
 
-from src.geo_math import trajectory_points
+from .geo import trajectory_points
 
 
 def make_base_map(

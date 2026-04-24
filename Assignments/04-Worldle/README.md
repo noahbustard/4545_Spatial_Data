@@ -1,5 +1,80 @@
 # Unit 04 — Final Project: Build Your Own Worldle
 
+## Student Submission Write-Up
+
+This folder contains my completed Unit 04 Worldle project.
+
+### How to Run
+
+From the repo root:
+
+```bash
+source .venv/bin/activate
+jupyter lab Assignments/04-Worldle/worldle.ipynb
+```
+
+Then run all cells. The final cell displays the playable game with an `ipyleaflet`
+map, searchable country selector, guess history, give-up button, new-game button,
+and seed control.
+
+### Completed `wdo` Functions
+
+- `Resources/wdo/geometry/bbox.py`
+  - `bbox_from_feature`
+  - `bbox_from_features`
+- `Resources/wdo/maps/leaflet_helpers.py`
+  - `make_map`
+  - `add_geojson`
+  - `fit_map_to_geojson`
+  - supporting map helpers for scale controls, paths, and bbox drawing
+- `Resources/wdo/games/worldle.py`
+  - `choose_target`
+  - `feature_center`
+  - `guess_feedback`
+  - `format_feedback`
+  - country metadata helpers and `build_country_lookup`
+
+### Data and Alias Notes
+
+- The assignment prompt references `countries_export.json`, but this checkout
+  provides `Resources/Data/countries.geojson`, so the notebook uses that file.
+- The available country GeoJSON already has `ISO3166-1-Alpha-2`, so flags are
+  joined primarily by ISO-2 code instead of name-only matching.
+- Name aliases retained for alternate data versions:
+  - `Czechia -> Czech Republic`
+  - `Eswatini -> Swaziland`
+  - `North Macedonia -> Macedonia`
+- Taiwan is stored as `CN-TW` in the country file and `tw` in the flag index, so
+  `wdo.games.worldle` maps `CN-TW -> tw`.
+- Countries or territories without matched flags render a small `no flag`
+  placeholder rather than breaking the row.
+
+### Polish Implemented
+
+- Six-guess limit.
+- Give-up reveal.
+- Target polygon reveal at game end.
+- Proximity coloring and heat labels.
+- Shareable text result after the round.
+- Enter-to-guess support when supported by the installed `ipywidgets` version.
+
+### Known Bugs / Limitations
+
+- `feature_center` intentionally uses simple bbox/mean representative points.
+  Large countries, antimeridian cases, and island chains can produce imperfect
+  centers and direction lines.
+- Distances and bearings are center-to-center, not nearest-border-to-border.
+- Static GitHub notebook rendering cannot replay widget callbacks; run the
+  notebook in JupyterLab for the live game.
+
+### Completed Round Screenshot
+
+![Completed Worldle round](screenshots/worldle_completed_round.png)
+
+---
+
+## Original Assignment Prompt
+
 > **Due:** Friday, May 8, 2026 (last day of classes)
 > **Library mandate:** Every piece of spatial math in this project lives in `wdo`. If you catch yourself writing `math.sin` inside your notebook, stop, back away slowly, and move it into a `wdo` module.
 > **Stack:** Python, Jupyter, `ipyleaflet`, `ipywidgets`, and your own freshly-promoted `wdo` code.

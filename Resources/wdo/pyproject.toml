@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wdo"
+version = "0.1.0"
+description = "WDO helper package for Spatial Data coursework"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = [
+  "wdo",
+  "wdo.games",
+  "wdo.geometry",
+  "wdo.graphs",
+  "wdo.io",
+  "wdo.maps",
+  "wdo.spatial",
+  "wdo.utils",
+]
+package-dir = { "wdo" = "." }
