@@ -19,7 +19,7 @@ I use this repository as my working portfolio for class deliverables and support
 | `Assignments/02-Missile_Geometry_101` | first missile geometry assignment and related notebook work |
 | `Assignments/02-Missile_Geometry_202` | follow-up geometry assignment and micro-lessons |
 | `Assignments/03-Data_Manager` | data manager lessons and project notebooks |
-| `Assignments/04-Armageddon_Tours` | Armageddon Tours assignment content |
+| `Assignments/04-Worldle` | Worldle assignment content |
 | `Resources/` | shared data, references, and utility resources |
 
 ## How I Work In This Repo
