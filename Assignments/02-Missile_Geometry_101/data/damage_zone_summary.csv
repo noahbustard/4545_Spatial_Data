@@ -1,0 +1,14 @@
+country,threat_id,threat_type,severity,buffer_km
+Canada,T001,alien,High,150
+United States,T001,alien,High,150
+Ocean (no land),T002,alien,High,150
+Mexico,T003,alien,High,150
+Ocean (no land),T004,kaiju,Severe,200
+Cuba,T005,kaiju,Severe,200
+Dominican Republic,T005,kaiju,Severe,200
+Haiti,T005,kaiju,Severe,200
+Ocean (no land),T006,alien,High,150
+Mexico,T007,alien,High,150
+United States,T008,airborne,Moderate,100
+Canada,T009,alien,High,150
+United States,T010,orbital,Critical,300

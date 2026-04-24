@@ -180,8 +180,8 @@ def trajectory_points(
     for i in range(1, steps + 1):
         elapsed_hr = (i * step_min) / 60.0
         dist_km = speed_kmh * elapsed_hr
-        lat2, lon2 = destination_point(origin_lat, origin_lon, bearing_deg, dist_km)
-        points.append((lat2, lon2))
+        dest = destination_point(origin_lat, origin_lon, bearing_deg, dist_km)
+        points.append((dest.lat, dest.lon))
 
     return points
 
