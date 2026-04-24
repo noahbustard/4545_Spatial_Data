@@ -16,33 +16,33 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 
 ### 01-Working_with_Data_Basic
 
-- [ ] Assessments/02a-mini_quiz.ipynb
-- [ ] Lessons/01-Lists/01-Lists.ipynb
-- [ ] Lessons/02-Tuples/02-Tuples.ipynb
-- [ ] Lessons/03-Data_Types_and_Arithmetic/03-Data_Types_and_Arithmetic.ipynb
-- [ ] Lessons/03-Dictionaries/03-Dictionaries.ipynb
+- [x] Assessments/02a-mini_quiz.ipynb
+- [x] Lessons/01-Lists/01-Lists.ipynb
+- [x] Lessons/02-Tuples/02-Tuples.ipynb
+- [x] Lessons/03-Data_Types_and_Arithmetic/03-Data_Types_and_Arithmetic.ipynb
+- [x] Lessons/03-Dictionaries/03-Dictionaries.ipynb
 
 ### 02-Scalar_Types_and_Control_Flow
 
-- [ ] 01-Scalar_Types/01-Scalar_Types.ipynb
-- [ ] Assessments/mini_quiz.ipynb
-- [ ] Lessons/02-Control_Flow/02-Control_Flow.ipynb
+- [x] 01-Scalar_Types/01-Scalar_Types.ipynb
+- [x] Assessments/mini_quiz.ipynb
+- [x] Lessons/02-Control_Flow/02-Control_Flow.ipynb
 
 ### 03-Loops_and_Iteration
 
-- [ ] Assessments/mini_quiz.ipynb
-- [ ] Lessons/01-For_Loops/01-For_Loops.ipynb
-- [ ] Lessons/02-While_loops/02-While_Loops.ipynb
-- [ ] Lessons/03-File_Loops_and_With/03-File_Loops_and_With.ipynb
+- [x] Assessments/mini_quiz.ipynb
+- [x] Lessons/01-For_Loops/01-For_Loops.ipynb
+- [x] Lessons/02-While_loops/02-While_Loops.ipynb
+- [x] Lessons/03-File_Loops_and_With/03-File_Loops_and_With.ipynb
 
 ### 04-Foundations
 
-- [ ] Assessments/01-Foundations_Quiz.ipynb
+- [x] Assessments/01-Foundations_Quiz.ipynb
 - [ ] Assessments/02-mini_quiz.ipynb
-- [ ] Lessons/01-Magic_Commands/01-magic_commands.ipynb
-- [ ] Lessons/02-Markdown_and_Formatting/02-Markdown_and_Formatting.ipynb
-- [ ] Lessons/03-Work_With_Files/03-Work_With_Files.ipynb
-- [ ] Lessons/04-Data_Input_Output/04-Data_Input_Output.ipynb
+- [x] Lessons/01-Magic_Commands/01-magic_commands.ipynb
+- [x] Lessons/02-Markdown_and_Formatting/02-Markdown_and_Formatting.ipynb
+- [x] Lessons/03-Work_With_Files/03-Work_With_Files.ipynb
+- [x] Lessons/04-Data_Input_Output/04-Data_Input_Output.ipynb
 - [ ] Lessons/05-Plotting_Basics/05-Plotting_Basics.ipynb
 - [ ] Lessons/06-Jupyter_Shortcuts_and_Productivity/06-Jupyter_Shortcuts_and_Productivity.ipynb
 - [ ] Lessons/07-Using_Help_and_Docs/07-Using_Help_and_Docs.ipynb
@@ -56,7 +56,7 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 - [ ] Lessons/03-Loading*and_Exploring_Eata/03-Loading_and_Exploring_Eata.ipynb *(likely typo — "Eata" → "Data"?)\_
 - [ ] Lessons/04-Indexing_and_Selection/04-Indexing_and_Selection.ipynb
 - [ ] Lessons/05-Basic_Cleaning/05-Basic_Cleaning.ipynb
-- [ ] Lessons/06-Column_Operations/06-Column_Operations.ipynb
+- [x] Lessons/06-Column_Operations/06-Column_Operations.ipynb
 - [ ] Lessons/07-Sorting_and_Filtering/07-Sorting_and_Filtering.ipynb
 - [ ] Lessons/08-Pandas_Wrangle_Lab/08-Pandas_Wrangle_Lab.ipynb
 - [ ] Lessons/09-Survey_Cleaning_Assignment/09-Survey_Cleaning_Assignment.ipynb
@@ -76,17 +76,17 @@ Base directory: `/Users/griffin/__currentCourses/4543-5993-Spatial-Data/`
 
 If you do this version, do all 11 notebooks + **the actual working project**
 
-- [ ] setup.ipynb
-- [ ] \_micro_lessons/00-Working_Directory.ipynb
-- [ ] \_micro_lessons/01-Data_Elsewhere.ipynb
-- [ ] \_micro_lessons/02-Viewing_Geojson.ipynb
-- [ ] \_micro_lessons/03-Style_W_Logic.ipynb
-- [ ] \_micro_lessons/04-Distance.ipynb
-- [ ] \_micro_lessons/05-Geo_and_Json_overview.ipynb
-- [ ] \_micro_lessons/06-Distances.ipynb
-- [ ] \_micro_lessons/07-InteractiveMaps.ipynb
-- [ ] \_micro_lessons/08-InstallingLocalLib.ipynb
-- [ ] \_micro_lessons/09-YourOwnLibrary.ipynb
+- [x] setup.ipynb
+- [x] \_micro_lessons/00-Working_Directory.ipynb
+- [x] \_micro_lessons/01-Data_Elsewhere.ipynb
+- [x] \_micro_lessons/02-Viewing_Geojson.ipynb
+- [x] \_micro_lessons/03-Style_W_Logic.ipynb
+- [x] \_micro_lessons/04-Distance.ipynb
+- [x] \_micro_lessons/05-Geo_and_Json_overview.ipynb
+- [x] \_micro_lessons/06-Distances.ipynb
+- [x] \_micro_lessons/07-InteractiveMaps.ipynb
+- [x] \_micro_lessons/08-InstallingLocalLib.ipynb
+- [x] \_micro_lessons/09-YourOwnLibrary.ipynb
 
 ---
 
@@ -204,47 +204,47 @@ If you do this version, **do all 21 notebooks.**
 
 ### \_micro_lessons/00-Data_Exploration
 
-- [ ] 00-Loading_and_Inspecting.ipynb
-- [ ] 01-Measuring_the_Problem.ipynb
+- [x] 00-Loading_and_Inspecting.ipynb
+- [x] 01-Measuring_the_Problem.ipynb
 
 ### \_micro_lessons/01-Douglas_Peucker
 
-- [ ] 00-The_Algorithm.ipynb
-- [ ] 01-Implementation.ipynb
-- [ ] 02-Epsilon_and_Tradeoffs.ipynb
+- [x] 00-The_Algorithm.ipynb
+- [x] 01-Implementation.ipynb
+- [x] 02-Epsilon_and_Tradeoffs.ipynb
 
 ### \_micro_lessons/02-LOD_Generation
 
-- [ ] 00-Designing_the_Pipeline.ipynb
-- [ ] 01-Writing_the_LOD_Files.ipynb
-- [ ] 02-Comparing_the_Levels.ipynb
+- [x] 00-Designing_the_Pipeline.ipynb
+- [x] 01-Writing_the_LOD_Files.ipynb
+- [x] 02-Comparing_the_Levels.ipynb
 
 ### \_micro_lessons/03-Bounding_Box_Culling
 
-- [ ] 00-Bounding_Boxes.ipynb
-- [ ] 01-Intersection_Test.ipynb
-- [ ] 02-Viewport_Culling.ipynb
+- [x] 00-Bounding_Boxes.ipynb
+- [x] 01-Intersection_Test.ipynb
+- [x] 02-Viewport_Culling.ipynb
 
 ### \_micro_lessons/04-Spatial_Grid_Index
 
-- [ ] 00-The_Grid_Idea.ipynb
-- [ ] 01-Building_the_Index.ipynb
-- [ ] 02-Querying_and_Benchmarking.ipynb
+- [x] 00-The_Grid_Idea.ipynb
+- [x] 01-Building_the_Index.ipynb
+- [x] 02-Querying_and_Benchmarking.ipynb
 
 ### \_micro_lessons/05-Zoom_Layer_Switching
 
-- [ ] 00-The_Decision_Function.ipynb
-- [ ] 01-Live_Layer_Switching.ipynb
+- [x] 00-The_Decision_Function.ipynb
+- [x] 01-Live_Layer_Switching.ipynb
 
 ### \_micro_lessons/06-Putting_It_Together
 
-- [ ] 00-The_Viewer.ipynb
-- [ ] 01-What_We_Built.ipynb
+- [x] 00-The_Viewer.ipynb
+- [x] 01-What_We_Built.ipynb
 
 ### \_micro_lessons/07-The_Library_Version
 
-- [ ] 00-What_Are_Vector_Tiles.ipynb
-- [ ] 01-Using_Tippecanoe.ipynb
-- [ ] 02-The_Comparison.ipynb
+- [x] 00-What_Are_Vector_Tiles.ipynb
+- [x] 01-Using_Tippecanoe.ipynb
+- [x] 02-The_Comparison.ipynb
 
 ## Assignments/04-Worldle
