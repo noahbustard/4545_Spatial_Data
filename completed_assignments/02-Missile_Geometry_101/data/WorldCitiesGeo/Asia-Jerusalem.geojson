@@ -1,0 +1,2046 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerusalem"
+      },
+      "geometry": {
+        "coordinates": [
+          35.21633,
+          31.76904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Har Adar"
+      },
+      "geometry": {
+        "coordinates": [
+          35.13093,
+          31.82754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zur Moshe"
+      },
+      "geometry": {
+        "coordinates": [
+          34.91313,
+          32.29819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zur Hadassa"
+      },
+      "geometry": {
+        "coordinates": [
+          35.09708,
+          31.71912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safed"
+      },
+      "geometry": {
+        "coordinates": [
+          35.496,
+          32.96465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeroham"
+      },
+      "geometry": {
+        "coordinates": [
+          34.93176,
+          30.98822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yehud"
+      },
+      "geometry": {
+        "coordinates": [
+          34.89091,
+          32.03317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yavne'el"
+      },
+      "geometry": {
+        "coordinates": [
+          35.50435,
+          32.70619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yavne"
+      },
+      "geometry": {
+        "coordinates": [
+          34.73843,
+          31.88078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yafo"
+      },
+      "geometry": {
+        "coordinates": [
+          34.75224,
+          32.05043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Uzeir"
+      },
+      "geometry": {
+        "coordinates": [
+          35.32984,
+          32.79212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm el Fahm"
+      },
+      "geometry": {
+        "coordinates": [
+          35.15349,
+          32.51725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirat Karmel"
+      },
+      "geometry": {
+        "coordinates": [
+          34.97183,
+          32.76021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timrat"
+      },
+      "geometry": {
+        "coordinates": [
+          35.22359,
+          32.70302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiberias"
+      },
+      "geometry": {
+        "coordinates": [
+          35.53124,
+          32.79221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tel Mond"
+      },
+      "geometry": {
+        "coordinates": [
+          34.91737,
+          32.24995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tel Aviv"
+      },
+      "geometry": {
+        "coordinates": [
+          34.78057,
+          32.08088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "maalot Tarshiha"
+      },
+      "geometry": {
+        "coordinates": [
+          35.26667,
+          33.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamra"
+      },
+      "geometry": {
+        "coordinates": [
+          35.1987,
+          32.85301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulam"
+      },
+      "geometry": {
+        "coordinates": [
+          35.33408,
+          32.60606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelomi"
+      },
+      "geometry": {
+        "coordinates": [
+          35.14452,
+          33.07216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sederot"
+      },
+      "geometry": {
+        "coordinates": [
+          34.59693,
+          31.525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savyon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8777,
+          32.04966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakhnin"
+      },
+      "geometry": {
+        "coordinates": [
+          35.29707,
+          32.86422
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sajur"
+      },
+      "geometry": {
+        "coordinates": [
+          35.34136,
+          32.94266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosh Pinna"
+      },
+      "geometry": {
+        "coordinates": [
+          35.54258,
+          32.96894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosh Ha'Ayin"
+      },
+      "geometry": {
+        "coordinates": [
+          34.95664,
+          32.09556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rishon LeZiyyon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.78939,
+          31.97102
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rekhasim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.09901,
+          32.74907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramla"
+      },
+      "geometry": {
+        "coordinates": [
+          34.86563,
+          31.92923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramat Yishay"
+      },
+      "geometry": {
+        "coordinates": [
+          35.1707,
+          32.70444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramat HaSharon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8394,
+          32.14613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramat Gan"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81065,
+          32.08227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ra'anana"
+      },
+      "geometry": {
+        "coordinates": [
+          34.87386,
+          32.1836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Yam"
+      },
+      "geometry": {
+        "coordinates": [
+          35.06973,
+          32.84966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Shemona"
+      },
+      "geometry": {
+        "coordinates": [
+          35.57212,
+          33.20733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Mozqin"
+      },
+      "geometry": {
+        "coordinates": [
+          35.0776,
+          32.83706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Gat"
+      },
+      "geometry": {
+        "coordinates": [
+          34.76422,
+          31.60998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Bialik"
+      },
+      "geometry": {
+        "coordinates": [
+          35.08583,
+          32.8275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qiryat Ata"
+      },
+      "geometry": {
+        "coordinates": [
+          35.11323,
+          32.81149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qalansuwa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.98106,
+          32.28493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petah Tiqwa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.88747,
+          32.08707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pardesiyya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.90911,
+          32.30577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Or Yehuda"
+      },
+      "geometry": {
+        "coordinates": [
+          34.85788,
+          32.02923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ofaqim"
+      },
+      "geometry": {
+        "coordinates": [
+          34.62025,
+          31.3141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordiyya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.89617,
+          32.3147
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netivot"
+      },
+      "geometry": {
+        "coordinates": [
+          34.58911,
+          31.42305
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netanya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.85992,
+          32.33291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ness Ziona"
+      },
+      "geometry": {
+        "coordinates": [
+          34.79868,
+          31.92933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nesher"
+      },
+      "geometry": {
+        "coordinates": [
+          35.04425,
+          32.76622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nein"
+      },
+      "geometry": {
+        "coordinates": [
+          35.34885,
+          32.63063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nehalim"
+      },
+      "geometry": {
+        "coordinates": [
+          34.91069,
+          32.06012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nazareth"
+      },
+      "geometry": {
+        "coordinates": [
+          35.30483,
+          32.69925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahf"
+      },
+      "geometry": {
+        "coordinates": [
+          35.31679,
+          32.93444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahariya"
+      },
+      "geometry": {
+        "coordinates": [
+          35.09467,
+          33.01135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitzpe Ramon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80111,
+          30.60944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mi`ilya"
+      },
+      "geometry": {
+        "coordinates": [
+          35.25658,
+          33.02781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Migdal Ha`Emeq"
+      },
+      "geometry": {
+        "coordinates": [
+          35.23986,
+          32.67597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mevo Betar"
+      },
+      "geometry": {
+        "coordinates": [
+          35.10669,
+          31.72177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metulla"
+      },
+      "geometry": {
+        "coordinates": [
+          35.5795,
+          33.27918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazkeret Batya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.84646,
+          31.85357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maghar"
+      },
+      "geometry": {
+        "coordinates": [
+          35.40703,
+          32.88984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lod"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8903,
+          31.9467
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Yona"
+      },
+      "geometry": {
+        "coordinates": [
+          34.93507,
+          32.31669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Tavor"
+      },
+      "geometry": {
+        "coordinates": [
+          35.42118,
+          32.68655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Shemaryahu"
+      },
+      "geometry": {
+        "coordinates": [
+          34.82082,
+          32.18529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kfar Saba"
+      },
+      "geometry": {
+        "coordinates": [
+          34.90694,
+          32.175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Rosh HaNiqra"
+      },
+      "geometry": {
+        "coordinates": [
+          35.11348,
+          33.08607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Habad"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8516,
+          31.98793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaukab Abu el Hija"
+      },
+      "geometry": {
+        "coordinates": [
+          35.24848,
+          32.83155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmi'el"
+      },
+      "geometry": {
+        "coordinates": [
+          35.30501,
+          32.91708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafir Yasif"
+      },
+      "geometry": {
+        "coordinates": [
+          35.1623,
+          32.95451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Qasim"
+      },
+      "geometry": {
+        "coordinates": [
+          34.97624,
+          32.11406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Misr"
+      },
+      "geometry": {
+        "coordinates": [
+          35.42147,
+          32.64521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Manda"
+      },
+      "geometry": {
+        "coordinates": [
+          35.26009,
+          32.81034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Kanna"
+      },
+      "geometry": {
+        "coordinates": [
+          35.34242,
+          32.7466
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafr Kamma"
+      },
+      "geometry": {
+        "coordinates": [
+          35.44122,
+          32.72129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabul"
+      },
+      "geometry": {
+        "coordinates": [
+          35.21171,
+          32.86856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judeida Makr"
+      },
+      "geometry": {
+        "coordinates": [
+          35.15705,
+          32.9282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jish"
+      },
+      "geometry": {
+        "coordinates": [
+          35.44694,
+          33.02216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaljulya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.95372,
+          32.1547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iksal"
+      },
+      "geometry": {
+        "coordinates": [
+          35.32365,
+          32.68164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibtin"
+      },
+      "geometry": {
+        "coordinates": [
+          35.11402,
+          32.7615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurfeish"
+      },
+      "geometry": {
+        "coordinates": [
+          35.34835,
+          33.01711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.77918,
+          32.01034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hod HaSharon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8932,
+          32.15934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herzliyya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.82536,
+          32.16627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haifa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.9885,
+          32.81841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hadera"
+      },
+      "geometry": {
+        "coordinates": [
+          34.9039,
+          32.44192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giv`at Shemu'el"
+      },
+      "geometry": {
+        "coordinates": [
+          34.84858,
+          32.07817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giv`atayim"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81253,
+          32.07225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedera"
+      },
+      "geometry": {
+        "coordinates": [
+          34.77998,
+          31.81456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gan Yavne"
+      },
+      "geometry": {
+        "coordinates": [
+          34.70659,
+          31.78737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganne Tiqwa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8732,
+          32.05971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasuta"
+      },
+      "geometry": {
+        "coordinates": [
+          35.30893,
+          33.04895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Even Yehuda"
+      },
+      "geometry": {
+        "coordinates": [
+          34.88759,
+          32.26959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.95023,
+          32.2341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Et Taiyiba"
+      },
+      "geometry": {
+        "coordinates": [
+          35.00893,
+          32.26616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esh Sheikh Dannun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.14805,
+          32.9941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Er Reina"
+      },
+      "geometry": {
+        "coordinates": [
+          35.31622,
+          32.72339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`En Boqeq"
+      },
+      "geometry": {
+        "coordinates": [
+          35.36253,
+          31.19941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elyakhin"
+      },
+      "geometry": {
+        "coordinates": [
+          34.92433,
+          32.40793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Mazra`a"
+      },
+      "geometry": {
+        "coordinates": [
+          35.09837,
+          32.98338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Fureidis"
+      },
+      "geometry": {
+        "coordinates": [
+          34.95153,
+          32.59812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eilat"
+      },
+      "geometry": {
+        "coordinates": [
+          34.94821,
+          29.55805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Eilabun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.40029,
+          32.83693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimona"
+      },
+      "geometry": {
+        "coordinates": [
+          35.03269,
+          31.07079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deir Hanna"
+      },
+      "geometry": {
+        "coordinates": [
+          35.36365,
+          32.86196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daliyat el Karmil"
+      },
+      "geometry": {
+        "coordinates": [
+          35.04686,
+          32.69383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabburiya"
+      },
+      "geometry": {
+        "coordinates": [
+          35.37123,
+          32.69256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buqei`a"
+      },
+      "geometry": {
+        "coordinates": [
+          35.33345,
+          32.97747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bu`eina"
+      },
+      "geometry": {
+        "coordinates": [
+          35.36486,
+          32.80636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bir el Maksur"
+      },
+      "geometry": {
+        "coordinates": [
+          35.22069,
+          32.77732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bet Yizhaq"
+      },
+      "geometry": {
+        "coordinates": [
+          34.88878,
+          32.32751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bet Shemesh"
+      },
+      "geometry": {
+        "coordinates": [
+          34.99293,
+          31.73072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bet She'an"
+      },
+      "geometry": {
+        "coordinates": [
+          35.49632,
+          32.49728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bet Dagan"
+      },
+      "geometry": {
+        "coordinates": [
+          34.82977,
+          32.00191
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bene Beraq"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8338,
+          32.08074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bene 'Ayish"
+      },
+      "geometry": {
+        "coordinates": [
+          34.75,
+          31.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beit Jann"
+      },
+      "geometry": {
+        "coordinates": [
+          35.38152,
+          32.96464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beersheba"
+      },
+      "geometry": {
+        "coordinates": [
+          34.7913,
+          31.25181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat Yam"
+      },
+      "geometry": {
+        "coordinates": [
+          34.75185,
+          32.02379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basmat Tab`un"
+      },
+      "geometry": {
+        "coordinates": [
+          35.15716,
+          32.73898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azor"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80632,
+          32.0243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Atlit"
+      },
+      "geometry": {
+        "coordinates": [
+          34.94236,
+          32.68889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashqelon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.57149,
+          31.66926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashdod"
+      },
+      "geometry": {
+        "coordinates": [
+          34.64966,
+          31.79213
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Arad"
+      },
+      "geometry": {
+        "coordinates": [
+          35.21282,
+          31.25882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Akko"
+      },
+      "geometry": {
+        "coordinates": [
+          35.07647,
+          32.92814
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Afula `Illit"
+      },
+      "geometry": {
+        "coordinates": [
+          35.32533,
+          32.63221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Ghaush"
+      },
+      "geometry": {
+        "coordinates": [
+          35.1093,
+          31.80592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shibli"
+      },
+      "geometry": {
+        "coordinates": [
+          35.39252,
+          32.69464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumat Heib"
+      },
+      "geometry": {
+        "coordinates": [
+          35.30571,
+          32.77802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sallama"
+      },
+      "geometry": {
+        "coordinates": [
+          35.36931,
+          32.89443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kefar Weradim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.27793,
+          32.99385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lehavim"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81619,
+          31.37284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modiin"
+      },
+      "geometry": {
+        "coordinates": [
+          35.01051,
+          31.89825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midreshet Ben-Gurion"
+      },
+      "geometry": {
+        "coordinates": [
+          34.7834,
+          30.85154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesarea"
+      },
+      "geometry": {
+        "coordinates": [
+          34.90459,
+          32.51888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Jerusalem"
+      },
+      "geometry": {
+        "coordinates": [
+          35.21961,
+          31.78199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modiin Ilit"
+      },
+      "geometry": {
+        "coordinates": [
+          35.04416,
+          31.93221
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nof Ayalon"
+      },
+      "geometry": {
+        "coordinates": [
+          34.99081,
+          31.87111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hashmonaim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.0215,
+          31.92973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapid"
+      },
+      "geometry": {
+        "coordinates": [
+          35.03222,
+          31.91764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kfar NaOranim"
+      },
+      "geometry": {
+        "coordinates": [
+          35.03669,
+          31.91982
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mevo horon"
+      },
+      "geometry": {
+        "coordinates": [
+          35.03583,
+          31.84876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beit Horon"
+      },
+      "geometry": {
+        "coordinates": [
+          35.12999,
+          31.87581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Na'ale"
+      },
+      "geometry": {
+        "coordinates": [
+          35.06553,
+          31.96236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giv'on HaHadasha"
+      },
+      "geometry": {
+        "coordinates": [
+          35.16106,
+          31.84927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talmon"
+      },
+      "geometry": {
+        "coordinates": [
+          35.13539,
+          31.93927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolev"
+      },
+      "geometry": {
+        "coordinates": [
+          35.13393,
+          31.92609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariel"
+      },
+      "geometry": {
+        "coordinates": [
+          35.18449,
+          32.1065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nirit"
+      },
+      "geometry": {
+        "coordinates": [
+          34.98622,
+          32.14677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revava"
+      },
+      "geometry": {
+        "coordinates": [
+          35.12896,
+          32.11926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herzliya Pituah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8028,
+          32.17409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Givat Zeev"
+      },
+      "geometry": {
+        "coordinates": [
+          35.16861,
+          31.86145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranit"
+      },
+      "geometry": {
+        "coordinates": [
+          34.99094,
+          32.13165
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

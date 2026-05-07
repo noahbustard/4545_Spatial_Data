@@ -1,0 +1,1032 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonggang-up"
+      },
+      "geometry": {
+        "coordinates": [
+          125.42444,
+          38.85611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yongbyon"
+      },
+      "geometry": {
+        "coordinates": [
+          125.80417,
+          39.81333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonan-up"
+      },
+      "geometry": {
+        "coordinates": [
+          126.16111,
+          37.90889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yomju-up"
+      },
+      "geometry": {
+        "coordinates": [
+          124.59806,
+          39.89333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wonsan"
+      },
+      "geometry": {
+        "coordinates": [
+          127.44361,
+          39.15278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T'ongch'on-up"
+      },
+      "geometry": {
+        "coordinates": [
+          127.89167,
+          38.95389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungho 1-tong"
+      },
+      "geometry": {
+        "coordinates": [
+          125.97778,
+          38.99139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunan"
+      },
+      "geometry": {
+        "coordinates": [
+          125.69,
+          39.19833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Songnim"
+      },
+      "geometry": {
+        "coordinates": [
+          125.645,
+          38.75417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sil-li"
+      },
+      "geometry": {
+        "coordinates": [
+          125.47361,
+          39.49472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinmak"
+      },
+      "geometry": {
+        "coordinates": [
+          126.23333,
+          38.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinanju"
+      },
+      "geometry": {
+        "coordinates": [
+          125.60972,
+          39.59806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sariwon"
+      },
+      "geometry": {
+        "coordinates": [
+          125.75583,
+          38.50722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangsong-ni"
+      },
+      "geometry": {
+        "coordinates": [
+          126.88556,
+          39.16944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samho-rodongjagu"
+      },
+      "geometry": {
+        "coordinates": [
+          127.87111,
+          39.9475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyongyang"
+      },
+      "geometry": {
+        "coordinates": [
+          125.75432,
+          39.03385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P'yongsong"
+      },
+      "geometry": {
+        "coordinates": [
+          125.87194,
+          39.24639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyoksong-up"
+      },
+      "geometry": {
+        "coordinates": [
+          125.55667,
+          38.0475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panghyon-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          125.24139,
+          39.88722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongjin"
+      },
+      "geometry": {
+        "coordinates": [
+          125.36194,
+          37.93472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namp'o"
+      },
+      "geometry": {
+        "coordinates": [
+          125.40778,
+          38.7375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwaksan"
+      },
+      "geometry": {
+        "coordinates": [
+          125.08278,
+          39.6875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kusong"
+      },
+      "geometry": {
+        "coordinates": [
+          125.24472,
+          39.98111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kujang-up"
+      },
+      "geometry": {
+        "coordinates": [
+          126.03028,
+          39.86722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowon-up"
+      },
+      "geometry": {
+        "coordinates": [
+          127.24306,
+          39.43806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosan"
+      },
+      "geometry": {
+        "coordinates": [
+          127.41806,
+          38.85583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koksan"
+      },
+      "geometry": {
+        "coordinates": [
+          126.66639,
+          38.78194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kangdong-up"
+      },
+      "geometry": {
+        "coordinates": [
+          126.09611,
+          39.1425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaesong"
+      },
+      "geometry": {
+        "coordinates": [
+          126.55444,
+          37.97083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hwangju-up"
+      },
+      "geometry": {
+        "coordinates": [
+          125.77611,
+          38.67028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungnam"
+      },
+      "geometry": {
+        "coordinates": [
+          127.61861,
+          39.83167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hukkyo-ri"
+      },
+      "geometry": {
+        "coordinates": [
+          125.79194,
+          38.79861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoeyang"
+      },
+      "geometry": {
+        "coordinates": [
+          127.59833,
+          38.71028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamhung"
+      },
+      "geometry": {
+        "coordinates": [
+          127.53639,
+          39.91833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haeju"
+      },
+      "geometry": {
+        "coordinates": [
+          125.71472,
+          38.04056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chunghwa"
+      },
+      "geometry": {
+        "coordinates": [
+          125.8,
+          38.86389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chongju"
+      },
+      "geometry": {
+        "coordinates": [
+          125.21028,
+          39.69333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Changyon"
+      },
+      "geometry": {
+        "coordinates": [
+          125.09611,
+          38.25083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaeryong-up"
+      },
+      "geometry": {
+        "coordinates": [
+          125.61556,
+          38.39917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayang-ni"
+      },
+      "geometry": {
+        "coordinates": [
+          125.78,
+          38.24306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anju"
+      },
+      "geometry": {
+        "coordinates": [
+          125.66472,
+          39.61778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anbyon-up"
+      },
+      "geometry": {
+        "coordinates": [
+          127.52389,
+          39.0425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anak"
+      },
+      "geometry": {
+        "coordinates": [
+          125.49417,
+          38.51083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinsang-ni"
+      },
+      "geometry": {
+        "coordinates": [
+          127.40583,
+          39.65028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuktae-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          128.15972,
+          40.02472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ungsang-nodongjagu"
+      },
+      "geometry": {
+        "coordinates": [
+          130.46222,
+          42.35778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uiju"
+      },
+      "geometry": {
+        "coordinates": [
+          124.53167,
+          40.19944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uijin-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          126.49584,
+          40.97518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungam-nodongjagu"
+      },
+      "geometry": {
+        "coordinates": [
+          129.66889,
+          41.66972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonbong"
+      },
+      "geometry": {
+        "coordinates": [
+          130.39667,
+          42.34222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinuiju"
+      },
+      "geometry": {
+        "coordinates": [
+          124.39806,
+          40.10056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakchu-up"
+      },
+      "geometry": {
+        "coordinates": [
+          125.04667,
+          40.38944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puryong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.71167,
+          42.06056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pukchil-lodongjagu"
+      },
+      "geometry": {
+        "coordinates": [
+          125.74833,
+          40.20194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonggwang-up"
+      },
+      "geometry": {
+        "coordinates": [
+          127.45472,
+          40.01833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onsong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.99333,
+          42.95722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanam"
+      },
+      "geometry": {
+        "coordinates": [
+          129.68444,
+          41.71361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namyang-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.86667,
+          42.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajin"
+      },
+      "geometry": {
+        "coordinates": [
+          130.30028,
+          42.24889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musan-up"
+      },
+      "geometry": {
+        "coordinates": [
+          129.20776,
+          42.22609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyongwon"
+      },
+      "geometry": {
+        "coordinates": [
+          130.15278,
+          42.81361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyongsong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.60611,
+          41.58778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimch'aek-si"
+      },
+      "geometry": {
+        "coordinates": [
+          129.18972,
+          40.66889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilju"
+      },
+      "geometry": {
+        "coordinates": [
+          129.32778,
+          40.96417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapsan-up"
+      },
+      "geometry": {
+        "coordinates": [
+          128.29333,
+          41.09028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanggye"
+      },
+      "geometry": {
+        "coordinates": [
+          126.58523,
+          40.96946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iwon-up"
+      },
+      "geometry": {
+        "coordinates": [
+          128.65528,
+          40.32306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyesan-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          128.17873,
+          41.39756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyesan"
+      },
+      "geometry": {
+        "coordinates": [
+          128.17778,
+          41.40167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungju-dong"
+      },
+      "geometry": {
+        "coordinates": [
+          126.54756,
+          40.99629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongwon"
+      },
+      "geometry": {
+        "coordinates": [
+          127.95583,
+          40.02528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoeryong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.75083,
+          42.44278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoemul-li"
+      },
+      "geometry": {
+        "coordinates": [
+          129.67,
+          41.43389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hau-ri"
+      },
+      "geometry": {
+        "coordinates": [
+          129.47028,
+          41.20056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chongjin"
+      },
+      "geometry": {
+        "coordinates": [
+          129.77583,
+          41.79556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chasong"
+      },
+      "geometry": {
+        "coordinates": [
+          126.64139,
+          41.46083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aoji-ri"
+      },
+      "geometry": {
+        "coordinates": [
+          130.39528,
+          42.52056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungjibaegam"
+      },
+      "geometry": {
+        "coordinates": [
+          128.79889,
+          41.24278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komusan 1-tong"
+      },
+      "geometry": {
+        "coordinates": [
+          129.7,
+          42.10917
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

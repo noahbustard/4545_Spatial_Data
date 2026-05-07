@@ -1,0 +1,1604 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Young"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.62693,
+          -32.69844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Sara"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.41947,
+          -33.2534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa del Carmen"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.01667,
+          -33.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vichadero"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.71667,
+          -31.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vergara"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.95,
+          -32.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velazquez"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.28054,
+          -34.03631
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25 de Mayo"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.33944,
+          -34.18917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25 de Agosto"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.40222,
+          -34.41167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tupambae"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.76667,
+          -32.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinidad"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.89957,
+          -33.5165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinidad"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.88861,
+          -33.53889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treinta y Tres"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.38333,
+          -33.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranqueras"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.75,
+          -31.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomas Gomensoro"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.43609,
+          -30.4287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toledo"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.09469,
+          -34.73807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarariras"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.61866,
+          -34.26555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tala"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.76375,
+          -34.34349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacuarembo"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.98111,
+          -31.71694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Soriano"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.32177,
+          -33.39811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solis de Mataojo"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.46808,
+          -34.59951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soca"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.702,
+          -34.68432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauce"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0816,
+          -34.5709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarandi Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.33333,
+          -33.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarandi del Yi"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.63333,
+          -33.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago Vazquez"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.35,
+          -34.79028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.03795,
+          -34.49819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Lucia"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.39056,
+          -34.45333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara de Olimar"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.96667,
+          -32.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Catalina"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.48824,
+          -33.791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Bernardina"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.48333,
+          -33.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Ramon"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.95571,
+          -34.29155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose de Mayo"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.71361,
+          -34.3375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Javier"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.1332,
+          -32.66523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jacinto"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.87151,
+          -34.54465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Felix"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.13333,
+          -32.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Carlos"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.91824,
+          -34.79123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Bautista"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.95861,
+          -34.44016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.08036,
+          -34.4513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.96667,
+          -31.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosario"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.35,
+          -34.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodriguez"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.53797,
+          -34.381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocha"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.33333,
+          -34.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivera"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.55076,
+          -30.90534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Branco"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.38583,
+          -32.59802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rafael Perazza"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.7971,
+          -34.52335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quebracho"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.9014,
+          -31.93526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punta del Este"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.93382,
+          -34.94747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Progreso"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.21758,
+          -34.66737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estacion Porvenir"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.85915,
+          -32.36653
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piriapolis"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.27471,
+          -34.86287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedras Coloradas"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.60901,
+          -32.37183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paysandu"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.07556,
+          -32.32139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paso de los Toros"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.51667,
+          -32.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paso de Carrasco"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.05222,
+          -34.86028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pando"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.9584,
+          -34.71716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pan de Azucar"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.23582,
+          -34.7787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmitas"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.80079,
+          -33.50719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ombues de Lavalle"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.80959,
+          -33.93783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Berlin"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.05166,
+          -32.97711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nueva Palmira"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.40796,
+          -33.86999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nueva Helvecia"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.23333,
+          -34.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montevideo"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.18816,
+          -34.90328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montes"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.56219,
+          -34.49339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minas de Corrales"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.46667,
+          -31.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minas"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.23771,
+          -34.37589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Migues"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.62793,
+          -34.48759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercedes"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.03047,
+          -33.2524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.1675,
+          -32.37028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariscala"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.77732,
+          -34.04085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maldonado"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.95,
+          -34.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Cerrillos"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.35639,
+          -34.605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libertad"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.61739,
+          -34.63459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Toscas"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.71667,
+          -34.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Piedras"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.21915,
+          -34.7302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Piedras"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.58174,
+          -30.26204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lascano"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.2065,
+          -33.67235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.2259,
+          -34.76031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paloma"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.16452,
+          -34.66268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paloma"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.6,
+          -32.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Floresta"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.68141,
+          -34.75572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juan L. Lacaze"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.45285,
+          -34.41888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jose Pedro Varela"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.53586,
+          -33.45451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jose Enrique Rodo"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.53153,
+          -33.69618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jose Batlle y Ordonez"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.11667,
+          -33.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joaquin Suarez"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0347,
+          -34.73501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juanico"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.25334,
+          -34.59454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isidoro Noblia"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.16667,
+          -31.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guichon"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.19778,
+          -32.35846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fray Bentos"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.30306,
+          -33.12194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florida"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.21417,
+          -34.09556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florencio Sanchez"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.37166,
+          -33.87785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empalme Olmos"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.89268,
+          -34.69753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecilda Paullier"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.04883,
+          -34.35778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durazno"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.52361,
+          -33.38056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolores"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.21701,
+          -33.53009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dieciocho de Julio"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.55325,
+          -33.68216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta del Tigre"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.3645,
+          -34.76488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curtina"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.11667,
+          -32.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Constitucion"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.84946,
+          -31.06913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia del Sacramento"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.83976,
+          -34.46262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chui"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.45926,
+          -33.69792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alejandro Gallinal"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.54264,
+          -33.86252
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cebollati"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.79425,
+          -33.26703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casupa"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.64811,
+          -34.09994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castillos"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.85919,
+          -34.19871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carmelo"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.28402,
+          -34.00023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlos Reyles"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.48333,
+          -33.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardona"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.36954,
+          -33.87049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardal"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.38889,
+          -34.29056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canelones"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.27778,
+          -34.52278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blanquillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.63333,
+          -32.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bella Union"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.59919,
+          -30.25966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belen"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.77577,
+          -30.78716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltasar Brum"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.32596,
+          -30.71905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantida"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.7584,
+          -34.7719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artigas"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.46667,
+          -30.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aigua"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.75665,
+          -34.20498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguas Corrientes"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.39361,
+          -34.52194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acegua"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.2,
+          -31.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puntas de Valdez"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.70097,
+          -34.5855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia Nicolich"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.02435,
+          -34.81516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barra de Carrasco"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.02972,
+          -34.87722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajas Blancas"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.33417,
+          -34.80167
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

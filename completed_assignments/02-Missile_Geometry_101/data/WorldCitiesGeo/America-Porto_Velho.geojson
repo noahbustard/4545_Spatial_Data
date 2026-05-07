@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Velho"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.90389,
+          -8.76194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariquemes"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.04083,
+          -9.91333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilhena"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.14583,
+          -12.74056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Presidente Medici"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.90139,
+          -11.17528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Posto Fiscal Rolim de Moura"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.27726,
+          -13.08271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pimenta Bueno"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.19361,
+          -11.6725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouro Preto do Oeste"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.21583,
+          -10.74806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ji Parana"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.95167,
+          -10.88528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaru"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.46639,
+          -10.43889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guajara Mirim"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.33944,
+          -10.78278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cacoal"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.44722,
+          -11.43861
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjoa Haven"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.87836,
+          68.62602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kugluktuk"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.09649,
+          67.82743
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

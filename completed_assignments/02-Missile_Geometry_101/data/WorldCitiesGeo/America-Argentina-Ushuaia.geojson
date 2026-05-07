@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ushuaia"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.3,
+          -54.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.70946,
+          -53.78769
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolhuin"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.1955,
+          -54.51083
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

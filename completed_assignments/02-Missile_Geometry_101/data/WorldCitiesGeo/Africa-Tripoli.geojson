@@ -1,0 +1,694 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bardiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          25.08653,
+          31.75615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobruk"
+      },
+      "geometry": {
+        "coordinates": [
+          23.97639,
+          32.08361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suluq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25205,
+          31.66818
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gialo"
+      },
+      "geometry": {
+        "coordinates": [
+          21.55,
+          29.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darnah"
+      },
+      "geometry": {
+        "coordinates": [
+          22.63669,
+          32.76704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benghazi"
+      },
+      "geometry": {
+        "coordinates": [
+          20.06859,
+          32.11486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Zuwaytinah"
+      },
+      "geometry": {
+        "coordinates": [
+          20.12022,
+          30.9522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Awjilah"
+      },
+      "geometry": {
+        "coordinates": [
+          21.28694,
+          29.10806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "At Taj"
+      },
+      "geometry": {
+        "coordinates": [
+          23.2857,
+          24.20487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tukrah"
+      },
+      "geometry": {
+        "coordinates": [
+          20.57911,
+          32.53414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qubbah"
+      },
+      "geometry": {
+        "coordinates": [
+          22.24237,
+          32.76163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Marj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.83174,
+          32.48798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jawf"
+      },
+      "geometry": {
+        "coordinates": [
+          23.29093,
+          24.1989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jaghbub"
+      },
+      "geometry": {
+        "coordinates": [
+          24.51676,
+          29.74262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Bayda'"
+      },
+      "geometry": {
+        "coordinates": [
+          21.75506,
+          32.76272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Abyar"
+      },
+      "geometry": {
+        "coordinates": [
+          20.59653,
+          32.19
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ajdabiya"
+      },
+      "geometry": {
+        "coordinates": [
+          20.22625,
+          30.75545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuwarah"
+      },
+      "geometry": {
+        "coordinates": [
+          12.08199,
+          32.9312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zliten"
+      },
+      "geometry": {
+        "coordinates": [
+          14.56874,
+          32.46739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaltan"
+      },
+      "geometry": {
+        "coordinates": [
+          11.86647,
+          32.94701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yafran"
+      },
+      "geometry": {
+        "coordinates": [
+          12.52859,
+          32.06329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waddan"
+      },
+      "geometry": {
+        "coordinates": [
+          16.13904,
+          29.1614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarhuna"
+      },
+      "geometry": {
+        "coordinates": [
+          13.6332,
+          32.43501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tripoli"
+      },
+      "geometry": {
+        "coordinates": [
+          13.18746,
+          32.87519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagiura"
+      },
+      "geometry": {
+        "coordinates": [
+          13.35056,
+          32.88167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirte"
+      },
+      "geometry": {
+        "coordinates": [
+          16.58866,
+          31.20892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surman"
+      },
+      "geometry": {
+        "coordinates": [
+          12.57159,
+          32.75668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabratah"
+      },
+      "geometry": {
+        "coordinates": [
+          12.48845,
+          32.79335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabha"
+      },
+      "geometry": {
+        "coordinates": [
+          14.42832,
+          27.03766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalut"
+      },
+      "geometry": {
+        "coordinates": [
+          10.9812,
+          31.86848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murzuq"
+      },
+      "geometry": {
+        "coordinates": [
+          13.91839,
+          25.91552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mizdah"
+      },
+      "geometry": {
+        "coordinates": [
+          12.98013,
+          31.44514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Misratah"
+      },
+      "geometry": {
+        "coordinates": [
+          15.09254,
+          32.37535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masallatah"
+      },
+      "geometry": {
+        "coordinates": [
+          14.0,
+          32.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Burayqah"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57386,
+          30.40624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maradah"
+      },
+      "geometry": {
+        "coordinates": [
+          19.21667,
+          29.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giado"
+      },
+      "geometry": {
+        "coordinates": [
+          12.02033,
+          31.95815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hun"
+      },
+      "geometry": {
+        "coordinates": [
+          15.94772,
+          29.12684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zawiya"
+      },
+      "geometry": {
+        "coordinates": [
+          12.72778,
+          32.75222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghat"
+      },
+      "geometry": {
+        "coordinates": [
+          10.18003,
+          24.96334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gharyan"
+      },
+      "geometry": {
+        "coordinates": [
+          13.02028,
+          32.17222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghadamis"
+      },
+      "geometry": {
+        "coordinates": [
+          9.50072,
+          30.13366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brak"
+      },
+      "geometry": {
+        "coordinates": [
+          14.27139,
+          27.54956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bani Walid"
+      },
+      "geometry": {
+        "coordinates": [
+          13.98354,
+          31.74554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zintan"
+      },
+      "geometry": {
+        "coordinates": [
+          12.25291,
+          31.93155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Zawiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          12.72764,
+          32.7571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Awbari"
+      },
+      "geometry": {
+        "coordinates": [
+          12.78049,
+          26.59206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qatrun"
+      },
+      "geometry": {
+        "coordinates": [
+          14.64861,
+          24.95139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Khums"
+      },
+      "geometry": {
+        "coordinates": [
+          14.26191,
+          32.64861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jadid"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4,
+          27.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al 'Aziziyah"
+      },
+      "geometry": {
+        "coordinates": [
+          13.0175,
+          32.53194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idri"
+      },
+      "geometry": {
+        "coordinates": [
+          13.26667,
+          27.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qasr Abu Hadi"
+      },
+      "geometry": {
+        "coordinates": [
+          16.65905,
+          31.05926
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

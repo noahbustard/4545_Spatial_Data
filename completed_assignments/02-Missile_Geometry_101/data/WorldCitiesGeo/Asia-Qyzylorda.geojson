@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhosaly"
+      },
+      "geometry": {
+        "coordinates": [
+          64.07806,
+          45.48778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzhetygara"
+      },
+      "geometry": {
+        "coordinates": [
+          61.19894,
+          52.19019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayteke Bi"
+      },
+      "geometry": {
+        "coordinates": [
+          62.15264,
+          45.84607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yanykurgan"
+      },
+      "geometry": {
+        "coordinates": [
+          67.24637,
+          43.90652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troyebratskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          66.07982,
+          54.44306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobol"
+      },
+      "geometry": {
+        "coordinates": [
+          62.5914,
+          52.69366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terenozek"
+      },
+      "geometry": {
+        "coordinates": [
+          64.98395,
+          45.05053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasboget"
+      },
+      "geometry": {
+        "coordinates": [
+          65.55227,
+          44.77384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taranovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          62.52078,
+          52.83554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekseuil"
+      },
+      "geometry": {
+        "coordinates": [
+          61.15194,
+          47.09
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudnyy"
+      },
+      "geometry": {
+        "coordinates": [
+          63.11677,
+          52.9729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyzylorda"
+      },
+      "geometry": {
+        "coordinates": [
+          65.50917,
+          44.85278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qusmuryn"
+      },
+      "geometry": {
+        "coordinates": [
+          64.61977,
+          52.45107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kostanay"
+      },
+      "geometry": {
+        "coordinates": [
+          63.62463,
+          53.21435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qashar"
+      },
+      "geometry": {
+        "coordinates": [
+          62.86839,
+          53.36799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ordzhonikidze"
+      },
+      "geometry": {
+        "coordinates": [
+          61.74942,
+          52.44772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lisakovsk"
+      },
+      "geometry": {
+        "coordinates": [
+          62.49987,
+          52.54707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komsomolets"
+      },
+      "geometry": {
+        "coordinates": [
+          62.0584,
+          53.75019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qazaly"
+      },
+      "geometry": {
+        "coordinates": [
+          62.1075,
+          45.76278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karasu"
+      },
+      "geometry": {
+        "coordinates": [
+          65.48421,
+          52.65995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fyodorovka"
+      },
+      "geometry": {
+        "coordinates": [
+          62.69653,
+          53.63809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzhalagash"
+      },
+      "geometry": {
+        "coordinates": [
+          64.66667,
+          45.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shieli"
+      },
+      "geometry": {
+        "coordinates": [
+          66.73887,
+          44.16882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borovskoy"
+      },
+      "geometry": {
+        "coordinates": [
+          64.18268,
+          53.7927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aral"
+      },
+      "geometry": {
+        "coordinates": [
+          61.66667,
+          46.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shalqiya"
+      },
+      "geometry": {
+        "coordinates": [
+          67.41062,
+          44.00947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belkol"
+      },
+      "geometry": {
+        "coordinates": [
+          65.58796,
+          44.81162
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

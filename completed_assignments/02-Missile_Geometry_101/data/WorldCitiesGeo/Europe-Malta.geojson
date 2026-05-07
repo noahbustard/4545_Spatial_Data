@@ -1,0 +1,902 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsaxlokk"
+      },
+      "geometry": {
+        "coordinates": [
+          14.54306,
+          35.84194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zurrieq"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47417,
+          35.83111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zejtun"
+      },
+      "geometry": {
+        "coordinates": [
+          14.53306,
+          35.85583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zebbug"
+      },
+      "geometry": {
+        "coordinates": [
+          14.23583,
+          36.07222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haz-Zebbug"
+      },
+      "geometry": {
+        "coordinates": [
+          14.44111,
+          35.87194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zabbar"
+      },
+      "geometry": {
+        "coordinates": [
+          14.535,
+          35.87611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xghajra"
+      },
+      "geometry": {
+        "coordinates": [
+          14.5475,
+          35.88556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xewkija"
+      },
+      "geometry": {
+        "coordinates": [
+          14.25806,
+          36.03278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xaghra"
+      },
+      "geometry": {
+        "coordinates": [
+          14.26444,
+          36.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valletta"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51472,
+          35.89972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta' Xbiex"
+      },
+      "geometry": {
+        "coordinates": [
+          14.49444,
+          35.89917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarxien"
+      },
+      "geometry": {
+        "coordinates": [
+          14.515,
+          35.86583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sliema"
+      },
+      "geometry": {
+        "coordinates": [
+          14.50194,
+          35.9125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siggiewi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.43639,
+          35.85556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Venera"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47417,
+          35.89083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Lucia"
+      },
+      "geometry": {
+        "coordinates": [
+          14.21722,
+          36.04306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Lucija"
+      },
+      "geometry": {
+        "coordinates": [
+          14.5075,
+          35.86278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pawl il-Bahar"
+      },
+      "geometry": {
+        "coordinates": [
+          14.41561,
+          35.95064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sannat"
+      },
+      "geometry": {
+        "coordinates": [
+          14.24278,
+          36.02444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Lawrenz"
+      },
+      "geometry": {
+        "coordinates": [
+          14.20361,
+          36.05556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Giljan"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48977,
+          35.91839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48472,
+          35.83306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paola"
+      },
+      "geometry": {
+        "coordinates": [
+          14.49889,
+          35.87306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          14.23972,
+          36.04444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabat"
+      },
+      "geometry": {
+        "coordinates": [
+          14.39872,
+          35.88152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qrendi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.45833,
+          35.83472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qormi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.472,
+          35.87601
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qala"
+      },
+      "geometry": {
+        "coordinates": [
+          14.30944,
+          36.03611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pieta"
+      },
+      "geometry": {
+        "coordinates": [
+          14.495,
+          35.89472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naxxar"
+      },
+      "geometry": {
+        "coordinates": [
+          14.44361,
+          35.91361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nadur"
+      },
+      "geometry": {
+        "coordinates": [
+          14.29417,
+          36.03778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munxar"
+      },
+      "geometry": {
+        "coordinates": [
+          14.23333,
+          36.03
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imtarfa"
+      },
+      "geometry": {
+        "coordinates": [
+          14.39889,
+          35.89333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imsida"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48278,
+          35.8925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mqabba"
+      },
+      "geometry": {
+        "coordinates": [
+          14.46824,
+          35.84763
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosta"
+      },
+      "geometry": {
+        "coordinates": [
+          14.42556,
+          35.90917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mgarr"
+      },
+      "geometry": {
+        "coordinates": [
+          14.295,
+          36.02528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imgarr"
+      },
+      "geometry": {
+        "coordinates": [
+          14.36639,
+          35.92056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellieha"
+      },
+      "geometry": {
+        "coordinates": [
+          14.36222,
+          35.95639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imdina"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4025,
+          35.88694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsaskala"
+      },
+      "geometry": {
+        "coordinates": [
+          14.56701,
+          35.8622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsa"
+      },
+      "geometry": {
+        "coordinates": [
+          14.49528,
+          35.87917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luqa"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48861,
+          35.85889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senglea"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51694,
+          35.8875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L-Iklin"
+      },
+      "geometry": {
+        "coordinates": [
+          14.45415,
+          35.90414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lija"
+      },
+      "geometry": {
+        "coordinates": [
+          14.44639,
+          35.90056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkop"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48528,
+          35.84222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kercem"
+      },
+      "geometry": {
+        "coordinates": [
+          14.22667,
+          36.04194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalkara"
+      },
+      "geometry": {
+        "coordinates": [
+          14.53278,
+          35.88917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swieqi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48,
+          35.9225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gzira"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48806,
+          35.90583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floriana"
+      },
+      "geometry": {
+        "coordinates": [
+          14.50833,
+          35.89583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vittoriosa"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51833,
+          35.89222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamrun"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48444,
+          35.88472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gudja"
+      },
+      "geometry": {
+        "coordinates": [
+          14.50306,
+          35.84917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghaxaq"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51667,
+          35.84889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hal Gharghur"
+      },
+      "geometry": {
+        "coordinates": [
+          14.45118,
+          35.92409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gharb"
+      },
+      "geometry": {
+        "coordinates": [
+          14.20889,
+          36.06
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghajnsielem"
+      },
+      "geometry": {
+        "coordinates": [
+          14.285,
+          36.02639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fgura"
+      },
+      "geometry": {
+        "coordinates": [
+          14.51333,
+          35.87028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dingli"
+      },
+      "geometry": {
+        "coordinates": [
+          14.38222,
+          35.86139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cospicua"
+      },
+      "geometry": {
+        "coordinates": [
+          14.5275,
+          35.88556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birzebbuga"
+      },
+      "geometry": {
+        "coordinates": [
+          14.52694,
+          35.82583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birkirkara"
+      },
+      "geometry": {
+        "coordinates": [
+          14.46111,
+          35.89722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balzan"
+      },
+      "geometry": {
+        "coordinates": [
+          14.455,
+          35.90028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attard"
+      },
+      "geometry": {
+        "coordinates": [
+          14.4425,
+          35.88972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint John"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47611,
+          35.90556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontana"
+      },
+      "geometry": {
+        "coordinates": [
+          14.23611,
+          36.0375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pembroke"
+      },
+      "geometry": {
+        "coordinates": [
+          14.47639,
+          35.93056
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

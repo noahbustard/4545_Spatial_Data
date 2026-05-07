@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rikitea"
+      },
+      "geometry": {
+        "coordinates": [
+          -134.96917,
+          -23.12028
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

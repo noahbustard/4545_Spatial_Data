@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temir"
+      },
+      "geometry": {
+        "coordinates": [
+          57.12855,
+          49.14132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shubarshi"
+      },
+      "geometry": {
+        "coordinates": [
+          57.18289,
+          48.58022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shubarkuduk"
+      },
+      "geometry": {
+        "coordinates": [
+          56.48196,
+          49.14391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shalqar"
+      },
+      "geometry": {
+        "coordinates": [
+          59.6,
+          47.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandyagash"
+      },
+      "geometry": {
+        "coordinates": [
+          57.41914,
+          49.46912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martuk"
+      },
+      "geometry": {
+        "coordinates": [
+          56.50611,
+          50.74746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khromtau"
+      },
+      "geometry": {
+        "coordinates": [
+          58.44003,
+          50.25117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embi"
+      },
+      "geometry": {
+        "coordinates": [
+          58.15042,
+          48.82981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayganin"
+      },
+      "geometry": {
+        "coordinates": [
+          55.87512,
+          48.68975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batamshinskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          58.27715,
+          50.56022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqtobe"
+      },
+      "geometry": {
+        "coordinates": [
+          57.20718,
+          50.27969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yrghyz"
+      },
+      "geometry": {
+        "coordinates": [
+          61.26667,
+          48.61667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

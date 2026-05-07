@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bass Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.60196,
+          41.20726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koontz Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.48585,
+          41.4181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knox"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.62501,
+          41.29588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Judson"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.77585,
+          41.21504
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhetibay"
+      },
+      "geometry": {
+        "coordinates": [
+          52.07889,
+          43.59417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhanaozen"
+      },
+      "geometry": {
+        "coordinates": [
+          52.86192,
+          43.34116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taushyq"
+      },
+      "geometry": {
+        "coordinates": [
+          51.34932,
+          44.34678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shetpe"
+      },
+      "geometry": {
+        "coordinates": [
+          52.11667,
+          44.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayotesh"
+      },
+      "geometry": {
+        "coordinates": [
+          53.53246,
+          44.32781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munayshy"
+      },
+      "geometry": {
+        "coordinates": [
+          52.10861,
+          43.49111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort-Shevchenko"
+      },
+      "geometry": {
+        "coordinates": [
+          50.26388,
+          44.50654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeraliyev"
+      },
+      "geometry": {
+        "coordinates": [
+          51.68116,
+          43.18032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beyneu"
+      },
+      "geometry": {
+        "coordinates": [
+          55.2,
+          45.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bautino"
+      },
+      "geometry": {
+        "coordinates": [
+          50.24629,
+          44.54479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aktau"
+      },
+      "geometry": {
+        "coordinates": [
+          51.16667,
+          43.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omirzaq"
+      },
+      "geometry": {
+        "coordinates": [
+          51.24171,
+          43.59786
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

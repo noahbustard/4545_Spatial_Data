@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawson City"
+      },
+      "geometry": {
+        "coordinates": [
+          -139.43328,
+          64.06013
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

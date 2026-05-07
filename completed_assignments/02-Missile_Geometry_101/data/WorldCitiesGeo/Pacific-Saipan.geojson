@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose Village"
+      },
+      "geometry": {
+        "coordinates": [
+          145.61998,
+          14.96823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saipan"
+      },
+      "geometry": {
+        "coordinates": [
+          145.7545,
+          15.21233
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

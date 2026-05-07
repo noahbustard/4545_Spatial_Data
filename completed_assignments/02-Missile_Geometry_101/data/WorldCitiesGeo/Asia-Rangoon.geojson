@@ -1,0 +1,980 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarupathar"
+      },
+      "geometry": {
+        "coordinates": [
+          96.81,
+          26.206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yenangyaung"
+      },
+      "geometry": {
+        "coordinates": [
+          94.8712,
+          20.46504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyaungdon"
+      },
+      "geometry": {
+        "coordinates": [
+          95.63957,
+          17.04459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamethin"
+      },
+      "geometry": {
+        "coordinates": [
+          96.13875,
+          20.43189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wakema"
+      },
+      "geometry": {
+        "coordinates": [
+          95.18278,
+          16.60333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twante"
+      },
+      "geometry": {
+        "coordinates": [
+          95.92866,
+          16.71047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taungoo"
+      },
+      "geometry": {
+        "coordinates": [
+          96.43408,
+          18.94291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thongwa"
+      },
+      "geometry": {
+        "coordinates": [
+          96.52498,
+          16.75998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thayetmyo"
+      },
+      "geometry": {
+        "coordinates": [
+          95.18272,
+          19.32076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaton"
+      },
+      "geometry": {
+        "coordinates": [
+          97.37001,
+          16.91867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tharyarwady"
+      },
+      "geometry": {
+        "coordinates": [
+          95.78813,
+          17.65399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanatpin"
+      },
+      "geometry": {
+        "coordinates": [
+          96.57523,
+          17.29136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanatpin"
+      },
+      "geometry": {
+        "coordinates": [
+          96.30333,
+          17.21194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawei"
+      },
+      "geometry": {
+        "coordinates": [
+          98.19151,
+          14.0823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunggyi"
+      },
+      "geometry": {
+        "coordinates": [
+          97.03776,
+          20.78919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taungdwingyi"
+      },
+      "geometry": {
+        "coordinates": [
+          95.54531,
+          20.0065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tachilek"
+      },
+      "geometry": {
+        "coordinates": [
+          99.88083,
+          20.4475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syriam"
+      },
+      "geometry": {
+        "coordinates": [
+          96.24503,
+          16.76887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sittwe"
+      },
+      "geometry": {
+        "coordinates": [
+          92.89835,
+          20.14624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shwebo"
+      },
+      "geometry": {
+        "coordinates": [
+          95.69818,
+          22.56925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagaing"
+      },
+      "geometry": {
+        "coordinates": [
+          95.97965,
+          21.8787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangon"
+      },
+      "geometry": {
+        "coordinates": [
+          96.15611,
+          16.80528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyu"
+      },
+      "geometry": {
+        "coordinates": [
+          96.43742,
+          18.4813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyinmana"
+      },
+      "geometry": {
+        "coordinates": [
+          96.20742,
+          19.7381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyay"
+      },
+      "geometry": {
+        "coordinates": [
+          95.22216,
+          18.82464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyapon"
+      },
+      "geometry": {
+        "coordinates": [
+          95.67882,
+          16.28543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bago"
+      },
+      "geometry": {
+        "coordinates": [
+          96.48135,
+          17.33521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paungde"
+      },
+      "geometry": {
+        "coordinates": [
+          95.50591,
+          18.49167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakokku"
+      },
+      "geometry": {
+        "coordinates": [
+          95.08438,
+          21.33489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hpa-an"
+      },
+      "geometry": {
+        "coordinates": [
+          97.63482,
+          16.88953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyaungshwe"
+      },
+      "geometry": {
+        "coordinates": [
+          96.93405,
+          20.66084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyaunglebin"
+      },
+      "geometry": {
+        "coordinates": [
+          96.72247,
+          17.95363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myitkyina"
+      },
+      "geometry": {
+        "coordinates": [
+          97.39637,
+          25.38327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myingyan"
+      },
+      "geometry": {
+        "coordinates": [
+          95.3884,
+          21.46002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myawadi"
+      },
+      "geometry": {
+        "coordinates": [
+          98.50893,
+          16.68911
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myanaung"
+      },
+      "geometry": {
+        "coordinates": [
+          95.32014,
+          18.28651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mudon"
+      },
+      "geometry": {
+        "coordinates": [
+          97.7246,
+          16.25624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mawlamyinegyunn"
+      },
+      "geometry": {
+        "coordinates": [
+          95.26488,
+          16.3772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mawlamyine"
+      },
+      "geometry": {
+        "coordinates": [
+          97.62825,
+          16.49051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monywa"
+      },
+      "geometry": {
+        "coordinates": [
+          95.13583,
+          22.10856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogok"
+      },
+      "geometry": {
+        "coordinates": [
+          96.50982,
+          22.91766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minbu"
+      },
+      "geometry": {
+        "coordinates": [
+          94.87595,
+          20.18059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikenaungea"
+      },
+      "geometry": {
+        "coordinates": [
+          98.42721,
+          15.95846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myeik"
+      },
+      "geometry": {
+        "coordinates": [
+          98.60028,
+          12.43954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meiktila"
+      },
+      "geometry": {
+        "coordinates": [
+          95.85844,
+          20.87776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyin Oo Lwin"
+      },
+      "geometry": {
+        "coordinates": [
+          96.45683,
+          22.03501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mawlaik"
+      },
+      "geometry": {
+        "coordinates": [
+          94.40478,
+          23.64254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maubin"
+      },
+      "geometry": {
+        "coordinates": [
+          95.65441,
+          16.73148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martaban"
+      },
+      "geometry": {
+        "coordinates": [
+          97.6157,
+          16.52834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandalay"
+      },
+      "geometry": {
+        "coordinates": [
+          96.08359,
+          21.97473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magway"
+      },
+      "geometry": {
+        "coordinates": [
+          94.93246,
+          20.14956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loikaw"
+      },
+      "geometry": {
+        "coordinates": [
+          97.20975,
+          19.67798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Letpandan"
+      },
+      "geometry": {
+        "coordinates": [
+          95.75076,
+          17.78664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lashio"
+      },
+      "geometry": {
+        "coordinates": [
+          97.7498,
+          22.9359
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyaukse"
+      },
+      "geometry": {
+        "coordinates": [
+          96.13508,
+          21.6056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyaikto"
+      },
+      "geometry": {
+        "coordinates": [
+          97.01124,
+          17.30858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyaiklat"
+      },
+      "geometry": {
+        "coordinates": [
+          95.72373,
+          16.44502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyaikkami"
+      },
+      "geometry": {
+        "coordinates": [
+          97.56388,
+          16.07686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayan"
+      },
+      "geometry": {
+        "coordinates": [
+          96.56037,
+          16.90802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanbe"
+      },
+      "geometry": {
+        "coordinates": [
+          96.00168,
+          16.70728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hinthada"
+      },
+      "geometry": {
+        "coordinates": [
+          95.45705,
+          17.64944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakha"
+      },
+      "geometry": {
+        "coordinates": [
+          93.61667,
+          22.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falam"
+      },
+      "geometry": {
+        "coordinates": [
+          93.67779,
+          22.91335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chauk"
+      },
+      "geometry": {
+        "coordinates": [
+          94.81784,
+          20.89921
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogale"
+      },
+      "geometry": {
+        "coordinates": [
+          95.39742,
+          16.29415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhamo"
+      },
+      "geometry": {
+        "coordinates": [
+          97.23357,
+          24.25256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pathein"
+      },
+      "geometry": {
+        "coordinates": [
+          94.73212,
+          16.77919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myaydo"
+      },
+      "geometry": {
+        "coordinates": [
+          95.21512,
+          19.36838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nay Pyi Taw"
+      },
+      "geometry": {
+        "coordinates": [
+          96.12972,
+          19.745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagondaing"
+      },
+      "geometry": {
+        "coordinates": [
+          97.90723,
+          16.06774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamoowoung"
+      },
+      "geometry": {
+        "coordinates": [
+          97.91458,
+          16.03447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dellok"
+      },
+      "geometry": {
+        "coordinates": [
+          97.91773,
+          16.04072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulei"
+      },
+      "geometry": {
+        "coordinates": [
+          97.8828,
+          16.06243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klonhtoug"
+      },
+      "geometry": {
+        "coordinates": [
+          98.4325,
+          15.95411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikenaungea"
+      },
+      "geometry": {
+        "coordinates": [
+          98.42072,
+          15.96112
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

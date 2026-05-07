@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siglufjoerdur"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.90815,
+          66.15198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saudarkrokur"
+      },
+      "geometry": {
+        "coordinates": [
+          -19.63944,
+          65.74611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neskaupstadur"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.68368,
+          65.14819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Husavik"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.33834,
+          66.04148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoefn"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.21212,
+          64.25388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eskifjoerdur"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.01525,
+          65.07306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egilsstadir"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.39485,
+          65.26687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalvik"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.52861,
+          65.97018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reydarfjoerdur"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.21832,
+          65.03164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akureyri"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.0878,
+          65.68353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vogar"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.38473,
+          63.9816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vestmannaeyjar"
+      },
+      "geometry": {
+        "coordinates": [
+          -20.27339,
+          63.44273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THorlakshoefn"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.38337,
+          63.85591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stykkisholmur"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.72977,
+          65.07537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selfoss"
+      },
+      "geometry": {
+        "coordinates": [
+          -20.99712,
+          63.93311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandgerdi"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.70799,
+          64.03762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reykjavik"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.89541,
+          64.13548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olafsvik"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.70918,
+          64.89429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seltjarnarnes"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.99499,
+          64.15309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosfellsbaer"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.7,
+          64.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopavogur"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.91298,
+          64.11234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keflavik"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.56242,
+          64.00492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isafjoerdur"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.13498,
+          66.07475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hveragerdi"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.18602,
+          64.00039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafnarfjoerdur"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.93774,
+          64.0671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grindavik"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.43931,
+          63.83849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardur"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.64656,
+          64.06558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardabaer"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.92298,
+          64.08865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alftanes"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.01667,
+          64.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borgarnes"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.92064,
+          64.53834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akranes"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.0749,
+          64.32179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laugar"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.37352,
+          65.72159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reykjanesbaer"
+      },
+      "geometry": {
+        "coordinates": [
+          -22.56111,
+          63.99813
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

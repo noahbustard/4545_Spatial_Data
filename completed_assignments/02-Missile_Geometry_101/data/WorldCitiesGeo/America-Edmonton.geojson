@@ -1,0 +1,1513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airdrie"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.03528,
+          51.30011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athabasca"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.28537,
+          54.71687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.56982,
+          51.17622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrhead"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.40211,
+          54.13345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassano"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.46854,
+          50.78342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaumont"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.41871,
+          53.35013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaverlodge"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.43605,
+          55.21664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Diamond"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.2353,
+          50.70011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackfalds"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.7853,
+          52.38342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bon Accord"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.41872,
+          53.83345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonnyville"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.73505,
+          54.26684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bow Island"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.36843,
+          49.86676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooks"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.88509,
+          50.58341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.08529,
+          51.05011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calmar"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.81874,
+          53.26683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camrose"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.83525,
+          53.01684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canmore"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardston"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.3019,
+          49.19998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carstairs"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.102,
+          51.56681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chestermere"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.81867,
+          51.03341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claresholm"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.58524,
+          50.03332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coaldale"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.61854,
+          49.7167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coalhurst"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.93246,
+          49.7464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cochrane"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.46871,
+          51.18341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cold Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.18154,
+          54.46525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cranbrook"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.76879,
+          49.49991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crossfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.03528,
+          51.43341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.73533,
+          53.36683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Didsbury"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.13529,
+          51.66681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drayton Valley"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.98544,
+          53.21682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmonton"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.46871,
+          53.55014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edson"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.43559,
+          53.58345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elkford"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.8854,
+          50.05007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.9017,
+          53.90017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairview"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.38606,
+          56.06675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falher"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.20262,
+          55.73339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernie"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.06871,
+          49.49996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Macleod"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.41857,
+          49.71671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort McMurray"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.38103,
+          56.72676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Saskatchewan"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.2187,
+          53.71684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.80238,
+          54.40007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibbons"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.33531,
+          53.83345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.9689,
+          51.29995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Cache"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.13585,
+          53.88335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Prairie"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.80271,
+          55.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grimshaw"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.6027,
+          56.18339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanna"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.90181,
+          51.63343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Level"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.13605,
+          58.51688
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Prairie"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.4858,
+          55.4334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High River"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.86867,
+          50.58341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hinton"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.58567,
+          53.40009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invermere"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.03538,
+          50.51666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irricana"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.60475,
+          51.32372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper Park Lodge"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.05625,
+          52.88633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killam"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.85175,
+          52.78344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimberley"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.9776,
+          49.67071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac La Biche"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.96861,
+          54.7669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lacombe"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.7353,
+          52.46681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamont"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.80195,
+          53.76686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leduc"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.55201,
+          53.26682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lethbridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.81856,
+          49.69999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lloydminster"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.00157,
+          53.28346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magrath"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.86856,
+          49.41668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manning"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.61945,
+          56.91683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Ridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.36274,
+          53.50172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayerthorpe"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.13547,
+          53.95015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medicine Hat"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.67661,
+          50.03928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millet"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.4687,
+          53.10013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morinville"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.65203,
+          53.80014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanton"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.76866,
+          50.35008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okotoks"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.98281,
+          50.72885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olds"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.10199,
+          51.78341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peace River"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.29176,
+          56.23715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penhold"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.8687,
+          52.13342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picture Butte"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.78516,
+          49.8833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pincher Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.95195,
+          49.48328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponoka"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.58147,
+          52.6768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Provost"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.26828,
+          52.35014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raymond"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.65185,
+          49.44998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Deer"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.802,
+          52.26682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rideau Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.5047,
+          53.47899
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rimbey"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.23532,
+          52.6334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocky Mountain House"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.9188,
+          52.36683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sexsmith"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.78602,
+          55.34998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherwood Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.3187,
+          53.51684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slave Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.76896,
+          55.28344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smoky Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.46863,
+          54.11687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sparwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.88532,
+          49.73332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spirit River"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.83607,
+          55.78327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spruce Grove"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.91874,
+          53.53344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Albert"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.63533,
+          53.63344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stettler"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.71861,
+          52.31683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stony Plain"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.00205,
+          53.53343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strathmore"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.38523,
+          51.05011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundre"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.63532,
+          51.8001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swan Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.40226,
+          54.71681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sylvan Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.0853,
+          52.31681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taber"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.14603,
+          49.78703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.26863,
+          51.70012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tofield"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.66862,
+          53.36684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Two Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.75181,
+          53.71686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valleyview"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.28585,
+          55.06673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegreville"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.05182,
+          53.50015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vermilion"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.85849,
+          53.35409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viking"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.76844,
+          53.10014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vulcan"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.25189,
+          50.40008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wainwright"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.85342,
+          52.83482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wembley"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.13602,
+          55.14995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlock"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.86876,
+          54.15016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wetaskiwin"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.36869,
+          52.96683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitecourt"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.68548,
+          54.15015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wild Rose"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.38119,
+          53.4708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Berry"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.3817,
+          53.45787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurel"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.38197,
+          53.44667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamarack"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.36235,
+          53.46441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkspur"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.38142,
+          53.47942
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

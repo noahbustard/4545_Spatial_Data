@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alofi"
+      },
+      "geometry": {
+        "coordinates": [
+          -169.91768,
+          -19.05451
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

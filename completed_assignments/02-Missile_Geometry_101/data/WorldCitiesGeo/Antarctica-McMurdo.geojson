@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McMurdo Station"
+      },
+      "geometry": {
+        "coordinates": [
+          166.676,
+          -77.846
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

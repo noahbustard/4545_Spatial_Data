@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jogbani"
+      },
+      "geometry": {
+        "coordinates": [
+          87.26525,
+          26.39905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waling"
+      },
+      "geometry": {
+        "coordinates": [
+          83.76667,
+          27.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulsipur"
+      },
+      "geometry": {
+        "coordinates": [
+          82.29726,
+          28.13099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tikapur"
+      },
+      "geometry": {
+        "coordinates": [
+          81.13333,
+          28.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tansen"
+      },
+      "geometry": {
+        "coordinates": [
+          83.5467,
+          27.86731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siraha"
+      },
+      "geometry": {
+        "coordinates": [
+          86.2087,
+          26.65411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salyan"
+      },
+      "geometry": {
+        "coordinates": [
+          82.1703,
+          28.37858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramechhap"
+      },
+      "geometry": {
+        "coordinates": [
+          86.08768,
+          27.3256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajbiraj"
+      },
+      "geometry": {
+        "coordinates": [
+          86.75,
+          26.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyuthan"
+      },
+      "geometry": {
+        "coordinates": [
+          82.88427,
+          28.08867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pokhara"
+      },
+      "geometry": {
+        "coordinates": [
+          83.96851,
+          28.26689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patan"
+      },
+      "geometry": {
+        "coordinates": [
+          85.31417,
+          27.67658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panauti"
+      },
+      "geometry": {
+        "coordinates": [
+          85.51484,
+          27.58453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namche Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          86.71058,
+          27.80528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagarkot"
+      },
+      "geometry": {
+        "coordinates": [
+          85.52075,
+          27.71522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malangwa"
+      },
+      "geometry": {
+        "coordinates": [
+          85.55811,
+          26.85679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahendranagar"
+      },
+      "geometry": {
+        "coordinates": [
+          80.33333,
+          28.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobujya"
+      },
+      "geometry": {
+        "coordinates": [
+          86.81667,
+          27.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamjung"
+      },
+      "geometry": {
+        "coordinates": [
+          84.3638,
+          28.20992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahan"
+      },
+      "geometry": {
+        "coordinates": [
+          86.49515,
+          26.72958
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kothari"
+      },
+      "geometry": {
+        "coordinates": [
+          85.95667,
+          27.96057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirtipur"
+      },
+      "geometry": {
+        "coordinates": [
+          85.2775,
+          27.67872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandbari"
+      },
+      "geometry": {
+        "coordinates": [
+          87.2039,
+          27.37469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathmandu"
+      },
+      "geometry": {
+        "coordinates": [
+          85.3206,
+          27.70169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumla"
+      },
+      "geometry": {
+        "coordinates": [
+          82.18383,
+          29.27472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janakpur"
+      },
+      "geometry": {
+        "coordinates": [
+          85.90646,
+          26.71828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaleswar"
+      },
+      "geometry": {
+        "coordinates": [
+          85.80081,
+          26.64711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ithari"
+      },
+      "geometry": {
+        "coordinates": [
+          87.28333,
+          26.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilam"
+      },
+      "geometry": {
+        "coordinates": [
+          87.92824,
+          26.90943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hetauda"
+      },
+      "geometry": {
+        "coordinates": [
+          85.03219,
+          27.42839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulariya"
+      },
+      "geometry": {
+        "coordinates": [
+          81.33333,
+          28.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaur"
+      },
+      "geometry": {
+        "coordinates": [
+          85.27841,
+          26.76448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharan Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          87.28355,
+          26.81248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhankuta"
+      },
+      "geometry": {
+        "coordinates": [
+          87.33333,
+          26.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhangarhi"
+      },
+      "geometry": {
+        "coordinates": [
+          80.59611,
+          28.70792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darchula"
+      },
+      "geometry": {
+        "coordinates": [
+          80.52874,
+          29.84121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dailekh"
+      },
+      "geometry": {
+        "coordinates": [
+          81.71011,
+          28.84434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadeldhura"
+      },
+      "geometry": {
+        "coordinates": [
+          80.58059,
+          29.29842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butwal"
+      },
+      "geometry": {
+        "coordinates": [
+          83.44836,
+          27.70055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birganj"
+      },
+      "geometry": {
+        "coordinates": [
+          84.87735,
+          27.01043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biratnagar"
+      },
+      "geometry": {
+        "coordinates": [
+          87.27007,
+          26.45505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhojpur"
+      },
+      "geometry": {
+        "coordinates": [
+          81.77555,
+          27.93565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhojpur"
+      },
+      "geometry": {
+        "coordinates": [
+          87.04607,
+          27.1715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharatpur"
+      },
+      "geometry": {
+        "coordinates": [
+          84.43333,
+          27.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhaktapur"
+      },
+      "geometry": {
+        "coordinates": [
+          85.43005,
+          27.67298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siddharthanagar"
+      },
+      "geometry": {
+        "coordinates": [
+          83.45,
+          27.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhadrapur"
+      },
+      "geometry": {
+        "coordinates": [
+          88.09436,
+          26.54404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bardiya"
+      },
+      "geometry": {
+        "coordinates": [
+          81.3536,
+          28.30058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banepa"
+      },
+      "geometry": {
+        "coordinates": [
+          85.52192,
+          27.63245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baglung"
+      },
+      "geometry": {
+        "coordinates": [
+          83.58975,
+          28.27189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achham"
+      },
+      "geometry": {
+        "coordinates": [
+          81.3,
+          29.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Besisahar"
+      },
+      "geometry": {
+        "coordinates": [
+          82.41278,
+          28.23417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birendranagar"
+      },
+      "geometry": {
+        "coordinates": [
+          81.63389,
+          28.60194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dipayal"
+      },
+      "geometry": {
+        "coordinates": [
+          80.94,
+          29.26083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nepalgunj"
+      },
+      "geometry": {
+        "coordinates": [
+          81.61667,
+          28.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pisang"
+      },
+      "geometry": {
+        "coordinates": [
+          84.14721,
+          28.61465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chame"
+      },
+      "geometry": {
+        "coordinates": [
+          84.25097,
+          28.55369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khudi"
+      },
+      "geometry": {
+        "coordinates": [
+          84.35912,
+          28.28216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitre"
+      },
+      "geometry": {
+        "coordinates": [
+          83.69076,
+          28.42673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surkhet"
+      },
+      "geometry": {
+        "coordinates": [
+          81.7787,
+          28.51746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jomsom"
+      },
+      "geometry": {
+        "coordinates": [
+          83.73513,
+          28.78436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nawal"
+      },
+      "geometry": {
+        "coordinates": [
+          84.10279,
+          28.64831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kankrabari Dovan"
+      },
+      "geometry": {
+        "coordinates": [
+          85.45934,
+          27.62881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hari Bdr Tamang House"
+      },
+      "geometry": {
+        "coordinates": [
+          85.45893,
+          27.6289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhattarai Danda"
+      },
+      "geometry": {
+        "coordinates": [
+          83.93333,
+          27.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dihi"
+      },
+      "geometry": {
+        "coordinates": [
+          83.92759,
+          27.87552
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

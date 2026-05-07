@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adamstown"
+      },
+      "geometry": {
+        "coordinates": [
+          -130.10147,
+          -25.06597
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

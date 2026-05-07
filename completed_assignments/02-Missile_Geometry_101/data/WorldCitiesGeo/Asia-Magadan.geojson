@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zyryanka"
+      },
+      "geometry": {
+        "coordinates": [
+          150.89429,
+          65.73489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yagodnoye"
+      },
+      "geometry": {
+        "coordinates": [
+          149.62827,
+          62.52406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Omchug"
+      },
+      "geometry": {
+        "coordinates": [
+          149.63283,
+          61.13336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust-Nera"
+      },
+      "geometry": {
+        "coordinates": [
+          143.237,
+          64.56968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uptar"
+      },
+      "geometry": {
+        "coordinates": [
+          150.87376,
+          59.89923
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talaya"
+      },
+      "geometry": {
+        "coordinates": [
+          152.76878,
+          61.37038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susuman"
+      },
+      "geometry": {
+        "coordinates": [
+          148.15396,
+          62.78075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srednekolymsk"
+      },
+      "geometry": {
+        "coordinates": [
+          153.70246,
+          67.45659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sokol"
+      },
+      "geometry": {
+        "coordinates": [
+          150.74956,
+          59.91834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinegor'ye"
+      },
+      "geometry": {
+        "coordinates": [
+          150.52162,
+          62.08782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seymchan"
+      },
+      "geometry": {
+        "coordinates": [
+          152.39109,
+          62.93373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severo-Kuril'sk"
+      },
+      "geometry": {
+        "coordinates": [
+          156.12695,
+          50.67531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palatka"
+      },
+      "geometry": {
+        "coordinates": [
+          150.93433,
+          60.10183
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orotukan"
+      },
+      "geometry": {
+        "coordinates": [
+          151.67153,
+          62.26423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omsukchan"
+      },
+      "geometry": {
+        "coordinates": [
+          155.79038,
+          62.51575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ola"
+      },
+      "geometry": {
+        "coordinates": [
+          151.29819,
+          59.57823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myaundzha"
+      },
+      "geometry": {
+        "coordinates": [
+          147.18438,
+          63.04996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magadan"
+      },
+      "geometry": {
+        "coordinates": [
+          150.80347,
+          59.5638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kholodnyy"
+      },
+      "geometry": {
+        "coordinates": [
+          147.91361,
+          62.71333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evensk"
+      },
+      "geometry": {
+        "coordinates": [
+          159.23348,
+          61.91722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dukat"
+      },
+      "geometry": {
+        "coordinates": [
+          155.34988,
+          62.57231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chokurdakh"
+      },
+      "geometry": {
+        "coordinates": [
+          147.8973,
+          70.61897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          161.33197,
+          68.75325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belaya Gora"
+      },
+      "geometry": {
+        "coordinates": [
+          146.18583,
+          68.53805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arman'"
+      },
+      "geometry": {
+        "coordinates": [
+          150.13164,
+          59.66994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shikotan"
+      },
+      "geometry": {
+        "coordinates": [
+          146.72164,
+          43.79916
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

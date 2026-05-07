@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust'-Kamchatsk Staryy"
+      },
+      "geometry": {
+        "coordinates": [
+          162.47778,
+          56.22778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilyuchinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          158.40469,
+          52.9311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelizovo"
+      },
+      "geometry": {
+        "coordinates": [
+          158.38135,
+          53.18909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilichiki"
+      },
+      "geometry": {
+        "coordinates": [
+          166.05764,
+          60.42795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigil'"
+      },
+      "geometry": {
+        "coordinates": [
+          158.68161,
+          57.75979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petropavlovsk-Kamchatsky"
+      },
+      "geometry": {
+        "coordinates": [
+          158.65076,
+          53.04444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paratunka"
+      },
+      "geometry": {
+        "coordinates": [
+          158.25723,
+          52.96202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palana"
+      },
+      "geometry": {
+        "coordinates": [
+          159.9563,
+          59.08384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ozernovskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          156.50102,
+          51.49604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ossora"
+      },
+      "geometry": {
+        "coordinates": [
+          163.07034,
+          59.24781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klyuchi"
+      },
+      "geometry": {
+        "coordinates": [
+          160.84541,
+          56.32035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esso"
+      },
+      "geometry": {
+        "coordinates": [
+          158.70708,
+          55.92738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlasovo"
+      },
+      "geometry": {
+        "coordinates": [
+          159.64266,
+          55.6065
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

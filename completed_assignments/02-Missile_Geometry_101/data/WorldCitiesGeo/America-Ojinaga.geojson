@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ojinaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.54487,
+          29.56689
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Juarez"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.48333,
+          31.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manuel Ojinaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.41639,
+          29.56444
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

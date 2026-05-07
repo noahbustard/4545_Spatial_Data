@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.35257,
+          36.14474
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

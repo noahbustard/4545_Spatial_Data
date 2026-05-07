@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santon"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.58333,
+          54.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramsey"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.38526,
+          54.32273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Saint Mary"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.73858,
+          54.07405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Erin"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.75099,
+          54.08487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peel"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.69099,
+          54.22209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.69417,
+          54.20447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onchan"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.45324,
+          54.17329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maughold"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.31844,
+          54.29877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lezayre"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.41667,
+          54.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laxey"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.39985,
+          54.23017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkmichael"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.58748,
+          54.28562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirk Braddan"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.51667,
+          54.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jurby"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.52199,
+          54.35941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douglas"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.48333,
+          54.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosby"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.56667,
+          54.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castletown"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.65365,
+          54.07445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bride"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.38921,
+          54.38256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballasalla"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.62962,
+          54.0959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballabeg"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.68333,
+          54.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andreas"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.43333,
+          54.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballaugh"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.54456,
+          54.31193
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

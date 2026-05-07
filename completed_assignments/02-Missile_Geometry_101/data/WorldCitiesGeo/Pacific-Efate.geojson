@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sola"
+      },
+      "geometry": {
+        "coordinates": [
+          167.55167,
+          -13.87611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Vila"
+      },
+      "geometry": {
+        "coordinates": [
+          168.32188,
+          -17.73381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Olry"
+      },
+      "geometry": {
+        "coordinates": [
+          167.07265,
+          -15.04175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norsup"
+      },
+      "geometry": {
+        "coordinates": [
+          167.39714,
+          -16.06536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luganville"
+      },
+      "geometry": {
+        "coordinates": [
+          167.16235,
+          -15.51989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakatoro"
+      },
+      "geometry": {
+        "coordinates": [
+          167.41636,
+          -16.09992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isangel"
+      },
+      "geometry": {
+        "coordinates": [
+          169.28167,
+          -19.54167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratamata"
+      },
+      "geometry": {
+        "coordinates": [
+          167.96679,
+          -15.29031
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

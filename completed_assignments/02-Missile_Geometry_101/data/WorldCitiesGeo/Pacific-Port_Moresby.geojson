@@ -1,0 +1,512 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wewak"
+      },
+      "geometry": {
+        "coordinates": [
+          143.63229,
+          -3.54964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wau"
+      },
+      "geometry": {
+        "coordinates": [
+          146.71649,
+          -7.33778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wabag"
+      },
+      "geometry": {
+        "coordinates": [
+          143.70215,
+          -5.47808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanimo"
+      },
+      "geometry": {
+        "coordinates": [
+          141.30195,
+          -2.68372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanimo"
+      },
+      "geometry": {
+        "coordinates": [
+          141.26667,
+          -2.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tari"
+      },
+      "geometry": {
+        "coordinates": [
+          142.93511,
+          -5.9022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabaul"
+      },
+      "geometry": {
+        "coordinates": [
+          152.16429,
+          -4.19979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Moresby"
+      },
+      "geometry": {
+        "coordinates": [
+          147.17972,
+          -9.44314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porgera"
+      },
+      "geometry": {
+        "coordinates": [
+          143.148,
+          -5.463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popondetta"
+      },
+      "geometry": {
+        "coordinates": [
+          148.23252,
+          -8.76536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Hagen"
+      },
+      "geometry": {
+        "coordinates": [
+          144.23058,
+          -5.85746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morehead"
+      },
+      "geometry": {
+        "coordinates": [
+          141.63668,
+          -8.71065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minj"
+      },
+      "geometry": {
+        "coordinates": [
+          144.69159,
+          -5.90752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendi"
+      },
+      "geometry": {
+        "coordinates": [
+          143.65633,
+          -6.14755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madang"
+      },
+      "geometry": {
+        "coordinates": [
+          145.7987,
+          -5.21639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lorengau"
+      },
+      "geometry": {
+        "coordinates": [
+          147.27173,
+          -2.0341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lae"
+      },
+      "geometry": {
+        "coordinates": [
+          146.98469,
+          -6.72208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwikila"
+      },
+      "geometry": {
+        "coordinates": [
+          147.65968,
+          -9.81847
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kundiawa"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96667,
+          -6.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokopo"
+      },
+      "geometry": {
+        "coordinates": [
+          152.26327,
+          -4.35202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokoda"
+      },
+      "geometry": {
+        "coordinates": [
+          147.73642,
+          -8.87778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiunga"
+      },
+      "geometry": {
+        "coordinates": [
+          141.29061,
+          -6.12193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimbe"
+      },
+      "geometry": {
+        "coordinates": [
+          150.13766,
+          -5.55085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerema"
+      },
+      "geometry": {
+        "coordinates": [
+          145.77851,
+          -7.96309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavieng"
+      },
+      "geometry": {
+        "coordinates": [
+          150.80727,
+          -2.57783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandrian"
+      },
+      "geometry": {
+        "coordinates": [
+          149.53568,
+          -6.2043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kainantu"
+      },
+      "geometry": {
+        "coordinates": [
+          145.86548,
+          -6.28872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ihu"
+      },
+      "geometry": {
+        "coordinates": [
+          145.39405,
+          -7.89569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ialibu"
+      },
+      "geometry": {
+        "coordinates": [
+          143.99354,
+          -6.28208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goroka"
+      },
+      "geometry": {
+        "coordinates": [
+          145.38735,
+          -6.08336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finschhafen"
+      },
+      "geometry": {
+        "coordinates": [
+          147.86814,
+          -6.60243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daru"
+      },
+      "geometry": {
+        "coordinates": [
+          143.20893,
+          -9.07786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulolo"
+      },
+      "geometry": {
+        "coordinates": [
+          146.64014,
+          -7.2036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angoram"
+      },
+      "geometry": {
+        "coordinates": [
+          144.06609,
+          -4.06253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambunti"
+      },
+      "geometry": {
+        "coordinates": [
+          142.81832,
+          -4.21717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aitape"
+      },
+      "geometry": {
+        "coordinates": [
+          142.3629,
+          -3.15341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samarai"
+      },
+      "geometry": {
+        "coordinates": [
+          150.66667,
+          -10.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alotau"
+      },
+      "geometry": {
+        "coordinates": [
+          150.45742,
+          -10.31509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rauna"
+      },
+      "geometry": {
+        "coordinates": [
+          144.28834,
+          -5.7359
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

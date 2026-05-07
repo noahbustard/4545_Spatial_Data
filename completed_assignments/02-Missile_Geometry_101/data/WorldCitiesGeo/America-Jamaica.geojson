@@ -1,0 +1,1175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yallahs"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.56245,
+          17.8748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williamsfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.46667,
+          18.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wakefield"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.72183,
+          18.41211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulster Spring"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.52067,
+          18.31482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Ville"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.51427,
+          17.96076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stony Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.78473,
+          18.07916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spanish Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.95742,
+          17.99107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.66713,
+          17.8878
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siloah"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.70348,
+          18.16709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seaforth"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.4573,
+          17.93578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savanna-la-Mar"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.1332,
+          18.21895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.69836,
+          18.05336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandy Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.07321,
+          18.44854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Ann's Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.20098,
+          18.43581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Runaway Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.3357,
+          18.45962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocky Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.26107,
+          17.774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Spring"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.55259,
+          18.30123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riversdale"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.96417,
+          18.16586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.88799,
+          18.25478
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Race Course"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.28223,
+          17.84019
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porus"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.41166,
+          18.03535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Royal"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.84081,
+          17.93712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portmore"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.88215,
+          17.95032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Maria"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.88946,
+          18.36849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Antonio"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.4509,
+          18.17615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.10759,
+          18.08988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petersfield"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.07117,
+          18.26158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oracabessa"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94641,
+          18.40319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Harbour Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.09718,
+          17.90918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.10898,
+          17.94144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocho Rios"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.1048,
+          18.4025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Kingston"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.78319,
+          18.00747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Negril"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.3481,
+          18.26844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nain"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.60528,
+          17.96526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morant Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.40927,
+          17.88145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moore Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.42577,
+          18.07767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montego Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.91883,
+          18.47116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moneague"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.11177,
+          18.27556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mona Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.75186,
+          18.01375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mocho"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.33,
+          18.04
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "May Pen"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.24515,
+          17.96454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mavis Bank"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.66667,
+          18.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maroon Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.79544,
+          18.34464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandeville"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.50714,
+          18.04168
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manchioneal"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.27735,
+          18.04444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malvern"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.7,
+          17.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maggotty"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.76349,
+          18.16069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucea"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.17356,
+          18.45095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lluidas Vale"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.14823,
+          18.12587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lionel Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.24061,
+          17.81007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linstead"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03171,
+          18.13683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lacovia"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.75059,
+          18.0721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.79358,
+          17.99702
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kellits"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.27049,
+          18.16184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islington"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.85482,
+          18.30922
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hope Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.56539,
+          18.19882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hayes"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.23711,
+          17.87569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Half Way Tree"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.79928,
+          18.01248
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gordon Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.71783,
+          18.03578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Grove"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.27254,
+          17.93361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gayle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00971,
+          18.32642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falmouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.65587,
+          18.49358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ewarton"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.08536,
+          18.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easington"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.58824,
+          17.92397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duncans"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.53633,
+          18.468
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discovery Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.39997,
+          18.45873
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darliston"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.97626,
+          18.23731
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalvey"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.24864,
+          17.91184
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Constant Spring"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.79372,
+          18.05078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coleyville"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.50754,
+          18.20783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapelton"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.26667,
+          18.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.10337,
+          18.39747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.90252,
+          18.31326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bull Savanna"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.59022,
+          17.88678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buff Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.66118,
+          18.23287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bog Walk"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00541,
+          18.10205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluefields"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.02702,
+          18.16602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black River"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.84873,
+          18.02636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethel Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.95112,
+          18.29503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bath"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.34916,
+          17.9482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamboo"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.26429,
+          18.39216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaclava"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.64375,
+          18.17228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Peto"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.03736,
+          18.3637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annotto Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.76523,
+          18.2717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchovy"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.93166,
+          18.4103
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alligator Pond"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.56667,
+          17.87002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexandria"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.35335,
+          18.30768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.54239,
+          18.29434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limit"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.47121,
+          18.15287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quickstep"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.64586,
+          18.2624
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

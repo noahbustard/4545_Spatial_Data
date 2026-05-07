@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          55.45,
+          -4.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takamaka"
+      },
+      "geometry": {
+        "coordinates": [
+          55.5,
+          -4.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Glaud"
+      },
+      "geometry": {
+        "coordinates": [
+          55.41667,
+          -4.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade"
+      },
+      "geometry": {
+        "coordinates": [
+          55.5,
+          -4.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bel Ombre"
+      },
+      "geometry": {
+        "coordinates": [
+          55.41667,
+          -4.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beau Vallon"
+      },
+      "geometry": {
+        "coordinates": [
+          55.43015,
+          -4.62091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse Royale"
+      },
+      "geometry": {
+        "coordinates": [
+          55.51667,
+          -4.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse Boileau"
+      },
+      "geometry": {
+        "coordinates": [
+          55.48333,
+          -4.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Passe"
+      },
+      "geometry": {
+        "coordinates": [
+          55.83269,
+          -4.34808
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

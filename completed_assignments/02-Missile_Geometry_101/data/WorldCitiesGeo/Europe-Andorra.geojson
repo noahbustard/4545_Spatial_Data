@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Tarter"
+      },
+      "geometry": {
+        "coordinates": [
+          1.65362,
+          42.57952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Julia de Loria"
+      },
+      "geometry": {
+        "coordinates": [
+          1.49129,
+          42.46372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pas de la Casa"
+      },
+      "geometry": {
+        "coordinates": [
+          1.73361,
+          42.54277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ordino"
+      },
+      "geometry": {
+        "coordinates": [
+          1.53319,
+          42.55623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "les Escaldes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.53414,
+          42.50729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "la Massana"
+      },
+      "geometry": {
+        "coordinates": [
+          1.51483,
+          42.54499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Encamp"
+      },
+      "geometry": {
+        "coordinates": [
+          1.58014,
+          42.53474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canillo"
+      },
+      "geometry": {
+        "coordinates": [
+          1.59756,
+          42.5676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arinsal"
+      },
+      "geometry": {
+        "coordinates": [
+          1.48453,
+          42.57205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andorra la Vella"
+      },
+      "geometry": {
+        "coordinates": [
+          1.52109,
+          42.50779
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

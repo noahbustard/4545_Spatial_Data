@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Nelson"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.7002,
+          58.80533
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

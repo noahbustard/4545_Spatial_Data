@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lisala"
+      },
+      "geometry": {
+        "coordinates": [
+          21.51672,
+          2.15127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gbadolite"
+      },
+      "geometry": {
+        "coordinates": [
+          21.00284,
+          4.279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Businga"
+      },
+      "geometry": {
+        "coordinates": [
+          20.88577,
+          3.33863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bumba"
+      },
+      "geometry": {
+        "coordinates": [
+          22.46827,
+          2.18771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bongandanga"
+      },
+      "geometry": {
+        "coordinates": [
+          21.0726,
+          1.50695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boende"
+      },
+      "geometry": {
+        "coordinates": [
+          20.88053,
+          -0.28163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tshela"
+      },
+      "geometry": {
+        "coordinates": [
+          12.9484,
+          -4.99707
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nioki"
+      },
+      "geometry": {
+        "coordinates": [
+          17.69001,
+          -2.72037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mushie"
+      },
+      "geometry": {
+        "coordinates": [
+          16.92238,
+          -3.01728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbanza-Ngungu"
+      },
+      "geometry": {
+        "coordinates": [
+          14.85838,
+          -5.25837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbandaka"
+      },
+      "geometry": {
+        "coordinates": [
+          18.26034,
+          0.04865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matadi"
+      },
+      "geometry": {
+        "coordinates": [
+          13.46306,
+          -5.83861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangai"
+      },
+      "geometry": {
+        "coordinates": [
+          19.53385,
+          -4.02328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lukolela"
+      },
+      "geometry": {
+        "coordinates": [
+          17.1821,
+          -1.06046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libenge"
+      },
+      "geometry": {
+        "coordinates": [
+          18.63566,
+          3.65332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinshasa"
+      },
+      "geometry": {
+        "coordinates": [
+          15.31357,
+          -4.32758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kikwit"
+      },
+      "geometry": {
+        "coordinates": [
+          18.81619,
+          -5.04098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasongo-Lunda"
+      },
+      "geometry": {
+        "coordinates": [
+          16.81735,
+          -6.47833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasangulu"
+      },
+      "geometry": {
+        "coordinates": [
+          15.16554,
+          -4.5833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inongo"
+      },
+      "geometry": {
+        "coordinates": [
+          18.2881,
+          -1.9275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemena"
+      },
+      "geometry": {
+        "coordinates": [
+          19.77234,
+          3.25651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulungu"
+      },
+      "geometry": {
+        "coordinates": [
+          18.60364,
+          -4.54437
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosobolo"
+      },
+      "geometry": {
+        "coordinates": [
+          19.8833,
+          4.1898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolobo"
+      },
+      "geometry": {
+        "coordinates": [
+          16.23249,
+          -2.158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandundu"
+      },
+      "geometry": {
+        "coordinates": [
+          17.38063,
+          -3.31687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masina"
+      },
+      "geometry": {
+        "coordinates": [
+          15.39139,
+          -4.38361
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boa Vista"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.67333,
+          2.81972
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

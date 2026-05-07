@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinchina"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.20692,
+          -28.75964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Union"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.22658,
+          -29.31595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Castelli"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.21277,
+          -29.00295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Bustos"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.03308,
+          -29.28483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulapes"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.2365,
+          -31.57362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tama"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.5298,
+          -30.50798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanogasta"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.11586,
+          -29.0952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Blas de los Sauces"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.09341,
+          -28.41051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patquia"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.88231,
+          -30.04681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olta"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.263,
+          -30.63117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milagro"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.00098,
+          -31.00326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malanzan"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.60908,
+          -30.80394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Rioja"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.85067,
+          -29.41105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Famatina"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.52253,
+          -28.92322
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chilecito"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.4974,
+          -29.16195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chepes"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.6,
+          -31.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chamical"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.31399,
+          -30.36002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castro Barros"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.72696,
+          -30.57952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arauco"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.79438,
+          -28.5805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aminga"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.94546,
+          -28.8426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aimogasta"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.80588,
+          -28.56091
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

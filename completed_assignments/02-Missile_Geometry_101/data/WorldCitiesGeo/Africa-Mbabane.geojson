@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tshaneni"
+      },
+      "geometry": {
+        "coordinates": [
+          31.71667,
+          -25.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siteki"
+      },
+      "geometry": {
+        "coordinates": [
+          31.95,
+          -26.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidvokodvo"
+      },
+      "geometry": {
+        "coordinates": [
+          31.42021,
+          -26.6282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piggs Peak"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24666,
+          -25.96082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nsoko"
+      },
+      "geometry": {
+        "coordinates": [
+          31.95,
+          -27.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhlangano"
+      },
+      "geometry": {
+        "coordinates": [
+          31.2,
+          -27.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mhlume"
+      },
+      "geometry": {
+        "coordinates": [
+          31.85,
+          -26.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mhlambanyatsi"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01667,
+          -26.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbabane"
+      },
+      "geometry": {
+        "coordinates": [
+          31.13333,
+          -26.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manzini"
+      },
+      "geometry": {
+        "coordinates": [
+          31.38004,
+          -26.49884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malkerns"
+      },
+      "geometry": {
+        "coordinates": [
+          31.18333,
+          -26.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobamba"
+      },
+      "geometry": {
+        "coordinates": [
+          31.2,
+          -26.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavumisa"
+      },
+      "geometry": {
+        "coordinates": [
+          31.89198,
+          -27.31005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwaluseni"
+      },
+      "geometry": {
+        "coordinates": [
+          31.33333,
+          -26.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kubuta"
+      },
+      "geometry": {
+        "coordinates": [
+          31.48333,
+          -26.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hluti"
+      },
+      "geometry": {
+        "coordinates": [
+          31.61667,
+          -27.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hlatikulu"
+      },
+      "geometry": {
+        "coordinates": [
+          31.31667,
+          -26.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darkton"
+      },
+      "geometry": {
+        "coordinates": [
+          31.03333,
+          -26.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulembu"
+      },
+      "geometry": {
+        "coordinates": [
+          31.13333,
+          -25.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bend"
+      },
+      "geometry": {
+        "coordinates": [
+          31.93333,
+          -26.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhunya"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01667,
+          -26.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuvulane"
+      },
+      "geometry": {
+        "coordinates": [
+          31.87672,
+          -26.07427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntfonjeni"
+      },
+      "geometry": {
+        "coordinates": [
+          31.3273,
+          -25.82659
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

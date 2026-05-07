@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marigot"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.08302,
+          18.06819
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinhamel"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.85556,
+          11.88694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quebo"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.93333,
+          11.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mansoa"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.31889,
+          12.07333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabu"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.22222,
+          12.28
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farim"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.22167,
+          12.48389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catio"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.25472,
+          11.2825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canchungo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.03333,
+          12.06722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cacheu"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.16528,
+          12.27444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubaque"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.83333,
+          11.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buba"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.99583,
+          11.58889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolama"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.47611,
+          11.57694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bissora"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.4475,
+          12.22306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bissau"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.59767,
+          11.86357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafata"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.66167,
+          12.16583
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

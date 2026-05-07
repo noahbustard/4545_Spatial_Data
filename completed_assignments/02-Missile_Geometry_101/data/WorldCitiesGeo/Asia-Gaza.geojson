@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shukat as Sufi"
+      },
+      "geometry": {
+        "coordinates": [
+          34.2826,
+          31.25997
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rafah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.25952,
+          31.287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Nusayrat"
+      },
+      "geometry": {
+        "coordinates": [
+          34.3925,
+          31.44861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khuza`ah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.3611,
+          31.30675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khan Yunis"
+      },
+      "geometry": {
+        "coordinates": [
+          34.30627,
+          31.34018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabalya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.48347,
+          31.5272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaza"
+      },
+      "geometry": {
+        "coordinates": [
+          34.46667,
+          31.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayr al Balah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.35033,
+          31.41783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayt Lahya"
+      },
+      "geometry": {
+        "coordinates": [
+          34.49514,
+          31.5464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayt Hanun"
+      },
+      "geometry": {
+        "coordinates": [
+          34.53579,
+          31.5353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bani Suhayla"
+      },
+      "geometry": {
+        "coordinates": [
+          34.32337,
+          31.34337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Fukhkhari"
+      },
+      "geometry": {
+        "coordinates": [
+          34.33061,
+          31.29278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Burayj"
+      },
+      "geometry": {
+        "coordinates": [
+          34.40306,
+          31.43944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Abasan al Kabirah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.34005,
+          31.31913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Nasr"
+      },
+      "geometry": {
+        "coordinates": [
+          34.30253,
+          31.28137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Abasan al Jadidah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.34592,
+          31.34158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Qararah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.34085,
+          31.37389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm an Nasr"
+      },
+      "geometry": {
+        "coordinates": [
+          34.51863,
+          31.56085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juhr ad Dik"
+      },
+      "geometry": {
+        "coordinates": [
+          34.43719,
+          31.45571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Zuwaydah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.38053,
+          31.43954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Musaddar"
+      },
+      "geometry": {
+        "coordinates": [
+          34.37802,
+          31.41052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi as Salqa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.33754,
+          31.40048
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Mughraqah"
+      },
+      "geometry": {
+        "coordinates": [
+          34.41208,
+          31.46587
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

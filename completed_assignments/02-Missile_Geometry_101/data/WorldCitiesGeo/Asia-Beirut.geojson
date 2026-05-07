@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zgharta"
+      },
+      "geometry": {
+        "coordinates": [
+          35.89493,
+          34.39739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahle"
+      },
+      "geometry": {
+        "coordinates": [
+          35.90203,
+          33.84675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tripoli"
+      },
+      "geometry": {
+        "coordinates": [
+          35.84972,
+          34.43667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyre"
+      },
+      "geometry": {
+        "coordinates": [
+          35.19389,
+          33.27333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir ed Danniye"
+      },
+      "geometry": {
+        "coordinates": [
+          36.03111,
+          34.38528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidon"
+      },
+      "geometry": {
+        "coordinates": [
+          35.37564,
+          33.55993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ra's Bayrut"
+      },
+      "geometry": {
+        "coordinates": [
+          35.48333,
+          33.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marjayoun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.59111,
+          33.36028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jounieh"
+      },
+      "geometry": {
+        "coordinates": [
+          35.61778,
+          33.98083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joubb Jannine"
+      },
+      "geometry": {
+        "coordinates": [
+          35.78417,
+          33.62694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jbail"
+      },
+      "geometry": {
+        "coordinates": [
+          35.64806,
+          34.12111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jezzine"
+      },
+      "geometry": {
+        "coordinates": [
+          35.58444,
+          33.54167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hasbaiya"
+      },
+      "geometry": {
+        "coordinates": [
+          35.685,
+          33.39778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halba"
+      },
+      "geometry": {
+        "coordinates": [
+          36.07972,
+          34.54278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habbouch"
+      },
+      "geometry": {
+        "coordinates": [
+          35.48169,
+          33.40729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bcharre"
+      },
+      "geometry": {
+        "coordinates": [
+          36.01056,
+          34.25083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bent Jbail"
+      },
+      "geometry": {
+        "coordinates": [
+          35.43333,
+          33.11944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhamdoun el Mhatta"
+      },
+      "geometry": {
+        "coordinates": [
+          35.65972,
+          33.80861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhamdoun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.65111,
+          33.795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beit ed Dine"
+      },
+      "geometry": {
+        "coordinates": [
+          35.58083,
+          33.69417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beirut"
+      },
+      "geometry": {
+        "coordinates": [
+          35.49442,
+          33.88894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baalbek"
+      },
+      "geometry": {
+        "coordinates": [
+          36.21806,
+          34.00583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baabda"
+      },
+      "geometry": {
+        "coordinates": [
+          35.54417,
+          33.83389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ain Ebel"
+      },
+      "geometry": {
+        "coordinates": [
+          35.40251,
+          33.11023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "En Naqoura"
+      },
+      "geometry": {
+        "coordinates": [
+          35.13972,
+          33.11806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nabatiye et Tahta"
+      },
+      "geometry": {
+        "coordinates": [
+          35.48389,
+          33.37889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aanjar"
+      },
+      "geometry": {
+        "coordinates": [
+          35.93111,
+          33.72778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amioun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.80889,
+          34.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jdaidet el Matn"
+      },
+      "geometry": {
+        "coordinates": [
+          35.56639,
+          33.89056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Hermel"
+      },
+      "geometry": {
+        "coordinates": [
+          36.38472,
+          34.39417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batroun"
+      },
+      "geometry": {
+        "coordinates": [
+          35.65806,
+          34.25528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aaley"
+      },
+      "geometry": {
+        "coordinates": [
+          35.6,
+          33.80528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rachaiya el Ouadi"
+      },
+      "geometry": {
+        "coordinates": [
+          35.8437,
+          33.50089
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

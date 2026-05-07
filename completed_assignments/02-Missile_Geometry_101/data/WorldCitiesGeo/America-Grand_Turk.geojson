@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cockburn Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.14188,
+          21.46122
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

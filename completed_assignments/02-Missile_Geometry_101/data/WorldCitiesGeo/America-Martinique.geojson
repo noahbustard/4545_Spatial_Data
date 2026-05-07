@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoelcher"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.099,
+          14.61774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Pierre"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.17533,
+          14.74383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Joseph"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.03905,
+          14.67099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Marie"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.99274,
+          14.78392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Luce"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.92708,
+          14.46733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riviere-Pilote"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.9035,
+          14.47746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Vauclin"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.83883,
+          14.54524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Trois-Ilets"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.03354,
+          14.53912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Esprit"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.93333,
+          14.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Robert"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.94228,
+          14.67751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Morne-Rouge"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.13333,
+          14.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Marin"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.86973,
+          14.47212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Lorrain"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.05667,
+          14.83292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Lamentin"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.00933,
+          14.608
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Francois"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.90308,
+          14.61557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Trinite"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.96286,
+          14.73758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Gros-Morne"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.0,
+          14.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort-de-France"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.07334,
+          14.60892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ducos"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.97453,
+          14.57529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basse-Pointe"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.11504,
+          14.86954
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

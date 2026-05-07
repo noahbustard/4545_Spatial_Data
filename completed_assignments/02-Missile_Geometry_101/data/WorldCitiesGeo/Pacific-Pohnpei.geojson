@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palikir - National Government Center"
+      },
+      "geometry": {
+        "coordinates": [
+          158.16109,
+          6.92477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolonia Town"
+      },
+      "geometry": {
+        "coordinates": [
+          158.206,
+          6.964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolonia"
+      },
+      "geometry": {
+        "coordinates": [
+          158.2062,
+          6.964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapingamarangi"
+      },
+      "geometry": {
+        "coordinates": [
+          154.80752,
+          1.07861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nukuoro"
+      },
+      "geometry": {
+        "coordinates": [
+          154.97143,
+          3.83619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngatik"
+      },
+      "geometry": {
+        "coordinates": [
+          157.15942,
+          5.7885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingelap"
+      },
+      "geometry": {
+        "coordinates": [
+          160.70327,
+          6.20589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokil"
+      },
+      "geometry": {
+        "coordinates": [
+          159.76283,
+          6.69281
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madolenihm Municipality Government"
+      },
+      "geometry": {
+        "coordinates": [
+          158.2987,
+          6.83493
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

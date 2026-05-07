@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhno-Sakhalinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.73603,
+          46.95407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzhno-Kurilsk"
+      },
+      "geometry": {
+        "coordinates": [
+          145.86146,
+          44.02734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yablochnyy"
+      },
+      "geometry": {
+        "coordinates": [
+          142.05678,
+          47.152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vostok"
+      },
+      "geometry": {
+        "coordinates": [
+          142.91556,
+          48.97715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vakhrushev"
+      },
+      "geometry": {
+        "coordinates": [
+          142.95303,
+          48.99035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uglezavodsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.63317,
+          47.32332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uglegorsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.06449,
+          49.08047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tymovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          142.6652,
+          50.84925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tungor"
+      },
+      "geometry": {
+        "coordinates": [
+          142.95755,
+          53.39121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troitskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          142.64532,
+          46.92493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomari"
+      },
+      "geometry": {
+        "coordinates": [
+          142.07106,
+          47.76482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sokol"
+      },
+      "geometry": {
+        "coordinates": [
+          142.75167,
+          47.24464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smirnykh"
+      },
+      "geometry": {
+        "coordinates": [
+          142.83716,
+          49.74596
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinegorsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.51577,
+          47.17278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shebunino"
+      },
+      "geometry": {
+        "coordinates": [
+          141.85699,
+          46.4301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shakhtersk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.1364,
+          49.17175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pravda"
+      },
+      "geometry": {
+        "coordinates": [
+          142.00426,
+          46.93972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poronaysk"
+      },
+      "geometry": {
+        "coordinates": [
+          143.09694,
+          49.22188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okha"
+      },
+      "geometry": {
+        "coordinates": [
+          142.95313,
+          53.58991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nogliki"
+      },
+      "geometry": {
+        "coordinates": [
+          143.13871,
+          51.79917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nevel'sk"
+      },
+      "geometry": {
+        "coordinates": [
+          141.85629,
+          46.67902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mgachi"
+      },
+      "geometry": {
+        "coordinates": [
+          142.26821,
+          51.04834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makarov"
+      },
+      "geometry": {
+        "coordinates": [
+          142.77999,
+          48.62698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonidovo"
+      },
+      "geometry": {
+        "coordinates": [
+          142.86975,
+          49.28619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnogorsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.08686,
+          48.41728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korsakov"
+      },
+      "geometry": {
+        "coordinates": [
+          142.77722,
+          46.6342
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kholmsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.05048,
+          47.04737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gornozavodsk"
+      },
+      "geometry": {
+        "coordinates": [
+          141.84358,
+          46.55984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gastello"
+      },
+      "geometry": {
+        "coordinates": [
+          142.95917,
+          49.10056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolinsk"
+      },
+      "geometry": {
+        "coordinates": [
+          142.79291,
+          47.32946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chekhov"
+      },
+      "geometry": {
+        "coordinates": [
+          141.99064,
+          47.44984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bykov"
+      },
+      "geometry": {
+        "coordinates": [
+          142.56226,
+          47.32099
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boshnyakovo"
+      },
+      "geometry": {
+        "coordinates": [
+          142.17047,
+          49.64572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aniva"
+      },
+      "geometry": {
+        "coordinates": [
+          142.52866,
+          46.71492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleksandrovsk-Sakhalinskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          142.16215,
+          50.89926
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

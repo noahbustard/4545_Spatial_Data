@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douliu"
+      },
+      "geometry": {
+        "coordinates": [
+          120.54333,
+          23.70944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yujing"
+      },
+      "geometry": {
+        "coordinates": [
+          120.46138,
+          23.12493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taoyuan"
+      },
+      "geometry": {
+        "coordinates": [
+          121.3187,
+          24.9896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taitung"
+      },
+      "geometry": {
+        "coordinates": [
+          121.14457,
+          22.75991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taipei"
+      },
+      "geometry": {
+        "coordinates": [
+          121.53185,
+          25.04776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taibao"
+      },
+      "geometry": {
+        "coordinates": [
+          120.33222,
+          23.45944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xinying"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31056,
+          23.30694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tainan"
+      },
+      "geometry": {
+        "coordinates": [
+          120.21333,
+          22.99083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fengyuan"
+      },
+      "geometry": {
+        "coordinates": [
+          120.71694,
+          24.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taichung"
+      },
+      "geometry": {
+        "coordinates": [
+          120.6839,
+          24.1469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daxi"
+      },
+      "geometry": {
+        "coordinates": [
+          121.29043,
+          24.88373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banqiao"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46719,
+          25.01427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puli"
+      },
+      "geometry": {
+        "coordinates": [
+          120.96952,
+          23.96639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizitou"
+      },
+      "geometry": {
+        "coordinates": [
+          120.44472,
+          23.48556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingtung"
+      },
+      "geometry": {
+        "coordinates": [
+          120.48814,
+          22.67135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nantou"
+      },
+      "geometry": {
+        "coordinates": [
+          120.66387,
+          23.91566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miaoli"
+      },
+      "geometry": {
+        "coordinates": [
+          120.82367,
+          24.56427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magong"
+      },
+      "geometry": {
+        "coordinates": [
+          119.58627,
+          23.5654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lugu"
+      },
+      "geometry": {
+        "coordinates": [
+          120.7525,
+          23.74639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fengshan"
+      },
+      "geometry": {
+        "coordinates": [
+          120.36126,
+          22.62659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaohsiung"
+      },
+      "geometry": {
+        "coordinates": [
+          120.31333,
+          22.61626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yilan"
+      },
+      "geometry": {
+        "coordinates": [
+          121.753,
+          24.757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hualien City"
+      },
+      "geometry": {
+        "coordinates": [
+          121.60444,
+          23.97694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hsinchu"
+      },
+      "geometry": {
+        "coordinates": [
+          120.96861,
+          24.80361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hengchun"
+      },
+      "geometry": {
+        "coordinates": [
+          120.74389,
+          22.00417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhubei"
+      },
+      "geometry": {
+        "coordinates": [
+          121.00778,
+          24.83833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jincheng"
+      },
+      "geometry": {
+        "coordinates": [
+          118.31833,
+          24.43667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keelung"
+      },
+      "geometry": {
+        "coordinates": [
+          121.7419,
+          25.12825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiayi Shi"
+      },
+      "geometry": {
+        "coordinates": [
+          120.44889,
+          23.47917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chang-hua"
+      },
+      "geometry": {
+        "coordinates": [
+          120.56276,
+          24.07327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taoyuan City"
+      },
+      "geometry": {
+        "coordinates": [
+          121.29696,
+          24.99368
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taitung City"
+      },
+      "geometry": {
+        "coordinates": [
+          121.1444,
+          22.7583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nangan"
+      },
+      "geometry": {
+        "coordinates": [
+          119.93284,
+          26.15039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhongxing New Village"
+      },
+      "geometry": {
+        "coordinates": [
+          120.68516,
+          23.95908
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

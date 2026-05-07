@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tadjoura"
+      },
+      "geometry": {
+        "coordinates": [
+          42.88444,
+          11.78528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obock"
+      },
+      "geometry": {
+        "coordinates": [
+          43.29056,
+          11.96306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loyada"
+      },
+      "geometry": {
+        "coordinates": [
+          43.25278,
+          11.46111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holhol"
+      },
+      "geometry": {
+        "coordinates": [
+          42.92944,
+          11.31028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorra"
+      },
+      "geometry": {
+        "coordinates": [
+          42.47624,
+          12.15028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djibouti"
+      },
+      "geometry": {
+        "coordinates": [
+          43.14503,
+          11.58901
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dikhil"
+      },
+      "geometry": {
+        "coordinates": [
+          42.37389,
+          11.10861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danan"
+      },
+      "geometry": {
+        "coordinates": [
+          42.93333,
+          11.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "`Arta"
+      },
+      "geometry": {
+        "coordinates": [
+          42.84194,
+          11.52222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ali Sabieh"
+      },
+      "geometry": {
+        "coordinates": [
+          42.7125,
+          11.15583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaili Dadda`"
+      },
+      "geometry": {
+        "coordinates": [
+          42.89556,
+          12.42167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goubetto"
+      },
+      "geometry": {
+        "coordinates": [
+          43.00028,
+          11.42389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galafi"
+      },
+      "geometry": {
+        "coordinates": [
+          41.83611,
+          11.71583
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

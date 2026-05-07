@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Tome"
+      },
+      "geometry": {
+        "coordinates": [
+          6.72732,
+          0.33654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Antonio"
+      },
+      "geometry": {
+        "coordinates": [
+          7.41783,
+          1.63726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Joao dos Angolares"
+      },
+      "geometry": {
+        "coordinates": [
+          6.65,
+          0.13333
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

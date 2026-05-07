@@ -1,0 +1,2761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsahir"
+      },
+      "geometry": {
+        "coordinates": [
+          98.85167,
+          48.07972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vlaa Vula"
+      },
+      "geometry": {
+        "coordinates": [
+          99.23333,
+          50.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharga"
+      },
+      "geometry": {
+        "coordinates": [
+          98.8,
+          49.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orgil"
+      },
+      "geometry": {
+        "coordinates": [
+          99.35083,
+          48.58722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandal"
+      },
+      "geometry": {
+        "coordinates": [
+          99.43333,
+          49.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          99.63333,
+          47.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ider"
+      },
+      "geometry": {
+        "coordinates": [
+          99.87389,
+          48.77278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunt"
+      },
+      "geometry": {
+        "coordinates": [
+          99.46667,
+          47.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoeviyn Am"
+      },
+      "geometry": {
+        "coordinates": [
+          98.5714,
+          47.23123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halban"
+      },
+      "geometry": {
+        "coordinates": [
+          97.7409,
+          49.52877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdenet"
+      },
+      "geometry": {
+        "coordinates": [
+          99.53665,
+          48.94877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzoolon"
+      },
+      "geometry": {
+        "coordinates": [
+          99.67226,
+          51.10719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzalaa"
+      },
+      "geometry": {
+        "coordinates": [
+          99.26667,
+          44.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzag"
+      },
+      "geometry": {
+        "coordinates": [
+          99.16689,
+          46.94229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzadgay"
+      },
+      "geometry": {
+        "coordinates": [
+          99.59862,
+          46.21061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsagaannuur"
+      },
+      "geometry": {
+        "coordinates": [
+          99.34444,
+          51.35639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delgermoron"
+      },
+      "geometry": {
+        "coordinates": [
+          98.28712,
+          46.40946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buyant"
+      },
+      "geometry": {
+        "coordinates": [
+          98.69173,
+          46.1664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulgan"
+      },
+      "geometry": {
+        "coordinates": [
+          98.65,
+          44.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayansayr"
+      },
+      "geometry": {
+        "coordinates": [
+          99.43314,
+          45.55529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          98.09006,
+          46.80981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          99.6,
+          49.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altraga"
+      },
+      "geometry": {
+        "coordinates": [
+          98.97205,
+          50.1791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horgo"
+      },
+      "geometry": {
+        "coordinates": [
+          99.87556,
+          48.16
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UEydzen"
+      },
+      "geometry": {
+        "coordinates": [
+          106.86985,
+          44.08216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uubulan"
+      },
+      "geometry": {
+        "coordinates": [
+          101.93424,
+          48.60885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urt"
+      },
+      "geometry": {
+        "coordinates": [
+          101.04813,
+          43.23245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uldz"
+      },
+      "geometry": {
+        "coordinates": [
+          111.99463,
+          48.69028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaan-Uul"
+      },
+      "geometry": {
+        "coordinates": [
+          100.81724,
+          46.0674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaan-Uul"
+      },
+      "geometry": {
+        "coordinates": [
+          111.23333,
+          44.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaanjirem"
+      },
+      "geometry": {
+        "coordinates": [
+          105.56667,
+          45.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaanhudag"
+      },
+      "geometry": {
+        "coordinates": [
+          104.5,
+          47.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaanhad"
+      },
+      "geometry": {
+        "coordinates": [
+          105.55321,
+          47.94993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaan-Ereg"
+      },
+      "geometry": {
+        "coordinates": [
+          109.75,
+          46.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulan Bator"
+      },
+      "geometry": {
+        "coordinates": [
+          106.88324,
+          47.90771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turt"
+      },
+      "geometry": {
+        "coordinates": [
+          100.66257,
+          51.50725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsul-Ulaan"
+      },
+      "geometry": {
+        "coordinates": [
+          104.5,
+          47.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsoohor"
+      },
+      "geometry": {
+        "coordinates": [
+          104.07417,
+          43.30657
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsomog"
+      },
+      "geometry": {
+        "coordinates": [
+          109.06667,
+          45.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsetserleg"
+      },
+      "geometry": {
+        "coordinates": [
+          101.45417,
+          47.475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsengel"
+      },
+      "geometry": {
+        "coordinates": [
+          100.88944,
+          49.47833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsant"
+      },
+      "geometry": {
+        "coordinates": [
+          106.71667,
+          46.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsagaan-Ovoo"
+      },
+      "geometry": {
+        "coordinates": [
+          101.45977,
+          45.96404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsagaan-Ovoo"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75594,
+          45.50719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsagaandorvolj"
+      },
+      "geometry": {
+        "coordinates": [
+          109.31826,
+          45.79817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naran-mandokhu Somon"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25,
+          44.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teshig"
+      },
+      "geometry": {
+        "coordinates": [
+          102.66123,
+          49.94669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teel"
+      },
+      "geometry": {
+        "coordinates": [
+          100.50917,
+          48.04639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tavin"
+      },
+      "geometry": {
+        "coordinates": [
+          105.73517,
+          46.39194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tavanbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          101.90815,
+          47.38185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dashinchilling"
+      },
+      "geometry": {
+        "coordinates": [
+          104.05,
+          47.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suugaant"
+      },
+      "geometry": {
+        "coordinates": [
+          107.04546,
+          45.53257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suhbaatar"
+      },
+      "geometry": {
+        "coordinates": [
+          106.20778,
+          50.23139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sort"
+      },
+      "geometry": {
+        "coordinates": [
+          104.38196,
+          49.31751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiree"
+      },
+      "geometry": {
+        "coordinates": [
+          103.4,
+          45.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharingol"
+      },
+      "geometry": {
+        "coordinates": [
+          106.43005,
+          49.23733
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharhulsan"
+      },
+      "geometry": {
+        "coordinates": [
+          104.05,
+          44.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharga"
+      },
+      "geometry": {
+        "coordinates": [
+          102.08925,
+          49.04192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senj"
+      },
+      "geometry": {
+        "coordinates": [
+          110.76667,
+          44.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selenge"
+      },
+      "geometry": {
+        "coordinates": [
+          101.46667,
+          49.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saynshand"
+      },
+      "geometry": {
+        "coordinates": [
+          102.53333,
+          43.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangiyn Dalay"
+      },
+      "geometry": {
+        "coordinates": [
+          103.31667,
+          46.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangiyn Dalay"
+      },
+      "geometry": {
+        "coordinates": [
+          104.94209,
+          46.00793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangiyn Dalay"
+      },
+      "geometry": {
+        "coordinates": [
+          105.13796,
+          42.84199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rashaant"
+      },
+      "geometry": {
+        "coordinates": [
+          101.42806,
+          49.12667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rashaant"
+      },
+      "geometry": {
+        "coordinates": [
+          106.2,
+          45.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovt"
+      },
+      "geometry": {
+        "coordinates": [
+          102.25,
+          46.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orhontuul"
+      },
+      "geometry": {
+        "coordinates": [
+          104.97583,
+          48.94972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orgon"
+      },
+      "geometry": {
+        "coordinates": [
+          100.39135,
+          44.73637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orgil"
+      },
+      "geometry": {
+        "coordinates": [
+          105.31769,
+          48.4538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onon"
+      },
+      "geometry": {
+        "coordinates": [
+          110.6,
+          48.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongon"
+      },
+      "geometry": {
+        "coordinates": [
+          103.78389,
+          46.98259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongi"
+      },
+      "geometry": {
+        "coordinates": [
+          102.28333,
+          46.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongi"
+      },
+      "geometry": {
+        "coordinates": [
+          103.9,
+          45.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Undurkhaan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.65556,
+          47.31944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oldziyt"
+      },
+      "geometry": {
+        "coordinates": [
+          101.37394,
+          48.52843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oldziyt"
+      },
+      "geometry": {
+        "coordinates": [
+          109.01667,
+          44.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogoomor"
+      },
+      "geometry": {
+        "coordinates": [
+          104.48067,
+          43.78336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuden"
+      },
+      "geometry": {
+        "coordinates": [
+          110.46667,
+          43.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nomgon"
+      },
+      "geometry": {
+        "coordinates": [
+          105.66582,
+          49.2001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nart"
+      },
+      "geometry": {
+        "coordinates": [
+          105.38833,
+          49.145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murun-kuren"
+      },
+      "geometry": {
+        "coordinates": [
+          100.1625,
+          49.63417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moron"
+      },
+      "geometry": {
+        "coordinates": [
+          110.31647,
+          47.38254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monhbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          103.51667,
+          46.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modot"
+      },
+      "geometry": {
+        "coordinates": [
+          109.05,
+          47.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayhan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.83951,
+          46.09121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mardzad"
+      },
+      "geometry": {
+        "coordinates": [
+          102.05,
+          45.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhan"
+      },
+      "geometry": {
+        "coordinates": [
+          100.04306,
+          50.12139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandalgovi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.27083,
+          45.7625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzuunkharaa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.73333,
+          48.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandal"
+      },
+      "geometry": {
+        "coordinates": [
+          103.52917,
+          48.63111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandal"
+      },
+      "geometry": {
+        "coordinates": [
+          106.74076,
+          48.37062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maanit"
+      },
+      "geometry": {
+        "coordinates": [
+          103.42556,
+          48.29667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maanit"
+      },
+      "geometry": {
+        "coordinates": [
+          107.53333,
+          47.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sujji"
+      },
+      "geometry": {
+        "coordinates": [
+          105.25,
+          47.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Javhlant"
+      },
+      "geometry": {
+        "coordinates": [
+          105.924,
+          48.80189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          105.88056,
+          50.0675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          100.25711,
+          49.29591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          105.86833,
+          48.52056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          101.97235,
+          47.79309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          100.21667,
+          47.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingettolgoy"
+      },
+      "geometry": {
+        "coordinates": [
+          103.97417,
+          49.46167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ihsueuej"
+      },
+      "geometry": {
+        "coordinates": [
+          106.29152,
+          48.2257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ihbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          107.2,
+          43.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huurch"
+      },
+      "geometry": {
+        "coordinates": [
+          105.42,
+          50.10361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutag"
+      },
+      "geometry": {
+        "coordinates": [
+          102.69333,
+          49.395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huremt"
+      },
+      "geometry": {
+        "coordinates": [
+          102.62278,
+          48.66306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huremt"
+      },
+      "geometry": {
+        "coordinates": [
+          102.44554,
+          46.30241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hujirt"
+      },
+      "geometry": {
+        "coordinates": [
+          101.23953,
+          48.88199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khujirt"
+      },
+      "geometry": {
+        "coordinates": [
+          102.76903,
+          46.89704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hujirt"
+      },
+      "geometry": {
+        "coordinates": [
+          104.58333,
+          46.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noyon Suma"
+      },
+      "geometry": {
+        "coordinates": [
+          102.13194,
+          43.17361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khuvsget"
+      },
+      "geometry": {
+        "coordinates": [
+          109.63806,
+          43.60639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hovd"
+      },
+      "geometry": {
+        "coordinates": [
+          102.38333,
+          44.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hovd"
+      },
+      "geometry": {
+        "coordinates": [
+          102.17491,
+          44.67024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotont"
+      },
+      "geometry": {
+        "coordinates": [
+          102.46794,
+          47.36278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoshoot"
+      },
+      "geometry": {
+        "coordinates": [
+          102.55686,
+          48.1009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horiult"
+      },
+      "geometry": {
+        "coordinates": [
+          100.76667,
+          45.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan Uula Sumu"
+      },
+      "geometry": {
+        "coordinates": [
+          101.4,
+          45.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoolt"
+      },
+      "geometry": {
+        "coordinates": [
+          102.98333,
+          45.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongor"
+      },
+      "geometry": {
+        "coordinates": [
+          111.2,
+          45.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Undur Sume"
+      },
+      "geometry": {
+        "coordinates": [
+          100.92778,
+          50.47278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohburd"
+      },
+      "geometry": {
+        "coordinates": [
+          100.44834,
+          46.28575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herlen"
+      },
+      "geometry": {
+        "coordinates": [
+          110.56667,
+          47.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatansuudal"
+      },
+      "geometry": {
+        "coordinates": [
+          100.82788,
+          44.54595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hashaat"
+      },
+      "geometry": {
+        "coordinates": [
+          104.80511,
+          45.24323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orhon"
+      },
+      "geometry": {
+        "coordinates": [
+          106.13639,
+          49.8325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harhorin"
+      },
+      "geometry": {
+        "coordinates": [
+          102.82379,
+          47.19753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haraat"
+      },
+      "geometry": {
+        "coordinates": [
+          107.65,
+          46.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hajuu-Us"
+      },
+      "geometry": {
+        "coordinates": [
+          107.48955,
+          46.04988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erhet"
+      },
+      "geometry": {
+        "coordinates": [
+          102.9812,
+          48.27394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ergel"
+      },
+      "geometry": {
+        "coordinates": [
+          109.13333,
+          43.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdenetsogt"
+      },
+      "geometry": {
+        "coordinates": [
+          100.82239,
+          46.41845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdenetsogt"
+      },
+      "geometry": {
+        "coordinates": [
+          106.11866,
+          42.97238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erdenet"
+      },
+      "geometry": {
+        "coordinates": [
+          104.08333,
+          49.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eg-Uur"
+      },
+      "geometry": {
+        "coordinates": [
+          101.57528,
+          50.10944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enhtal"
+      },
+      "geometry": {
+        "coordinates": [
+          105.37361,
+          49.2475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.18333,
+          48.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzuunmod"
+      },
+      "geometry": {
+        "coordinates": [
+          106.95278,
+          47.70694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzuunharaa"
+      },
+      "geometry": {
+        "coordinates": [
+          106.45786,
+          48.85229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzogsool"
+      },
+      "geometry": {
+        "coordinates": [
+          107.15,
+          46.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzelter"
+      },
+      "geometry": {
+        "coordinates": [
+          105.04583,
+          50.31556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzegstey"
+      },
+      "geometry": {
+        "coordinates": [
+          102.54999,
+          47.66805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzaanhoshuu"
+      },
+      "geometry": {
+        "coordinates": [
+          100.87801,
+          47.49331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dund-Urt"
+      },
+      "geometry": {
+        "coordinates": [
+          105.9219,
+          48.03791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundburd"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49784,
+          47.9459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doloon"
+      },
+      "geometry": {
+        "coordinates": [
+          105.32078,
+          44.42446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delgerhaan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.18578,
+          50.08578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darhan"
+      },
+      "geometry": {
+        "coordinates": [
+          105.92278,
+          49.48667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darhan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.88054,
+          48.25463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darhan"
+      },
+      "geometry": {
+        "coordinates": [
+          109.41667,
+          46.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalay"
+      },
+      "geometry": {
+        "coordinates": [
+          103.51284,
+          43.46787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalandzadgad"
+      },
+      "geometry": {
+        "coordinates": [
+          104.425,
+          43.57083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Choyr"
+      },
+      "geometry": {
+        "coordinates": [
+          108.36111,
+          46.36111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandmani"
+      },
+      "geometry": {
+        "coordinates": [
+          110.46667,
+          45.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saynshand"
+      },
+      "geometry": {
+        "coordinates": [
+          110.11631,
+          44.88239
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buyant"
+      },
+      "geometry": {
+        "coordinates": [
+          110.83333,
+          46.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burgaltay"
+      },
+      "geometry": {
+        "coordinates": [
+          104.74348,
+          49.265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bumbat"
+      },
+      "geometry": {
+        "coordinates": [
+          104.11777,
+          46.49674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulgan"
+      },
+      "geometry": {
+        "coordinates": [
+          101.51417,
+          50.54194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulgan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.53472,
+          48.8125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulgan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.54288,
+          44.09745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulagtay"
+      },
+      "geometry": {
+        "coordinates": [
+          107.51616,
+          49.77594
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulagiyn Denj"
+      },
+      "geometry": {
+        "coordinates": [
+          101.11576,
+          47.31869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulag"
+      },
+      "geometry": {
+        "coordinates": [
+          100.62687,
+          49.85946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulag"
+      },
+      "geometry": {
+        "coordinates": [
+          108.48333,
+          48.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bugat"
+      },
+      "geometry": {
+        "coordinates": [
+          103.66583,
+          49.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bugant"
+      },
+      "geometry": {
+        "coordinates": [
+          106.85,
+          49.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bornuur"
+      },
+      "geometry": {
+        "coordinates": [
+          106.26667,
+          48.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bohot"
+      },
+      "geometry": {
+        "coordinates": [
+          108.28245,
+          45.23223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodi"
+      },
+      "geometry": {
+        "coordinates": [
+          100.574,
+          45.41171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayshint"
+      },
+      "geometry": {
+        "coordinates": [
+          104.81667,
+          47.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayasgalant"
+      },
+      "geometry": {
+        "coordinates": [
+          108.25996,
+          47.17945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan-Ulaan"
+      },
+      "geometry": {
+        "coordinates": [
+          102.59428,
+          46.52178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayantsagaan"
+      },
+      "geometry": {
+        "coordinates": [
+          100.76,
+          48.73167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayantohom"
+      },
+      "geometry": {
+        "coordinates": [
+          105.05,
+          46.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan-Ovoo"
+      },
+      "geometry": {
+        "coordinates": [
+          111.63333,
+          49.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Javhlant"
+      },
+      "geometry": {
+        "coordinates": [
+          112.11667,
+          47.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanhoshuu"
+      },
+      "geometry": {
+        "coordinates": [
+          100.1433,
+          46.70197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanhongor"
+      },
+      "geometry": {
+        "coordinates": [
+          100.11667,
+          46.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanhongor"
+      },
+      "geometry": {
+        "coordinates": [
+          100.71806,
+          46.19444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayandelger"
+      },
+      "geometry": {
+        "coordinates": [
+          108.11062,
+          47.72732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          109.91667,
+          47.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayanbaraat"
+      },
+      "geometry": {
+        "coordinates": [
+          106.25,
+          46.86667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          111.08333,
+          48.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          103.15,
+          47.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.81667,
+          47.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.16667,
+          46.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat-Oldziyt"
+      },
+      "geometry": {
+        "coordinates": [
+          104.77318,
+          48.21552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baruunsuu"
+      },
+      "geometry": {
+        "coordinates": [
+          105.75577,
+          43.65595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hushaat"
+      },
+      "geometry": {
+        "coordinates": [
+          105.61667,
+          49.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badrah"
+      },
+      "geometry": {
+        "coordinates": [
+          101.98972,
+          49.61833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avraga"
+      },
+      "geometry": {
+        "coordinates": [
+          109.18968,
+          47.17851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avdzaga"
+      },
+      "geometry": {
+        "coordinates": [
+          103.51667,
+          47.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arvayheer"
+      },
+      "geometry": {
+        "coordinates": [
+          102.775,
+          46.26389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arhust"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88334,
+          47.79425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arguut"
+      },
+      "geometry": {
+        "coordinates": [
+          102.42056,
+          45.46278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argatay"
+      },
+      "geometry": {
+        "coordinates": [
+          107.98333,
+          45.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argalant"
+      },
+      "geometry": {
+        "coordinates": [
+          105.89584,
+          47.94211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar-Asgat"
+      },
+      "geometry": {
+        "coordinates": [
+          105.41194,
+          48.26222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amardalay"
+      },
+      "geometry": {
+        "coordinates": [
+          106.37426,
+          46.12572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altan-Ovoo"
+      },
+      "geometry": {
+        "coordinates": [
+          101.75503,
+          47.44742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altanbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          106.49861,
+          50.31556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altanbulag"
+      },
+      "geometry": {
+        "coordinates": [
+          106.4,
+          47.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaanshiveet"
+      },
+      "geometry": {
+        "coordinates": [
+          103.85659,
+          47.28948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayantal"
+      },
+      "geometry": {
+        "coordinates": [
+          108.35804,
+          46.62134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiveegovi"
+      },
+      "geometry": {
+        "coordinates": [
+          108.68306,
+          46.09081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongor"
+      },
+      "geometry": {
+        "coordinates": [
+          105.89674,
+          49.23012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jargalant"
+      },
+      "geometry": {
+        "coordinates": [
+          104.40803,
+          49.12915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoshigiyn-Ar"
+      },
+      "geometry": {
+        "coordinates": [
+          106.96333,
+          47.55717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuunmod"
+      },
+      "geometry": {
+        "coordinates": [
+          106.95276,
+          47.70693
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharkhorin"
+      },
+      "geometry": {
+        "coordinates": [
+          102.81349,
+          47.19245
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

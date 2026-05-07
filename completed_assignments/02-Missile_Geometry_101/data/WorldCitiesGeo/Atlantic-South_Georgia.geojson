@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grytviken"
+      },
+      "geometry": {
+        "coordinates": [
+          -36.5092,
+          -54.28111
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xai-Xai"
+      },
+      "geometry": {
+        "coordinates": [
+          33.64417,
+          -25.05194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dondo"
+      },
+      "geometry": {
+        "coordinates": [
+          34.74306,
+          -19.60944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.09889,
+          -25.02694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tete"
+      },
+      "geometry": {
+        "coordinates": [
+          33.58667,
+          -16.15639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ressano Garcia"
+      },
+      "geometry": {
+        "coordinates": [
+          31.99528,
+          -25.44278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quelimane"
+      },
+      "geometry": {
+        "coordinates": [
+          36.88833,
+          -17.87861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemba"
+      },
+      "geometry": {
+        "coordinates": [
+          40.51775,
+          -12.97395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nampula"
+      },
+      "geometry": {
+        "coordinates": [
+          39.2666,
+          -15.11646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nacala"
+      },
+      "geometry": {
+        "coordinates": [
+          40.68538,
+          -14.56257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montepuez"
+      },
+      "geometry": {
+        "coordinates": [
+          38.99972,
+          -13.12556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mocimboa"
+      },
+      "geometry": {
+        "coordinates": [
+          40.35,
+          -11.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilha de Mocambique"
+      },
+      "geometry": {
+        "coordinates": [
+          40.73583,
+          -15.03417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maxixe"
+      },
+      "geometry": {
+        "coordinates": [
+          35.34722,
+          -23.85972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matola"
+      },
+      "geometry": {
+        "coordinates": [
+          32.45889,
+          -25.96222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maputo"
+      },
+      "geometry": {
+        "coordinates": [
+          32.58322,
+          -25.96553
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manjacaze"
+      },
+      "geometry": {
+        "coordinates": [
+          33.88278,
+          -24.71167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhica"
+      },
+      "geometry": {
+        "coordinates": [
+          32.80722,
+          -25.40222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lichinga"
+      },
+      "geometry": {
+        "coordinates": [
+          35.24056,
+          -13.31278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inhambane"
+      },
+      "geometry": {
+        "coordinates": [
+          35.38333,
+          -23.865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuamba"
+      },
+      "geometry": {
+        "coordinates": [
+          36.53722,
+          -14.80306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chokwe"
+      },
+      "geometry": {
+        "coordinates": [
+          32.98333,
+          -24.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimoio"
+      },
+      "geometry": {
+        "coordinates": [
+          33.48333,
+          -19.11639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chibuto"
+      },
+      "geometry": {
+        "coordinates": [
+          33.53056,
+          -24.68667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beira"
+      },
+      "geometry": {
+        "coordinates": [
+          34.83889,
+          -19.84361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antonio Enes"
+      },
+      "geometry": {
+        "coordinates": [
+          39.90861,
+          -16.2325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutuali"
+      },
+      "geometry": {
+        "coordinates": [
+          37.00444,
+          -14.87056
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glace Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.95698,
+          46.19695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.1831,
+          46.1351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Mines"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.21767,
+          46.23669
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

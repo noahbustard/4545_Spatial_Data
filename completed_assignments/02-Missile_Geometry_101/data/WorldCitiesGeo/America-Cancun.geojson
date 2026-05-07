@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulum"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.46325,
+          20.21173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sergio Butron Casas"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.56883,
+          18.5139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saban"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.53891,
+          20.0345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyuc"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.56148,
+          19.60889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa del Carmen"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.07987,
+          20.6274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicolas Bravo"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.92802,
+          18.4591
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla Mujeres"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.73105,
+          21.23114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felipe Carrillo Puerto"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.04529,
+          19.5775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel de Cozumel"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.94598,
+          20.501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coba"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.73888,
+          20.48298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chunhuhub"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.5922,
+          19.58533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chetumal"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.30381,
+          18.51413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cancun"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.84656,
+          21.17429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calderitas"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.25518,
+          18.55564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bacalar"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.39333,
+          18.68109
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantunilkin"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.48644,
+          21.10182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfredo V. Bonfil"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.84706,
+          21.08776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leona Vicario"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.20224,
+          20.9897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "X Cabil"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.46398,
+          20.16542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Presumida"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.75389,
+          19.80083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kancabchen"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.86167,
+          19.71389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "X-Hazil Sur"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.07417,
+          19.39167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Divorciados"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.45647,
+          19.07687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maya Balam"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.39972,
+          18.93917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morocoy"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.81097,
+          18.60324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Javier Rojo Gomez"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.68111,
+          18.27389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona Urbana Ejido Isla Mujeres"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.85361,
+          21.22472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ignacio Zaragoza"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.525,
+          20.88167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Chemuyil"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.35306,
+          20.34861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Xcan"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.60306,
+          20.86917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Tintal"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.46611,
+          20.89194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa Segundo"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.2625,
+          19.97778
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

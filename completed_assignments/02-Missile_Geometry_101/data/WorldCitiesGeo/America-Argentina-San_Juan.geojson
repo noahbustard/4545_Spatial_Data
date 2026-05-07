@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Basilio Nievas"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.73333,
+          -31.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Santa Rosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.31411,
+          -31.74434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Paula de Sarmiento"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.53838,
+          -31.4933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Media Agua"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.42394,
+          -31.98267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Krause"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.53333,
+          -31.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa del Salvador"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.39745,
+          -31.44155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Aberastain"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.58333,
+          -31.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamberias"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.4255,
+          -31.46646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Lucia"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.49503,
+          -31.53987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Martin"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.50065,
+          -31.42957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.53639,
+          -31.5375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose de Jachal"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.74693,
+          -30.24057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Agustin de Valle Fertil"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.46821,
+          -30.63353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodeo"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.13661,
+          -30.21186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivadavia"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.6525,
+          -31.55389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocito"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.58333,
+          -31.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nueve de Julio"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.39023,
+          -31.66914
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimbas"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.53333,
+          -31.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caucete"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.28105,
+          -31.65179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calingasta"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.40783,
+          -31.33084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albardon"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.52556,
+          -31.43722
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

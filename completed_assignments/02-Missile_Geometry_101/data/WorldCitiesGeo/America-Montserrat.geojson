@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Peters"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.21729,
+          16.7727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plymouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.21292,
+          16.70555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brades"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.21058,
+          16.79183
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsuen Wan"
+      },
+      "geometry": {
+        "coordinates": [
+          114.10479,
+          22.37066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yung Shue Wan"
+      },
+      "geometry": {
+        "coordinates": [
+          114.11241,
+          22.22623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuen Long Kau Hui"
+      },
+      "geometry": {
+        "coordinates": [
+          114.03333,
+          22.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wong Tai Sin"
+      },
+      "geometry": {
+        "coordinates": [
+          114.18333,
+          22.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wan Chai"
+      },
+      "geometry": {
+        "coordinates": [
+          114.17258,
+          22.28142
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuen Mun"
+      },
+      "geometry": {
+        "coordinates": [
+          113.97157,
+          22.39175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tai Po"
+      },
+      "geometry": {
+        "coordinates": [
+          114.16877,
+          22.45007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tai O"
+      },
+      "geometry": {
+        "coordinates": [
+          113.86309,
+          22.25515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sok Kwu Wan"
+      },
+      "geometry": {
+        "coordinates": [
+          114.13159,
+          22.20453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sha Tin"
+      },
+      "geometry": {
+        "coordinates": [
+          114.18333,
+          22.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sham Shui Po"
+      },
+      "geometry": {
+        "coordinates": [
+          114.15945,
+          22.33023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sai Kung"
+      },
+      "geometry": {
+        "coordinates": [
+          114.26667,
+          22.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngong Ping"
+      },
+      "geometry": {
+        "coordinates": [
+          113.90391,
+          22.25556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowloon"
+      },
+      "geometry": {
+        "coordinates": [
+          114.18333,
+          22.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong"
+      },
+      "geometry": {
+        "coordinates": [
+          114.17469,
+          22.27832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central"
+      },
+      "geometry": {
+        "coordinates": [
+          114.15846,
+          22.28299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tung Chung"
+      },
+      "geometry": {
+        "coordinates": [
+          113.94243,
+          22.28783
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

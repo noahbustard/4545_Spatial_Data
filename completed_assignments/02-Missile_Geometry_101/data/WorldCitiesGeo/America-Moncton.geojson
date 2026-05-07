@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouctouche"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.73905,
+          46.46844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dieppe"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.68735,
+          46.07844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredericton"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.66558,
+          45.94541
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampton"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.85354,
+          45.52876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lutes Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.90504,
+          46.13544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miramichi"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.50186,
+          47.02895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moncton"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.7965,
+          46.09454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nackawic"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.24028,
+          45.99666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oromocto"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.47917,
+          45.83512
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richibucto"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.88044,
+          46.68073
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sackville"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.38455,
+          45.91875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Andrews"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.05312,
+          45.0737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint John"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.06766,
+          45.27271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salisbury"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.04628,
+          46.03905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shediac"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.54107,
+          46.21981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sussex"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.50663,
+          45.72266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmundston"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.32512,
+          47.3737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campbellton"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.67272,
+          48.00751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bathurst"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.65112,
+          47.61814
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tracadie-Sheila"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.91806,
+          47.51444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Leonard"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.9246,
+          47.16317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrison Brook"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.92847,
+          47.21304
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

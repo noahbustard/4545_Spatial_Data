@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Salal Muhammad"
+      },
+      "geometry": {
+        "coordinates": [
+          51.40647,
+          25.41524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Salal `Ali"
+      },
+      "geometry": {
+        "coordinates": [
+          51.3975,
+          25.46972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musay`id"
+      },
+      "geometry": {
+        "coordinates": [
+          51.55067,
+          24.99226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umm Bab"
+      },
+      "geometry": {
+        "coordinates": [
+          50.80722,
+          25.21417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madinat ash Shamal"
+      },
+      "geometry": {
+        "coordinates": [
+          51.2009,
+          26.12933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dukhan"
+      },
+      "geometry": {
+        "coordinates": [
+          50.78227,
+          25.42485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Az Za`ayin"
+      },
+      "geometry": {
+        "coordinates": [
+          51.48306,
+          25.57744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ash Shayhaniyah"
+      },
+      "geometry": {
+        "coordinates": [
+          51.22264,
+          25.37088
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Ruways"
+      },
+      "geometry": {
+        "coordinates": [
+          51.21493,
+          26.13978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ar Rayyan"
+      },
+      "geometry": {
+        "coordinates": [
+          51.42444,
+          25.29194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Wukayr"
+      },
+      "geometry": {
+        "coordinates": [
+          51.53718,
+          25.15107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Wakrah"
+      },
+      "geometry": {
+        "coordinates": [
+          51.60337,
+          25.17151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Khawr"
+      },
+      "geometry": {
+        "coordinates": [
+          51.50583,
+          25.68389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jumayliyah"
+      },
+      "geometry": {
+        "coordinates": [
+          51.09222,
+          25.60944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Ghuwayriyah"
+      },
+      "geometry": {
+        "coordinates": [
+          51.24528,
+          25.82972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doha"
+      },
+      "geometry": {
+        "coordinates": [
+          51.52245,
+          25.27932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuwayrit"
+      },
+      "geometry": {
+        "coordinates": [
+          51.36971,
+          26.02565
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

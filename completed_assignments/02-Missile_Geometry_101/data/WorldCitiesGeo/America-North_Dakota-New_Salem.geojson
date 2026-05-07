@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandan"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.88958,
+          46.82666
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smara"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.67194,
+          26.73841
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laayoune Plage"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.41583,
+          27.09611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakhla"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.95798,
+          23.68477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imlili"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.60719,
+          22.6558
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

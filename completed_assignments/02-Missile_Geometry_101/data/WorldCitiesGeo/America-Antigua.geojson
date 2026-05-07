@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint John's"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.84329,
+          17.12096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potters Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.81667,
+          17.08333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piggotts"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.8,
+          17.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parham"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.77046,
+          17.09682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberta"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.78333,
+          17.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falmouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.78136,
+          17.02741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Codrington"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.83333,
+          17.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolands"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.87466,
+          17.06565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Saints"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.79303,
+          17.06671
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

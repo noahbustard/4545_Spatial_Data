@@ -1,0 +1,1292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaiza"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.76535,
+          28.95678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilaflor"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.63592,
+          28.15623
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vega de San Mateo"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.5333,
+          28.00892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valverde"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.91578,
+          27.80628
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valsequillo de Gran Canaria"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.49725,
+          27.98562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valleseco"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.57623,
+          28.0433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vallehermosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.26664,
+          28.17944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuineje"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.04722,
+          28.32372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinajo"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.67647,
+          29.06326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tijarafe"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.95,
+          28.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tias"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.64502,
+          28.96108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teror"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.54909,
+          28.06062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telde"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.41915,
+          27.99243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tejeda"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.61543,
+          27.99508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teguise"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.56397,
+          29.06049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegueste"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.31667,
+          28.51667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tazacorte"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.93394,
+          28.64186
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanque"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.83333,
+          28.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacoronte"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.41016,
+          28.47688
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauzal"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.41667,
+          28.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago del Teide"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.81618,
+          28.294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Ursula"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.48876,
+          28.42613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Lucia"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.54071,
+          27.91174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz de Tenerife"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.25462,
+          28.46824
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz de la Palma"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.76421,
+          28.68351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Brigida"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.50425,
+          28.03197
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Sebastian de la Gomera"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.11331,
+          28.09163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Nicolas"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.78126,
+          27.9891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel De Abona"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.61708,
+          28.09826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan de la Rambla"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.65015,
+          28.39276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Isidro"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.558,
+          28.07617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Laguna"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.32014,
+          28.4853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Bartolome de Tirajana"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.57329,
+          27.92481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Bartolome"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.613,
+          29.00093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Realejo Alto"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.58575,
+          28.37645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puntallana"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.73333,
+          28.73333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puntagorda"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.97741,
+          28.7749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto del Rosario"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.86272,
+          28.50038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto de la Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.54867,
+          28.41397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa Blanca"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.82814,
+          28.86426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajara"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.1076,
+          28.35039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nazaret"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.56386,
+          29.03818
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moya"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.58917,
+          28.10136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogan"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.72538,
+          27.88385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazo"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.77801,
+          28.60906
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maspalomas"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.58602,
+          27.76056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Silos"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.81552,
+          28.3661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Llanos de Aridane"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.91821,
+          28.65851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lomo de Arico"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.48333,
+          28.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Victoria de Acentejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.46232,
+          28.43231
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Palmas de Gran Canaria"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.41343,
+          28.09973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Orotava"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.52309,
+          28.39076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Oliva"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.92912,
+          28.61052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Matanza de Acentejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.4472,
+          28.45242
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Guancha"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.65158,
+          28.3732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingenio"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.43433,
+          27.91855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Icod de los Vinos"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.71188,
+          28.37241
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermigua"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.19051,
+          28.16766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haria"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.49986,
+          29.14553
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guimar"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.41276,
+          28.31122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guia de Isora"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.77947,
+          28.21154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guia"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.63294,
+          28.13974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granadilla de Abona"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.57599,
+          28.11882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garafia"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.93333,
+          28.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garachico"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.76459,
+          28.77807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garachico"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.76342,
+          28.37365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galdar"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.6502,
+          28.14701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuencaliente de la Palma"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.84529,
+          28.49236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frontera"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.00367,
+          27.75404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firgas"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.56299,
+          28.10711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fasnia"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.43886,
+          28.23638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Paso"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.88274,
+          28.65007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corralejo"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.86749,
+          28.73079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrizal"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.40558,
+          27.91161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candelaria"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.37268,
+          28.3548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenavista del Norte"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.86098,
+          28.37458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brena Baja"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.78953,
+          28.63011
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brena Alta"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.78333,
+          28.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barlovento"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.80377,
+          28.82708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arucas"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.52325,
+          28.11983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artenara"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.64693,
+          28.02055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrecife"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.54769,
+          28.96302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arona"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.68102,
+          28.09962
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruce de Arinaga"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.42798,
+          27.87656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arafo"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.42244,
+          28.33971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antigua"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.01379,
+          28.42307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alajero"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.24073,
+          28.06205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agulo"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.19678,
+          28.18778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguimes"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.44609,
+          27.90539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agaete"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.69998,
+          28.10023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adeje"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.726,
+          28.12271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa del Ingles"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.5787,
+          27.7567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Rico"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.71045,
+          27.78943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto del Carmen"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.66579,
+          28.92313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa de las Americas"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.73012,
+          28.06403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Rosas"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.65373,
+          28.01539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Cotillo"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.00637,
+          28.68264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Gigantes"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.84153,
+          28.24361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Realejos"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.58275,
+          28.38487
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

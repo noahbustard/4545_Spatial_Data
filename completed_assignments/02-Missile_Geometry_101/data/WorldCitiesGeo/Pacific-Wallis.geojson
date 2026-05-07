@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leava"
+      },
+      "geometry": {
+        "coordinates": [
+          -178.15833,
+          -14.29333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mata-Utu"
+      },
+      "geometry": {
+        "coordinates": [
+          -176.17453,
+          -13.28163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alo"
+      },
+      "geometry": {
+        "coordinates": [
+          -178.11094,
+          -14.31096
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

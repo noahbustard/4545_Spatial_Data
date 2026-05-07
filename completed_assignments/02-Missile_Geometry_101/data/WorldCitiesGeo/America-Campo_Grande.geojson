@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tres Lagoas"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.70338,
+          -20.78765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terenos"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.86028,
+          -20.44222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidrolandia"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.96139,
+          -20.93194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Verde de Mato Grosso"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.84417,
+          -18.91806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Brilhante"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.54639,
+          -21.80194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribas do Rio Pardo"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.75917,
+          -20.44306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Murtinho"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.8825,
+          -21.69889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Barra do Ivinheima"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.66667,
+          -22.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponta Pora"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.72556,
+          -22.53611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paranhos"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.43111,
+          -23.89278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paranaiba"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.19083,
+          -19.67722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraiso das Aguas"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.01222,
+          -19.0175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navirai"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.19056,
+          -23.065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miranda"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.37833,
+          -20.24056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maracaju"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.16833,
+          -21.61444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladario"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.60167,
+          -19.00472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.13806,
+          -21.48028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iguatemi"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.56111,
+          -23.68028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guia Lopes da Laguna"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.11417,
+          -21.45778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eldorado"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.28361,
+          -23.78694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dourados"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.80556,
+          -22.22111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coxim"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.76,
+          -18.50667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.65,
+          -23.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corumba"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.65333,
+          -19.00917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cassilandia"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.73417,
+          -19.11333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caarapo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.82222,
+          -22.63417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campo Verde"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.06667,
+          -20.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campo Grande"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.64639,
+          -20.44278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camapua"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.04389,
+          -19.53139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonito"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.48194,
+          -21.12111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bela Vista"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.52111,
+          -22.10889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bataipora"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.27111,
+          -22.29528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquidauana"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.78722,
+          -20.47111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aparecida do Taboado"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.09361,
+          -20.08667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anastacio"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.80694,
+          -20.48361
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

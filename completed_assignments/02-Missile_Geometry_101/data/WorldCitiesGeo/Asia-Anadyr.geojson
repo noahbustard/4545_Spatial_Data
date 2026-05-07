@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pevek"
+      },
+      "geometry": {
+        "coordinates": [
+          170.29993,
+          69.70287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilibino"
+      },
+      "geometry": {
+        "coordinates": [
+          166.43721,
+          68.05464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beringovskiy"
+      },
+      "geometry": {
+        "coordinates": [
+          179.35046,
+          63.06101
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anadyr"
+      },
+      "geometry": {
+        "coordinates": [
+          177.5103,
+          64.73424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Provideniya"
+      },
+      "geometry": {
+        "coordinates": [
+          -173.22641,
+          64.42289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lorino"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.70396,
+          65.50331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavrentiya"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.02082,
+          65.58604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egvekinot"
+      },
+      "geometry": {
+        "coordinates": [
+          -179.12198,
+          66.32166
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

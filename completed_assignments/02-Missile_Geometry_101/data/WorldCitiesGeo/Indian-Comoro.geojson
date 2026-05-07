@@ -1,0 +1,1097 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouanani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.7975,
+          -12.3375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vouani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.37444,
+          -12.24417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanambouani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.25306,
+          -11.61139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.30917,
+          -11.84556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sima"
+      },
+      "geometry": {
+        "coordinates": [
+          44.27667,
+          -12.19556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salimani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.25917,
+          -11.80806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patsi"
+      },
+      "geometry": {
+        "coordinates": [
+          44.43722,
+          -12.15556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouzini"
+      },
+      "geometry": {
+        "coordinates": [
+          44.47972,
+          -12.26722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oussivo"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26722,
+          -11.585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouroveni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.48861,
+          -11.90972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.42493,
+          -12.13554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongoni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.50694,
+          -12.17028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntsoudjini"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26139,
+          -11.65972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntsaoueni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26278,
+          -11.46583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nioumachoua"
+      },
+      "geometry": {
+        "coordinates": [
+          43.71528,
+          -12.36139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyo"
+      },
+      "geometry": {
+        "coordinates": [
+          44.51917,
+          -12.33222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moutsamoudou"
+      },
+      "geometry": {
+        "coordinates": [
+          44.39944,
+          -12.16672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mtsamdou"
+      },
+      "geometry": {
+        "coordinates": [
+          43.38056,
+          -11.60694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mremani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.49861,
+          -12.30833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mramani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.52861,
+          -12.34639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moya"
+      },
+      "geometry": {
+        "coordinates": [
+          44.43778,
+          -12.30667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moroni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.25506,
+          -11.70216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohoro"
+      },
+      "geometry": {
+        "coordinates": [
+          43.44611,
+          -11.82583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mjimandra"
+      },
+      "geometry": {
+        "coordinates": [
+          44.37028,
+          -12.19167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mjamaoue"
+      },
+      "geometry": {
+        "coordinates": [
+          44.31,
+          -12.19361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitsamiouli"
+      },
+      "geometry": {
+        "coordinates": [
+          43.28444,
+          -11.38472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbeni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.3775,
+          -11.50139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marahare"
+      },
+      "geometry": {
+        "coordinates": [
+          44.31333,
+          -12.23083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koni-Djodjo"
+      },
+      "geometry": {
+        "coordinates": [
+          44.48167,
+          -12.22972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koni-Ngani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.48,
+          -12.21583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koki"
+      },
+      "geometry": {
+        "coordinates": [
+          44.44167,
+          -12.17139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kangani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.47472,
+          -12.31167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivouani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.39454,
+          -11.39157
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itsandra"
+      },
+      "geometry": {
+        "coordinates": [
+          43.25472,
+          -11.67111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heroumbili"
+      },
+      "geometry": {
+        "coordinates": [
+          43.37972,
+          -11.54389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.67472,
+          -12.25083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foumbouni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.48417,
+          -11.86167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fomboni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.74344,
+          -12.28759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dziani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.48333,
+          -12.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domoni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.53194,
+          -12.25694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djoyezi"
+      },
+      "geometry": {
+        "coordinates": [
+          43.77425,
+          -12.30587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dembeni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.39778,
+          -11.87361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chironkamba"
+      },
+      "geometry": {
+        "coordinates": [
+          44.3525,
+          -12.19111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chindini"
+      },
+      "geometry": {
+        "coordinates": [
+          43.48111,
+          -11.92083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chezani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.39625,
+          -11.4314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandra"
+      },
+      "geometry": {
+        "coordinates": [
+          44.46472,
+          -12.195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.38833,
+          -11.48694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boungoueni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.29944,
+          -12.20556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bimbini"
+      },
+      "geometry": {
+        "coordinates": [
+          44.23556,
+          -12.18833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assimpao"
+      },
+      "geometry": {
+        "coordinates": [
+          44.31972,
+          -12.23306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antsahe"
+      },
+      "geometry": {
+        "coordinates": [
+          44.5225,
+          -12.35639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mtakoudja"
+      },
+      "geometry": {
+        "coordinates": [
+          43.70361,
+          -12.26111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ziroudani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.7775,
+          -12.3325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.26944,
+          -12.19194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandajou"
+      },
+      "geometry": {
+        "coordinates": [
+          44.28694,
+          -12.19167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitrouni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.33556,
+          -12.18583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hajoho"
+      },
+      "geometry": {
+        "coordinates": [
+          44.48833,
+          -12.1175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barakani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.43026,
+          -12.13861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harembo"
+      },
+      "geometry": {
+        "coordinates": [
+          44.49833,
+          -12.14361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirontsi"
+      },
+      "geometry": {
+        "coordinates": [
+          44.40806,
+          -12.15667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paje"
+      },
+      "geometry": {
+        "coordinates": [
+          44.38806,
+          -12.16972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbi"
+      },
+      "geometry": {
+        "coordinates": [
+          44.50528,
+          -12.23944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lingoni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.41833,
+          -12.25583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnassini-Nindri"
+      },
+      "geometry": {
+        "coordinates": [
+          44.41583,
+          -12.27806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adda-Doueni"
+      },
+      "geometry": {
+        "coordinates": [
+          44.49722,
+          -12.2925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daji"
+      },
+      "geometry": {
+        "coordinates": [
+          44.48861,
+          -12.32583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouhozi"
+      },
+      "geometry": {
+        "coordinates": [
+          43.28222,
+          -11.405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandza"
+      },
+      "geometry": {
+        "coordinates": [
+          43.29528,
+          -11.41806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Douniani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.28889,
+          -11.42111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koua"
+      },
+      "geometry": {
+        "coordinates": [
+          43.27639,
+          -11.42083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hantsindzi"
+      },
+      "geometry": {
+        "coordinates": [
+          43.41102,
+          -11.43178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itsandzeni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.38444,
+          -11.47278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bambadjani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.37722,
+          -11.47861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mnoungou"
+      },
+      "geometry": {
+        "coordinates": [
+          43.37389,
+          -11.51778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanadjou"
+      },
+      "geometry": {
+        "coordinates": [
+          43.27611,
+          -11.6075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahani"
+      },
+      "geometry": {
+        "coordinates": [
+          43.28417,
+          -11.63972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouella"
+      },
+      "geometry": {
+        "coordinates": [
+          43.28056,
+          -11.65361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsidje"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26194,
+          -11.69806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mvouni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26472,
+          -11.71611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mavingouni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.2525,
+          -11.71639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selea"
+      },
+      "geometry": {
+        "coordinates": [
+          43.26083,
+          -11.78444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madjeoueni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.27806,
+          -11.82167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nioumamilima"
+      },
+      "geometry": {
+        "coordinates": [
+          43.43722,
+          -11.85111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mkiriwadjumoi"
+      },
+      "geometry": {
+        "coordinates": [
+          44.43702,
+          -12.31086
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

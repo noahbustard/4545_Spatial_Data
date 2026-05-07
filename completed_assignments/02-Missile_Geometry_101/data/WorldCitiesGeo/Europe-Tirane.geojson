@@ -1,0 +1,4620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xarre"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05444,
+          39.72833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarande"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00528,
+          39.87556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesopotam"
+      },
+      "geometry": {
+        "coordinates": [
+          20.09222,
+          39.91028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markat"
+      },
+      "geometry": {
+        "coordinates": [
+          20.19528,
+          39.73278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Livadhja"
+      },
+      "geometry": {
+        "coordinates": [
+          20.12194,
+          39.78917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konispol"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18139,
+          39.65889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakavije"
+      },
+      "geometry": {
+        "coordinates": [
+          20.35833,
+          39.90778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finiq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05833,
+          39.90639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhiver"
+      },
+      "geometry": {
+        "coordinates": [
+          20.16861,
+          39.83611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delvine"
+      },
+      "geometry": {
+        "coordinates": [
+          20.09778,
+          39.95111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliko"
+      },
+      "geometry": {
+        "coordinates": [
+          20.07917,
+          39.85861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucimas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.68139,
+          40.89139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhepe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.28694,
+          40.67778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerqan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.36056,
+          41.50222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zavaline"
+      },
+      "geometry": {
+        "coordinates": [
+          20.28083,
+          40.98083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zapod"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5525,
+          42.05056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zall-Rec"
+      },
+      "geometry": {
+        "coordinates": [
+          20.32,
+          41.87611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zall-Dardhe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.33611,
+          41.80667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xiber-Murrize"
+      },
+      "geometry": {
+        "coordinates": [
+          20.02556,
+          41.45472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vreshtas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.77694,
+          40.79694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voskopoje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.58889,
+          40.63306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voskop"
+      },
+      "geometry": {
+        "coordinates": [
+          20.69028,
+          40.61194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vithkuq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5825,
+          40.525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vithkuq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25944,
+          40.20472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vertop"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05389,
+          40.62889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vergo"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00889,
+          40.00667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vendresha e Vogel"
+      },
+      "geometry": {
+        "coordinates": [
+          20.13472,
+          40.50722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velcan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.46222,
+          40.95472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ujmisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.34694,
+          41.90833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Udenisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.63917,
+          40.96333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tunje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.11194,
+          40.83417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tregan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.07833,
+          41.02472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trebisht-Mucine"
+      },
+      "geometry": {
+        "coordinates": [
+          20.53556,
+          41.41111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trebinje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.55306,
+          40.91333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topojan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.21333,
+          40.37722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomin"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42167,
+          41.69083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tepelene"
+      },
+      "geometry": {
+        "coordinates": [
+          20.01917,
+          40.29583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surroj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.34417,
+          41.99222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sult"
+      },
+      "geometry": {
+        "coordinates": [
+          20.09944,
+          40.88472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suke"
+      },
+      "geometry": {
+        "coordinates": [
+          20.15472,
+          40.37528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suc"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05139,
+          41.57694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stravaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42306,
+          41.00528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stebleve"
+      },
+      "geometry": {
+        "coordinates": [
+          20.47,
+          41.33722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sllove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.40833,
+          41.80111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skore"
+      },
+      "geometry": {
+        "coordinates": [
+          20.36639,
+          40.10722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skenderbegas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.24056,
+          40.77611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shushice"
+      },
+      "geometry": {
+        "coordinates": [
+          20.14833,
+          41.0975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shupenze"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42361,
+          41.53
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shtiqen"
+      },
+      "geometry": {
+        "coordinates": [
+          20.43417,
+          42.04056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shishtavec"
+      },
+      "geometry": {
+        "coordinates": [
+          20.60583,
+          41.98
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shirgjan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05333,
+          41.05194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shengjin"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18833,
+          41.92611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shenmeri"
+      },
+      "geometry": {
+        "coordinates": [
+          20.23833,
+          42.10417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selishte"
+      },
+      "geometry": {
+        "coordinates": [
+          20.27917,
+          41.6275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saraqinishte"
+      },
+      "geometry": {
+        "coordinates": [
+          20.22944,
+          40.10528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rukaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.01917,
+          41.68361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajce"
+      },
+      "geometry": {
+        "coordinates": [
+          20.57639,
+          41.09028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roshnik"
+      },
+      "geometry": {
+        "coordinates": [
+          20.03944,
+          40.73278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qukes-Skenderbe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.43806,
+          41.08389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qestorat"
+      },
+      "geometry": {
+        "coordinates": [
+          20.19972,
+          40.1175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qafemal"
+      },
+      "geometry": {
+        "coordinates": [
+          20.09056,
+          42.09333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perrenjas-Fshat"
+      },
+      "geometry": {
+        "coordinates": [
+          20.53528,
+          41.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perrenjas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.54889,
+          41.07306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Proptisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5025,
+          40.98611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Proger"
+      },
+      "geometry": {
+        "coordinates": [
+          20.94028,
+          40.69417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potom"
+      },
+      "geometry": {
+        "coordinates": [
+          20.37333,
+          40.48833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porocan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.29861,
+          40.94194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polis-Gostime"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25833,
+          41.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polican"
+      },
+      "geometry": {
+        "coordinates": [
+          20.09806,
+          40.61222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pojan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.8375,
+          40.72583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pogradec"
+      },
+      "geometry": {
+        "coordinates": [
+          20.6525,
+          40.9025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pishaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18278,
+          40.88111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirg"
+      },
+      "geometry": {
+        "coordinates": [
+          20.70611,
+          40.785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjinkar"
+      },
+      "geometry": {
+        "coordinates": [
+          20.40611,
+          40.19944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petran"
+      },
+      "geometry": {
+        "coordinates": [
+          20.41833,
+          40.20944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peshkopi"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42889,
+          41.685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Permet"
+      },
+      "geometry": {
+        "coordinates": [
+          20.35167,
+          40.23361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ostreni i Math"
+      },
+      "geometry": {
+        "coordinates": [
+          20.45556,
+          41.43083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orosh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08333,
+          41.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orenje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.21194,
+          41.28472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odrie"
+      },
+      "geometry": {
+        "coordinates": [
+          20.16667,
+          40.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novosele"
+      },
+      "geometry": {
+        "coordinates": [
+          20.69833,
+          40.76139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picar"
+      },
+      "geometry": {
+        "coordinates": [
+          20.04833,
+          40.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mollas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00361,
+          40.92694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mollas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.67444,
+          40.42556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mollaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.74028,
+          40.56028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miras"
+      },
+      "geometry": {
+        "coordinates": [
+          20.92833,
+          40.50917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.46528,
+          41.65417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martanesh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.2,
+          41.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maqellare"
+      },
+      "geometry": {
+        "coordinates": [
+          20.48306,
+          41.58889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maliq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.69972,
+          40.70583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macukull"
+      },
+      "geometry": {
+        "coordinates": [
+          20.11028,
+          41.68861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunik"
+      },
+      "geometry": {
+        "coordinates": [
+          20.32361,
+          41.28917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llugaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.10861,
+          42.34139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lis"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08528,
+          41.6275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liqenas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.90222,
+          40.78667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Librazhd"
+      },
+      "geometry": {
+        "coordinates": [
+          20.315,
+          41.17944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libonik"
+      },
+      "geometry": {
+        "coordinates": [
+          20.70861,
+          40.70444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libohove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.26306,
+          40.03111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leskovik"
+      },
+      "geometry": {
+        "coordinates": [
+          20.59722,
+          40.15139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leshnje"
+      },
+      "geometry": {
+        "coordinates": [
+          20.31333,
+          40.53694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenias"
+      },
+      "geometry": {
+        "coordinates": [
+          20.39139,
+          40.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lekas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5125,
+          40.60222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lazarat"
+      },
+      "geometry": {
+        "coordinates": [
+          20.1475,
+          40.04667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labinot-Mal"
+      },
+      "geometry": {
+        "coordinates": [
+          20.15222,
+          41.20083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labinot-Fushe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.14611,
+          41.14056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18889,
+          40.78889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurbnesh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08361,
+          41.77972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kukur"
+      },
+      "geometry": {
+        "coordinates": [
+          20.36361,
+          40.86778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kukes"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42194,
+          42.07694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kthella e Eperme"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05889,
+          41.81194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krume"
+      },
+      "geometry": {
+        "coordinates": [
+          20.41333,
+          42.19694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korce"
+      },
+      "geometry": {
+        "coordinates": [
+          20.78083,
+          40.61861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolsh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.34194,
+          42.07806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodovjat"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25111,
+          40.80556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klos"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08667,
+          41.50694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klos"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00972,
+          40.94611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelcyre"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18944,
+          40.31306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kastriot"
+      },
+      "geometry": {
+        "coordinates": [
+          20.37722,
+          41.72944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kardhiq"
+      },
+      "geometry": {
+        "coordinates": [
+          20.0275,
+          40.12167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalis"
+      },
+      "geometry": {
+        "coordinates": [
+          20.36667,
+          41.83889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iballe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.0025,
+          42.1875
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotolisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.39722,
+          41.15667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hocisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.91417,
+          40.60833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gramsh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18444,
+          40.86972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gostime"
+      },
+      "geometry": {
+        "coordinates": [
+          20.24,
+          41.14556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.38028,
+          42.2475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjorica e Siperme"
+      },
+      "geometry": {
+        "coordinates": [
+          20.45,
+          41.53444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjirokaster"
+      },
+      "geometry": {
+        "coordinates": [
+          20.13889,
+          40.07583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjinar"
+      },
+      "geometry": {
+        "coordinates": [
+          20.18889,
+          41.0225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjinaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.43583,
+          42.11806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjergjan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.02972,
+          41.04306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjegjan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.01111,
+          41.93778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Muhurr"
+      },
+      "geometry": {
+        "coordinates": [
+          20.33139,
+          41.67972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Lure"
+      },
+      "geometry": {
+        "coordinates": [
+          20.23194,
+          41.80611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Cidhne"
+      },
+      "geometry": {
+        "coordinates": [
+          20.34111,
+          41.76056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Bulqize"
+      },
+      "geometry": {
+        "coordinates": [
+          20.28222,
+          41.52194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Arrez"
+      },
+      "geometry": {
+        "coordinates": [
+          20.01667,
+          42.06222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frasher"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42444,
+          40.36889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fierze"
+      },
+      "geometry": {
+        "coordinates": [
+          20.01694,
+          42.26056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fajze"
+      },
+      "geometry": {
+        "coordinates": [
+          20.35083,
+          42.16694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erseke"
+      },
+      "geometry": {
+        "coordinates": [
+          20.67889,
+          40.33778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elbasan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08222,
+          41.1125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drenove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.79222,
+          40.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dishnice"
+      },
+      "geometry": {
+        "coordinates": [
+          20.81361,
+          40.65139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dervician"
+      },
+      "geometry": {
+        "coordinates": [
+          20.17333,
+          40.0325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derjan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05833,
+          41.67361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjerbes"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25111,
+          40.62917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corovode"
+      },
+      "geometry": {
+        "coordinates": [
+          20.22722,
+          40.50417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clirim"
+      },
+      "geometry": {
+        "coordinates": [
+          20.55028,
+          40.4175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerava"
+      },
+      "geometry": {
+        "coordinates": [
+          20.725,
+          40.85139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cepan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.26056,
+          40.42056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carshove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.54083,
+          40.11806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50472,
+          41.87833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buz"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00472,
+          40.445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bushtrice"
+      },
+      "geometry": {
+        "coordinates": [
+          20.42194,
+          41.87861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burrel"
+      },
+      "geometry": {
+        "coordinates": [
+          20.00889,
+          41.61028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulqize"
+      },
+      "geometry": {
+        "coordinates": [
+          20.22194,
+          41.49167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bujan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.07639,
+          42.32639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bradashesh"
+      },
+      "geometry": {
+        "coordinates": [
+          20.0225,
+          41.105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blinisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.0,
+          41.86139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blerim"
+      },
+      "geometry": {
+        "coordinates": [
+          20.19194,
+          42.16056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilisht"
+      },
+      "geometry": {
+        "coordinates": [
+          20.99,
+          40.6275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicaj"
+      },
+      "geometry": {
+        "coordinates": [
+          20.4125,
+          41.99472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dardhas"
+      },
+      "geometry": {
+        "coordinates": [
+          20.65722,
+          40.84583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barmash"
+      },
+      "geometry": {
+        "coordinates": [
+          20.61833,
+          40.27778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballaban"
+      },
+      "geometry": {
+        "coordinates": [
+          20.13444,
+          40.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arren"
+      },
+      "geometry": {
+        "coordinates": [
+          20.28833,
+          41.91306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arras"
+      },
+      "geometry": {
+        "coordinates": [
+          20.32417,
+          41.73583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fierze"
+      },
+      "geometry": {
+        "coordinates": [
+          20.02694,
+          42.26472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bytyc"
+      },
+      "geometry": {
+        "coordinates": [
+          20.20278,
+          42.31
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Librazhd-Qender"
+      },
+      "geometry": {
+        "coordinates": [
+          20.33556,
+          41.19694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Funare"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05972,
+          41.19639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moglice"
+      },
+      "geometry": {
+        "coordinates": [
+          20.43806,
+          40.71806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.15,
+          40.57111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piskove"
+      },
+      "geometry": {
+        "coordinates": [
+          20.2725,
+          40.27917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lukove"
+      },
+      "geometry": {
+        "coordinates": [
+          19.91389,
+          39.99222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zharrez"
+      },
+      "geometry": {
+        "coordinates": [
+          19.64972,
+          40.70917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zejmen"
+      },
+      "geometry": {
+        "coordinates": [
+          19.68917,
+          41.70778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zall-Herr"
+      },
+      "geometry": {
+        "coordinates": [
+          19.8275,
+          41.38944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zall-Bastar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93028,
+          41.42972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xhafzotaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.5475,
+          41.34444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vukatane"
+      },
+      "geometry": {
+        "coordinates": [
+          19.54778,
+          42.02806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vranisht"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69083,
+          40.20972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vore"
+      },
+      "geometry": {
+        "coordinates": [
+          19.655,
+          41.39083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vlore"
+      },
+      "geometry": {
+        "coordinates": [
+          19.48972,
+          40.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velipoje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.40556,
+          41.87833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velabisht"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93222,
+          40.70167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaqarr"
+      },
+      "geometry": {
+        "coordinates": [
+          19.74417,
+          41.29917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ura Vajgurore"
+      },
+      "geometry": {
+        "coordinates": [
+          19.87778,
+          40.76889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ungrej"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79472,
+          41.87528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulez"
+      },
+      "geometry": {
+        "coordinates": [
+          19.89333,
+          41.68278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topoje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.43278,
+          40.76306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirana"
+      },
+      "geometry": {
+        "coordinates": [
+          19.81889,
+          41.3275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thumane"
+      },
+      "geometry": {
+        "coordinates": [
+          19.67778,
+          41.5475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terbuf"
+      },
+      "geometry": {
+        "coordinates": [
+          19.61417,
+          41.04
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Synej"
+      },
+      "geometry": {
+        "coordinates": [
+          19.5425,
+          41.18
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sukth"
+      },
+      "geometry": {
+        "coordinates": [
+          19.53778,
+          41.38056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strum"
+      },
+      "geometry": {
+        "coordinates": [
+          19.7375,
+          40.75111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.86806,
+          40.64806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinaballaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69944,
+          41.06889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shkoder"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51258,
+          42.06828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shijak"
+      },
+      "geometry": {
+        "coordinates": [
+          19.56722,
+          41.34556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheze"
+      },
+      "geometry": {
+        "coordinates": [
+          19.81611,
+          41.02417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shenkoll"
+      },
+      "geometry": {
+        "coordinates": [
+          19.65333,
+          41.69083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shengjin"
+      },
+      "geometry": {
+        "coordinates": [
+          19.59389,
+          41.81361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shengjergj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.53333,
+          41.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shales"
+      },
+      "geometry": {
+        "coordinates": [
+          19.94778,
+          40.99861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicaj-Shale"
+      },
+      "geometry": {
+        "coordinates": [
+          19.805,
+          42.29944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sevaster"
+      },
+      "geometry": {
+        "coordinates": [
+          19.72972,
+          40.39639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selite"
+      },
+      "geometry": {
+        "coordinates": [
+          19.755,
+          41.63528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valbone"
+      },
+      "geometry": {
+        "coordinates": [
+          19.89167,
+          42.45139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selenice"
+      },
+      "geometry": {
+        "coordinates": [
+          19.63583,
+          40.53056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruzhdie"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69833,
+          40.67083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubik"
+      },
+      "geometry": {
+        "coordinates": [
+          19.78611,
+          41.77444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rrogozhine"
+      },
+      "geometry": {
+        "coordinates": [
+          19.66528,
+          41.07639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rreshen"
+      },
+      "geometry": {
+        "coordinates": [
+          19.87556,
+          41.7675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rrashbull"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51028,
+          41.32278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rrasa e Siperme"
+      },
+      "geometry": {
+        "coordinates": [
+          19.82111,
+          40.96778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rrape"
+      },
+      "geometry": {
+        "coordinates": [
+          19.97056,
+          42.04444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roskovec"
+      },
+      "geometry": {
+        "coordinates": [
+          19.70222,
+          40.7375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remas"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51139,
+          40.88639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qerret"
+      },
+      "geometry": {
+        "coordinates": [
+          19.83722,
+          42.05306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qelez"
+      },
+      "geometry": {
+        "coordinates": [
+          19.895,
+          42.08972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puke"
+      },
+      "geometry": {
+        "coordinates": [
+          19.89972,
+          42.04444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Progonat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.94472,
+          40.21333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Preze"
+      },
+      "geometry": {
+        "coordinates": [
+          19.67278,
+          41.42722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poshnje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84417,
+          40.78028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portez"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57444,
+          40.69917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peza e Madhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69611,
+          41.2175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrele"
+      },
+      "geometry": {
+        "coordinates": [
+          19.85306,
+          41.25306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perparim"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79917,
+          41.05
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perondi"
+      },
+      "geometry": {
+        "coordinates": [
+          19.92306,
+          40.77889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peqin"
+      },
+      "geometry": {
+        "coordinates": [
+          19.75111,
+          41.04611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patos Fshat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.65083,
+          40.64278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patos"
+      },
+      "geometry": {
+        "coordinates": [
+          19.61944,
+          40.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paskuqan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.80667,
+          41.35389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paper"
+      },
+      "geometry": {
+        "coordinates": [
+          19.96083,
+          41.05167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajove"
+      },
+      "geometry": {
+        "coordinates": [
+          19.8375,
+          41.05472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otllak"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93528,
+          40.74389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orikum"
+      },
+      "geometry": {
+        "coordinates": [
+          19.47139,
+          40.32528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novosele"
+      },
+      "geometry": {
+        "coordinates": [
+          19.46694,
+          40.625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nikel"
+      },
+      "geometry": {
+        "coordinates": [
+          19.74833,
+          41.44417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicaj-Shosh"
+      },
+      "geometry": {
+        "coordinates": [
+          19.75806,
+          42.24444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngracan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.7925,
+          40.64444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ndroq"
+      },
+      "geometry": {
+        "coordinates": [
+          19.65583,
+          41.26389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milot"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71556,
+          41.68389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memaliaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.98028,
+          40.35167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbrostar-Ure"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57944,
+          40.75361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manze"
+      },
+      "geometry": {
+        "coordinates": [
+          19.59306,
+          41.42861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamurras"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69222,
+          41.5775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maminas"
+      },
+      "geometry": {
+        "coordinates": [
+          19.6075,
+          41.37917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luzi i Vogel"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57389,
+          41.1275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lushnje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.705,
+          40.94194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luftinje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.95444,
+          40.44278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libofshe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.55222,
+          40.83444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lezhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.64361,
+          41.78361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.48972,
+          40.67611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lekbibaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93167,
+          42.29472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lekaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.60972,
+          41.11444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71306,
+          41.63556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kute"
+      },
+      "geometry": {
+        "coordinates": [
+          19.76639,
+          40.47333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kutalli"
+      },
+      "geometry": {
+        "coordinates": [
+          19.78667,
+          40.78389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurjan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.74556,
+          40.7175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuman"
+      },
+      "geometry": {
+        "coordinates": [
+          19.68667,
+          40.72667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kucove"
+      },
+      "geometry": {
+        "coordinates": [
+          19.91667,
+          40.80028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuc"
+      },
+      "geometry": {
+        "coordinates": [
+          19.52528,
+          42.03972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kryevidh"
+      },
+      "geometry": {
+        "coordinates": [
+          19.5275,
+          41.10056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krutja e Poshtme"
+      },
+      "geometry": {
+        "coordinates": [
+          19.68083,
+          40.87194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kruje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79278,
+          41.50917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krrabe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.97139,
+          41.21556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krahes"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84444,
+          40.43861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kozare"
+      },
+      "geometry": {
+        "coordinates": [
+          19.90056,
+          40.83083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kote"
+      },
+      "geometry": {
+        "coordinates": [
+          19.60222,
+          40.38944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koplik"
+      },
+      "geometry": {
+        "coordinates": [
+          19.43639,
+          42.21361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kombesi"
+      },
+      "geometry": {
+        "coordinates": [
+          19.98556,
+          41.58167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolonje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.60389,
+          40.82417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolc"
+      },
+      "geometry": {
+        "coordinates": [
+          19.67611,
+          41.78667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavaje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.55694,
+          41.18556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katundi i Ri"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51806,
+          41.40306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kastrat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.48917,
+          42.3525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kashar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71028,
+          41.34972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karine"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71611,
+          41.06306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karbunara e Vogel"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71778,
+          40.92194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamez"
+      },
+      "geometry": {
+        "coordinates": [
+          19.76028,
+          41.38167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallmeti i Madh"
+      },
+      "geometry": {
+        "coordinates": [
+          19.68694,
+          41.84889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallmet"
+      },
+      "geometry": {
+        "coordinates": [
+          19.82139,
+          41.41806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalenje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.77833,
+          40.59
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kajan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.88944,
+          40.91417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kacinar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.89861,
+          41.89333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ishem"
+      },
+      "geometry": {
+        "coordinates": [
+          19.6,
+          41.54528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hysgjokaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.78972,
+          40.97167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hot"
+      },
+      "geometry": {
+        "coordinates": [
+          19.44417,
+          42.36194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Himare"
+      },
+      "geometry": {
+        "coordinates": [
+          19.74472,
+          40.10167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helmas"
+      },
+      "geometry": {
+        "coordinates": [
+          19.60694,
+          41.18028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hekal"
+      },
+      "geometry": {
+        "coordinates": [
+          19.73583,
+          40.56194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hasan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.69972,
+          41.48278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hajmel"
+      },
+      "geometry": {
+        "coordinates": [
+          19.63778,
+          41.95306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurra e Vogel"
+      },
+      "geometry": {
+        "coordinates": [
+          19.99083,
+          41.53611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guri i Zi"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57472,
+          42.045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gruemire"
+      },
+      "geometry": {
+        "coordinates": [
+          19.51889,
+          42.15917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greshice"
+      },
+      "geometry": {
+        "coordinates": [
+          19.77833,
+          40.55194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grekan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.9475,
+          40.92944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gradishte"
+      },
+      "geometry": {
+        "coordinates": [
+          19.58583,
+          40.88806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gracen"
+      },
+      "geometry": {
+        "coordinates": [
+          19.96361,
+          41.15194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grabjan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.58083,
+          40.95306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gose e Madhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.62472,
+          41.09056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golem"
+      },
+      "geometry": {
+        "coordinates": [
+          19.68528,
+          40.96778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjocaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.72389,
+          41.02556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjepalaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.57806,
+          41.33306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushekuqe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.62,
+          41.65028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fushe-Kruje"
+      },
+      "geometry": {
+        "coordinates": [
+          19.71778,
+          41.47833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fratar"
+      },
+      "geometry": {
+        "coordinates": [
+          19.81667,
+          40.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frakulla e Madhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.5025,
+          40.65583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fier-Shegan"
+      },
+      "geometry": {
+        "coordinates": [
+          19.78528,
+          40.86722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fier-Cifci"
+      },
+      "geometry": {
+        "coordinates": [
+          19.56667,
+          40.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fier"
+      },
+      "geometry": {
+        "coordinates": [
+          19.55611,
+          40.72389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farka e Madhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.86694,
+          41.30556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durres"
+      },
+      "geometry": {
+        "coordinates": [
+          19.44139,
+          41.32306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drenove"
+      },
+      "geometry": {
+        "coordinates": [
+          19.70083,
+          40.60056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divjake"
+      },
+      "geometry": {
+        "coordinates": [
+          19.52944,
+          40.99667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dermenas"
+      },
+      "geometry": {
+        "coordinates": [
+          19.49389,
+          40.74556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vau i Dejes"
+      },
+      "geometry": {
+        "coordinates": [
+          19.62472,
+          42.01
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dajt"
+      },
+      "geometry": {
+        "coordinates": [
+          19.91583,
+          41.39361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dajc"
+      },
+      "geometry": {
+        "coordinates": [
+          19.41056,
+          41.99167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dajc"
+      },
+      "geometry": {
+        "coordinates": [
+          19.60444,
+          41.91556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cukalat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79056,
+          40.73028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cudhi Zall"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84583,
+          41.50944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerrik"
+      },
+      "geometry": {
+        "coordinates": [
+          19.97583,
+          41.03167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cakran"
+      },
+      "geometry": {
+        "coordinates": [
+          19.62611,
+          40.60333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bushat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.89972,
+          42.11944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubullime"
+      },
+      "geometry": {
+        "coordinates": [
+          19.64083,
+          40.81806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubq"
+      },
+      "geometry": {
+        "coordinates": [
+          19.65167,
+          41.47417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brataj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.66917,
+          40.26778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berzhite"
+      },
+      "geometry": {
+        "coordinates": [
+          19.90111,
+          41.24528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berxull"
+      },
+      "geometry": {
+        "coordinates": [
+          19.6875,
+          41.38
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berdica e Madhe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.48167,
+          42.01528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.95222,
+          40.70583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belsh"
+      },
+      "geometry": {
+        "coordinates": [
+          19.88194,
+          40.975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baz"
+      },
+      "geometry": {
+        "coordinates": [
+          19.92917,
+          41.63194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.83917,
+          40.82472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballsh"
+      },
+      "geometry": {
+        "coordinates": [
+          19.73472,
+          40.59889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballagat"
+      },
+      "geometry": {
+        "coordinates": [
+          19.76528,
+          40.99528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baldushk"
+      },
+      "geometry": {
+        "coordinates": [
+          19.79694,
+          41.21389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Armen"
+      },
+      "geometry": {
+        "coordinates": [
+          19.59611,
+          40.53639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aranitas"
+      },
+      "geometry": {
+        "coordinates": [
+          19.80667,
+          40.59444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allkaj"
+      },
+      "geometry": {
+        "coordinates": [
+          19.75528,
+          40.8575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golem"
+      },
+      "geometry": {
+        "coordinates": [
+          19.53472,
+          41.24583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balldreni i Ri"
+      },
+      "geometry": {
+        "coordinates": [
+          19.64028,
+          41.81917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grude-Fushe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.49667,
+          42.16222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fierze"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84694,
+          40.92056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dushk"
+      },
+      "geometry": {
+        "coordinates": [
+          19.75722,
+          40.72667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selite"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84806,
+          40.5475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vllahine"
+      },
+      "geometry": {
+        "coordinates": [
+          19.64361,
+          40.45694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bajram Curri"
+      },
+      "geometry": {
+        "coordinates": [
+          20.07679,
+          42.35734
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

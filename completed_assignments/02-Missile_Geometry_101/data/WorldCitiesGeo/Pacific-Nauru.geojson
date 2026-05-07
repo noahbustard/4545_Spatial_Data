@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangor"
+      },
+      "geometry": {
+        "coordinates": [
+          166.91048,
+          -0.53536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uaboe"
+      },
+      "geometry": {
+        "coordinates": [
+          166.92384,
+          -0.51393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baiti"
+      },
+      "geometry": {
+        "coordinates": [
+          166.92945,
+          -0.50803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ijuw"
+      },
+      "geometry": {
+        "coordinates": [
+          166.95813,
+          -0.521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anibare"
+      },
+      "geometry": {
+        "coordinates": [
+          166.95249,
+          -0.52792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anabar"
+      },
+      "geometry": {
+        "coordinates": [
+          166.95326,
+          -0.50845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaren"
+      },
+      "geometry": {
+        "coordinates": [
+          166.9252,
+          -0.55085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arijejen"
+      },
+      "geometry": {
+        "coordinates": [
+          166.91247,
+          -0.52545
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

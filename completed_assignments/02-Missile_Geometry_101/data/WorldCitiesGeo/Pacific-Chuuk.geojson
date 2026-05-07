@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weno"
+      },
+      "geometry": {
+        "coordinates": [
+          151.84135,
+          7.44648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumung"
+      },
+      "geometry": {
+        "coordinates": [
+          138.154,
+          9.622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namoluk"
+      },
+      "geometry": {
+        "coordinates": [
+          153.14,
+          5.915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houk"
+      },
+      "geometry": {
+        "coordinates": [
+          149.29908,
+          6.6894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polowat"
+      },
+      "geometry": {
+        "coordinates": [
+          149.19908,
+          7.35661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulap"
+      },
+      "geometry": {
+        "coordinates": [
+          149.42878,
+          7.6366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamatam"
+      },
+      "geometry": {
+        "coordinates": [
+          149.41428,
+          7.53868
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onoun"
+      },
+      "geometry": {
+        "coordinates": [
+          149.687,
+          8.575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pisaras"
+      },
+      "geometry": {
+        "coordinates": [
+          150.4195,
+          8.569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onou"
+      },
+      "geometry": {
+        "coordinates": [
+          150.2915,
+          8.799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unanu"
+      },
+      "geometry": {
+        "coordinates": [
+          150.341,
+          8.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makur"
+      },
+      "geometry": {
+        "coordinates": [
+          150.1275,
+          8.985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nomwin"
+      },
+      "geometry": {
+        "coordinates": [
+          151.748,
+          8.43
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fananu"
+      },
+      "geometry": {
+        "coordinates": [
+          151.90922,
+          8.55811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murilo"
+      },
+      "geometry": {
+        "coordinates": [
+          152.3435,
+          8.692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruo"
+      },
+      "geometry": {
+        "coordinates": [
+          152.2455,
+          8.609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nema"
+      },
+      "geometry": {
+        "coordinates": [
+          152.575,
+          6.993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Losap"
+      },
+      "geometry": {
+        "coordinates": [
+          152.74,
+          6.894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piis"
+      },
+      "geometry": {
+        "coordinates": [
+          152.701,
+          6.834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ettal"
+      },
+      "geometry": {
+        "coordinates": [
+          153.564,
+          5.592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lukunor"
+      },
+      "geometry": {
+        "coordinates": [
+          153.8205,
+          5.507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oneop"
+      },
+      "geometry": {
+        "coordinates": [
+          153.7105,
+          5.5066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moch"
+      },
+      "geometry": {
+        "coordinates": [
+          153.54,
+          5.4918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuttu"
+      },
+      "geometry": {
+        "coordinates": [
+          153.4575,
+          5.453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta"
+      },
+      "geometry": {
+        "coordinates": [
+          153.648,
+          5.2842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satowan"
+      },
+      "geometry": {
+        "coordinates": [
+          153.738,
+          5.334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satawal"
+      },
+      "geometry": {
+        "coordinates": [
+          147.0322,
+          7.382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamotrek"
+      },
+      "geometry": {
+        "coordinates": [
+          146.305,
+          7.491
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elato"
+      },
+      "geometry": {
+        "coordinates": [
+          146.166,
+          7.502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faraulep"
+      },
+      "geometry": {
+        "coordinates": [
+          144.508,
+          8.588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ifalik"
+      },
+      "geometry": {
+        "coordinates": [
+          144.4445,
+          7.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eauripik"
+      },
+      "geometry": {
+        "coordinates": [
+          143.0375,
+          6.687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorol"
+      },
+      "geometry": {
+        "coordinates": [
+          140.394,
+          8.1435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fais"
+      },
+      "geometry": {
+        "coordinates": [
+          140.52,
+          9.766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngulu"
+      },
+      "geometry": {
+        "coordinates": [
+          137.484,
+          8.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.12167,
+          9.51638
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonoas Municipal Building"
+      },
+      "geometry": {
+        "coordinates": [
+          151.88433,
+          7.37597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weno Municipal Offices"
+      },
+      "geometry": {
+        "coordinates": [
+          151.84103,
+          7.44428
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

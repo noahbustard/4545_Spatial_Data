@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulagi"
+      },
+      "geometry": {
+        "coordinates": [
+          160.15056,
+          -9.10306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honiara"
+      },
+      "geometry": {
+        "coordinates": [
+          159.95,
+          -9.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gizo"
+      },
+      "geometry": {
+        "coordinates": [
+          156.84186,
+          -8.10303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buala"
+      },
+      "geometry": {
+        "coordinates": [
+          159.59212,
+          -8.14497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auki"
+      },
+      "geometry": {
+        "coordinates": [
+          160.69778,
+          -8.76778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lata"
+      },
+      "geometry": {
+        "coordinates": [
+          165.79722,
+          -10.725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirakira"
+      },
+      "geometry": {
+        "coordinates": [
+          161.92045,
+          -10.45442
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taro"
+      },
+      "geometry": {
+        "coordinates": [
+          156.39722,
+          -6.71111
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

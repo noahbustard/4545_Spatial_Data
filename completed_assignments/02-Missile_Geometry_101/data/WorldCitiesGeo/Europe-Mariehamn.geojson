@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vardoe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.38333,
+          60.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sund"
+      },
+      "geometry": {
+        "coordinates": [
+          20.11667,
+          60.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sottunga"
+      },
+      "geometry": {
+        "coordinates": [
+          20.66683,
+          60.13023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saltvik"
+      },
+      "geometry": {
+        "coordinates": [
+          20.05,
+          60.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumparland"
+      },
+      "geometry": {
+        "coordinates": [
+          20.25819,
+          60.11695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lemland"
+      },
+      "geometry": {
+        "coordinates": [
+          20.08472,
+          60.07178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumlinge"
+      },
+      "geometry": {
+        "coordinates": [
+          20.77892,
+          60.26013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koekar"
+      },
+      "geometry": {
+        "coordinates": [
+          20.90883,
+          59.92051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foegloe"
+      },
+      "geometry": {
+        "coordinates": [
+          20.41667,
+          60.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braendoe"
+      },
+      "geometry": {
+        "coordinates": [
+          21.04534,
+          60.41165
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariehamn"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93481,
+          60.09726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jomala"
+      },
+      "geometry": {
+        "coordinates": [
+          19.951,
+          60.14902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hammarland"
+      },
+      "geometry": {
+        "coordinates": [
+          19.75,
+          60.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geta"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84455,
+          60.37453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finstroem"
+      },
+      "geometry": {
+        "coordinates": [
+          19.93333,
+          60.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eckeroe"
+      },
+      "geometry": {
+        "coordinates": [
+          19.61442,
+          60.21249
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

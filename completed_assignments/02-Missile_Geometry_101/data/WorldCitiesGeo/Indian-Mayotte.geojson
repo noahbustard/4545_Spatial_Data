@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pamandzi"
+      },
+      "geometry": {
+        "coordinates": [
+          45.27938,
+          -12.79674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamoudzou"
+      },
+      "geometry": {
+        "coordinates": [
+          45.22878,
+          -12.78234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzaoudzi"
+      },
+      "geometry": {
+        "coordinates": [
+          45.25693,
+          -12.78339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dembeni"
+      },
+      "geometry": {
+        "coordinates": [
+          45.18436,
+          -12.8436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acoua"
+      },
+      "geometry": {
+        "coordinates": [
+          45.05819,
+          -12.72391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandraboua"
+      },
+      "geometry": {
+        "coordinates": [
+          45.12231,
+          -12.7044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mtsamboro"
+      },
+      "geometry": {
+        "coordinates": [
+          45.06894,
+          -12.69982
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Tsangamouji"
+      },
+      "geometry": {
+        "coordinates": [
+          45.08361,
+          -12.75944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsingoni"
+      },
+      "geometry": {
+        "coordinates": [
+          45.10278,
+          -12.78722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koungou"
+      },
+      "geometry": {
+        "coordinates": [
+          45.20417,
+          -12.73361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouangani"
+      },
+      "geometry": {
+        "coordinates": [
+          45.13611,
+          -12.84639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiconi"
+      },
+      "geometry": {
+        "coordinates": [
+          45.11056,
+          -12.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sada"
+      },
+      "geometry": {
+        "coordinates": [
+          45.10205,
+          -12.85055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandrele"
+      },
+      "geometry": {
+        "coordinates": [
+          45.19256,
+          -12.91276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chirongui"
+      },
+      "geometry": {
+        "coordinates": [
+          45.14833,
+          -12.93194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boueni"
+      },
+      "geometry": {
+        "coordinates": [
+          45.07611,
+          -12.9025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kani Keli"
+      },
+      "geometry": {
+        "coordinates": [
+          45.10333,
+          -12.95361
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

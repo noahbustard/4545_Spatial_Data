@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Protaras"
+      },
+      "geometry": {
+        "coordinates": [
+          34.05833,
+          35.0125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ypsonas"
+      },
+      "geometry": {
+        "coordinates": [
+          32.96191,
+          34.68797
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geri"
+      },
+      "geometry": {
+        "coordinates": [
+          33.41977,
+          35.1056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xylotymbou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.74245,
+          35.0172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tseri"
+      },
+      "geometry": {
+        "coordinates": [
+          33.32344,
+          35.07307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voroklini"
+      },
+      "geometry": {
+        "coordinates": [
+          33.65387,
+          34.986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troulloi"
+      },
+      "geometry": {
+        "coordinates": [
+          33.61501,
+          35.03203
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trikomo"
+      },
+      "geometry": {
+        "coordinates": [
+          33.89167,
+          35.28628
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tersefanou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.54746,
+          34.85411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tala"
+      },
+      "geometry": {
+        "coordinates": [
+          32.43272,
+          34.83745
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sotira"
+      },
+      "geometry": {
+        "coordinates": [
+          32.8634,
+          34.71189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rizokarpaso"
+      },
+      "geometry": {
+        "coordinates": [
+          34.37916,
+          35.59719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyrgos"
+      },
+      "geometry": {
+        "coordinates": [
+          33.18333,
+          34.74167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyla"
+      },
+      "geometry": {
+        "coordinates": [
+          33.69188,
+          35.01237
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Psimolofou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.2625,
+          35.0625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Psevdas"
+      },
+      "geometry": {
+        "coordinates": [
+          33.46277,
+          34.94653
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polis"
+      },
+      "geometry": {
+        "coordinates": [
+          32.42575,
+          35.03534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pissouri"
+      },
+      "geometry": {
+        "coordinates": [
+          32.70132,
+          34.66942
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frenaros"
+      },
+      "geometry": {
+        "coordinates": [
+          33.92242,
+          35.04121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pegeia"
+      },
+      "geometry": {
+        "coordinates": [
+          32.38166,
+          34.88341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perivolia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.58196,
+          34.83355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peristerona"
+      },
+      "geometry": {
+        "coordinates": [
+          33.07858,
+          35.12928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pergamos"
+      },
+      "geometry": {
+        "coordinates": [
+          33.70833,
+          35.04167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pera"
+      },
+      "geometry": {
+        "coordinates": [
+          33.25413,
+          35.0335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pelendri"
+      },
+      "geometry": {
+        "coordinates": [
+          32.96817,
+          34.89597
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parekklisha"
+      },
+      "geometry": {
+        "coordinates": [
+          33.15833,
+          34.74583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paralimni"
+      },
+      "geometry": {
+        "coordinates": [
+          33.98181,
+          35.03945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paphos"
+      },
+      "geometry": {
+        "coordinates": [
+          32.42451,
+          34.77679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pano Polemidia"
+      },
+      "geometry": {
+        "coordinates": [
+          32.99269,
+          34.70559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pano Deftera"
+      },
+      "geometry": {
+        "coordinates": [
+          33.26584,
+          35.07778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pachna"
+      },
+      "geometry": {
+        "coordinates": [
+          32.79355,
+          34.77874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicosia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.3642,
+          35.17531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mouttagiaka"
+      },
+      "geometry": {
+        "coordinates": [
+          33.10066,
+          34.72022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosfiloti"
+      },
+      "geometry": {
+        "coordinates": [
+          33.42511,
+          34.95256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morfou"
+      },
+      "geometry": {
+        "coordinates": [
+          32.99338,
+          35.19869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesogi"
+      },
+      "geometry": {
+        "coordinates": [
+          32.45542,
+          34.81577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meneou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.59516,
+          34.86114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammari"
+      },
+      "geometry": {
+        "coordinates": [
+          33.20435,
+          35.17604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lythrodontas"
+      },
+      "geometry": {
+        "coordinates": [
+          33.29777,
+          34.95105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lympia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.46175,
+          34.99889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Livadia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.62658,
+          34.95118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liopetri"
+      },
+      "geometry": {
+        "coordinates": [
+          33.89256,
+          35.00885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limassol"
+      },
+      "geometry": {
+        "coordinates": [
+          33.03794,
+          34.68406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonarisso"
+      },
+      "geometry": {
+        "coordinates": [
+          34.13886,
+          35.46892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lefkonoiko"
+      },
+      "geometry": {
+        "coordinates": [
+          33.73189,
+          35.2598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lefka"
+      },
+      "geometry": {
+        "coordinates": [
+          32.84997,
+          35.11199
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larnaca"
+      },
+      "geometry": {
+        "coordinates": [
+          33.6233,
+          34.92291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapithos"
+      },
+      "geometry": {
+        "coordinates": [
+          33.17368,
+          35.33823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyrenia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.31729,
+          35.33634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyperounta"
+      },
+      "geometry": {
+        "coordinates": [
+          32.97551,
+          34.93815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kornos"
+      },
+      "geometry": {
+        "coordinates": [
+          33.39764,
+          34.92396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kofinou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.3913,
+          34.82449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolossi"
+      },
+      "geometry": {
+        "coordinates": [
+          32.93375,
+          34.66865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokkinotrimithia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.19966,
+          35.15303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klirou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.17806,
+          35.02004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiti"
+      },
+      "geometry": {
+        "coordinates": [
+          33.57344,
+          34.84696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kissonerga"
+      },
+      "geometry": {
+        "coordinates": [
+          32.40191,
+          34.82217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chlorakas"
+      },
+      "geometry": {
+        "coordinates": [
+          32.41207,
+          34.79768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kato Pyrgos"
+      },
+      "geometry": {
+        "coordinates": [
+          32.686,
+          35.17897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kato Deftera"
+      },
+      "geometry": {
+        "coordinates": [
+          33.27558,
+          35.08489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakopetria"
+      },
+      "geometry": {
+        "coordinates": [
+          32.90468,
+          34.98768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Famagusta"
+      },
+      "geometry": {
+        "coordinates": [
+          33.93894,
+          35.12054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erimi"
+      },
+      "geometry": {
+        "coordinates": [
+          32.91815,
+          34.67766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empa"
+      },
+      "geometry": {
+        "coordinates": [
+          32.42402,
+          34.80765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhromolaxia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.58684,
+          34.87551
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deryneia"
+      },
+      "geometry": {
+        "coordinates": [
+          33.96083,
+          35.06484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dali"
+      },
+      "geometry": {
+        "coordinates": [
+          33.42195,
+          35.02294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agios Tychon"
+      },
+      "geometry": {
+        "coordinates": [
+          33.13872,
+          34.72606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayia Napa"
+      },
+      "geometry": {
+        "coordinates": [
+          34.00183,
+          34.98213
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avgorou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.83918,
+          35.03615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achna"
+      },
+      "geometry": {
+        "coordinates": [
+          33.78388,
+          35.05515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athienou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.54156,
+          35.0618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astromeritis"
+      },
+      "geometry": {
+        "coordinates": [
+          33.03793,
+          35.14096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ergates"
+      },
+      "geometry": {
+        "coordinates": [
+          33.24292,
+          35.05365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aradippou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.59199,
+          34.95151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arediou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.1961,
+          35.04844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alampra"
+      },
+      "geometry": {
+        "coordinates": [
+          33.39887,
+          34.98898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acheritou"
+      },
+      "geometry": {
+        "coordinates": [
+          33.86155,
+          35.10022
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akaki"
+      },
+      "geometry": {
+        "coordinates": [
+          33.12873,
+          35.13341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meniko"
+      },
+      "geometry": {
+        "coordinates": [
+          33.14474,
+          35.10945
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philipsburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.04582,
+          18.026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Prince's Quarter"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.03789,
+          18.04987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cul de Sac"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.06513,
+          18.04852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koolbaai"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.08397,
+          18.04048
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

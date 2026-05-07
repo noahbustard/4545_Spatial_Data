@@ -1,0 +1,2254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharur City"
+      },
+      "geometry": {
+        "coordinates": [
+          44.97993,
+          39.55298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prishibinskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          48.59255,
+          39.11817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zangilan"
+      },
+      "geometry": {
+        "coordinates": [
+          46.6513,
+          39.0884
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yayci"
+      },
+      "geometry": {
+        "coordinates": [
+          45.73244,
+          38.94052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yardimli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.24052,
+          38.90771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novyy Karanlug"
+      },
+      "geometry": {
+        "coordinates": [
+          47.10989,
+          39.79546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xankandi"
+      },
+      "geometry": {
+        "coordinates": [
+          46.7528,
+          39.8177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahmadbayli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.39901,
+          39.87867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shushi"
+      },
+      "geometry": {
+        "coordinates": [
+          46.74989,
+          39.76006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salyan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.98479,
+          39.59621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahbuz"
+      },
+      "geometry": {
+        "coordinates": [
+          45.57389,
+          39.40722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sedarak"
+      },
+      "geometry": {
+        "coordinates": [
+          44.88455,
+          39.71427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumbatan-diza"
+      },
+      "geometry": {
+        "coordinates": [
+          45.82572,
+          38.94804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saatli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.36892,
+          39.93214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qubadli"
+      },
+      "geometry": {
+        "coordinates": [
+          46.58183,
+          39.34441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaracala"
+      },
+      "geometry": {
+        "coordinates": [
+          48.93792,
+          39.81614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orconikidze"
+      },
+      "geometry": {
+        "coordinates": [
+          47.6898,
+          39.63238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ordubad"
+      },
+      "geometry": {
+        "coordinates": [
+          46.02274,
+          38.90961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neftcala"
+      },
+      "geometry": {
+        "coordinates": [
+          49.247,
+          39.3768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakhchivan"
+      },
+      "geometry": {
+        "coordinates": [
+          45.41222,
+          39.20889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mincivan"
+      },
+      "geometry": {
+        "coordinates": [
+          46.7214,
+          39.03058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masally"
+      },
+      "geometry": {
+        "coordinates": [
+          48.6654,
+          39.03532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lerik"
+      },
+      "geometry": {
+        "coordinates": [
+          48.41497,
+          38.77388
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lankaran"
+      },
+      "geometry": {
+        "coordinates": [
+          48.85062,
+          38.75428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lacin"
+      },
+      "geometry": {
+        "coordinates": [
+          46.55045,
+          39.59881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qivraq"
+      },
+      "geometry": {
+        "coordinates": [
+          45.11513,
+          39.39939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qirmizi Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          46.94884,
+          39.67833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kizhaba"
+      },
+      "geometry": {
+        "coordinates": [
+          48.80546,
+          38.53461
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xocali"
+      },
+      "geometry": {
+        "coordinates": [
+          46.79028,
+          39.91297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xilli"
+      },
+      "geometry": {
+        "coordinates": [
+          49.10166,
+          39.43012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imishli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.05995,
+          39.87095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horadiz"
+      },
+      "geometry": {
+        "coordinates": [
+          47.33531,
+          39.44877
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haftoni"
+      },
+      "geometry": {
+        "coordinates": [
+          48.76223,
+          38.76325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hadrut"
+      },
+      "geometry": {
+        "coordinates": [
+          47.0318,
+          39.52002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fizuli"
+      },
+      "geometry": {
+        "coordinates": [
+          47.14529,
+          39.60094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jebrail"
+      },
+      "geometry": {
+        "coordinates": [
+          47.02835,
+          39.39917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunyamalilar"
+      },
+      "geometry": {
+        "coordinates": [
+          47.75889,
+          39.77278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deste"
+      },
+      "geometry": {
+        "coordinates": [
+          45.90963,
+          38.88375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culfa"
+      },
+      "geometry": {
+        "coordinates": [
+          45.62961,
+          38.95397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzhalilabad"
+      },
+      "geometry": {
+        "coordinates": [
+          48.49186,
+          39.20963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahri"
+      },
+      "geometry": {
+        "coordinates": [
+          45.41557,
+          39.34837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boradigah"
+      },
+      "geometry": {
+        "coordinates": [
+          48.7092,
+          38.93013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pushkino"
+      },
+      "geometry": {
+        "coordinates": [
+          48.545,
+          39.45833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beylagan"
+      },
+      "geometry": {
+        "coordinates": [
+          47.61861,
+          39.77556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severo-Vostotchnyi Bank"
+      },
+      "geometry": {
+        "coordinates": [
+          49.24792,
+          39.41117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tazakend"
+      },
+      "geometry": {
+        "coordinates": [
+          45.44282,
+          39.15459
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astara"
+      },
+      "geometry": {
+        "coordinates": [
+          48.87498,
+          38.45598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askyaran"
+      },
+      "geometry": {
+        "coordinates": [
+          46.83278,
+          39.93667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirvan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.929,
+          39.93778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agdam"
+      },
+      "geometry": {
+        "coordinates": [
+          46.92736,
+          39.99096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sovetabad"
+      },
+      "geometry": {
+        "coordinates": [
+          49.21414,
+          39.33667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avsar"
+      },
+      "geometry": {
+        "coordinates": [
+          47.42389,
+          39.97389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birinci Asiqli"
+      },
+      "geometry": {
+        "coordinates": [
+          47.67944,
+          39.81917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuxari Aran"
+      },
+      "geometry": {
+        "coordinates": [
+          47.655,
+          39.73361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calxanqala"
+      },
+      "geometry": {
+        "coordinates": [
+          45.28333,
+          39.44167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oglanqala"
+      },
+      "geometry": {
+        "coordinates": [
+          45.04611,
+          39.58694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zyrya"
+      },
+      "geometry": {
+        "coordinates": [
+          50.29198,
+          40.36613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zardob"
+      },
+      "geometry": {
+        "coordinates": [
+          47.70997,
+          40.21991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaqatala"
+      },
+      "geometry": {
+        "coordinates": [
+          46.64479,
+          41.6316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zabrat"
+      },
+      "geometry": {
+        "coordinates": [
+          49.94174,
+          40.47746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yevlakh"
+      },
+      "geometry": {
+        "coordinates": [
+          47.15014,
+          40.61832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaniqli"
+      },
+      "geometry": {
+        "coordinates": [
+          45.67283,
+          40.84115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xudat"
+      },
+      "geometry": {
+        "coordinates": [
+          48.68161,
+          41.63052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelenendorf"
+      },
+      "geometry": {
+        "coordinates": [
+          46.3189,
+          40.58584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xacmaz"
+      },
+      "geometry": {
+        "coordinates": [
+          48.80565,
+          41.46426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verkhniy Dashkesan"
+      },
+      "geometry": {
+        "coordinates": [
+          46.07175,
+          40.49357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ujar"
+      },
+      "geometry": {
+        "coordinates": [
+          47.65423,
+          40.51902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkan"
+      },
+      "geometry": {
+        "coordinates": [
+          50.22075,
+          40.3646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tovuz"
+      },
+      "geometry": {
+        "coordinates": [
+          45.62838,
+          40.99249
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terter"
+      },
+      "geometry": {
+        "coordinates": [
+          46.93242,
+          40.34179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumqayit"
+      },
+      "geometry": {
+        "coordinates": [
+          49.66861,
+          40.58972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyzyl-Burun"
+      },
+      "geometry": {
+        "coordinates": [
+          49.11257,
+          41.07754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suraabad"
+      },
+      "geometry": {
+        "coordinates": [
+          49.46787,
+          40.81943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaracuxur"
+      },
+      "geometry": {
+        "coordinates": [
+          49.97361,
+          40.39667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saray"
+      },
+      "geometry": {
+        "coordinates": [
+          49.71681,
+          40.53299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samur"
+      },
+      "geometry": {
+        "coordinates": [
+          48.43028,
+          41.63671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shamkhor"
+      },
+      "geometry": {
+        "coordinates": [
+          46.0178,
+          40.82975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shamakhi"
+      },
+      "geometry": {
+        "coordinates": [
+          48.64137,
+          40.63141
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saloglu"
+      },
+      "geometry": {
+        "coordinates": [
+          45.35293,
+          41.27524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheki"
+      },
+      "geometry": {
+        "coordinates": [
+          47.17056,
+          41.19194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samux"
+      },
+      "geometry": {
+        "coordinates": [
+          46.40868,
+          40.76485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabuncu"
+      },
+      "geometry": {
+        "coordinates": [
+          49.94806,
+          40.4425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabirabad"
+      },
+      "geometry": {
+        "coordinates": [
+          48.47701,
+          40.00869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qusar"
+      },
+      "geometry": {
+        "coordinates": [
+          48.4302,
+          41.4275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quba"
+      },
+      "geometry": {
+        "coordinates": [
+          48.51341,
+          41.36108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qobustan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.41205,
+          40.08238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haciqabul"
+      },
+      "geometry": {
+        "coordinates": [
+          48.94286,
+          40.03874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qazax"
+      },
+      "geometry": {
+        "coordinates": [
+          45.36561,
+          41.09246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qax"
+      },
+      "geometry": {
+        "coordinates": [
+          46.92043,
+          41.41826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qasim Ismayilov"
+      },
+      "geometry": {
+        "coordinates": [
+          46.26112,
+          40.81156
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qutqashen"
+      },
+      "geometry": {
+        "coordinates": [
+          47.84909,
+          40.98247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puta"
+      },
+      "geometry": {
+        "coordinates": [
+          49.66028,
+          40.29667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oguz"
+      },
+      "geometry": {
+        "coordinates": [
+          47.46528,
+          41.07128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novosaratovka"
+      },
+      "geometry": {
+        "coordinates": [
+          45.60079,
+          40.59811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haci Zeynalabdin"
+      },
+      "geometry": {
+        "coordinates": [
+          49.55861,
+          40.62333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nardaran"
+      },
+      "geometry": {
+        "coordinates": [
+          50.00556,
+          40.55611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naftalan"
+      },
+      "geometry": {
+        "coordinates": [
+          46.8203,
+          40.50821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mingelchaur"
+      },
+      "geometry": {
+        "coordinates": [
+          47.05953,
+          40.76395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mastaga"
+      },
+      "geometry": {
+        "coordinates": [
+          50.00616,
+          40.52983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mardakan"
+      },
+      "geometry": {
+        "coordinates": [
+          50.14292,
+          40.49182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qobustan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.92819,
+          40.5336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamrux"
+      },
+      "geometry": {
+        "coordinates": [
+          46.767,
+          41.54243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokbatan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.73376,
+          40.3256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qizilhacili"
+      },
+      "geometry": {
+        "coordinates": [
+          46.849,
+          40.57362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyurdarmir"
+      },
+      "geometry": {
+        "coordinates": [
+          48.15085,
+          40.34532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qobu"
+      },
+      "geometry": {
+        "coordinates": [
+          49.71306,
+          40.40472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilyazi"
+      },
+      "geometry": {
+        "coordinates": [
+          49.34233,
+          40.87098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khyzy"
+      },
+      "geometry": {
+        "coordinates": [
+          49.08127,
+          40.90576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khirdalan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.75502,
+          40.44808
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khodzhi-Gasan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.76904,
+          40.41293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korgoz"
+      },
+      "geometry": {
+        "coordinates": [
+          49.6236,
+          40.30446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qarayeri"
+      },
+      "geometry": {
+        "coordinates": [
+          46.3072,
+          40.78825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaramanli"
+      },
+      "geometry": {
+        "coordinates": [
+          46.99339,
+          40.48135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaraxanli"
+      },
+      "geometry": {
+        "coordinates": [
+          45.64516,
+          41.03415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qandax"
+      },
+      "geometry": {
+        "coordinates": [
+          46.54128,
+          41.47546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vurgun"
+      },
+      "geometry": {
+        "coordinates": [
+          45.47111,
+          41.09524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerbakhiar"
+      },
+      "geometry": {
+        "coordinates": [
+          46.04446,
+          40.10984
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qala"
+      },
+      "geometry": {
+        "coordinates": [
+          50.16759,
+          40.44256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qax Ingiloy"
+      },
+      "geometry": {
+        "coordinates": [
+          46.93859,
+          41.42412
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qaxbas"
+      },
+      "geometry": {
+        "coordinates": [
+          46.9646,
+          41.43254
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ismayilli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.15141,
+          40.78485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeni Suraxani"
+      },
+      "geometry": {
+        "coordinates": [
+          50.03598,
+          40.43026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gyuzdek"
+      },
+      "geometry": {
+        "coordinates": [
+          49.68194,
+          40.37444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geoktschai"
+      },
+      "geometry": {
+        "coordinates": [
+          47.74219,
+          40.65055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hovsan"
+      },
+      "geometry": {
+        "coordinates": [
+          50.08528,
+          40.37444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goranboy"
+      },
+      "geometry": {
+        "coordinates": [
+          46.78972,
+          40.61028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganja"
+      },
+      "geometry": {
+        "coordinates": [
+          46.36056,
+          40.68278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyadabek"
+      },
+      "geometry": {
+        "coordinates": [
+          45.81229,
+          40.57055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faldarli"
+      },
+      "geometry": {
+        "coordinates": [
+          46.51579,
+          41.46868
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corat"
+      },
+      "geometry": {
+        "coordinates": [
+          49.70509,
+          40.57176
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceyranbatan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.66073,
+          40.54194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzagam"
+      },
+      "geometry": {
+        "coordinates": [
+          45.88564,
+          40.9033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dondar Quscu"
+      },
+      "geometry": {
+        "coordinates": [
+          45.61942,
+          40.9539
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digah"
+      },
+      "geometry": {
+        "coordinates": [
+          49.87477,
+          40.49257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divichibazar"
+      },
+      "geometry": {
+        "coordinates": [
+          48.98712,
+          41.20117
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yukhary-Dashkesan"
+      },
+      "geometry": {
+        "coordinates": [
+          46.08186,
+          40.52393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolyar"
+      },
+      "geometry": {
+        "coordinates": [
+          46.03493,
+          40.86278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cobansignaq"
+      },
+      "geometry": {
+        "coordinates": [
+          45.70645,
+          40.75244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cinarli"
+      },
+      "geometry": {
+        "coordinates": [
+          46.91582,
+          41.46965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catax"
+      },
+      "geometry": {
+        "coordinates": [
+          45.55919,
+          40.72622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buzovna"
+      },
+      "geometry": {
+        "coordinates": [
+          50.11438,
+          40.51903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binagadi"
+      },
+      "geometry": {
+        "coordinates": [
+          49.82783,
+          40.46602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biny Selo"
+      },
+      "geometry": {
+        "coordinates": [
+          50.08686,
+          40.45076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilajer"
+      },
+      "geometry": {
+        "coordinates": [
+          50.04002,
+          40.56441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basqal"
+      },
+      "geometry": {
+        "coordinates": [
+          48.39104,
+          40.7552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bas Goynuk"
+      },
+      "geometry": {
+        "coordinates": [
+          47.11357,
+          41.32582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barda"
+      },
+      "geometry": {
+        "coordinates": [
+          47.12619,
+          40.37577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belokany"
+      },
+      "geometry": {
+        "coordinates": [
+          46.40478,
+          41.72626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balakhani"
+      },
+      "geometry": {
+        "coordinates": [
+          49.91893,
+          40.46344
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bilajari"
+      },
+      "geometry": {
+        "coordinates": [
+          49.80566,
+          40.4444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baku"
+      },
+      "geometry": {
+        "coordinates": [
+          49.89201,
+          40.37767
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariqiran"
+      },
+      "geometry": {
+        "coordinates": [
+          45.61414,
+          40.53971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ariqdam"
+      },
+      "geometry": {
+        "coordinates": [
+          45.799,
+          40.59313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirallahi"
+      },
+      "geometry": {
+        "coordinates": [
+          50.32476,
+          40.47013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amirdzhan"
+      },
+      "geometry": {
+        "coordinates": [
+          49.98361,
+          40.42639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altiagac"
+      },
+      "geometry": {
+        "coordinates": [
+          48.93477,
+          40.85927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliabad"
+      },
+      "geometry": {
+        "coordinates": [
+          46.63483,
+          41.4829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aghsu"
+      },
+      "geometry": {
+        "coordinates": [
+          48.40087,
+          40.57028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aghstafa"
+      },
+      "geometry": {
+        "coordinates": [
+          45.45389,
+          41.11889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agdas"
+      },
+      "geometry": {
+        "coordinates": [
+          47.4738,
+          40.64699
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martakert"
+      },
+      "geometry": {
+        "coordinates": [
+          46.82086,
+          40.21238
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agdzhabedy"
+      },
+      "geometry": {
+        "coordinates": [
+          47.45937,
+          40.05015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boyuk Qaramurad"
+      },
+      "geometry": {
+        "coordinates": [
+          45.63727,
+          40.57626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mughan"
+      },
+      "geometry": {
+        "coordinates": [
+          48.81886,
+          40.09902
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qabaqcol"
+      },
+      "geometry": {
+        "coordinates": [
+          46.27052,
+          41.75259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakixanov"
+      },
+      "geometry": {
+        "coordinates": [
+          49.96693,
+          40.41894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qirmizi Samux"
+      },
+      "geometry": {
+        "coordinates": [
+          46.37889,
+          40.93972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacihuseynli"
+      },
+      "geometry": {
+        "coordinates": [
+          48.64889,
+          41.45639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aran"
+      },
+      "geometry": {
+        "coordinates": [
+          46.97556,
+          40.62528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samuxlu"
+      },
+      "geometry": {
+        "coordinates": [
+          47.16917,
+          40.50833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramana"
+      },
+      "geometry": {
+        "coordinates": [
+          49.98056,
+          40.44222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badamdar"
+      },
+      "geometry": {
+        "coordinates": [
+          49.8045,
+          40.34024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heydarabad"
+      },
+      "geometry": {
+        "coordinates": [
+          44.84846,
+          39.72286
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vogan"
+      },
+      "geometry": {
+        "coordinates": [
+          1.53333,
+          6.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsevie"
+      },
+      "geometry": {
+        "coordinates": [
+          1.21333,
+          6.42611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchamba"
+      },
+      "geometry": {
+        "coordinates": [
+          1.41667,
+          9.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabligbo"
+      },
+      "geometry": {
+        "coordinates": [
+          1.5,
+          6.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sotouboua"
+      },
+      "geometry": {
+        "coordinates": [
+          0.98399,
+          8.5634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sokode"
+      },
+      "geometry": {
+        "coordinates": [
+          1.13333,
+          8.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Notse"
+      },
+      "geometry": {
+        "coordinates": [
+          1.16667,
+          6.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niamtougou"
+      },
+      "geometry": {
+        "coordinates": [
+          1.10528,
+          9.76806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sansanne-Mango"
+      },
+      "geometry": {
+        "coordinates": [
+          0.47083,
+          10.35917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lome"
+      },
+      "geometry": {
+        "coordinates": [
+          1.21227,
+          6.13748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kpalime"
+      },
+      "geometry": {
+        "coordinates": [
+          0.63333,
+          6.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pagouda"
+      },
+      "geometry": {
+        "coordinates": [
+          1.32778,
+          9.7525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kara"
+      },
+      "geometry": {
+        "coordinates": [
+          1.18611,
+          9.55111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kande"
+      },
+      "geometry": {
+        "coordinates": [
+          1.04472,
+          9.95778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dapaong"
+      },
+      "geometry": {
+        "coordinates": [
+          0.20762,
+          10.86225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassar"
+      },
+      "geometry": {
+        "coordinates": [
+          0.78213,
+          9.25025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafilo"
+      },
+      "geometry": {
+        "coordinates": [
+          1.26667,
+          9.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badou"
+      },
+      "geometry": {
+        "coordinates": [
+          0.6,
+          7.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atakpame"
+      },
+      "geometry": {
+        "coordinates": [
+          1.13333,
+          7.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aneho"
+      },
+      "geometry": {
+        "coordinates": [
+          1.5919,
+          6.22798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amlame"
+      },
+      "geometry": {
+        "coordinates": [
+          0.9,
+          7.46667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

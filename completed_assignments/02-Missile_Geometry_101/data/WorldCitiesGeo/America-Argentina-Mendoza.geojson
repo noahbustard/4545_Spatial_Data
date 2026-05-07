@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Nueva"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.78038,
+          -32.89722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tupungato"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.14845,
+          -33.37146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tunuyan"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.01538,
+          -33.57653
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Rosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.14937,
+          -33.25407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Rafael"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.33007,
+          -34.61772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Martin"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.46814,
+          -33.08103
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivadavia"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.46081,
+          -33.19051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendoza"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.82717,
+          -32.89084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malarguee"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.58427,
+          -35.47545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maipu"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.78461,
+          -32.97963
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lujan de Cuyo"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.87782,
+          -33.03547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Heras"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.82837,
+          -32.85273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.54956,
+          -33.46091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Consulta"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.12181,
+          -33.73579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junin"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.47899,
+          -33.14765
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Godoy Cruz"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.8351,
+          -32.92863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Lavalle"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.59137,
+          -32.72218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Alvear"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.69116,
+          -34.97696
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

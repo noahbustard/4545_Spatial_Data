@@ -1,0 +1,915 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toho"
+      },
+      "geometry": {
+        "coordinates": [
+          109.22001,
+          0.41795
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telukpakedai"
+      },
+      "geometry": {
+        "coordinates": [
+          109.12069,
+          -0.26493
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tayan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.10184,
+          -0.03365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanjungpinang"
+      },
+      "geometry": {
+        "coordinates": [
+          104.45833,
+          0.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tongkiling"
+      },
+      "geometry": {
+        "coordinates": [
+          113.8755,
+          -2.1357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamiang Layang"
+      },
+      "geometry": {
+        "coordinates": [
+          115.1958,
+          -2.1236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungaikakap"
+      },
+      "geometry": {
+        "coordinates": [
+          109.20741,
+          -0.05193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Raya"
+      },
+      "geometry": {
+        "coordinates": [
+          108.9,
+          0.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Pinyuh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.07859,
+          0.2832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungaiduri"
+      },
+      "geometry": {
+        "coordinates": [
+          108.92891,
+          0.5664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sukadana"
+      },
+      "geometry": {
+        "coordinates": [
+          109.95,
+          -1.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sintang"
+      },
+      "geometry": {
+        "coordinates": [
+          111.5,
+          0.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singkawang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.98463,
+          0.90925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semuda"
+      },
+      "geometry": {
+        "coordinates": [
+          112.9732,
+          -2.8617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semilat"
+      },
+      "geometry": {
+        "coordinates": [
+          112.2118,
+          -2.3077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekadau"
+      },
+      "geometry": {
+        "coordinates": [
+          110.9,
+          0.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sedanau"
+      },
+      "geometry": {
+        "coordinates": [
+          108.02929,
+          3.79377
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanggau"
+      },
+      "geometry": {
+        "coordinates": [
+          110.6,
+          0.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sampit"
+      },
+      "geometry": {
+        "coordinates": [
+          112.9496,
+          -2.5315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sambas"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25,
+          1.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rantaupulut"
+      },
+      "geometry": {
+        "coordinates": [
+          112.1956,
+          -2.0093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putussibau"
+      },
+      "geometry": {
+        "coordinates": [
+          112.93333,
+          0.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puruk Cahu"
+      },
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -0.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulang Pisau"
+      },
+      "geometry": {
+        "coordinates": [
+          114.2406,
+          -2.7671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontianak"
+      },
+      "geometry": {
+        "coordinates": [
+          109.325,
+          -0.03194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petakbehandang"
+      },
+      "geometry": {
+        "coordinates": [
+          113.4364,
+          -2.0775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pembuanghulu"
+      },
+      "geometry": {
+        "coordinates": [
+          112.1515,
+          -2.5094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemangkat"
+      },
+      "geometry": {
+        "coordinates": [
+          108.96667,
+          1.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pangkalanbuun"
+      },
+      "geometry": {
+        "coordinates": [
+          111.6259,
+          -2.6832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palangkaraya"
+      },
+      "geometry": {
+        "coordinates": [
+          113.91667,
+          -2.20833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pagatan"
+      },
+      "geometry": {
+        "coordinates": [
+          113.2881,
+          -3.1701
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padangtikar"
+      },
+      "geometry": {
+        "coordinates": [
+          109.26327,
+          -0.6913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngabang"
+      },
+      "geometry": {
+        "coordinates": [
+          109.95,
+          0.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nangah Pinoh"
+      },
+      "geometry": {
+        "coordinates": [
+          111.73333,
+          -0.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanga Bulik"
+      },
+      "geometry": {
+        "coordinates": [
+          111.4885,
+          -2.1624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muara Teweh"
+      },
+      "geometry": {
+        "coordinates": [
+          114.88333,
+          -0.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menjalin"
+      },
+      "geometry": {
+        "coordinates": [
+          109.33828,
+          0.46935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mengkalip"
+      },
+      "geometry": {
+        "coordinates": [
+          114.8819,
+          -2.1488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mempawah"
+      },
+      "geometry": {
+        "coordinates": [
+          108.97013,
+          0.37102
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meliau"
+      },
+      "geometry": {
+        "coordinates": [
+          110.28962,
+          -0.12533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manismata"
+      },
+      "geometry": {
+        "coordinates": [
+          111.03333,
+          -2.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandor"
+      },
+      "geometry": {
+        "coordinates": [
+          109.33795,
+          0.32243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumai"
+      },
+      "geometry": {
+        "coordinates": [
+          111.72558,
+          -2.7398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kubu"
+      },
+      "geometry": {
+        "coordinates": [
+          109.35513,
+          -0.48576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kualakapuas"
+      },
+      "geometry": {
+        "coordinates": [
+          114.38759,
+          -3.00913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotawaringin"
+      },
+      "geometry": {
+        "coordinates": [
+          111.4731,
+          -2.4729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotabesi"
+      },
+      "geometry": {
+        "coordinates": [
+          113.0025,
+          -2.3715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          109.97728,
+          -1.83862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karangan"
+      },
+      "geometry": {
+        "coordinates": [
+          109.37566,
+          0.55986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buntok"
+      },
+      "geometry": {
+        "coordinates": [
+          114.8397,
+          -1.72139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengkayang"
+      },
+      "geometry": {
+        "coordinates": [
+          109.43589,
+          0.83194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belakangpadang"
+      },
+      "geometry": {
+        "coordinates": [
+          103.89164,
+          1.14964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaiberkuak"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36637,
+          -0.52609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupak"
+      },
+      "geometry": {
+        "coordinates": [
+          114.268,
+          -3.3823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samalantan"
+      },
+      "geometry": {
+        "coordinates": [
+          109.19669,
+          0.7927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matangai"
+      },
+      "geometry": {
+        "coordinates": [
+          114.3728,
+          -2.5825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jenamas"
+      },
+      "geometry": {
+        "coordinates": [
+          114.908,
+          -2.4464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danaupanggang"
+      },
+      "geometry": {
+        "coordinates": [
+          115.0398,
+          -2.4082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungaitatas"
+      },
+      "geometry": {
+        "coordinates": [
+          114.4887,
+          -2.8353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barimba"
+      },
+      "geometry": {
+        "coordinates": [
+          114.4427,
+          -2.9418
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjirserapat"
+      },
+      "geometry": {
+        "coordinates": [
+          114.3845,
+          -3.0391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basarang"
+      },
+      "geometry": {
+        "coordinates": [
+          114.2994,
+          -2.9637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuala Pembuang"
+      },
+      "geometry": {
+        "coordinates": [
+          112.55049,
+          -3.39228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terentang"
+      },
+      "geometry": {
+        "coordinates": [
+          109.62098,
+          -0.38233
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batuampar"
+      },
+      "geometry": {
+        "coordinates": [
+          109.52454,
+          -0.7385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenyau"
+      },
+      "geometry": {
+        "coordinates": [
+          110.50382,
+          -0.89477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontianak Barat"
+      },
+      "geometry": {
+        "coordinates": [
+          109.31868,
+          -0.01894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halimaung Jaya (F-3)"
+      },
+      "geometry": {
+        "coordinates": [
+          112.54412,
+          -3.24995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabang Mawang Barat"
+      },
+      "geometry": {
+        "coordinates": [
+          108.11333,
+          3.63306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Raya"
+      },
+      "geometry": {
+        "coordinates": [
+          109.40389,
+          -0.12694
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

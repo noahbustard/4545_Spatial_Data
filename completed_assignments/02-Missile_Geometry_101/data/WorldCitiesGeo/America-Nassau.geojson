@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West End"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.97702,
+          26.68711
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spanish Wells"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.76405,
+          25.54717
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Andros"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.05,
+          25.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Nelson"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.84157,
+          23.64967
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nassau"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.34306,
+          25.05823
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matthew Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.67346,
+          20.94982
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masons Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.8778,
+          22.54352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsh Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0636,
+          26.54124
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucaya"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.66667,
+          26.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Rock"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.27863,
+          26.60999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hard Bargain"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.56667,
+          26.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Governor's Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.23333,
+          25.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.78665,
+          23.51616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freeport"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.7,
+          26.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunmore Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.63633,
+          25.50216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duncan Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.72583,
+          22.19083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooper's Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.51131,
+          26.87137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonel Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.20415,
+          22.7545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cockburn Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.53138,
+          24.05179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarence Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.98333,
+          23.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.38333,
+          24.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur's Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.67151,
+          24.6224
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andros Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.76912,
+          24.70502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.29721,
+          25.728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraham's Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.96667,
+          22.36667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

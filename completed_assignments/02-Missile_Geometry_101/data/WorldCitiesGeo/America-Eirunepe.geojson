@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Envira"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.21667,
+          -7.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eirunepe"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.87361,
+          -6.66028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin Constant"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.03179,
+          -4.37555
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

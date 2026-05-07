@@ -1,0 +1,616 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iriba"
+      },
+      "geometry": {
+        "coordinates": [
+          22.25,
+          15.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goz Beida"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5468,
+          13.94563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goz Beida"
+      },
+      "geometry": {
+        "coordinates": [
+          21.41034,
+          12.22484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fada"
+      },
+      "geometry": {
+        "coordinates": [
+          21.58114,
+          17.18535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biltine"
+      },
+      "geometry": {
+        "coordinates": [
+          20.92749,
+          14.52791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Timan"
+      },
+      "geometry": {
+        "coordinates": [
+          20.2827,
+          11.0297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adre"
+      },
+      "geometry": {
+        "coordinates": [
+          22.19875,
+          13.46648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abeche"
+      },
+      "geometry": {
+        "coordinates": [
+          20.8324,
+          13.82916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarh"
+      },
+      "geometry": {
+        "coordinates": [
+          18.3923,
+          9.1429
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pala"
+      },
+      "geometry": {
+        "coordinates": [
+          14.9046,
+          9.3642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oum Hadjer"
+      },
+      "geometry": {
+        "coordinates": [
+          19.6966,
+          13.2954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngama"
+      },
+      "geometry": {
+        "coordinates": [
+          17.16667,
+          11.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N'Djamena"
+      },
+      "geometry": {
+        "coordinates": [
+          15.0444,
+          12.10672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moussoro"
+      },
+      "geometry": {
+        "coordinates": [
+          16.48941,
+          13.64143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moundou"
+      },
+      "geometry": {
+        "coordinates": [
+          16.08333,
+          8.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongo"
+      },
+      "geometry": {
+        "coordinates": [
+          18.69303,
+          12.18441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moissala"
+      },
+      "geometry": {
+        "coordinates": [
+          17.7663,
+          8.3404
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melfi"
+      },
+      "geometry": {
+        "coordinates": [
+          17.9355,
+          11.0598
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mboursou Lere"
+      },
+      "geometry": {
+        "coordinates": [
+          14.1539,
+          9.7639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massenya"
+      },
+      "geometry": {
+        "coordinates": [
+          16.1705,
+          11.4039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massakory"
+      },
+      "geometry": {
+        "coordinates": [
+          15.72927,
+          12.996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massaguet"
+      },
+      "geometry": {
+        "coordinates": [
+          15.43647,
+          12.47554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mao"
+      },
+      "geometry": {
+        "coordinates": [
+          15.3103,
+          14.12116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai"
+      },
+      "geometry": {
+        "coordinates": [
+          16.2989,
+          9.3952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyabe"
+      },
+      "geometry": {
+        "coordinates": [
+          18.94493,
+          9.45149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koumra"
+      },
+      "geometry": {
+        "coordinates": [
+          17.55392,
+          8.91256
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelo"
+      },
+      "geometry": {
+        "coordinates": [
+          15.80658,
+          9.30859
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guelendeng"
+      },
+      "geometry": {
+        "coordinates": [
+          15.55011,
+          10.91762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gounou Gaya"
+      },
+      "geometry": {
+        "coordinates": [
+          15.5132,
+          9.6294
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goundi"
+      },
+      "geometry": {
+        "coordinates": [
+          17.36597,
+          9.36267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faya-Largeau"
+      },
+      "geometry": {
+        "coordinates": [
+          19.10428,
+          17.9257
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dourbali"
+      },
+      "geometry": {
+        "coordinates": [
+          15.86323,
+          11.80909
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doba"
+      },
+      "geometry": {
+        "coordinates": [
+          16.85,
+          8.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bousso"
+      },
+      "geometry": {
+        "coordinates": [
+          16.71076,
+          10.48473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bongor"
+      },
+      "geometry": {
+        "coordinates": [
+          15.37222,
+          10.28056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bol"
+      },
+      "geometry": {
+        "coordinates": [
+          14.71472,
+          13.45861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bokoro"
+      },
+      "geometry": {
+        "coordinates": [
+          17.05876,
+          12.37813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitkine"
+      },
+      "geometry": {
+        "coordinates": [
+          18.2138,
+          11.9801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bere"
+      },
+      "geometry": {
+        "coordinates": [
+          16.1552,
+          9.3202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benoy"
+      },
+      "geometry": {
+        "coordinates": [
+          16.31991,
+          8.98327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beinamar"
+      },
+      "geometry": {
+        "coordinates": [
+          15.3813,
+          8.6698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beboto"
+      },
+      "geometry": {
+        "coordinates": [
+          16.93898,
+          8.26681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bebedja"
+      },
+      "geometry": {
+        "coordinates": [
+          16.566,
+          8.6761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bardai"
+      },
+      "geometry": {
+        "coordinates": [
+          17.00121,
+          21.35494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ati"
+      },
+      "geometry": {
+        "coordinates": [
+          18.3353,
+          13.2154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aozou"
+      },
+      "geometry": {
+        "coordinates": [
+          17.4275,
+          21.8375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Djarass"
+      },
+      "geometry": {
+        "coordinates": [
+          22.84308,
+          16.06589
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thunder Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25018,
+          48.38202
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

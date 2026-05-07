@@ -1,0 +1,707 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butte"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.03333,
+          61.54222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cohoe"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.30639,
+          60.36861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "College"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.80278,
+          64.85694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cordova"
+      },
+      "geometry": {
+        "coordinates": [
+          -145.75867,
+          60.5432
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamond Ridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.5575,
+          59.67611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dillingham"
+      },
+      "geometry": {
+        "coordinates": [
+          -158.4575,
+          59.03972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle River"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.56778,
+          61.32139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ester"
+      },
+      "geometry": {
+        "coordinates": [
+          -148.01444,
+          64.84722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairbanks"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.71639,
+          64.83778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fritz Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.29528,
+          59.73611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gateway"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.24083,
+          61.57278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girdwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.16639,
+          60.9425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Healy"
+      },
+      "geometry": {
+        "coordinates": [
+          -148.96611,
+          63.85694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homer"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.5494,
+          59.6425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houston"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.81806,
+          61.63028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalifornsky"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.29,
+          60.41833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenai"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.25833,
+          60.55444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodiak"
+      },
+      "geometry": {
+        "coordinates": [
+          -152.40722,
+          57.79
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lazy Mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -148.94556,
+          61.62611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadow Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.60111,
+          61.62472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nikiski"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.28889,
+          60.69028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Pole"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.34944,
+          64.75111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmer"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.11456,
+          61.59941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prudhoe Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -148.33722,
+          70.25528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ridgeway"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.08528,
+          60.53194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sand Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -160.4988,
+          55.33655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seward"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.4435,
+          60.10426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soldotna"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.05833,
+          60.48778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sterling"
+      },
+      "geometry": {
+        "coordinates": [
+          -150.76472,
+          60.53722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanaina"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.42806,
+          61.62694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tok"
+      },
+      "geometry": {
+        "coordinates": [
+          -142.98556,
+          63.33667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valdez"
+      },
+      "geometry": {
+        "coordinates": [
+          -146.34833,
+          61.13083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasilla"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.4415,
+          61.5809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow"
+      },
+      "geometry": {
+        "coordinates": [
+          -150.0375,
+          61.74722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akutan"
+      },
+      "geometry": {
+        "coordinates": [
+          -165.77686,
+          54.1335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchorage"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.90028,
+          61.21806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchor Point"
+      },
+      "geometry": {
+        "coordinates": [
+          -151.83139,
+          59.77667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badger"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.53333,
+          64.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrow"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.78872,
+          71.29058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Creek"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.395,
+          60.16417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethel"
+      },
+      "geometry": {
+        "coordinates": [
+          -161.75583,
+          60.79222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.95444,
+          61.52139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deltana"
+      },
+      "geometry": {
+        "coordinates": [
+          -145.21773,
+          63.87217
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eielson Air Force Base"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.05442,
+          64.66327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farm Loop"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.14215,
+          61.63891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fishhook"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.23613,
+          61.74402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knik-Fairview"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.60012,
+          61.51262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodiak Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -152.60004,
+          57.76587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakes"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.30861,
+          61.60713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salcha"
+      },
+      "geometry": {
+        "coordinates": [
+          -146.9021,
+          64.52399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutton-Alpine"
+      },
+      "geometry": {
+        "coordinates": [
+          -148.7645,
+          61.77789
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Y"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.85075,
+          62.16129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farmers Loop"
+      },
+      "geometry": {
+        "coordinates": [
+          -147.69866,
+          64.90822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elmendorf Air Force Base"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.63139,
+          61.25703
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

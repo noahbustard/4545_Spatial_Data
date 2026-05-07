@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katima Mulilo"
+      },
+      "geometry": {
+        "coordinates": [
+          24.26667,
+          -17.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagani"
+      },
+      "geometry": {
+        "coordinates": [
+          21.61645,
+          -18.11065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windhoek"
+      },
+      "geometry": {
+        "coordinates": [
+          17.08323,
+          -22.55941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warmbad"
+      },
+      "geometry": {
+        "coordinates": [
+          18.73333,
+          -28.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usakos"
+      },
+      "geometry": {
+        "coordinates": [
+          15.6,
+          -22.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsumeb"
+      },
+      "geometry": {
+        "coordinates": [
+          17.71667,
+          -19.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tses"
+      },
+      "geometry": {
+        "coordinates": [
+          18.0,
+          -25.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swakopmund"
+      },
+      "geometry": {
+        "coordinates": [
+          14.53333,
+          -22.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rundu"
+      },
+      "geometry": {
+        "coordinates": [
+          19.76667,
+          -17.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rehoboth"
+      },
+      "geometry": {
+        "coordinates": [
+          17.09,
+          -23.317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outjo"
+      },
+      "geometry": {
+        "coordinates": [
+          16.15,
+          -20.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otjiwarongo"
+      },
+      "geometry": {
+        "coordinates": [
+          16.64772,
+          -20.46369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otjimbingwe"
+      },
+      "geometry": {
+        "coordinates": [
+          16.13333,
+          -22.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otavi"
+      },
+      "geometry": {
+        "coordinates": [
+          17.33333,
+          -19.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshikango"
+      },
+      "geometry": {
+        "coordinates": [
+          15.88333,
+          -17.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshakati"
+      },
+      "geometry": {
+        "coordinates": [
+          15.68333,
+          -17.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranjemund"
+      },
+      "geometry": {
+        "coordinates": [
+          16.43333,
+          -28.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opuwo"
+      },
+      "geometry": {
+        "coordinates": [
+          13.83998,
+          -18.06068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongwediva"
+      },
+      "geometry": {
+        "coordinates": [
+          15.76667,
+          -17.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ongandjera"
+      },
+      "geometry": {
+        "coordinates": [
+          15.06667,
+          -17.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ondangwa"
+      },
+      "geometry": {
+        "coordinates": [
+          15.95,
+          -17.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omuthiya"
+      },
+      "geometry": {
+        "coordinates": [
+          16.58146,
+          -18.36463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omaruru"
+      },
+      "geometry": {
+        "coordinates": [
+          15.93333,
+          -21.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okakarara"
+      },
+      "geometry": {
+        "coordinates": [
+          17.43333,
+          -20.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okahandja"
+      },
+      "geometry": {
+        "coordinates": [
+          16.91667,
+          -21.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nkurenkuru"
+      },
+      "geometry": {
+        "coordinates": [
+          18.6,
+          -17.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariental"
+      },
+      "geometry": {
+        "coordinates": [
+          17.96667,
+          -24.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maltahohe"
+      },
+      "geometry": {
+        "coordinates": [
+          16.98333,
+          -24.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luderitz"
+      },
+      "geometry": {
+        "coordinates": [
+          15.15944,
+          -26.64806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khorixas"
+      },
+      "geometry": {
+        "coordinates": [
+          14.96667,
+          -20.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keetmanshoop"
+      },
+      "geometry": {
+        "coordinates": [
+          18.13333,
+          -26.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karibib"
+      },
+      "geometry": {
+        "coordinates": [
+          15.83333,
+          -21.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karasburg"
+      },
+      "geometry": {
+        "coordinates": [
+          18.75,
+          -28.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoachanas"
+      },
+      "geometry": {
+        "coordinates": [
+          18.05,
+          -23.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hentiesbaai"
+      },
+      "geometry": {
+        "coordinates": [
+          14.28333,
+          -22.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grootfontein"
+      },
+      "geometry": {
+        "coordinates": [
+          18.11667,
+          -19.56667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gobabis"
+      },
+      "geometry": {
+        "coordinates": [
+          18.96667,
+          -22.45
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eenhana"
+      },
+      "geometry": {
+        "coordinates": [
+          16.33333,
+          -17.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethanie"
+      },
+      "geometry": {
+        "coordinates": [
+          17.15,
+          -26.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aranos"
+      },
+      "geometry": {
+        "coordinates": [
+          19.11667,
+          -24.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arandis"
+      },
+      "geometry": {
+        "coordinates": [
+          14.96667,
+          -22.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walvis Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          14.50528,
+          -22.9575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outapi"
+      },
+      "geometry": {
+        "coordinates": [
+          14.98333,
+          -17.5
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

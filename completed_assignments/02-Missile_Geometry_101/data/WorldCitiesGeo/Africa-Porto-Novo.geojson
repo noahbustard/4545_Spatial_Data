@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tchaourou"
+      },
+      "geometry": {
+        "coordinates": [
+          2.59753,
+          8.88649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanguieta"
+      },
+      "geometry": {
+        "coordinates": [
+          1.26651,
+          10.62118
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Save"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4866,
+          8.03424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savalou"
+      },
+      "geometry": {
+        "coordinates": [
+          1.97558,
+          7.92807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakete"
+      },
+      "geometry": {
+        "coordinates": [
+          2.65866,
+          6.73618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto-Novo"
+      },
+      "geometry": {
+        "coordinates": [
+          2.60359,
+          6.49646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pobe"
+      },
+      "geometry": {
+        "coordinates": [
+          2.6649,
+          6.98008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parakou"
+      },
+      "geometry": {
+        "coordinates": [
+          2.63031,
+          9.33716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouidah"
+      },
+      "geometry": {
+        "coordinates": [
+          2.08506,
+          6.36307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nikki"
+      },
+      "geometry": {
+        "coordinates": [
+          3.21075,
+          9.94009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natitingou"
+      },
+      "geometry": {
+        "coordinates": [
+          1.37962,
+          10.30416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malanville"
+      },
+      "geometry": {
+        "coordinates": [
+          3.38327,
+          11.86819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokossa"
+      },
+      "geometry": {
+        "coordinates": [
+          1.71674,
+          6.63869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ketou"
+      },
+      "geometry": {
+        "coordinates": [
+          2.59978,
+          7.36332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandi"
+      },
+      "geometry": {
+        "coordinates": [
+          2.93861,
+          11.13417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hinvi"
+      },
+      "geometry": {
+        "coordinates": [
+          2.16667,
+          6.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hevie"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guilmaro"
+      },
+      "geometry": {
+        "coordinates": [
+          1.72444,
+          10.56583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Popo"
+      },
+      "geometry": {
+        "coordinates": [
+          1.82251,
+          6.28036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dogbo"
+      },
+      "geometry": {
+        "coordinates": [
+          1.78333,
+          6.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djougou"
+      },
+      "geometry": {
+        "coordinates": [
+          1.66598,
+          9.70853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dassa-Zoume"
+      },
+      "geometry": {
+        "coordinates": [
+          2.18333,
+          7.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cove"
+      },
+      "geometry": {
+        "coordinates": [
+          2.34017,
+          7.22097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotonou"
+      },
+      "geometry": {
+        "coordinates": [
+          2.41833,
+          6.36536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Come"
+      },
+      "geometry": {
+        "coordinates": [
+          1.88198,
+          6.40764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bohicon"
+      },
+      "geometry": {
+        "coordinates": [
+          2.0667,
+          7.17826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beterou"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25855,
+          9.19916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bembereke"
+      },
+      "geometry": {
+        "coordinates": [
+          2.66335,
+          10.22827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassila"
+      },
+      "geometry": {
+        "coordinates": [
+          1.6654,
+          9.00814
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banikoara"
+      },
+      "geometry": {
+        "coordinates": [
+          2.43856,
+          11.29845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aplahoue"
+      },
+      "geometry": {
+        "coordinates": [
+          1.68333,
+          6.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allada"
+      },
+      "geometry": {
+        "coordinates": [
+          2.15138,
+          6.66547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abomey-Calavi"
+      },
+      "geometry": {
+        "coordinates": [
+          2.35566,
+          6.44852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abomey"
+      },
+      "geometry": {
+        "coordinates": [
+          1.99119,
+          7.18286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houinvigue"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4806,
+          6.8862
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

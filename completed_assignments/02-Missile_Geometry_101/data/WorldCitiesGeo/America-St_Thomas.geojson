@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte Amalie"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.9307,
+          18.3419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.79375,
+          18.33134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Croix"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.74698,
+          17.72751
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

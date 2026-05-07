@@ -1,0 +1,1786 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodend"
+      },
+      "geometry": {
+        "coordinates": [
+          172.66667,
+          -43.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitianga"
+      },
+      "geometry": {
+        "coordinates": [
+          175.7,
+          -36.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whangamata"
+      },
+      "geometry": {
+        "coordinates": [
+          175.86667,
+          -37.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellsford"
+      },
+      "geometry": {
+        "coordinates": [
+          174.51667,
+          -36.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington"
+      },
+      "geometry": {
+        "coordinates": [
+          174.77557,
+          -41.28664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warkworth"
+      },
+      "geometry": {
+        "coordinates": [
+          174.66667,
+          -36.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanganui"
+      },
+      "geometry": {
+        "coordinates": [
+          175.05,
+          -39.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wakefield"
+      },
+      "geometry": {
+        "coordinates": [
+          173.05,
+          -41.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waiuku"
+      },
+      "geometry": {
+        "coordinates": [
+          174.73489,
+          -37.24806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waiouru"
+      },
+      "geometry": {
+        "coordinates": [
+          175.66834,
+          -39.47753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimate North"
+      },
+      "geometry": {
+        "coordinates": [
+          173.88333,
+          -35.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waihi Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          175.93333,
+          -37.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turangi"
+      },
+      "geometry": {
+        "coordinates": [
+          175.80837,
+          -38.99037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokoroa"
+      },
+      "geometry": {
+        "coordinates": [
+          175.86667,
+          -38.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinwald"
+      },
+      "geometry": {
+        "coordinates": [
+          171.71667,
+          -43.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timaru"
+      },
+      "geometry": {
+        "coordinates": [
+          171.25364,
+          -44.39672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Kauwhata"
+      },
+      "geometry": {
+        "coordinates": [
+          175.15,
+          -37.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Anau"
+      },
+      "geometry": {
+        "coordinates": [
+          167.71667,
+          -45.41667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taupo"
+      },
+      "geometry": {
+        "coordinates": [
+          176.08333,
+          -38.68333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takaka"
+      },
+      "geometry": {
+        "coordinates": [
+          172.8,
+          -40.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tairua"
+      },
+      "geometry": {
+        "coordinates": [
+          175.85,
+          -37.01667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taipa"
+      },
+      "geometry": {
+        "coordinates": [
+          173.46665,
+          -34.99604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rolleston"
+      },
+      "geometry": {
+        "coordinates": [
+          172.38333,
+          -43.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond"
+      },
+      "geometry": {
+        "coordinates": [
+          173.18333,
+          -41.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rakaia"
+      },
+      "geometry": {
+        "coordinates": [
+          172.01667,
+          -43.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raglan"
+      },
+      "geometry": {
+        "coordinates": [
+          174.88333,
+          -37.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pukekohe East"
+      },
+      "geometry": {
+        "coordinates": [
+          174.95,
+          -37.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prebbleton"
+      },
+      "geometry": {
+        "coordinates": [
+          172.51667,
+          -43.58333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portobello"
+      },
+      "geometry": {
+        "coordinates": [
+          170.65,
+          -45.85
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Motueka"
+      },
+      "geometry": {
+        "coordinates": [
+          173.01667,
+          -41.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porirua"
+      },
+      "geometry": {
+        "coordinates": [
+          174.85,
+          -41.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleasant Point"
+      },
+      "geometry": {
+        "coordinates": [
+          171.13333,
+          -44.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanaka"
+      },
+      "geometry": {
+        "coordinates": [
+          169.15,
+          -44.7
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraparaumu"
+      },
+      "geometry": {
+        "coordinates": [
+          175.01667,
+          -40.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parakai"
+      },
+      "geometry": {
+        "coordinates": [
+          174.43333,
+          -36.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papatowai"
+      },
+      "geometry": {
+        "coordinates": [
+          169.47068,
+          -46.56069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmerston North"
+      },
+      "geometry": {
+        "coordinates": [
+          175.61113,
+          -40.35636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paihia"
+      },
+      "geometry": {
+        "coordinates": [
+          174.09103,
+          -35.28067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford"
+      },
+      "geometry": {
+        "coordinates": [
+          172.18333,
+          -43.3
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otorohanga"
+      },
+      "geometry": {
+        "coordinates": [
+          175.2,
+          -38.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Shore"
+      },
+      "geometry": {
+        "coordinates": [
+          174.75,
+          -36.8
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngunguru"
+      },
+      "geometry": {
+        "coordinates": [
+          174.5,
+          -35.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngatea"
+      },
+      "geometry": {
+        "coordinates": [
+          175.5,
+          -37.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Plymouth"
+      },
+      "geometry": {
+        "coordinates": [
+          174.08333,
+          -39.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson"
+      },
+      "geometry": {
+        "coordinates": [
+          173.28404,
+          -41.27078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napier"
+      },
+      "geometry": {
+        "coordinates": [
+          176.91233,
+          -39.4926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murupara"
+      },
+      "geometry": {
+        "coordinates": [
+          176.7,
+          -38.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muriwai Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          174.45,
+          -36.81667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moerewa"
+      },
+      "geometry": {
+        "coordinates": [
+          174.03333,
+          -35.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Methven"
+      },
+      "geometry": {
+        "coordinates": [
+          171.65,
+          -43.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maungatapere"
+      },
+      "geometry": {
+        "coordinates": [
+          174.2,
+          -35.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapua"
+      },
+      "geometry": {
+        "coordinates": [
+          173.1,
+          -41.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manukau City"
+      },
+      "geometry": {
+        "coordinates": [
+          174.87986,
+          -36.99282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangere"
+      },
+      "geometry": {
+        "coordinates": [
+          174.79875,
+          -36.96807
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maketu"
+      },
+      "geometry": {
+        "coordinates": [
+          176.45,
+          -37.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Hutt"
+      },
+      "geometry": {
+        "coordinates": [
+          174.91667,
+          -41.21667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln"
+      },
+      "geometry": {
+        "coordinates": [
+          172.48333,
+          -43.65
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leeston"
+      },
+      "geometry": {
+        "coordinates": [
+          172.3,
+          -43.76667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston"
+      },
+      "geometry": {
+        "coordinates": [
+          168.7,
+          -45.33333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerikeri"
+      },
+      "geometry": {
+        "coordinates": [
+          173.94739,
+          -35.22676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelburn"
+      },
+      "geometry": {
+        "coordinates": [
+          174.76667,
+          -41.28333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawerau"
+      },
+      "geometry": {
+        "coordinates": [
+          176.7,
+          -38.1
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawakawa"
+      },
+      "geometry": {
+        "coordinates": [
+          174.06667,
+          -35.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katikati"
+      },
+      "geometry": {
+        "coordinates": [
+          175.91667,
+          -37.55
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invercargill"
+      },
+      "geometry": {
+        "coordinates": [
+          168.35,
+          -46.4
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hastings"
+      },
+      "geometry": {
+        "coordinates": [
+          176.84918,
+          -39.6381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton"
+      },
+      "geometry": {
+        "coordinates": [
+          175.28333,
+          -37.78333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edgecumbe"
+      },
+      "geometry": {
+        "coordinates": [
+          176.83333,
+          -37.98333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunedin"
+      },
+      "geometry": {
+        "coordinates": [
+          170.50361,
+          -45.87416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dargaville"
+      },
+      "geometry": {
+        "coordinates": [
+          173.88333,
+          -35.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darfield"
+      },
+      "geometry": {
+        "coordinates": [
+          172.11667,
+          -43.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coromandel"
+      },
+      "geometry": {
+        "coordinates": [
+          175.49634,
+          -36.7611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christchurch"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63333,
+          -43.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlepoint"
+      },
+      "geometry": {
+        "coordinates": [
+          176.21667,
+          -40.9
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnham"
+      },
+      "geometry": {
+        "coordinates": [
+          172.31667,
+          -43.61667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulls"
+      },
+      "geometry": {
+        "coordinates": [
+          175.38463,
+          -40.17487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn"
+      },
+      "geometry": {
+        "coordinates": [
+          174.75,
+          -41.31667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brightwater"
+      },
+      "geometry": {
+        "coordinates": [
+          173.11667,
+          -41.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland"
+      },
+      "geometry": {
+        "coordinates": [
+          174.76349,
+          -36.84853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amberley"
+      },
+      "geometry": {
+        "coordinates": [
+          172.72975,
+          -43.15589
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahipara"
+      },
+      "geometry": {
+        "coordinates": [
+          173.16667,
+          -35.16667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opunake"
+      },
+      "geometry": {
+        "coordinates": [
+          173.85833,
+          -39.45556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eltham"
+      },
+      "geometry": {
+        "coordinates": [
+          174.3,
+          -39.42917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawera"
+      },
+      "geometry": {
+        "coordinates": [
+          174.28333,
+          -39.59167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patea"
+      },
+      "geometry": {
+        "coordinates": [
+          174.48333,
+          -39.75833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxton"
+      },
+      "geometry": {
+        "coordinates": [
+          175.3,
+          -40.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levin"
+      },
+      "geometry": {
+        "coordinates": [
+          175.275,
+          -40.63333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otaki"
+      },
+      "geometry": {
+        "coordinates": [
+          175.15,
+          -40.75833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wairoa"
+      },
+      "geometry": {
+        "coordinates": [
+          177.36667,
+          -39.03333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gisborne"
+      },
+      "geometry": {
+        "coordinates": [
+          178.00417,
+          -38.65333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waipawa"
+      },
+      "geometry": {
+        "coordinates": [
+          175.51528,
+          -41.41222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masterton"
+      },
+      "geometry": {
+        "coordinates": [
+          175.6575,
+          -40.95972
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokitika"
+      },
+      "geometry": {
+        "coordinates": [
+          170.96667,
+          -42.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greymouth"
+      },
+      "geometry": {
+        "coordinates": [
+          171.2,
+          -42.46667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westport"
+      },
+      "geometry": {
+        "coordinates": [
+          171.6037,
+          -41.75262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluff"
+      },
+      "geometry": {
+        "coordinates": [
+          168.33333,
+          -46.6
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverton"
+      },
+      "geometry": {
+        "coordinates": [
+          168.01667,
+          -46.35
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winton"
+      },
+      "geometry": {
+        "coordinates": [
+          168.33333,
+          -46.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tauranga"
+      },
+      "geometry": {
+        "coordinates": [
+          176.16667,
+          -37.68611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waitara"
+      },
+      "geometry": {
+        "coordinates": [
+          174.23836,
+          -39.00158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milton"
+      },
+      "geometry": {
+        "coordinates": [
+          169.96944,
+          -46.12083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balclutha"
+      },
+      "geometry": {
+        "coordinates": [
+          169.75,
+          -46.23389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paeroa"
+      },
+      "geometry": {
+        "coordinates": [
+          175.66667,
+          -37.36667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waihi"
+      },
+      "geometry": {
+        "coordinates": [
+          175.83333,
+          -37.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papakura"
+      },
+      "geometry": {
+        "coordinates": [
+          174.94393,
+          -37.06573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whakatane"
+      },
+      "geometry": {
+        "coordinates": [
+          176.98545,
+          -37.95855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opotiki"
+      },
+      "geometry": {
+        "coordinates": [
+          177.28706,
+          -38.00915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thames"
+      },
+      "geometry": {
+        "coordinates": [
+          175.54011,
+          -37.13832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gore"
+      },
+      "geometry": {
+        "coordinates": [
+          168.94357,
+          -46.10282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown"
+      },
+      "geometry": {
+        "coordinates": [
+          168.66271,
+          -45.03023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrowtown"
+      },
+      "geometry": {
+        "coordinates": [
+          168.81007,
+          -44.93837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oamaru"
+      },
+      "geometry": {
+        "coordinates": [
+          170.97087,
+          -45.09758
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashburton"
+      },
+      "geometry": {
+        "coordinates": [
+          171.73011,
+          -43.89834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiapoi"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64013,
+          -43.37832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaitaia"
+      },
+      "geometry": {
+        "coordinates": [
+          173.26366,
+          -35.11485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whangarei"
+      },
+      "geometry": {
+        "coordinates": [
+          174.32391,
+          -35.73167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruakaka"
+      },
+      "geometry": {
+        "coordinates": [
+          174.45019,
+          -35.90818
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takanini"
+      },
+      "geometry": {
+        "coordinates": [
+          174.90019,
+          -37.0482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          174.97019,
+          -37.0582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothesay Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          174.74064,
+          -36.72602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrays Bay"
+      },
+      "geometry": {
+        "coordinates": [
+          174.75019,
+          -36.72819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiri"
+      },
+      "geometry": {
+        "coordinates": [
+          174.86019,
+          -36.9982
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakuranga"
+      },
+      "geometry": {
+        "coordinates": [
+          174.91667,
+          -36.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamaki"
+      },
+      "geometry": {
+        "coordinates": [
+          174.86019,
+          -36.8882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titirangi"
+      },
+      "geometry": {
+        "coordinates": [
+          174.65584,
+          -36.93754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matamata"
+      },
+      "geometry": {
+        "coordinates": [
+          175.76237,
+          -37.8106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge"
+      },
+      "geometry": {
+        "coordinates": [
+          175.4402,
+          -37.87822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotorua"
+      },
+      "geometry": {
+        "coordinates": [
+          176.24516,
+          -38.13874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picton"
+      },
+      "geometry": {
+        "coordinates": [
+          174.00801,
+          -41.29067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blenheim"
+      },
+      "geometry": {
+        "coordinates": [
+          173.9528,
+          -41.51603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petone"
+      },
+      "geometry": {
+        "coordinates": [
+          174.87019,
+          -41.22827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Hutt"
+      },
+      "geometry": {
+        "coordinates": [
+          175.0502,
+          -41.13827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taradale"
+      },
+      "geometry": {
+        "coordinates": [
+          176.85,
+          -39.53333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngaruawahia"
+      },
+      "geometry": {
+        "coordinates": [
+          175.15554,
+          -37.66738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waitakere"
+      },
+      "geometry": {
+        "coordinates": [
+          174.65773,
+          -36.91754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaikoura"
+      },
+      "geometry": {
+        "coordinates": [
+          173.68132,
+          -42.40749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosebank"
+      },
+      "geometry": {
+        "coordinates": [
+          174.66991,
+          -36.87495
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

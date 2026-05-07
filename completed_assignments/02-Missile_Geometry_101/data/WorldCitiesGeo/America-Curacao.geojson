@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willemstad"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.93354,
+          12.1084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sint Michiel Liber"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.98333,
+          12.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorp Soto"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.1125,
+          12.27749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barber"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.07389,
+          12.29014
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

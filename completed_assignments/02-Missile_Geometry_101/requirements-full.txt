@@ -1,0 +1,8 @@
+# 4543 Spatial Data & Mapping — Full stack (mid/late semester)
+# Python: 3.12.x
+
+-r requirements.txt
+
+pyproj
+geopandas
+folium

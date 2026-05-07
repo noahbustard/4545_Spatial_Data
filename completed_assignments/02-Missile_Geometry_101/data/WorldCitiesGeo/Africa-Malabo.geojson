@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago de Baney"
+      },
+      "geometry": {
+        "coordinates": [
+          8.9084,
+          3.6992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio de Pale"
+      },
+      "geometry": {
+        "coordinates": [
+          5.63178,
+          -1.4068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Campo"
+      },
+      "geometry": {
+        "coordinates": [
+          9.82212,
+          2.33812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebola"
+      },
+      "geometry": {
+        "coordinates": [
+          8.83333,
+          3.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nsok"
+      },
+      "geometry": {
+        "coordinates": [
+          11.26603,
+          1.12985
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nsang"
+      },
+      "geometry": {
+        "coordinates": [
+          10.94599,
+          2.02475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ncue"
+      },
+      "geometry": {
+        "coordinates": [
+          10.47066,
+          2.01643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongomo"
+      },
+      "geometry": {
+        "coordinates": [
+          11.31346,
+          1.62742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikomeseng"
+      },
+      "geometry": {
+        "coordinates": [
+          10.61322,
+          2.13609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbini"
+      },
+      "geometry": {
+        "coordinates": [
+          9.61478,
+          1.58267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Machinda"
+      },
+      "geometry": {
+        "coordinates": [
+          9.95133,
+          1.88262
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evinayong"
+      },
+      "geometry": {
+        "coordinates": [
+          10.55124,
+          1.43677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebebiyin"
+      },
+      "geometry": {
+        "coordinates": [
+          11.33528,
+          2.15106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malabo"
+      },
+      "geometry": {
+        "coordinates": [
+          8.78333,
+          3.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luba"
+      },
+      "geometry": {
+        "coordinates": [
+          8.55465,
+          3.45683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitica"
+      },
+      "geometry": {
+        "coordinates": [
+          9.62316,
+          1.4261
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicurga"
+      },
+      "geometry": {
+        "coordinates": [
+          10.46716,
+          1.58113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bata"
+      },
+      "geometry": {
+        "coordinates": [
+          9.76582,
+          1.86391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayene"
+      },
+      "geometry": {
+        "coordinates": [
+          10.68994,
+          1.85592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anisoc"
+      },
+      "geometry": {
+        "coordinates": [
+          10.76892,
+          1.8658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acurenam"
+      },
+      "geometry": {
+        "coordinates": [
+          10.64882,
+          1.03225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aconibe"
+      },
+      "geometry": {
+        "coordinates": [
+          10.93691,
+          1.29683
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

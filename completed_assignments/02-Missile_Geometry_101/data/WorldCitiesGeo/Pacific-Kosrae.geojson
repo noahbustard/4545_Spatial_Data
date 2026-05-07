@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tofol"
+      },
+      "geometry": {
+        "coordinates": [
+          163.00781,
+          5.32479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lelu"
+      },
+      "geometry": {
+        "coordinates": [
+          163.02248,
+          5.33359
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tafunsak"
+      },
+      "geometry": {
+        "coordinates": [
+          162.98532,
+          5.3671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malem"
+      },
+      "geometry": {
+        "coordinates": [
+          163.02609,
+          5.28599
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utwe"
+      },
+      "geometry": {
+        "coordinates": [
+          162.97656,
+          5.27486
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

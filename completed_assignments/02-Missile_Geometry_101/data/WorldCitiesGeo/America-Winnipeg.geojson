@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altona"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.55961,
+          49.10469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beausejour"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.51669,
+          50.0622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boissevain"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.05586,
+          49.23062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandon"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.95306,
+          49.84692
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carberry"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.36021,
+          49.86893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carman"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.00156,
+          49.4992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dauphin"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.05023,
+          51.14941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deloraine"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.49477,
+          49.19082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dryden"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.75032,
+          49.78334
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ear Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.23526,
+          50.63955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flin Flon"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.87433,
+          54.76703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Frances"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.4003,
+          48.59988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gimli"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.99066,
+          50.63362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Headingley"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.40896,
+          49.8753
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killarney"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.66364,
+          49.18332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Broquerie"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.50029,
+          49.51688
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac du Bonnet"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.06116,
+          50.2536
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melita"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.99669,
+          49.26811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minnedosa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.84364,
+          50.24532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morden"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.10136,
+          49.1919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morris"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.36567,
+          49.35499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neepawa"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.46642,
+          50.22892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niverville"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.04234,
+          49.60559
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portage la Prairie"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.29263,
+          49.97282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.82736,
+          51.01678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rivers"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.24029,
+          50.03081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roblin"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.3565,
+          51.22999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selkirk"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.88452,
+          50.1436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Souris"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.2612,
+          49.6172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steinbach"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.68451,
+          49.52579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonewall"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.32676,
+          50.13441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swan River"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.26759,
+          52.1058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pas"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.25413,
+          53.82509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thompson"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.85579,
+          55.7435
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virden"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.93262,
+          49.8508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winkler"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.94104,
+          49.1817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winnipeg"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.14704,
+          49.8844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rural Municipality of Yellowhead"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.48267,
+          50.4846
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viseu"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.14,
+          -1.19667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vigia"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.14167,
+          -0.85833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucurui"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.67923,
+          -3.76585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucuma"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.05,
+          -0.18333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tome Acu"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.15222,
+          -2.41889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soure"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.52333,
+          -0.71667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senador Jose Porfirio"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.95417,
+          -2.59083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Miguel do Guama"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.48333,
+          -1.62667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Joao de Pirabas"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.17722,
+          -0.77472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Felix do Xingu"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.995,
+          -6.64472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Caetano de Odivelas"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.02,
+          -0.75
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Antonio do Taua"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.12944,
+          -1.15194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Maria do Para"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.57556,
+          -1.35028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salinopolis"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.35611,
+          -0.61361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santana"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.18167,
+          -0.05833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portel"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.82111,
+          -1.93556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paragominas"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.48333,
+          -2.96667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ourem"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.11444,
+          -1.55194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oeiras do Para"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.85444,
+          -2.00306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muana"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.21667,
+          -1.52833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moju"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.76889,
+          -1.88389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mocajuba"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.50722,
+          -2.58417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazagao"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.28944,
+          -0.115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marapanim"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.69972,
+          -0.7175
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maracana"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.45371,
+          -0.76614
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maraba"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.13232,
+          -5.38146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macapa"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.06639,
+          0.03889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limoeiro do Ajuru"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.38056,
+          -1.89528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itupiranga"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.32667,
+          -5.13472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irituia"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.43806,
+          -1.77111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igarape Miri"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.95972,
+          -1.975
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igarape Acu"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.62,
+          -1.12889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurupa"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.64,
+          -1.405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curuca"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.84806,
+          -0.72889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conceicao do Araguaia"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.26982,
+          -8.26441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castanhal"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.92639,
+          -1.29389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitao Poco"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.05944,
+          -1.74639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capanema"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.18083,
+          -1.19583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cameta"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.49583,
+          -2.24444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bujaru"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.04472,
+          -1.515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breves"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.48028,
+          -1.68222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braganca"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.76556,
+          -1.05361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benevides"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.24472,
+          -1.36139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belem"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.50444,
+          -1.45583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcarena"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.62583,
+          -1.50583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baiao"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.67167,
+          -2.79056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augusto Correa"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.635,
+          -1.02167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ananindeua"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.37222,
+          -1.36556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afua"
+      },
+      "geometry": {
+        "coordinates": [
+          -50.38667,
+          -0.15667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acara"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.19667,
+          -1.96083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abaetetuba"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.8825,
+          -1.71806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atins"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.74229,
+          -2.57017
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

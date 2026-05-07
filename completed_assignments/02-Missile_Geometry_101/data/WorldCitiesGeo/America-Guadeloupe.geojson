@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vieux-Habitants"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.76667,
+          16.05866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trois-Rivieres"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.64492,
+          15.97595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petites Anses"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.64457,
+          15.84993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Francois"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.27332,
+          16.25236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Rose"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.6969,
+          16.33264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Anne"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.38098,
+          16.22564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Claude"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.69975,
+          16.02515
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Louis"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.53045,
+          16.41749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pointe-Noire"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.78917,
+          16.23218
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pointe-a-Pitre"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.53614,
+          16.24125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petit-Canal"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.48716,
+          16.37913
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petit-Bourg"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.5914,
+          16.19163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Abymes"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.50507,
+          16.273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Moule"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.34656,
+          16.33164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Gosier"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.49306,
+          16.20618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamentin"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.63166,
+          16.27047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beausejour"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.07375,
+          16.30413
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Bourg"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.3148,
+          15.88402
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gourbeyre"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.69203,
+          15.99454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capesterre-Belle-Eau"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.56425,
+          16.04495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouillante"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.76895,
+          16.13043
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basse-Terre"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.72548,
+          15.99854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baillif"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.74611,
+          16.02037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baie-Mahault"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.58543,
+          16.26738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anse-Bertrand"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.50739,
+          16.47239
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

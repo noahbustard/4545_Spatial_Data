@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zyryanskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          86.62734,
+          56.83058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomsk"
+      },
+      "geometry": {
+        "coordinates": [
+          84.97437,
+          56.49771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Togur"
+      },
+      "geometry": {
+        "coordinates": [
+          82.8265,
+          58.3631
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timiryazevskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          84.87795,
+          56.48988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tegul'det"
+      },
+      "geometry": {
+        "coordinates": [
+          88.16004,
+          57.30679
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svetlyy"
+      },
+      "geometry": {
+        "coordinates": [
+          85.96667,
+          56.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strezhevoy"
+      },
+      "geometry": {
+        "coordinates": [
+          77.5889,
+          60.7333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samus'"
+      },
+      "geometry": {
+        "coordinates": [
+          84.70422,
+          56.74482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Podgornoye"
+      },
+      "geometry": {
+        "coordinates": [
+          82.65194,
+          57.78861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pervomayskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          86.2313,
+          57.0761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parabel'"
+      },
+      "geometry": {
+        "coordinates": [
+          81.4825,
+          58.69778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moryakovskiy Zaton"
+      },
+      "geometry": {
+        "coordinates": [
+          84.65145,
+          56.69448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molchanovo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.76917,
+          57.58167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mel'nikovo"
+      },
+      "geometry": {
+        "coordinates": [
+          84.0835,
+          56.55738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krivosheino"
+      },
+      "geometry": {
+        "coordinates": [
+          83.92611,
+          57.34306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnyy Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          84.53028,
+          57.1275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kozhevnikovo"
+      },
+      "geometry": {
+        "coordinates": [
+          83.97139,
+          56.25889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolpashevo"
+      },
+      "geometry": {
+        "coordinates": [
+          82.90889,
+          58.31306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kargasok"
+      },
+      "geometry": {
+        "coordinates": [
+          80.85722,
+          59.05556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaltay"
+      },
+      "geometry": {
+        "coordinates": [
+          84.87861,
+          56.27917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogashevo"
+      },
+      "geometry": {
+        "coordinates": [
+          85.14414,
+          56.36798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belyy Yar"
+      },
+      "geometry": {
+        "coordinates": [
+          85.0425,
+          58.44472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakchar"
+      },
+      "geometry": {
+        "coordinates": [
+          82.07111,
+          57.01861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asino"
+      },
+      "geometry": {
+        "coordinates": [
+          86.14393,
+          56.99987
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleksandrovskoye"
+      },
+      "geometry": {
+        "coordinates": [
+          85.39056,
+          56.74083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seversk"
+      },
+      "geometry": {
+        "coordinates": [
+          84.88639,
+          56.60056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kedrovyy"
+      },
+      "geometry": {
+        "coordinates": [
+          79.51556,
+          57.51972
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

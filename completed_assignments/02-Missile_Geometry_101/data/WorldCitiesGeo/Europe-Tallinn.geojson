@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaendra"
+      },
+      "geometry": {
+        "coordinates": [
+          25.03611,
+          58.64806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voru"
+      },
+      "geometry": {
+        "coordinates": [
+          27.01944,
+          57.83389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voka"
+      },
+      "geometry": {
+        "coordinates": [
+          27.58263,
+          59.40776
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vohma"
+      },
+      "geometry": {
+        "coordinates": [
+          25.54833,
+          58.62833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinni"
+      },
+      "geometry": {
+        "coordinates": [
+          26.43222,
+          59.29583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viljandi"
+      },
+      "geometry": {
+        "coordinates": [
+          25.59,
+          58.36389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viiratsi"
+      },
+      "geometry": {
+        "coordinates": [
+          25.63722,
+          58.36
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viimsi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.84807,
+          59.50502
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vana-Antsla"
+      },
+      "geometry": {
+        "coordinates": [
+          26.53222,
+          57.86611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valga"
+      },
+      "geometry": {
+        "coordinates": [
+          26.0473,
+          57.77781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaeike-Maarja"
+      },
+      "geometry": {
+        "coordinates": [
+          26.25,
+          59.12639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaida"
+      },
+      "geometry": {
+        "coordinates": [
+          24.97897,
+          59.28546
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uuemoisa"
+      },
+      "geometry": {
+        "coordinates": [
+          23.58944,
+          58.93944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UElenurme"
+      },
+      "geometry": {
+        "coordinates": [
+          26.72517,
+          58.3162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tueri"
+      },
+      "geometry": {
+        "coordinates": [
+          25.4325,
+          58.80861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turba"
+      },
+      "geometry": {
+        "coordinates": [
+          24.225,
+          59.08306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torva"
+      },
+      "geometry": {
+        "coordinates": [
+          25.935,
+          58.00278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tootsi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.7925,
+          58.57806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toila"
+      },
+      "geometry": {
+        "coordinates": [
+          27.50807,
+          59.42127
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tartu"
+      },
+      "geometry": {
+        "coordinates": [
+          26.72509,
+          58.38062
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapa"
+      },
+      "geometry": {
+        "coordinates": [
+          25.95861,
+          59.26056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamsalu"
+      },
+      "geometry": {
+        "coordinates": [
+          26.11528,
+          59.15861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallinn"
+      },
+      "geometry": {
+        "coordinates": [
+          24.75353,
+          59.43696
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabasalu"
+      },
+      "geometry": {
+        "coordinates": [
+          24.5533,
+          59.42607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suure-Jaani"
+      },
+      "geometry": {
+        "coordinates": [
+          25.47056,
+          58.53611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sindi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.6675,
+          58.40056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sillamaee"
+      },
+      "geometry": {
+        "coordinates": [
+          27.76331,
+          59.39697
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauga"
+      },
+      "geometry": {
+        "coordinates": [
+          24.49496,
+          58.4272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saue"
+      },
+      "geometry": {
+        "coordinates": [
+          24.54967,
+          59.32258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saerevere"
+      },
+      "geometry": {
+        "coordinates": [
+          25.42806,
+          58.79
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saku"
+      },
+      "geometry": {
+        "coordinates": [
+          24.66382,
+          59.30354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rummu"
+      },
+      "geometry": {
+        "coordinates": [
+          24.79972,
+          59.53528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riisipere"
+      },
+      "geometry": {
+        "coordinates": [
+          24.31056,
+          59.11417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rapla"
+      },
+      "geometry": {
+        "coordinates": [
+          24.79278,
+          59.00722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raepina"
+      },
+      "geometry": {
+        "coordinates": [
+          27.46361,
+          58.09806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rakvere"
+      },
+      "geometry": {
+        "coordinates": [
+          26.35583,
+          59.34639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rakke"
+      },
+      "geometry": {
+        "coordinates": [
+          26.25444,
+          58.98167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raasiku"
+      },
+      "geometry": {
+        "coordinates": [
+          25.18306,
+          59.36639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puessi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.04972,
+          59.36
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puhja"
+      },
+      "geometry": {
+        "coordinates": [
+          26.31472,
+          58.34194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polva"
+      },
+      "geometry": {
+        "coordinates": [
+          27.06944,
+          58.06028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poltsamaa"
+      },
+      "geometry": {
+        "coordinates": [
+          25.97056,
+          58.6525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paernu-Jaagupi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.50689,
+          58.61052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paernu"
+      },
+      "geometry": {
+        "coordinates": [
+          24.49711,
+          58.38588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paldiski"
+      },
+      "geometry": {
+        "coordinates": [
+          24.05306,
+          59.35667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paikuse"
+      },
+      "geometry": {
+        "coordinates": [
+          24.63444,
+          58.37917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paide"
+      },
+      "geometry": {
+        "coordinates": [
+          25.55722,
+          58.88556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orissaare"
+      },
+      "geometry": {
+        "coordinates": [
+          23.08262,
+          58.55917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karksi-Nuia"
+      },
+      "geometry": {
+        "coordinates": [
+          25.56278,
+          58.10333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noo"
+      },
+      "geometry": {
+        "coordinates": [
+          26.5375,
+          58.27556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narva-Joesuu"
+      },
+      "geometry": {
+        "coordinates": [
+          28.04083,
+          59.45889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narva"
+      },
+      "geometry": {
+        "coordinates": [
+          28.19028,
+          59.37722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mustvee"
+      },
+      "geometry": {
+        "coordinates": [
+          26.93972,
+          58.84861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moisakuela"
+      },
+      "geometry": {
+        "coordinates": [
+          25.18639,
+          58.09222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maerjamaa"
+      },
+      "geometry": {
+        "coordinates": [
+          24.43056,
+          58.90389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maardu"
+      },
+      "geometry": {
+        "coordinates": [
+          24.98215,
+          59.46529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loo"
+      },
+      "geometry": {
+        "coordinates": [
+          24.94949,
+          59.43123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loksa"
+      },
+      "geometry": {
+        "coordinates": [
+          25.72139,
+          59.57639
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lihula"
+      },
+      "geometry": {
+        "coordinates": [
+          23.84528,
+          58.68139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuusalu"
+      },
+      "geometry": {
+        "coordinates": [
+          25.44139,
+          59.44389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuressaare"
+      },
+      "geometry": {
+        "coordinates": [
+          22.50389,
+          58.24806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunda"
+      },
+      "geometry": {
+        "coordinates": [
+          26.53333,
+          59.48333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kose"
+      },
+      "geometry": {
+        "coordinates": [
+          24.87824,
+          59.46001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohtla-Jaerve"
+      },
+      "geometry": {
+        "coordinates": [
+          27.27306,
+          59.39861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohtla-Nomme"
+      },
+      "geometry": {
+        "coordinates": [
+          27.175,
+          59.35167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohila"
+      },
+      "geometry": {
+        "coordinates": [
+          24.7575,
+          59.16806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koeru"
+      },
+      "geometry": {
+        "coordinates": [
+          26.03083,
+          58.96306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kivioli"
+      },
+      "geometry": {
+        "coordinates": [
+          26.97111,
+          59.35306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilingi-Nomme"
+      },
+      "geometry": {
+        "coordinates": [
+          24.96417,
+          58.15028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiili"
+      },
+      "geometry": {
+        "coordinates": [
+          24.83776,
+          59.30775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keila"
+      },
+      "geometry": {
+        "coordinates": [
+          24.41306,
+          59.30361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kehtna"
+      },
+      "geometry": {
+        "coordinates": [
+          24.87806,
+          58.93028
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kehra"
+      },
+      "geometry": {
+        "coordinates": [
+          25.32111,
+          59.33611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaerdla"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74917,
+          58.99778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallaste"
+      },
+      "geometry": {
+        "coordinates": [
+          27.16164,
+          58.66312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadrina"
+      },
+      "geometry": {
+        "coordinates": [
+          26.145,
+          59.33472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueri"
+      },
+      "geometry": {
+        "coordinates": [
+          24.89417,
+          59.35417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johvi"
+      },
+      "geometry": {
+        "coordinates": [
+          27.42111,
+          59.35917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jogeva"
+      },
+      "geometry": {
+        "coordinates": [
+          26.39389,
+          58.74667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaervakandi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.82583,
+          58.77889
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaerva-Jaani"
+      },
+      "geometry": {
+        "coordinates": [
+          25.88639,
+          59.03861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hullo"
+      },
+      "geometry": {
+        "coordinates": [
+          23.24441,
+          58.99004
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haljala"
+      },
+      "geometry": {
+        "coordinates": [
+          26.26139,
+          59.43361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haapsalu"
+      },
+      "geometry": {
+        "coordinates": [
+          23.54139,
+          58.94306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haabneeme"
+      },
+      "geometry": {
+        "coordinates": [
+          24.82225,
+          59.51358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elva"
+      },
+      "geometry": {
+        "coordinates": [
+          26.42111,
+          58.2225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Audru"
+      },
+      "geometry": {
+        "coordinates": [
+          24.37389,
+          58.40861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aseri"
+      },
+      "geometry": {
+        "coordinates": [
+          26.8675,
+          59.45056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arukuela"
+      },
+      "geometry": {
+        "coordinates": [
+          25.07618,
+          59.36686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abja-Paluoja"
+      },
+      "geometry": {
+        "coordinates": [
+          25.34972,
+          58.12528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Someru"
+      },
+      "geometry": {
+        "coordinates": [
+          26.4375,
+          59.36111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabivere"
+      },
+      "geometry": {
+        "coordinates": [
+          26.59556,
+          58.55417
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laagri"
+      },
+      "geometry": {
+        "coordinates": [
+          24.61418,
+          59.35083
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viimsi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.86254,
+          59.50086
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

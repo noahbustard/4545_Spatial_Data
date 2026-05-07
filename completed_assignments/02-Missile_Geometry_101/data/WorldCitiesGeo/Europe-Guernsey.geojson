@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torteval"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.65,
+          49.43333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Sampson"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.52333,
+          49.48389
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Peter Port"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.53527,
+          49.45981
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Anne"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.20757,
+          49.71549
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Saviour"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.63583,
+          49.45694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castel"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.60015,
+          49.46757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Andrew`s"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.57286,
+          49.45195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Martin"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.55479,
+          49.43713
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

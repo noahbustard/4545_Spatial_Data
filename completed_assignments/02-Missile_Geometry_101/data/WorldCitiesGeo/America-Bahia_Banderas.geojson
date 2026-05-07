@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle de Banderas"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.24813,
+          20.80792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lo de Marcos"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.35333,
+          20.95694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucerias"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.33438,
+          20.75626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corral del Risco (Punta de Mita)"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.51667,
+          20.77361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Clemente de Lima"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.27083,
+          20.73722
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

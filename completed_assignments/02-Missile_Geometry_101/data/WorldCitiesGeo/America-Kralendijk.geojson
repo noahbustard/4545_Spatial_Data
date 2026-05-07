@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Hell's Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.22649,
+          17.643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bottom"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.24919,
+          17.6259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranjestad"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.98324,
+          17.48268
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kralendijk"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.26667,
+          12.15
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorp Tera Kora"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.26667,
+          12.13333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorp Rincon"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.33333,
+          12.23333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorp Antriol"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.26667,
+          12.16667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

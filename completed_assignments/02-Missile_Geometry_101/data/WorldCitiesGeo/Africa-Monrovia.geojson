@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zwedru"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.13559,
+          6.06846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Yekepa"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.53778,
+          7.57944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voinjama"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.74778,
+          8.42194
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tubmanburg"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.8211,
+          6.87064
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish Town"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.87579,
+          5.19739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanniquellie"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.71326,
+          7.36215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robertsport"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.3671,
+          6.75329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cestos City"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.58167,
+          5.45683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monrovia"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.7969,
+          6.30054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakata"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.35368,
+          6.53104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harper"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.71081,
+          4.3782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenville"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.0388,
+          5.01133
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gbarnga"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.47122,
+          6.99543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganta"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.53083,
+          7.30222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buchanan"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.04472,
+          5.88109
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bopolu"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.4875,
+          7.06667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bensonville"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.61283,
+          6.44716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barclayville"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.23306,
+          4.67443
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buutuo"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.3428,
+          6.8275
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

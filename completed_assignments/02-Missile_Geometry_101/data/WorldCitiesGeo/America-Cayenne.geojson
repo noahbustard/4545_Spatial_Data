@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonate"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.47241,
+          5.01171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinnamary"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.95679,
+          5.37676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Laurent-du-Maroni"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.02941,
+          5.50101
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Georges"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.80243,
+          3.88857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roura"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.32616,
+          4.72519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remire"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.27868,
+          4.88441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regina"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.13083,
+          4.313
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Remire-Montjoly"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.26667,
+          4.91667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matoury"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.32565,
+          4.84872
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maripasoula"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.03167,
+          3.64155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mana"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.77828,
+          5.66766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macouria"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.37432,
+          4.91216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kourou"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.64265,
+          5.16281
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iracoubo"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.20524,
+          5.47871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Santi"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.38146,
+          4.27295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayenne"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.33333,
+          4.93333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camopi"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.33525,
+          3.16887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apatou"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.34311,
+          5.15526
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

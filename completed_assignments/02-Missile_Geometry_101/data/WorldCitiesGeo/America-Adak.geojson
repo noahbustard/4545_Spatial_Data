@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dutch Harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          -166.5422,
+          53.8898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unalaska"
+      },
+      "geometry": {
+        "coordinates": [
+          -166.53667,
+          53.87361
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balkanabat"
+      },
+      "geometry": {
+        "coordinates": [
+          54.36713,
+          39.51075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaka"
+      },
+      "geometry": {
+        "coordinates": [
+          59.61431,
+          37.34821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serdar"
+      },
+      "geometry": {
+        "coordinates": [
+          56.27575,
+          38.97644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gumdag"
+      },
+      "geometry": {
+        "coordinates": [
+          54.59056,
+          39.20611
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gazanjyk"
+      },
+      "geometry": {
+        "coordinates": [
+          55.51536,
+          39.24463
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magtymguly"
+      },
+      "geometry": {
+        "coordinates": [
+          56.28081,
+          38.43749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcabil"
+      },
+      "geometry": {
+        "coordinates": [
+          58.08987,
+          37.915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abadan"
+      },
+      "geometry": {
+        "coordinates": [
+          58.19721,
+          38.05415
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baharly"
+      },
+      "geometry": {
+        "coordinates": [
+          57.43158,
+          38.43624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashgabat"
+      },
+      "geometry": {
+        "coordinates": [
+          58.38333,
+          37.95
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annau"
+      },
+      "geometry": {
+        "coordinates": [
+          58.516,
+          37.88757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yylanly"
+      },
+      "geometry": {
+        "coordinates": [
+          59.65,
+          41.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagta"
+      },
+      "geometry": {
+        "coordinates": [
+          59.9164,
+          41.65041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akdepe"
+      },
+      "geometry": {
+        "coordinates": [
+          59.37877,
+          42.05513
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkmenbasy"
+      },
+      "geometry": {
+        "coordinates": [
+          52.95517,
+          40.02216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koeneuergench"
+      },
+      "geometry": {
+        "coordinates": [
+          59.15442,
+          42.32773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boldumsaz"
+      },
+      "geometry": {
+        "coordinates": [
+          59.67101,
+          42.12824
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dasoguz"
+      },
+      "geometry": {
+        "coordinates": [
+          59.96661,
+          41.83625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoloeten"
+      },
+      "geometry": {
+        "coordinates": [
+          62.35975,
+          37.29886
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tejen"
+      },
+      "geometry": {
+        "coordinates": [
+          60.50545,
+          37.38338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seydi"
+      },
+      "geometry": {
+        "coordinates": [
+          62.91374,
+          39.4816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayat"
+      },
+      "geometry": {
+        "coordinates": [
+          63.88035,
+          38.78393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murgab"
+      },
+      "geometry": {
+        "coordinates": [
+          61.97142,
+          37.49656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary"
+      },
+      "geometry": {
+        "coordinates": [
+          61.83031,
+          37.59378
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atamyrat"
+      },
+      "geometry": {
+        "coordinates": [
+          65.21058,
+          37.83573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serhetabat"
+      },
+      "geometry": {
+        "coordinates": [
+          62.34383,
+          35.27992
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gowurdak"
+      },
+      "geometry": {
+        "coordinates": [
+          66.04656,
+          37.81244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farap"
+      },
+      "geometry": {
+        "coordinates": [
+          63.61165,
+          39.17037
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkmenabat"
+      },
+      "geometry": {
+        "coordinates": [
+          63.57861,
+          39.07328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayramaly"
+      },
+      "geometry": {
+        "coordinates": [
+          62.16715,
+          37.61852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gazojak"
+      },
+      "geometry": {
+        "coordinates": [
+          61.4036,
+          41.18746
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

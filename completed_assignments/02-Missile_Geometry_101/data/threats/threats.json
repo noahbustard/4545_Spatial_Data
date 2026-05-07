@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T001",
+    "type": "alien",
+    "origin_lat": 59.470694,
+    "origin_lon": -91.766281,
+    "bearing_deg": 181.67,
+    "speed_kmh": 978.6,
+    "duration_min": 74.2
+  },
+  {
+    "id": "T002",
+    "type": "alien",
+    "origin_lat": 10.00195,
+    "origin_lon": -114.105017,
+    "bearing_deg": 18.5,
+    "speed_kmh": 875.0,
+    "duration_min": 44.0
+  },
+  {
+    "id": "T003",
+    "type": "alien",
+    "origin_lat": 7.726207,
+    "origin_lon": -108.86378,
+    "bearing_deg": 34.36,
+    "speed_kmh": 1361.1,
+    "duration_min": 55.2
+  },
+  {
+    "id": "T004",
+    "type": "kaiju",
+    "origin_lat": 9.890453,
+    "origin_lon": -113.895704,
+    "bearing_deg": 49.14,
+    "speed_kmh": 30.3,
+    "duration_min": 506.8
+  },
+  {
+    "id": "T005",
+    "type": "kaiju",
+    "origin_lat": 18.258994,
+    "origin_lon": -69.68329,
+    "bearing_deg": 284.39,
+    "speed_kmh": 77.9,
+    "duration_min": 281.6
+  },
+  {
+    "id": "T006",
+    "type": "alien",
+    "origin_lat": 13.083298,
+    "origin_lon": -74.781585,
+    "bearing_deg": 306.17,
+    "speed_kmh": 1075.2,
+    "duration_min": 45.9
+  },
+  {
+    "id": "T007",
+    "type": "alien",
+    "origin_lat": 29.344132,
+    "origin_lon": -128.681615,
+    "bearing_deg": 85.3,
+    "speed_kmh": 1578.5,
+    "duration_min": 52.7
+  },
+  {
+    "id": "T008",
+    "type": "airborne",
+    "origin_lat": 45.708386,
+    "origin_lon": -125.02354,
+    "bearing_deg": 119.36,
+    "speed_kmh": 1103.2,
+    "duration_min": 64.6
+  },
+  {
+    "id": "T009",
+    "type": "alien",
+    "origin_lat": 58.691178,
+    "origin_lon": -87.669082,
+    "bearing_deg": 188.52,
+    "speed_kmh": 1031.5,
+    "duration_min": 34.8
+  },
+  {
+    "id": "T010",
+    "type": "orbital",
+    "origin_lat": 50.838205,
+    "origin_lon": -120.710048,
+    "bearing_deg": 122.27,
+    "speed_kmh": 4720.5,
+    "duration_min": 35.0
+  }
+]

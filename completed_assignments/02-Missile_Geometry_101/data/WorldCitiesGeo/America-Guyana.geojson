@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vreed-en-Hoop"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.19798,
+          6.80927
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skeldon"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.13333,
+          5.88333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosignol"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.53697,
+          6.27095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parika"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.42941,
+          6.83712
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Amsterdam"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.5171,
+          6.24793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahdia"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.15,
+          5.26667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahaicony Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.80486,
+          6.57633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahaica Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.92181,
+          6.68405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mabaruma"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.78333,
+          8.2
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linden"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.30714,
+          6.00809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lethem"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.8,
+          3.38333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.15527,
+          6.80448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bartica"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.62192,
+          6.40799
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anna Regina"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.50769,
+          7.26439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Wellington"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.60381,
+          6.39087
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

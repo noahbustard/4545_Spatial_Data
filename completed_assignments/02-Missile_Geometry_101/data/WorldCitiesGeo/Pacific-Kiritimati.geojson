@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napari Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.38832,
+          3.90806
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.47502,
+          1.98487
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabwakea Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.48773,
+          2.01643
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banana Village"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.36526,
+          1.98329
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

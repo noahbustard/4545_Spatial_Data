@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay Roberts"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.26478,
+          47.59989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonavista"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.11474,
+          48.64989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botwood"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.34819,
+          49.14994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burgeo"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.61516,
+          47.61668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carbonear"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.21478,
+          47.73319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalina"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.08135,
+          48.51659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Channel-Port aux Basques"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.13674,
+          47.57021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarenville-Shoal Harbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96982,
+          48.1805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conception Bay South"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.99806,
+          47.49989
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corner Brook"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.95202,
+          48.95001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deer Lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.43163,
+          49.16671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gambo"
+      },
+      "geometry": {
+        "coordinates": [
+          -54.21482,
+          48.7832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Bank"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.76504,
+          47.09995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Falls-Windsor"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.66492,
+          48.93324
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbour Breton"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.79833,
+          47.48325
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewisporte"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.04816,
+          49.24993
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marystown"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.14829,
+          47.16663
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Pearl"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.78135,
+          47.51659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasadena"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.59837,
+          49.01671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephenville"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.5818,
+          48.55001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephenville Crossing"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.4318,
+          48.50001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torbay"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.73135,
+          47.66659
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wabana"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.94806,
+          47.63319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John's"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.70931,
+          47.56494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florenceville-Bristol"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.61536,
+          46.44353
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

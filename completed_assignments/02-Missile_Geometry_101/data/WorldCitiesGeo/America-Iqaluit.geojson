@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clyde River"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.59143,
+          70.46916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iqaluit"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.51727,
+          63.74697
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

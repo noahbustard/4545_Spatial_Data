@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busingen"
+      },
+      "geometry": {
+        "coordinates": [
+          8.68759,
+          47.69638
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

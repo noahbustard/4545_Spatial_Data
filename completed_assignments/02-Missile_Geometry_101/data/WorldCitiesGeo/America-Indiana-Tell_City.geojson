@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cannelton"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.74443,
+          37.91144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tell City"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.76777,
+          37.95144
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
